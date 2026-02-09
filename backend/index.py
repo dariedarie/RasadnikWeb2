@@ -29,6 +29,10 @@ def after_request(response):
 def hello_world():
     return 'Hello World'
 
+@app.route('/health')
+def health():
+    return 'OK'
+
 app.register_blueprint(contact_blueprint)
 
 if __name__ == '__main__':

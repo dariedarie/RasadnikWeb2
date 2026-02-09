@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
 import Navbar from './components/Navbar';
@@ -10,7 +10,18 @@ import Contact from './pages/Contact';
 import Gallery from './pages/Gallery';
 import Footer from './components/Footer';
 
+const BACKEND_URL = process.env.REACT_APP_BACKEND_URL || 'https://rasadnikweb.onrender.com';
+
 function App() {
+  useEffect(() => {
+    const keepAlive = () => {
+      fetch(`${BACKEND_URL}/health`).catch(() => {});
+    };
+    keepAlive();
+    const interval = setInterval(keepAlive, 5 * 60 * 1000);
+    return () => clearInterval(interval);
+  }, []);
+
   return (
     <Router>
       <div className="App">

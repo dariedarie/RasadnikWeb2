@@ -211,7 +211,7 @@ export const products = [
     category: 'liscari',
     categories: ['liscari'],
     price: 1600,
-    image: '/images/WhatsApp Image 2026-01-03 at 20.07.14.jpeg',
+    image: '/images/bambus.jpeg',
     description: 'Bambus je brzorastuća trava koja stvara prirodnu živu ogradu i daje egzotični pejzaž. Idealna za modernije dizajne.',
     inStock: true,
     details: {

@@ -188,6 +188,25 @@
   overflow: hidden;
 }
 
+/* CENA NA KARTICI */
+.product-price-badge {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 4px 12px;
+  background: linear-gradient(135deg, #2e7d32 0%, #60ad5e 100%);
+  color: #fff;
+  border-radius: 16px;
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+@media (max-width: 767px) {
+  .product-price-badge {
+    font-size: 0.7rem;
+    padding: 3px 10px;
+  }
+}
+
 /* LOAD MORE DUGME */
 .load-more-container {
   display: flex;

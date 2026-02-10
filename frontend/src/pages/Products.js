@@ -269,6 +269,11 @@ const Products = () => {
                   <div className="product-info-compact">
                     <h3>{t(`productDescriptions.${product.id}.name`) || product.name}</h3>
                     <p>{t(`productDescriptions.${product.id}.description`) || product.description}</p>
+                    {product.showPrice && (
+                      <div className="product-price-badge">
+                        od {product.price.toLocaleString()} RSD
+                      </div>
+                    )}
                   </div>
                 </Link>
               ))}

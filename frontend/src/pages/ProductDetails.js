@@ -129,6 +129,13 @@ const ProductDetails = () => {
             <p>{t(`productDescriptions.${product.id}.description`) || product.description}</p>
           </div>
 
+          {product.showPrice && (
+            <div className="product-price-section">
+              <span className="product-price-label">Cena od</span>
+              <span className="product-price-value">{product.price.toLocaleString()} RSD</span>
+            </div>
+          )}
+
           {/* Detalji o biljci */}
           {product.details && (
             <div className="product-specifications">

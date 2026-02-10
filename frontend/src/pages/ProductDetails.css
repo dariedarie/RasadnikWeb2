@@ -201,6 +201,36 @@
   margin: 0;
 }
 
+/* Price Section */
+.product-price-section {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin-bottom: 24px;
+  padding: 16px 20px;
+  background: linear-gradient(135deg, #e8f5e9 0%, #f1f8e9 100%);
+  border-radius: 12px;
+  border: 2px solid #c8e6c9;
+}
+
+.product-price-label {
+  font-size: 0.95rem;
+  color: #555;
+  font-weight: 500;
+}
+
+.product-price-value {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #2e7d32;
+}
+
+@media (max-width: 600px) {
+  .product-price-value {
+    font-size: 1.3rem;
+  }
+}
+
 /* Specifications */
 .product-specifications {
   margin-bottom: 28px;

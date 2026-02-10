@@ -283,10 +283,6 @@ const Products = () => {
               </div>
             )}
 
-            {/* Info o prikazanim proizvodima */}
-            <div className="pagination-info">
-              {t('products.showing') || 'Prikazano'} {visibleProducts.length} {t('products.of') || 'od'} {filteredProducts.length} {t('products.plants') || 'biljaka'}
-            </div>
           </>
         ) : (
           <div style={{textAlign: 'center', padding: '60px 20px', color: '#234d20'}}>

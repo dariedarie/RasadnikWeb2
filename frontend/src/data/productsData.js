@@ -690,11 +690,11 @@ export const products = [
 
 export const categories = [
   { id: 'sve', nameKey: 'products.allCategories', name: 'Sve biljke' },
+  { id: 'ziva-ograda', nameKey: 'products.zivaOgrada', name: 'Živa ograda' },
   { id: 'cetinari', nameKey: 'products.cetinari', name: 'Četinari' },
   { id: 'liscari', nameKey: 'products.liscari', name: 'Lišćari' },
   { id: 'siblje', nameKey: 'products.siblje', name: 'Šiblje' },
-  { id: 'perene', nameKey: 'products.perene', name: 'Perene' },
-  { id: 'ziva-ograda', nameKey: 'products.zivaOgrada', name: 'Živa ograda' }
+  { id: 'perene', nameKey: 'products.perene', name: 'Perene' }
 ];
 
 // Helper funkcija za pronalaženje proizvoda po ID-u

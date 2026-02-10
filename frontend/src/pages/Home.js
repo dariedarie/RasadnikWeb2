@@ -321,6 +321,152 @@ const Home = () => {
               </div>
             </Link>
 
+            {/* Fotinija Red Robin kartica */}
+            <Link
+              to="/products/10"
+              onMouseEnter={() => setHoveredCard('fotinija')}
+              onMouseLeave={() => setHoveredCard(null)}
+              style={{
+                position: 'relative',
+                borderRadius: 24,
+                overflow: 'hidden',
+                boxShadow: hoveredCard === 'fotinija' ? '0 16px 48px rgba(46, 125, 50, 0.25)' : '0 8px 32px rgba(44,62,80,0.12)',
+                transform: hoveredCard === 'fotinija' ? 'translateY(-8px)' : 'translateY(0)',
+                transition: 'all 0.4s cubic-bezier(0.4, 0, 0.2, 1)',
+                textDecoration: 'none',
+                cursor: 'pointer',
+                height: '380px',
+                background: '#fff'
+              }}
+            >
+              <div style={{
+                position: 'relative',
+                width: '100%',
+                height: '70%',
+                overflow: 'hidden'
+              }}>
+                <img
+                  src="/images/WhatsApp Image 2025-12-30 at 14.15.33.jpeg"
+                  alt="Fotinija Red Robin"
+                  style={{
+                    width: '100%',
+                    height: '100%',
+                    objectFit: 'cover',
+                    transform: hoveredCard === 'fotinija' ? 'scale(1.1)' : 'scale(1)',
+                    transition: 'transform 0.6s cubic-bezier(0.4, 0, 0.2, 1)'
+                  }}
+                />
+                {/* Badge */}
+                <div style={{
+                  position: 'absolute',
+                  top: 16,
+                  right: 16,
+                  background: 'rgba(255, 255, 255, 0.95)',
+                  padding: '8px 16px',
+                  borderRadius: 999,
+                  fontSize: '0.8rem',
+                  fontWeight: 700,
+                  color: '#2e7d32',
+                  boxShadow: '0 4px 12px rgba(0,0,0,0.1)'
+                }}>
+                  Na stanju
+                </div>
+              </div>
+              <div style={{
+                padding: 24,
+                height: '30%',
+                display: 'flex',
+                flexDirection: 'column',
+                justifyContent: 'center'
+              }}>
+                <h3 style={{
+                  fontSize: '1.5rem',
+                  fontWeight: 700,
+                  color: '#2e7d32',
+                  marginBottom: 8
+                }}>{t('home.fotinija')}</h3>
+                <p style={{
+                  fontSize: '0.95rem',
+                  color: '#234d20',
+                  opacity: 0.85,
+                  lineHeight: 1.5
+                }}>{t('home.fotinijaDesc')}</p>
+              </div>
+            </Link>
+
+            {/* Bambus kartica */}
+            <Link
+              to="/products/12"
+              onMouseEnter={() => setHoveredCard('bambus')}
+              onMouseLeave={() => setHoveredCard(null)}
+              style={{
+                position: 'relative',
+                borderRadius: 24,
+                overflow: 'hidden',
+                boxShadow: hoveredCard === 'bambus' ? '0 16px 48px rgba(46, 125, 50, 0.25)' : '0 8px 32px rgba(44,62,80,0.12)',
+                transform: hoveredCard === 'bambus' ? 'translateY(-8px)' : 'translateY(0)',
+                transition: 'all 0.4s cubic-bezier(0.4, 0, 0.2, 1)',
+                textDecoration: 'none',
+                cursor: 'pointer',
+                height: '380px',
+                background: '#fff'
+              }}
+            >
+              <div style={{
+                position: 'relative',
+                width: '100%',
+                height: '70%',
+                overflow: 'hidden'
+              }}>
+                <img
+                  src="/images/bambus.jpeg"
+                  alt="Bambus"
+                  style={{
+                    width: '100%',
+                    height: '100%',
+                    objectFit: 'cover',
+                    transform: hoveredCard === 'bambus' ? 'scale(1.1)' : 'scale(1)',
+                    transition: 'transform 0.6s cubic-bezier(0.4, 0, 0.2, 1)'
+                  }}
+                />
+                {/* Badge */}
+                <div style={{
+                  position: 'absolute',
+                  top: 16,
+                  right: 16,
+                  background: 'rgba(255, 255, 255, 0.95)',
+                  padding: '8px 16px',
+                  borderRadius: 999,
+                  fontSize: '0.8rem',
+                  fontWeight: 700,
+                  color: '#2e7d32',
+                  boxShadow: '0 4px 12px rgba(0,0,0,0.1)'
+                }}>
+                  Na stanju
+                </div>
+              </div>
+              <div style={{
+                padding: 24,
+                height: '30%',
+                display: 'flex',
+                flexDirection: 'column',
+                justifyContent: 'center'
+              }}>
+                <h3 style={{
+                  fontSize: '1.5rem',
+                  fontWeight: 700,
+                  color: '#2e7d32',
+                  marginBottom: 8
+                }}>{t('home.bambus')}</h3>
+                <p style={{
+                  fontSize: '0.95rem',
+                  color: '#234d20',
+                  opacity: 0.85,
+                  lineHeight: 1.5
+                }}>{t('home.bambusDesc')}</p>
+              </div>
+            </Link>
+
           </div>
 
           {/* View all button */}

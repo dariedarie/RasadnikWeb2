@@ -61,11 +61,11 @@ const Products = () => {
 
   const categories = [
     { id: 'sve', name: t('products.allCategories') },
+    { id: 'ziva-ograda', name: t('products.zivaOgrada') },
     { id: 'cetinari', name: t('products.cetinari') },
     { id: 'liscari', name: t('products.liscari') },
     { id: 'siblje', name: t('products.siblje') },
-    { id: 'perene', name: t('products.perene') },
-    { id: 'ziva-ograda', name: t('products.zivaOgrada') }
+    { id: 'perene', name: t('products.perene') }
   ];
 
   const filteredProducts = products.filter(product => {

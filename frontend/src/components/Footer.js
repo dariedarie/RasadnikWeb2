@@ -27,8 +27,8 @@ const Footer = () => {
           <div className="footer-section">
             <h4>{t('footer.contactInfo')}</h4>
             <ul>
-              <li>📞 +381 63 88 70 837</li>
-              <li>📧 tilijarasadnik5@gmail.com</li>
+              <li><a href="tel:+381638870837" style={{color: 'inherit', textDecoration: 'none'}}>📞 +381 63 88 70 837</a></li>
+              <li><a href="mailto:tilijarasadnik5@gmail.com" style={{color: 'inherit', textDecoration: 'none'}}>📧 tilijarasadnik5@gmail.com</a></li>
               <li>📍 Pločica, Srbija</li>
             </ul>
           </div>

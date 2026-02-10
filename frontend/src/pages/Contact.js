@@ -95,11 +95,11 @@ const Contact = () => {
             </div>
             <div className="info-item" style={{marginBottom: 24}}>
               <div style={{fontSize: 40, marginBottom: 8}}>📞</div>
-              <div style={{color: '#234d20', fontSize: '1.05rem'}}>+381 63 88 70 837</div>
+              <a href="tel:+381638870837" style={{color: '#234d20', fontSize: '1.05rem', textDecoration: 'none'}}>+381 63 88 70 837</a>
             </div>
             <div className="info-item" style={{marginBottom: 24}}>
               <div style={{fontSize: 40, marginBottom: 8}}>📧</div>
-              <div style={{color: '#234d20', fontSize: '1.05rem'}}>tilijarasadnik5@gmail.com</div>
+              <a href="mailto:tilijarasadnik5@gmail.com" style={{color: '#234d20', fontSize: '1.05rem', textDecoration: 'none'}}>tilijarasadnik5@gmail.com</a>
             </div>
           </div>
           <div className="contact-form" style={{

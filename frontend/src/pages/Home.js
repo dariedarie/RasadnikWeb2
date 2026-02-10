@@ -154,18 +154,8 @@ const Home = () => {
                     fontSize: '1.05rem',
                     opacity: 0.95,
                     lineHeight: 1.6,
-                    marginBottom: 12
+                    marginBottom: 16
                   }}>{t('home.tujaDesc')}</p>
-                  <div style={{
-                    display: 'inline-block',
-                    padding: '6px 16px',
-                    background: 'rgba(255, 255, 255, 0.25)',
-                    borderRadius: 20,
-                    fontSize: '1.1rem',
-                    fontWeight: 700,
-                    marginBottom: 12,
-                    backdropFilter: 'blur(4px)'
-                  }}>od 550 RSD</div>
                   <div style={{
                     display: 'inline-flex',
                     alignItems: 'center',
@@ -255,16 +245,6 @@ const Home = () => {
                   opacity: 0.85,
                   lineHeight: 1.5
                 }}>{t('home.katalpaDesc')}</p>
-                <div style={{
-                  display: 'inline-block',
-                  marginTop: 8,
-                  padding: '4px 14px',
-                  background: 'linear-gradient(135deg, #2e7d32 0%, #60ad5e 100%)',
-                  color: '#fff',
-                  borderRadius: 16,
-                  fontSize: '0.85rem',
-                  fontWeight: 700
-                }}>od 4.000 RSD</div>
               </div>
             </Link>
 
@@ -338,16 +318,6 @@ const Home = () => {
                   opacity: 0.85,
                   lineHeight: 1.5
                 }}>{t('home.lovorDesc')}</p>
-                <div style={{
-                  display: 'inline-block',
-                  marginTop: 8,
-                  padding: '4px 14px',
-                  background: 'linear-gradient(135deg, #2e7d32 0%, #60ad5e 100%)',
-                  color: '#fff',
-                  borderRadius: 16,
-                  fontSize: '0.85rem',
-                  fontWeight: 700
-                }}>od 360 RSD</div>
               </div>
             </Link>
 
@@ -421,16 +391,6 @@ const Home = () => {
                   opacity: 0.85,
                   lineHeight: 1.5
                 }}>{t('home.fotinijaDesc')}</p>
-                <div style={{
-                  display: 'inline-block',
-                  marginTop: 8,
-                  padding: '4px 14px',
-                  background: 'linear-gradient(135deg, #2e7d32 0%, #60ad5e 100%)',
-                  color: '#fff',
-                  borderRadius: 16,
-                  fontSize: '0.85rem',
-                  fontWeight: 700
-                }}>od 400 RSD</div>
               </div>
             </Link>
 
@@ -504,16 +464,6 @@ const Home = () => {
                   opacity: 0.85,
                   lineHeight: 1.5
                 }}>{t('home.bambusDesc')}</p>
-                <div style={{
-                  display: 'inline-block',
-                  marginTop: 8,
-                  padding: '4px 14px',
-                  background: 'linear-gradient(135deg, #2e7d32 0%, #60ad5e 100%)',
-                  color: '#fff',
-                  borderRadius: 16,
-                  fontSize: '0.85rem',
-                  fontWeight: 700
-                }}>od 3.500 RSD</div>
               </div>
             </Link>
 

@@ -73,6 +73,7 @@
     "cetinari": "Četinari",
     "liscari": "Lišćari",
     "siblje": "Šiblje",
+    "perene": "Perene",
     "zivaOgrada": "Živa ograda",
     "flowers": "Cveće",
     "inStock": "Na stanju",
@@ -195,7 +196,78 @@
     "18": {
       "name": "Spirea",
       "description": "Spirea nudi bogato cvetanje i laku negu. Idealan izbor za dekoraciju dvorišta."
+    },
+    "19": {
+      "name": "Bor na štapu",
+      "description": "Bor na štapu je dekorativni četinar formiran na jednom stablu, idealan za male vrtove i kao akcenat u dvorištu."
+    },
+    "20": {
+      "name": "Božur",
+      "description": "Božur (Paeonia) je raskošna biljka sa krupnim, mirisnim cvetovima. Dugovečna i otporna, cveta u proleće."
+    },
+    "21": {
+      "name": "Ajuga reptans",
+      "description": "Ajuga reptans je niska pokrovna perena sa plavim cvetićima. Idealna za pokrivanje tla, kamenjare i rubove staza."
+    },
+    "22": {
+      "name": "Astilba",
+      "description": "Astilba je elegantna perena sa pernatim cvastovima u roze, crvenim i belim tonovima. Odlična za senkovite delove bašte."
+    },
+    "23": {
+      "name": "Carex morrowi 'Ice Dance'",
+      "description": "Carex morrowi 'Ice Dance' je ukrasna trava sa zelenim listovima obrubljenim belom prugom. Idealna za bordure i kamenjare."
+    },
+    "24": {
+      "name": "Festuca glauca",
+      "description": "Festuca glauca (plava trava) je kompaktna ukrasna trava sa atraktivnim plavo-sivim listovima. Savršena za kamenjare i moderne bašte."
+    },
+    "25": {
+      "name": "Hemerocallis",
+      "description": "Hemerocallis (Dnevni ljiljan) je zahvalna perena sa prelepim narandžastim i žutim cvetovima. Cveta dugo i laka za održavanje."
+    },
+    "26": {
+      "name": "Hosta",
+      "description": "Hosta je kraljica senke sa dekorativnim listovima u raznim nijansama zelene. Idealna za senkovite delove bašte."
+    },
+    "27": {
+      "name": "Iris (Perunika)",
+      "description": "Iris (Perunika) je elegantna perena sa prelepim belim i ljubičastim cvetovima. Cveta u proleće."
+    },
+    "28": {
+      "name": "Kniphofia uvaria",
+      "description": "Kniphofia uvaria (Baklja) je egzotična perena sa upečatljivim narandžasto-crvenim cvastovima. Privlači poglede i leptire."
+    },
+    "29": {
+      "name": "Ophiopogon japonicus",
+      "description": "Ophiopogon japonicus je zimzelena ukrasna trava, idealna za bordure i kao pokrivač tla. Dekorativna tokom cele godine."
+    },
+    "30": {
+      "name": "Physostegia alba",
+      "description": "Physostegia alba je perena sa elegantnim belim cvastovima. Bogato cveta tokom leta, laka za održavanje."
+    },
+    "31": {
+      "name": "Sedum angelina",
+      "description": "Sedum angelina je sukulentna perena sa zlatno-zelenim listovima koji u jesen postaju narandžasti. Savršena za kamenjare."
+    },
+    "32": {
+      "name": "Sedum hybridum",
+      "description": "Sedum hybridum je gusta pokrovna perena sa jarko zelenim mesnatim listovima. Idealna za kamenjare i zelene krovove."
+    },
+    "33": {
+      "name": "Sedum rupestre 'Blue'",
+      "description": "Sedum rupestre 'Blue' je sukulentna perena sa plavo-sivim iglicama. Niska i otporna, savršena za kamenjare."
+    },
+    "34": {
+      "name": "Sedum S. Watson",
+      "description": "Sedum S. Watson je dekorativna sukulentna perena sa roze-zelenim rozetama. Atraktivna boja tokom cele godine."
+    },
+    "35": {
+      "name": "Sedum spectabile",
+      "description": "Sedum spectabile (Debela koka) je robusna perena sa krupnim mesnatim listovima i ružičastim cvastovima."
+    },
+    "36": {
+      "name": "Stachys lanata",
+      "description": "Stachys lanata (Zečije uši) je perena sa mekanim, srebrno-sivim listovima nalik zečijim ušima. Odlična za bordure."
     }
   }
 }
-

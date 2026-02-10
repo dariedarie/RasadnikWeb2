@@ -558,7 +558,7 @@ export const products = [
       '/images/Physostegia alba - perena.jpg',
       '/images/Physostegia alba.jpg'
     ],
-    description: 'Physostegia alba je perena sa elegantnim belim cvastovima. Bogato cveta tokom leta, laka za održavanje i odlična za cvetne leje.',
+    description: 'Physostegia alba je perena sa elegantnim belim cvastovima. Bogato cveta tokom leta, laka za održavanje.',
     inStock: true,
     details: {
       height: '60-90 cm',
@@ -676,7 +676,7 @@ export const products = [
       '/images/zekineusi.jpg',
       '/images/Stachys lanata - zekine uši.jpg'
     ],
-    description: 'Stachys lanata (Zečije uši) je perena sa mekanim, srebrno-sivim listovima nalik zečijim ušima. Odlična za bordure, kamenjare i kao kontrast tamnijem lišću.',
+    description: 'Stachys lanata (Zečije uši) je perena sa mekanim, srebrno-sivim listovima nalik zečijim ušima. Odlična za kamenjare i kao kontrast tamnijem lišću.',
     inStock: true,
     details: {
       height: '20-30 cm',

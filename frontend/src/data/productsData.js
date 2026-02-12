@@ -175,7 +175,11 @@ export const products = [
     image: '/images/lovorvisnja.jpeg',
     images: [
       '/images/lovorvisnja.jpeg',
-      '/images/IMG_5327.jpeg'
+      '/images/IMG_5327.jpeg',
+      '/images/lovor1.jpeg',
+      '/images/lovor2.jpeg',
+      '/images/lovor3.jpeg',
+      '/images/lovor4.jpeg'
     ],
     description: 'Lovor višnja je zimzeleni žbun, idealan za guste, elegantne žive ograde. Otporna na mraz i gradske uslove.',
     inStock: true,
@@ -689,6 +693,48 @@ export const products = [
       watering: 'Malo zalivanje',
       soil: 'Suva, dobro drenirana zemlja',
       hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+
+  // ==================== OSTALO (ID: 37-38) ====================
+  {
+    id: 37,
+    name: 'Maslina',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/maslina1.jpeg',
+    images: [
+      '/images/maslina1.jpeg',
+      '/images/maslina2.jpeg',
+      '/images/maslina3.jpeg',
+      '/images/maslina5.jpeg'
+    ],
+    description: 'Maslina (Olea europaea) je zimzeleno mediteransko drvo sa srebrno-zelenim listovima. Dugovečna i dekorativna, idealna za dvorišta, terase i mediteranski stil uređenja.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Dobro drenirana, peskovita zemlja',
+      hardiness: 'Otporna na mraz do -10°C'
+    }
+  },
+  {
+    id: 38,
+    name: 'Bonsai',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/Bonsai.jpeg',
+    description: 'Bonsai je umetnost uzgoja minijaturnog drveća. Elegantan i jedinstven, savršen poklon i ukras za svaki enterijer ili terasu. Zahteva pažljivu negu i oblikovanje.',
+    inStock: true,
+    details: {
+      height: 'Minijaturne forme',
+      sunlight: 'Sunce do polusenka',
+      watering: 'Redovno zalivanje',
+      soil: 'Specijalni supstrat za bonsai',
+      hardiness: 'Zavisi od vrste'
     }
   }
 ];

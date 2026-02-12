@@ -272,6 +272,14 @@
     "36": {
       "name": "Stachys lanata",
       "description": "Stachys lanata (Zečije uši) je perena sa mekanim, srebrno-sivim listovima nalik zečijim ušima."
+    },
+    "37": {
+      "name": "Maslina",
+      "description": "Maslina (Olea europaea) je zimzeleno mediteransko drvo sa srebrno-zelenim listovima. Dugovečna i dekorativna, idealna za dvorišta, terase i mediteranski stil uređenja."
+    },
+    "38": {
+      "name": "Bonsai",
+      "description": "Bonsai je umetnost uzgoja minijaturnog drveća. Elegantan i jedinstven, savršen poklon i ukras za svaki enterijer ili terasu."
     }
   }
 }

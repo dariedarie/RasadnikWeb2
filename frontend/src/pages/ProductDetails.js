@@ -129,10 +129,14 @@ const ProductDetails = () => {
             <p>{t(`productDescriptions.${product.id}.description`) || product.description}</p>
           </div>
 
-          {product.showPrice && (
+          {product.showPrice ? (
             <div className="product-price-section">
               <span className="product-price-label">Cena od</span>
               <span className="product-price-value">{product.price.toLocaleString()} RSD</span>
+            </div>
+          ) : (
+            <div className="product-price-section price-on-request-section">
+              <span className="product-price-value">Cena na upit</span>
             </div>
           )}
 

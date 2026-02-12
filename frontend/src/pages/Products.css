@@ -200,6 +200,11 @@
   font-weight: 700;
 }
 
+.product-price-badge.price-on-request {
+  background: linear-gradient(135deg, #5c6bc0 0%, #7986cb 100%);
+  font-weight: 600;
+}
+
 @media (max-width: 767px) {
   .product-price-badge {
     font-size: 0.7rem;

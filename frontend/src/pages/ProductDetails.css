@@ -225,9 +225,23 @@
   color: #2e7d32;
 }
 
+.product-price-section.price-on-request-section {
+  background: linear-gradient(135deg, #e8eaf6 0%, #ede7f6 100%);
+  border-color: #c5cae9;
+}
+
+.price-on-request-section .product-price-value {
+  color: #5c6bc0;
+  font-size: 1.3rem;
+}
+
 @media (max-width: 600px) {
   .product-price-value {
     font-size: 1.3rem;
+  }
+
+  .price-on-request-section .product-price-value {
+    font-size: 1.1rem;
   }
 }
 

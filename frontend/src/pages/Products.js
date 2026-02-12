@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
+import { Helmet } from 'react-helmet-async';
 import { Link, useSearchParams, useLocation } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { products } from '../data/productsData';
@@ -178,6 +179,12 @@ const Products = () => {
   }, [location.key, visibleCount, selectedCategory, searchTerm]);
 
   return (
+    <>
+    <Helmet>
+      <title>Proizvodi – Rasadnik Tilija | Sadnice, četinari, lišćari, perene</title>
+      <meta name="description" content="Pogledajte kompletnu ponudu sadnica rasadnika Tilija: četinari, lišćari, šiblje, perene i živa ograda. Kvalitetne sadnice po pristupačnim cenama." />
+      <link rel="canonical" href="https://rasadniktilija.rs/products" />
+    </Helmet>
     <div className="products-page" style={{background: 'linear-gradient(135deg, #e0f2f1 0%, #f9fbe7 100%)', minHeight: '100vh', paddingTop: '32px', paddingBottom: '48px'}}>
       <section className="section" style={{background: 'linear-gradient(135deg, #f9fbe7 0%, #e0f2f1 100%)', borderRadius: 18, boxShadow: '0 8px 32px rgba(44,62,80,0.08)', maxWidth: 900, margin: '0 auto 32px auto', padding: 32}}>
         <h1 style={{color: '#2e7d32', fontWeight: 700, textAlign: 'center', marginBottom: 12}}>{t('products.title')}</h1>
@@ -316,6 +323,7 @@ const Products = () => {
         )}
       </section>
     </div>
+    </>
   );
 };
 

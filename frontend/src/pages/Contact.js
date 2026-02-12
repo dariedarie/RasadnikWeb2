@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { Helmet } from 'react-helmet-async';
 import { useTranslation } from 'react-i18next';
 import './Contact.css';
 
@@ -70,6 +71,12 @@ const Contact = () => {
   };
 
   return (
+    <>
+    <Helmet>
+      <title>Kontakt – Rasadnik Tilija | Pozovite nas</title>
+      <meta name="description" content="Kontaktirajte Rasadnik Tilija za narudžbinu sadnica. Telefon: 063/86-11-662. Adresa: Utrinska 17, Kovin. Dostava širom Srbije." />
+      <link rel="canonical" href="https://rasadniktilija.rs/contact" />
+    </Helmet>
     <div className="contact-page" style={{background: 'linear-gradient(135deg, #e0f2f1 0%, #f9fbe7 100%)', minHeight: '100vh'}}>
       <section className="hero-small">
         <div className="container">
@@ -278,6 +285,7 @@ const Contact = () => {
         </div>
       </section>
     </div>
+    </>
   );
 };
 

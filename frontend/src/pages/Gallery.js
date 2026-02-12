@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Helmet } from 'react-helmet-async';
 import { useTranslation } from 'react-i18next';
 import ImageLightbox from '../components/ImageLightbox';
 import './Gallery.css';
@@ -33,6 +34,12 @@ const Gallery = () => {
   };
 
   return (
+    <>
+    <Helmet>
+      <title>Galerija – Rasadnik Tilija | Fotografije sadnica i rasadnika</title>
+      <meta name="description" content="Pogledajte fotografije iz rasadnika Tilija. Kvalitetne sadnice četinara, lišćara, šiblja i perena u našem rasadniku u Kovinu." />
+      <link rel="canonical" href="https://rasadniktilija.rs/gallery" />
+    </Helmet>
     <div className="gallery-page">
       <section className="gallery-section">
         <h1 className="gallery-title">{t('gallery.title')}</h1>
@@ -79,6 +86,7 @@ const Gallery = () => {
         />
       )}
     </div>
+    </>
   );
 };
 

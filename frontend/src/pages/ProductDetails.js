@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { Helmet } from 'react-helmet-async';
 import { useParams, useNavigate, Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { getProductById, getCategoryName } from '../data/productsData';
@@ -46,7 +47,19 @@ const ProductDetails = () => {
     setLightboxOpen(true);
   };
 
+  const priceText = product.showPrice ? ` | Cena od ${product.price.toLocaleString()} RSD` : '';
+
   return (
+    <>
+    <Helmet>
+      <title>{product.name} – Rasadnik Tilija | Kupite sadnice</title>
+      <meta name="description" content={`${product.name} - ${product.description.substring(0, 150)}${priceText}`} />
+      <link rel="canonical" href={`https://rasadniktilija.rs/products/${product.id}`} />
+      <meta property="og:title" content={`${product.name} – Rasadnik Tilija`} />
+      <meta property="og:description" content={product.description.substring(0, 200)} />
+      <meta property="og:image" content={`https://rasadniktilija.rs${product.image}`} />
+      <meta property="og:url" content={`https://rasadniktilija.rs/products/${product.id}`} />
+    </Helmet>
     <div className="product-details-page">
       {/* Breadcrumb navigacija */}
       <nav className="breadcrumb">
@@ -218,6 +231,7 @@ const ProductDetails = () => {
         />
       )}
     </div>
+    </>
   );
 };
 

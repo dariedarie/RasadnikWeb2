@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Helmet } from 'react-helmet-async';
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
 import './Home.css';
@@ -8,6 +9,12 @@ const Home = () => {
   const [hoveredCard, setHoveredCard] = useState(null);
 
   return (
+    <>
+    <Helmet>
+      <title>Rasadnik Tilija – Prodaja sadnica i ukrasnog bilja</title>
+      <meta name="description" content="Rasadnik Tilija nudi širok asortiman kvalitetnih sadnica: tuja, katalpa, lovor višnja, fotinija, bambus i još mnogo toga. Kvalitet, lepota i pristupačne cene." />
+      <link rel="canonical" href="https://rasadniktilija.rs/" />
+    </Helmet>
     <div className="home">
       {/* Hero sekcija */}
       <section className="hero" style={{
@@ -509,6 +516,7 @@ const Home = () => {
         </div>
       </section>
     </div>
+    </>
   );
 };
 

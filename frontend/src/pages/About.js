@@ -1,10 +1,17 @@
 import React from 'react';
+import { Helmet } from 'react-helmet-async';
 import { useTranslation } from 'react-i18next';
 import './About.css';
 
 const About = () => {
   const { t } = useTranslation();
   return (
+    <>
+    <Helmet>
+      <title>O nama – Rasadnik Tilija | 30+ godina iskustva</title>
+      <meta name="description" content="Rasadnik Tilija je porodična firma iz Kovina sa više od 30 godina iskustva u prodaji ukrasnog bilja i sadnica. Kvalitet, pouzdanost i prirodnost." />
+      <link rel="canonical" href="https://rasadniktilija.rs/about" />
+    </Helmet>
     <div className="about-page" style={{background: 'linear-gradient(135deg, #e0f2f1 0%, #f9fbe7 100%)', minHeight: '100vh'}}>
       <section className="hero-small">
         <div className="container">
@@ -119,7 +126,8 @@ const About = () => {
         </div>
       </section>
     </div>
+    </>
   );
 };
 
-export default About; 
+export default About;

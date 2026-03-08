@@ -48,7 +48,7 @@ const Contact = () => {
       // Get reCAPTCHA token
       const recaptchaToken = await window.grecaptcha.execute(RECAPTCHA_SITE_KEY, { action: 'contact' });
 
-      const response = await fetch('https://rasadnikweb.onrender.com/api/contact', {
+      const response = await fetch('https://rasadnikweb2.onrender.com/api/contact', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({

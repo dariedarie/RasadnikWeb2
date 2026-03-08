@@ -181,7 +181,7 @@ const Products = () => {
   return (
     <>
     <Helmet>
-      <title>Catalog Produse – Plant Dgd | Plante Ornamentale En Gros România</title>
+      <title>Catalog Produse – Plant DGD | Plante Ornamentale En Gros România</title>
       <meta name="description" content="Catalog complet de plante ornamentale en gros: conifere, arbuști, garduri vii, arbori foioși, perene. Prețuri competitive pentru peisagiști, centre de grădinărit și primării. Livrare în toată România." />
       <link rel="canonical" href="https://plantdgd.ro/products" />
     </Helmet>
@@ -276,15 +276,9 @@ const Products = () => {
                   <div className="product-info-compact">
                     <h3>{t(`productDescriptions.${product.id}.name`) || product.name}</h3>
                     <p>{t(`productDescriptions.${product.id}.description`) || product.description}</p>
-                    {product.showPrice ? (
-                      <div className="product-price-badge">
-                        od {product.price.toLocaleString()} RSD
-                      </div>
-                    ) : (
-                      <div className="product-price-badge price-on-request">
-                        Cena na upit
-                      </div>
-                    )}
+                    <div className="product-price-badge price-on-request">
+                      Preț la cerere
+                    </div>
                   </div>
                 </Link>
               ))}

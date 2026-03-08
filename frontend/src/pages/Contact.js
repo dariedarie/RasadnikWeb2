@@ -73,8 +73,8 @@ const Contact = () => {
   return (
     <>
     <Helmet>
-      <title>Contact Plant Dgd – Ofertă Angro Plante Ornamentale România</title>
-      <meta name="description" content="Contactați Plant Dgd pentru ofertă en gros de plante ornamentale. Telefon: +40 729 048 545. Livrare în toată România. Prețuri competitive pentru peisagiști și centre de grădinărit." />
+      <title>Contact Plant DGD – Ofertă Angro Plante Ornamentale România</title>
+      <meta name="description" content="Contactați Plant DGD pentru ofertă en gros de plante ornamentale. Telefon: +40 729 048 545. Livrare în toată România. Prețuri competitive pentru peisagiști și centre de grădinărit." />
       <link rel="canonical" href="https://plantdgd.ro/contact" />
     </Helmet>
     <div className="contact-page" style={{background: 'linear-gradient(135deg, #e0f2f1 0%, #f9fbe7 100%)', minHeight: '100vh'}}>

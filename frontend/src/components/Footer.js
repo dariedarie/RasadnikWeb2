@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer-content">
           <div className="footer-section">
-            <h3>🌿 Plant Dgd</h3>
+            <h3>🌿 Plant DGD</h3>
             <p>{t('footer.description')}</p>
             <p style={{marginTop: '12px', fontSize: '0.9rem', opacity: 0.85}}>
               {t('footer.wholesale')} · {t('footer.b2b')}

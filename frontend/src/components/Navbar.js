@@ -16,8 +16,8 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="container">
         <Link to="/" className="navbar-brand">
-          <img src="/images/logo.png" alt="Plant Dgd Logo" style={{height: '40px', width: 'auto', objectFit: 'contain', verticalAlign: 'middle', marginRight: '10px'}} />
-          Plant Dgd
+          <img src="/images/logo.png" alt="Plant DGD Logo" style={{height: '40px', width: 'auto', objectFit: 'contain', verticalAlign: 'middle', marginRight: '10px'}} />
+          Plant DGD
         </Link>
         
         <div className={`navbar-menu ${isOpen ? 'active' : ''}`}>

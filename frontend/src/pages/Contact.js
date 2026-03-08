@@ -74,7 +74,7 @@ const Contact = () => {
     <>
     <Helmet>
       <title>Contact Plant Dgd – Ofertă Angro Plante Ornamentale România</title>
-      <meta name="description" content="Contactați Plant Dgd pentru ofertă en gros de plante ornamentale. Telefon: +381 63 88 70 837. Livrare în toată România. Prețuri competitive pentru peisagiști și centre de grădinărit." />
+      <meta name="description" content="Contactați Plant Dgd pentru ofertă en gros de plante ornamentale. Telefon: +40 729 048 545. Livrare în toată România. Prețuri competitive pentru peisagiști și centre de grădinărit." />
       <link rel="canonical" href="https://plantdgd.ro/contact" />
     </Helmet>
     <div className="contact-page" style={{background: 'linear-gradient(135deg, #e0f2f1 0%, #f9fbe7 100%)', minHeight: '100vh'}}>
@@ -102,15 +102,15 @@ const Contact = () => {
             </div>
             <div className="info-item" style={{marginBottom: 24}}>
               <div style={{fontSize: 40, marginBottom: 8}}>📞</div>
-              <a href="tel:+381638870837" style={{color: '#234d20', fontSize: '1.05rem', textDecoration: 'none'}}>+381 63 88 70 837</a>
+              <a href="tel:+40729048545" style={{color: '#234d20', fontSize: '1.05rem', textDecoration: 'none'}}>+40 729 048 545</a>
             </div>
             <div className="info-item" style={{marginBottom: 24}}>
               <div style={{fontSize: 40, marginBottom: 8}}>💬</div>
-              <a href="https://wa.me/381638870837" target="_blank" rel="noopener noreferrer" style={{color: '#234d20', fontSize: '1.05rem', textDecoration: 'none'}}>WhatsApp</a>
+              <a href="https://wa.me/40729048545" target="_blank" rel="noopener noreferrer" style={{color: '#234d20', fontSize: '1.05rem', textDecoration: 'none'}}>WhatsApp</a>
             </div>
             <div className="info-item" style={{marginBottom: 24}}>
               <div style={{fontSize: 40, marginBottom: 8}}>📧</div>
-              <a href="mailto:tilijarasadnik5@gmail.com" style={{color: '#234d20', fontSize: '1.05rem', textDecoration: 'none'}}>tilijarasadnik5@gmail.com</a>
+              <a href="mailto:office@plantdgd.ro" style={{color: '#234d20', fontSize: '1.05rem', textDecoration: 'none'}}>office@plantdgd.ro</a>
             </div>
           </div>
           <div className="contact-form" style={{

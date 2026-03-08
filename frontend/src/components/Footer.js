@@ -31,9 +31,9 @@ const Footer = () => {
           <div className="footer-section">
             <h4>{t('footer.contactInfo')}</h4>
             <ul>
-              <li><a href="tel:+381638870837" style={{color: 'inherit', textDecoration: 'none'}}>📞 +381 63 88 70 837</a></li>
-              <li><a href="https://wa.me/381638870837" target="_blank" rel="noopener noreferrer" style={{color: 'inherit', textDecoration: 'none'}}>💬 WhatsApp</a></li>
-              <li><a href="mailto:tilijarasadnik5@gmail.com" style={{color: 'inherit', textDecoration: 'none'}}>📧 tilijarasadnik5@gmail.com</a></li>
+              <li><a href="tel:+40729048545" style={{color: 'inherit', textDecoration: 'none'}}>📞 +40 729 048 545</a></li>
+              <li><a href="https://wa.me/40729048545" target="_blank" rel="noopener noreferrer" style={{color: 'inherit', textDecoration: 'none'}}>💬 WhatsApp</a></li>
+              <li><a href="mailto:office@plantdgd.ro" style={{color: 'inherit', textDecoration: 'none'}}>📧 office@plantdgd.ro</a></li>
               <li>🚚 {t('contact.addressCity')}</li>
             </ul>
           </div>

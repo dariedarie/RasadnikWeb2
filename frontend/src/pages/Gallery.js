@@ -36,9 +36,9 @@ const Gallery = () => {
   return (
     <>
     <Helmet>
-      <title>Galerija – Rasadnik Tilija | Fotografije sadnica i rasadnika</title>
-      <meta name="description" content="Pogledajte fotografije iz rasadnika Tilija. Kvalitetne sadnice četinara, lišćara, šiblja i perena u našem rasadniku u Kovinu." />
-      <link rel="canonical" href="https://rasadniktilija.rs/gallery" />
+      <title>Galerie Plant Dgd – Fotografii Plante Ornamentale En Gros</title>
+      <meta name="description" content="Galeria Plant Dgd - fotografii cu plante ornamentale disponibile en gros: conifere, arbuști, garduri vii, arbori ornamentali. Calitate superioară pentru peisagiști și centre de grădinărit." />
+      <link rel="canonical" href="https://plantdgd.ro/gallery" />
     </Helmet>
     <div className="gallery-page">
       <section className="gallery-section">

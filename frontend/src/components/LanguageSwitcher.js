@@ -13,7 +13,6 @@ const LanguageSwitcher = () => {
     setIsOpen(false);
   };
 
-  // Zatvori dropdown kada se klikne izvan njega
   useEffect(() => {
     const handleClickOutside = (event) => {
       if (dropdownRef.current && !dropdownRef.current.contains(event.target)) {
@@ -28,15 +27,16 @@ const LanguageSwitcher = () => {
   }, []);
 
   const languages = {
-    sr: { flag: '🇷🇸', name: 'Srpski', code: 'SR' },
-    en: { flag: '🇬🇧', name: 'English', code: 'EN' }
+    ro: { flag: '🇷🇴', name: 'Română', code: 'RO' },
+    en: { flag: '🇬🇧', name: 'English', code: 'EN' },
+    de: { flag: '🇩🇪', name: 'Deutsch', code: 'DE' }
   };
 
-  const currentLang = languages[i18n.language] || languages.sr;
+  const currentLang = languages[i18n.language] || languages.ro;
 
   return (
     <div className="language-switcher-dropdown" ref={dropdownRef}>
-      <button 
+      <button
         className="lang-dropdown-btn"
         onClick={() => setIsOpen(!isOpen)}
         aria-label="Change language"
@@ -66,4 +66,3 @@ const LanguageSwitcher = () => {
 };
 
 export default LanguageSwitcher;
-

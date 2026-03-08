@@ -181,9 +181,9 @@ const Products = () => {
   return (
     <>
     <Helmet>
-      <title>Proizvodi – Rasadnik Tilija | Sadnice, četinari, lišćari, perene</title>
-      <meta name="description" content="Pogledajte kompletnu ponudu sadnica rasadnika Tilija: četinari, lišćari, šiblje, perene i živa ograda. Kvalitetne sadnice po pristupačnim cenama." />
-      <link rel="canonical" href="https://rasadniktilija.rs/products" />
+      <title>Catalog Produse – Plant Dgd | Plante Ornamentale En Gros România</title>
+      <meta name="description" content="Catalog complet de plante ornamentale en gros: conifere, arbuști, garduri vii, arbori foioși, perene. Prețuri competitive pentru peisagiști, centre de grădinărit și primării. Livrare în toată România." />
+      <link rel="canonical" href="https://plantdgd.ro/products" />
     </Helmet>
     <div className="products-page" style={{background: 'linear-gradient(135deg, #e0f2f1 0%, #f9fbe7 100%)', minHeight: '100vh', paddingTop: '32px', paddingBottom: '48px'}}>
       <section className="section" style={{background: 'linear-gradient(135deg, #f9fbe7 0%, #e0f2f1 100%)', borderRadius: 18, boxShadow: '0 8px 32px rgba(44,62,80,0.08)', maxWidth: 900, margin: '0 auto 32px auto', padding: 32}}>

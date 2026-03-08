@@ -1,0 +1,309 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "products": "Produkte",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "gallery": "Galerie"
+  },
+  "home": {
+    "title": "Plant Dgd – Pflanzen Großhandel",
+    "subtitle": "Ihr zuverlässiger Partner für Zierpflanzen im Großhandel. Erstklassige Qualität, wettbewerbsfähige Preise, Lieferung in ganz Rumänien.",
+    "viewProducts": "Katalog ansehen",
+    "whyChooseUs": "Warum Plant Dgd wählen",
+    "provenQuality": "Bewährte Qualität",
+    "provenQualityDesc": "Über 15 Jahre Erfahrung in der Produktion und Lieferung hochwertiger Zierpflanzen.",
+    "fastDelivery": "Schnelle Lieferung",
+    "fastDeliveryDesc": "Spezialtransport in ganz Rumänien. Professionell verpackte Pflanzen für optimale Ankunft.",
+    "wholesalePartner": "Großhandelspartner",
+    "wholesalePartnerDesc": "Wir beliefern Landschaftsgärtner, Gartencenter, Gemeinden und Bauträger mit Großmengen zu günstigen Preisen.",
+    "popularProducts": "Top-Produkte",
+    "tuja": "Thuja",
+    "tujaDesc": "Immergrüner Nadelbaum, ideal für kommerzielle Hecken und Landschaftsgestaltung. Im Großhandel erhältlich.",
+    "katalpa": "Catalpa",
+    "katalpaDesc": "Zierbaum mit großen Blättern und wunderschönen Blüten. Ideal für Landschaftsprojekte.",
+    "lovor": "Prunus laurocerasus",
+    "lovorDesc": "Immergrüner Strauch mit dichtem Laub, ideal für elegante kommerzielle Hecken.",
+    "fotinija": "Photinia Red Robin",
+    "fotinijaDesc": "Immergrüner Strauch mit attraktiven roten Jungtrieben. Ideal für Dekoration und Hecken.",
+    "bambus": "Bambus",
+    "bambusDesc": "Schnellwachsende Pflanze für natürliche Sichtschutzhecken. Ideal für moderne Projekte.",
+    "ctaTitle": "Benötigen Sie Pflanzen im Großhandel?",
+    "ctaSubtitle": "Kontaktieren Sie uns für ein maßgeschneidertes Angebot. Lieferung in ganz Rumänien.",
+    "ctaBtn": "Angebot anfordern",
+    "badgeInStock": "Verfügbar",
+    "badgeFeatured": "Meistgefragt",
+    "viewDetails": "Details ansehen",
+    "viewAll": "Alle Produkte anzeigen"
+  },
+  "about": {
+    "title": "Über Plant Dgd",
+    "subtitle": "Ihr zuverlässiger Partner für Zierpflanzen im Großhandel in Rumänien",
+    "ourStory": "Unsere Geschichte",
+    "story1": "Plant Dgd ist ein auf den Großhandel mit Zierpflanzen spezialisiertes Unternehmen mit über 15 Jahren Erfahrung. Wir beliefern professionelle Landschaftsgärtner, Gartencenter, Gemeinden und Privatunternehmen in ganz Rumänien mit hochwertigen Pflanzen zu wettbewerbsfähigen Preisen.",
+    "story2": "Wir produzieren und liefern Nadelbäume, Zierbäume, Sträucher, Stauden und Heckenpflanzen im kommerziellen Maßstab. Wir arbeiten mit Kunden aus ganz Rumänien zusammen und bieten umfassende Dienstleistungen.",
+    "ourValues": "Unsere Werte",
+    "natural": "Natürlichkeit",
+    "naturalDesc": "Alle unsere Pflanzen werden natürlich ohne schädliche Chemikalien angebaut.",
+    "quality": "Qualität",
+    "qualityDesc": "Wir bieten ausschließlich Pflanzen höchster Qualität, sorgfältig ausgewählt und professionell gepflegt.",
+    "reliability": "Zuverlässigkeit",
+    "reliabilityDesc": "Unsere Kunden haben Priorität. Wir halten Termine, Mengen und vereinbarte Konditionen ein.",
+    "sustainability": "Nachhaltigkeit",
+    "sustainabilityDesc": "Wir setzen uns für Umweltschutz und nachhaltige landwirtschaftliche Praktiken ein.",
+    "ourNumbers": "Unsere Zahlen",
+    "yearsExperience": "Jahre Erfahrung",
+    "satisfiedCustomers": "Zufriedene Kunden",
+    "plantTypes": "Pflanzenarten",
+    "deliveryTime": "Lieferzeit",
+    "whoWeServe": "Unsere Kunden",
+    "landscapers": "Landschaftsgärtner",
+    "landscapersDesc": "Großhandelslieferung für Landschaftsprojekte jeder Größenordnung.",
+    "gardenCenters": "Gartencenter",
+    "gardenCentersDesc": "Vorteilhafte Partnerschaften für Gartencenter in ganz Rumänien.",
+    "municipalities": "Gemeinden und Institutionen",
+    "municipalitiesDesc": "Pflanzen für öffentliche Räume, Parks und städtische Gestaltung zu Sonderpreisen.",
+    "developers": "Bauträger",
+    "developersDesc": "Komplette Bepflanzungslösungen für Wohn- und Gewerbekomplexe."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Wir sind hier, um Ihnen das passende Angebot für Ihre Geschäftsanforderungen zu unterbreiten. Schreiben Sie uns oder rufen Sie uns an!",
+    "information": "Kontaktinformationen",
+    "address": "Serbien",
+    "addressCity": "Lieferung in ganz Rumänien",
+    "sendMessage": "Nachricht senden",
+    "name": "Vor- und Nachname",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "message": "Nachricht",
+    "company": "Unternehmen (optional)",
+    "send": "Nachricht absenden",
+    "sending": "Wird gesendet...",
+    "nameRequired": "Das Namensfeld ist erforderlich",
+    "emailRequired": "Das E-Mail-Feld ist erforderlich",
+    "messageRequired": "Das Nachrichtenfeld ist erforderlich",
+    "success": "Nachricht erfolgreich gesendet! Wir werden Sie so schnell wie möglich kontaktieren.",
+    "error": "Beim Senden der Nachricht ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.",
+    "location": "Nationale Lieferung",
+    "locationDesc": "Plant Dgd liefert Zierpflanzen im Großhandel in ganz Rumänien. Der Transport wird mit Spezialfahrzeugen durchgeführt, um sicherzustellen, dass die Pflanzen in einwandfreiem Zustand ankommen."
+  },
+  "products": {
+    "title": "Großhandels-Produktkatalog",
+    "subtitle": "Unser komplettes Sortiment an Zierpflanzen für Großhandelskunden. Große Mengen, wettbewerbsfähige Preise, garantierte Qualität.",
+    "allCategories": "Alle Kategorien",
+    "cetinari": "Nadelbäume",
+    "liscari": "Laubbäume",
+    "siblje": "Sträucher",
+    "perene": "Stauden",
+    "zivaOgrada": "Hecken",
+    "flowers": "Blumen",
+    "inStock": "Verfügbar",
+    "outOfStock": "Nicht verfügbar",
+    "price": "Preis",
+    "priceOnRequest": "Preis auf Anfrage",
+    "viewDetails": "Details ansehen",
+    "showingAll": "Angezeigt",
+    "showing": "Angezeigt",
+    "plant": "Pflanze",
+    "plants": "Pflanzen",
+    "of": "von",
+    "inCategory": "in Kategorie",
+    "noPlantsInCategory": "In dieser Kategorie sind derzeit keine Pflanzen verfügbar.",
+    "viewAll": "Alle Pflanzen anzeigen",
+    "currency": "RON",
+    "searchPlaceholder": "Pflanzen nach Name oder Beschreibung suchen",
+    "loadMore": "Mehr laden",
+    "remaining": "verbleibend",
+    "sortNewest": "Neueste",
+    "sortOldest": "Älteste",
+    "sortNameAsc": "Name A-Z",
+    "sortNameDesc": "Name Z-A",
+    "requestQuote": "Angebot anfordern",
+    "minOrder": "Mindestbestellmenge"
+  },
+  "productDetails": {
+    "notFound": "Produkt nicht gefunden",
+    "notFoundDesc": "Das gesuchte Produkt existiert nicht oder wurde entfernt.",
+    "backToProducts": "Zurück zu Produkten",
+    "specifications": "Eigenschaften",
+    "height": "Höhe",
+    "sunlight": "Licht",
+    "watering": "Bewässerung",
+    "soil": "Boden",
+    "hardiness": "Frostbeständigkeit",
+    "contactUs": "Kontaktieren Sie uns für eine Bestellung",
+    "back": "Zurück",
+    "clickToEnlarge": "Klicken zum Vergrößern",
+    "photos": "Fotos",
+    "clickToView": "Klicken zum Ansehen",
+    "requestQuote": "Großhandelsangebot anfordern"
+  },
+  "gallery": {
+    "title": "Pflanzengalerie",
+    "subtitle": "Sehen Sie Bilder von Pflanzen aus unserem Sortiment.",
+    "photos": "Fotos"
+  },
+  "footer": {
+    "description": "Ihr Großhandelslieferant für Zierpflanzen. Erstklassige Qualität, wettbewerbsfähige Preise, Lieferung in ganz Rumänien.",
+    "quickLinks": "Schnelllinks",
+    "contactInfo": "Kontaktinformationen",
+    "rights": "Alle Rechte vorbehalten.",
+    "wholesale": "Großhandel",
+    "b2b": "B2B-Partnerschaften"
+  },
+  "productDescriptions": {
+    "1": {
+      "name": "Lebensbaum 'Smaragd' (Thuja occidentalis)",
+      "description": "Der Lebensbaum 'Smaragd' ist ein immergrüner Nadelbaum, ideal für kommerzielle Hecken und Landschaftsgestaltung. Widerstandsfähig, pflegeleicht und schnellwachsend. Im Großhandel in großen Mengen verfügbar."
+    },
+    "2": {
+      "name": "Eibe (Taxus baccata)",
+      "description": "Die Eibe (Taxus baccata) ist ein langlebiger Nadelbaum, ausgezeichnet für Formschnitt und Hecken. Langsames Wachstum, aber äußerst dekorativ und winterhart."
+    },
+    "3": {
+      "name": "Schwarzkiefer (Pinus nigra)",
+      "description": "Die Schwarzkiefer (Pinus nigra) ist ein robuster immergrüner Baum mit charakteristischen dunkelgrünen Nadeln. Sehr widerstandsfähig gegenüber Trockenheit und Stadtklima."
+    },
+    "4": {
+      "name": "Morgenländischer Lebensbaum (Platycladus orientalis)",
+      "description": "Der Morgenländische Lebensbaum (Platycladus orientalis) ist ein immergrüner Nadelbaum mit senkrecht stehenden, fächerförmigen Zweigen. Kompakt und trockenheitsverträglich."
+    },
+    "5": {
+      "name": "Blaufichte (Picea pungens 'Glauca')",
+      "description": "Die Blaufichte (Picea pungens 'Glauca') ist ein wunderschöner immergrüner Baum mit markanten blaugrauen Nadeln. Ideal als Solitär in Parks und öffentlichen Grünanlagen."
+    },
+    "6": {
+      "name": "Kriechender Wacholder (Juniperus horizontalis)",
+      "description": "Der Kriechende Wacholder (Juniperus horizontalis) ist eine perfekte Bodendecker-Pflanze. Niedrige, dichte Wuchsform – ideal für Böschungsbegrünung, Steingärten und Freiflächen."
+    },
+    "7": {
+      "name": "Trompetenbaum (Catalpa bignonioides)",
+      "description": "Der Trompetenbaum (Catalpa bignonioides) ist ein imposanter Zierbaum mit großen Blättern und weißen, trompetenförmigen Blüten. Spendet Schatten und ist Blickfang in Parkanlagen."
+    },
+    "8": {
+      "name": "Immergrüne Magnolie (Magnolia grandiflora)",
+      "description": "Die Immergrüne Magnolie (Magnolia grandiflora) beeindruckt mit großen weißen Blüten und intensivem Duft. Ein Highlight für gehobene Grünanlagen und mediterrane Projekte."
+    },
+    "9": {
+      "name": "Prunus laurocerasus",
+      "description": "Der Kirschlorbeer (Prunus laurocerasus) ist der beliebteste immergrüne Heckensträucher Mitteleuropas. Dicht belaubt, frosthart und stadtklimafest – ideal für Sicht- und Lärmschutzhecken."
+    },
+    "10": {
+      "name": "Glanzmispel 'Red Robin' (Photinia × fraseri)",
+      "description": "Die Glanzmispel 'Red Robin' (Photinia × fraseri) begeistert mit leuchtend roten Jungtrieben. Als Hecke oder Solitär ein markanter Blickfang in Gärten und Grünanlagen."
+    },
+    "11": {
+      "name": "Lampenputzergras (Pennisetum alopecuroides)",
+      "description": "Das Lampenputzergras (Pennisetum alopecuroides) ist eine dekorative Ziergras-Staude mit charakteristischen flaumigen Ähren. Ideal für naturnahe und moderne Landschaftsgestaltung."
+    },
+    "12": {
+      "name": "Bambus (Phyllostachys / Fargesia)",
+      "description": "Bambus ist eine schnellwachsende Pflanze, die natürliche Sichtschutzhecken schafft. Je nach Art als Kübelpflanze oder als winterharte Heckenpflanze geeignet."
+    },
+    "13": {
+      "name": "Hortensie (Hydrangea)",
+      "description": "Die Hortensie (Hydrangea) ist ein wunderschöner blühender Strauch mit großen Blütenbällen in Rosa, Weiß und Blau. Klassiker für Gärten, Parks und Außenanlagen."
+    },
+    "14": {
+      "name": "Efeu (Hedera helix)",
+      "description": "Der Efeu (Hedera helix) ist eine immergrüne Kletterpflanze, ideal zur Begrünung von Zäunen, Mauern und Fassaden. Robust, schnellwüchsig und ganzjährig dekorativ."
+    },
+    "15": {
+      "name": "Heckenkirsche (Lonicera nitida)",
+      "description": "Die Heckenkirsche (Lonicera nitida) bildet dichte, kleinblättrige Hecken und lässt sich hervorragend in Form schneiden. Perfekte Wahl für niedrige Einfassungshecken."
+    },
+    "16": {
+      "name": "Purpurglöckchen (Heuchera)",
+      "description": "Das Purpurglöckchen (Heuchera) überzeugt mit attraktivem Laubschmuck in Weinrot, Bronze und Grün das ganze Jahr über. Ideal als Bodendecker und für Staudenbeete."
+    },
+    "17": {
+      "name": "Garteneibisch (Hibiscus syriacus)",
+      "description": "Der Garteneibisch (Hibiscus syriacus) blüht von Juli bis Oktober in strahlendem Weiß, Rosa oder Violett. Winterhart und pflegeleicht – ein Exot für den europäischen Garten."
+    },
+    "18": {
+      "name": "Spierstrauch (Spiraea)",
+      "description": "Der Spierstrauch (Spiraea) begeistert im Frühjahr und Sommer mit üppiger Blütenfülle. Robust, pflegeleicht und ideal für Beete, Einfassungen und Naturgärten."
+    },
+    "19": {
+      "name": "Latschenkiefer auf Stamm (Pinus mugo)",
+      "description": "Die Latschenkiefer auf Stamm (Pinus mugo) ist ein dekorativer Formgehölz mit kugelförmiger Krone. Edler Solitär für kleine Gärten, Terrassen und Eingangsbereiche."
+    },
+    "20": {
+      "name": "Pfingstrose (Paeonia)",
+      "description": "Die Pfingstrose (Paeonia) beeindruckt mit üppigen, duftenden Blüten in Weiß, Rosa und Rot. Langlebige Staude – einmal gepflanzt, blüht sie jahrzehntelang."
+    },
+    "21": {
+      "name": "Kriechender Günsel (Ajuga reptans)",
+      "description": "Der Kriechende Günsel (Ajuga reptans) ist ein flächiger, niederwüchsiger Bodendecker mit blauen Blütenähren im Frühjahr. Ideal unter Gehölzen und für Steingärten."
+    },
+    "22": {
+      "name": "Prachtspiere (Astilbe)",
+      "description": "Die Prachtspiere (Astilbe) bringt mit ihren fiedrigen Blütenrispen in Rosa, Rot und Weiß Eleganz in schattige Gartenbereiche. Feuchtigkeitsliebend und pflegeleicht."
+    },
+    "23": {
+      "name": "Japanische Segge 'Ice Dance' (Carex morrowii)",
+      "description": "Die Japanische Segge 'Ice Dance' (Carex morrowii) ist ein immergrünes Ziergras mit grün-weiß gestreiften Blättern. Vielseitig einsetzbar – von Steingärten bis zu Gefäßbepflanzungen."
+    },
+    "24": {
+      "name": "Blauschwingel (Festuca glauca)",
+      "description": "Der Blauschwingel (Festuca glauca) ist ein kompaktes Ziergras mit auffällig blaugrauen Blättern. Trockenheitsverträglich und ideal für Steingärten, Mauerkronen und moderne Anlagen."
+    },
+    "25": {
+      "name": "Taglilie (Hemerocallis)",
+      "description": "Die Taglilie (Hemerocallis) blüht von Juni bis August in Orange, Gelb und Rot. Robuste, langlebige Staude – nahezu pflegefrei und in jedem Boden gedeiend."
+    },
+    "26": {
+      "name": "Funkie (Hosta)",
+      "description": "Die Funkie (Hosta) ist die Königin des Schattengartens. Mit großen, strukturierten Blättern in Grün, Blau und Gelb bringt sie Struktur in schattige Pflanzungen."
+    },
+    "27": {
+      "name": "Schwertlilie (Iris germanica)",
+      "description": "Die Schwertlilie (Iris germanica) beeindruckt im Frühjahr mit eleganten Blüten in Violett, Blau, Weiß und Gelb. Klassische Staude für Beete und Steingärten."
+    },
+    "28": {
+      "name": "Fackellilie (Kniphofia uvaria)",
+      "description": "Die Fackellilie (Kniphofia uvaria) ist eine exotisch wirkende Staude mit leuchtend orange-roten Blütenkolben. Auffälliger Blickfang und Bienenmagnet in Staudenbeeten."
+    },
+    "29": {
+      "name": "Schlangenbart (Ophiopogon japonicus)",
+      "description": "Der Schlangenbart (Ophiopogon japonicus) ist ein immergrünes, grasartiges Bodendecker-Gehölz. Robust und pflegeleicht – ideal als Unterpflanzung und für schattige Bereiche."
+    },
+    "30": {
+      "name": "Gelenkblume (Physostegia virginiana 'Alba')",
+      "description": "Die Gelenkblume (Physostegia virginiana 'Alba') blüht im Spätsommer mit eleganten weißen Ährenblüten. Pflegeleichte Staude für naturnahe und formale Pflanzungen."
+    },
+    "31": {
+      "name": "Fetthenne 'Angelina' (Sedum rupestre)",
+      "description": "Die Fetthenne 'Angelina' (Sedum rupestre) überzeugt mit goldgelben Nadeln, die sich im Herbst orange verfärben. Ideal für Steingärten, Dachbegrünung und Trockenmauern."
+    },
+    "32": {
+      "name": "Hybride Fetthenne (Sedum hybridum)",
+      "description": "Die Hybride Fetthenne (Sedum hybridum) bildet dichte, immergrüne Polster. Sehr trockenheitsverträglich – bewährt für Bodenbegrünung und extensive Dachbegrünung."
+    },
+    "33": {
+      "name": "Felsen-Fetthenne 'Blue' (Sedum rupestre)",
+      "description": "Die Felsen-Fetthenne 'Blue' (Sedum rupestre) besticht mit blaugrünen Nadelblättern. Ideal für Steingärten, Mauerfugen und mediterrane Bepflanzungen."
+    },
+    "34": {
+      "name": "Watson-Fetthenne (Sedum)",
+      "description": "Die Watson-Fetthenne ist eine dekorative Sukkulente mit attraktiven rosagrünen Rosetten. Hält Trockenperioden mühelos stand."
+    },
+    "35": {
+      "name": "Pracht-Fetthenne (Hylotelephium spectabile)",
+      "description": "Die Pracht-Fetthenne (Hylotelephium spectabile) bringt mit großen rosafarbenen Blütendolden Farbe in Herbstgärten. Bienenweide und robuste Staude zugleich."
+    },
+    "36": {
+      "name": "Woll-Ziest (Stachys byzantina)",
+      "description": "Der Woll-Ziest (Stachys byzantina), auch 'Lammsohr' genannt, fasziniert mit filzig-silbergrauen Blättern. Kontrastreicher Bodendecker für sonnige, trockene Standorte."
+    },
+    "37": {
+      "name": "Ölbaum / Olive (Olea europaea)",
+      "description": "Der Ölbaum (Olea europaea) ist ein immergrüner Mittelmeerklassiker mit silbergrünen Blättern. Symbol mediterraner Gartenkultur – ideal für Kübelbepflanzung und geschützte Standorte."
+    },
+    "38": {
+      "name": "Bonsai",
+      "description": "Bonsai ist die japanische Kunst der Miniaturbaum-Kultivierung. Einzigartig und edel – ein besonderes Geschenk und dekoratives Element für Innenräume und Terrassen."
+    }
+  }
+}

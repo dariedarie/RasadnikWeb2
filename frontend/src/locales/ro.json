@@ -1,0 +1,309 @@
+{
+  "nav": {
+    "home": "Acasă",
+    "products": "Produse",
+    "about": "Despre noi",
+    "contact": "Contact",
+    "gallery": "Galerie"
+  },
+  "home": {
+    "title": "Plant Dgd – Angro de Plante Ornamentale",
+    "subtitle": "Furnizorul dvs. de încredere pentru plante ornamentale en gros. Calitate superioară, prețuri competitive, livrare în toată România.",
+    "viewProducts": "Vezi catalogul",
+    "whyChooseUs": "De ce să alegeți Plant Dgd",
+    "provenQuality": "Calitate dovedită",
+    "provenQualityDesc": "Peste 15 ani de experiență în producția și livrarea plantelor ornamentale. Fiecare plantă este cultivată cu grijă și respect pentru natură.",
+    "fastDelivery": "Livrare rapidă",
+    "fastDeliveryDesc": "Transport cu condiții speciale în toată România. Plante ambalate profesional pentru a ajunge în perfectă stare.",
+    "wholesalePartner": "Partener en gros",
+    "wholesalePartnerDesc": "Furnizăm peisagiști, centre de grădinărit, primării și dezvoltatori imobiliari cu volume mari la prețuri avantajoase.",
+    "popularProducts": "Produse de top",
+    "tuja": "Tuia",
+    "tujaDesc": "Conifer sempervirescând, ideal pentru garduri vii comerciale și amenajări peisagistice. Disponibil en gros.",
+    "katalpa": "Catalpa",
+    "katalpaDesc": "Arbore ornamental cu frunze mari și flori splendide. Ideal pentru proiecte de peisagistică.",
+    "lovor": "Prunus laurocerasus",
+    "lovorDesc": "Arbust sempervirescând cu frunziș dens, ideal pentru garduri vii elegante de calitate comercială.",
+    "fotinija": "Photinia Red Robin",
+    "fotinijaDesc": "Arbust sempervirescând cu lăstari tineri roșii, spectaculoși. Ideal pentru decorare și garduri vii.",
+    "bambus": "Bambus",
+    "bambusDesc": "Plantă cu creștere rapidă care creează garduri vii naturale. Ideală pentru proiecte moderne.",
+    "ctaTitle": "Aveți nevoie de plante en gros?",
+    "ctaSubtitle": "Contactați-ne pentru o ofertă personalizată. Livrăm în toată România.",
+    "ctaBtn": "Solicită ofertă",
+    "badgeInStock": "Disponibil",
+    "badgeFeatured": "Cel mai solicitat",
+    "viewDetails": "Vezi detalii",
+    "viewAll": "Vezi toate produsele"
+  },
+  "about": {
+    "title": "Despre Plant Dgd",
+    "subtitle": "Partenerul dvs. de încredere pentru plante ornamentale en gros în România",
+    "ourStory": "Povestea noastră",
+    "story1": "Plant Dgd este o companie specializată în vânzarea en gros de plante ornamentale, cu o experiență de peste 15 ani în domeniu. Furnizăm peisagiști profesioniști, centre de grădinărit, primării și companii private din România cu plante de calitate superioară la prețuri competitive.",
+    "story2": "Producem și livrăm conifere, arbori ornamentali, arbuști, plante perene și garduri vii la scară comercială. Colaborăm cu clienți din toată România, oferind servicii complete: de la consultanță în alegerea speciilor până la transport specializat.",
+    "ourValues": "Valorile noastre",
+    "natural": "Naturalețe",
+    "naturalDesc": "Toate plantele noastre sunt cultivate natural, fără substanțe chimice dăunătoare. Respectăm mediul înconjurător.",
+    "quality": "Calitate",
+    "qualityDesc": "Oferim exclusiv plante de cea mai înaltă calitate, selecționate cu atenție și îngrijite profesional.",
+    "reliability": "Seriozitate",
+    "reliabilityDesc": "Clienții noștri sunt prioritatea noastră. Respectăm termenele, cantitățile și condițiile agreate.",
+    "sustainability": "Sustenabilitate",
+    "sustainabilityDesc": "Suntem dedicați protejării mediului și practicilor agricole sustenabile pe termen lung.",
+    "ourNumbers": "Cifrele noastre",
+    "yearsExperience": "Ani de experiență",
+    "satisfiedCustomers": "Clienți mulțumiți",
+    "plantTypes": "Specii de plante",
+    "deliveryTime": "Termen de livrare",
+    "whoWeServe": "Pe cine deservim",
+    "landscapers": "Peisagiști",
+    "landscapersDesc": "Furnizăm plante en gros pentru proiecte de amenajare peisagistică la orice scară.",
+    "gardenCenters": "Centre de grădinărit",
+    "gardenCentersDesc": "Parteneriate avantajoase pentru magazine și centre de grădinărit din toată România.",
+    "municipalities": "Primării și instituții",
+    "municipalitiesDesc": "Plante pentru spații publice, parcuri și amenajări urbane la prețuri speciale.",
+    "developers": "Dezvoltatori imobiliari",
+    "developersDesc": "Soluții complete de plantare pentru complexe rezidențiale și comerciale."
+  },
+  "contact": {
+    "title": "Contactați-ne",
+    "subtitle": "Suntem aici să vă oferim oferta potrivită pentru nevoile dvs. de afaceri. Scrieți-ne sau sunați-ne!",
+    "information": "Informații de contact",
+    "address": "Serbia",
+    "addressCity": "Livrare în toată România",
+    "sendMessage": "Trimiteți-ne un mesaj",
+    "name": "Nume și prenume",
+    "email": "Email",
+    "phone": "Telefon",
+    "message": "Mesaj",
+    "company": "Companie (opțional)",
+    "send": "Trimite mesajul",
+    "sending": "Se trimite...",
+    "nameRequired": "Câmpul nume este obligatoriu",
+    "emailRequired": "Câmpul email este obligatoriu",
+    "messageRequired": "Câmpul mesaj este obligatoriu",
+    "success": "Mesajul a fost trimis cu succes! Vă vom contacta în cel mai scurt timp.",
+    "error": "A apărut o eroare la trimiterea mesajului. Vă rugăm să încercați din nou.",
+    "location": "Livrare națională",
+    "locationDesc": "Plant Dgd livrează plante ornamentale en gros în toată România. Transportul este asigurat cu vehicule speciale pentru a garanta că plantele ajung în perfectă stare. Contactați-ne pentru detalii despre livrare și prețuri."
+  },
+  "products": {
+    "title": "Catalog produse en gros",
+    "subtitle": "Oferta noastră completă de plante ornamentale pentru clienți en gros. Cantități mari, prețuri competitive, calitate garantată.",
+    "allCategories": "Toate categoriile",
+    "cetinari": "Conifere",
+    "liscari": "Foioase",
+    "siblje": "Arbuști",
+    "perene": "Perene",
+    "zivaOgrada": "Gard viu",
+    "flowers": "Flori",
+    "inStock": "Disponibil",
+    "outOfStock": "Indisponibil",
+    "price": "Preț",
+    "priceOnRequest": "Preț la cerere",
+    "viewDetails": "Vezi detalii",
+    "showingAll": "Se afișează",
+    "showing": "Afișate",
+    "plant": "plantă",
+    "plants": "plante",
+    "of": "din",
+    "inCategory": "în categoria",
+    "noPlantsInCategory": "Momentan nu există plante disponibile în această categorie.",
+    "viewAll": "Vezi toate plantele",
+    "currency": "RON",
+    "searchPlaceholder": "Caută plante după denumire sau descriere",
+    "loadMore": "Încarcă mai mult",
+    "remaining": "rămase",
+    "sortNewest": "Cele mai noi",
+    "sortOldest": "Cele mai vechi",
+    "sortNameAsc": "Denumire A-Z",
+    "sortNameDesc": "Denumire Z-A",
+    "requestQuote": "Solicită ofertă",
+    "minOrder": "Comandă minimă"
+  },
+  "productDetails": {
+    "notFound": "Produsul nu a fost găsit",
+    "notFoundDesc": "Produsul pe care îl căutați nu există sau a fost eliminat.",
+    "backToProducts": "Înapoi la produse",
+    "specifications": "Caracteristici",
+    "height": "Înălțime",
+    "sunlight": "Lumină",
+    "watering": "Udare",
+    "soil": "Sol",
+    "hardiness": "Rezistență la îngheț",
+    "contactUs": "Contactați-ne pentru comandă",
+    "back": "Înapoi",
+    "clickToEnlarge": "Click pentru mărire",
+    "photos": "fotografii",
+    "clickToView": "click pentru previzualizare",
+    "requestQuote": "Solicită ofertă en gros"
+  },
+  "gallery": {
+    "title": "Galerie plante",
+    "subtitle": "Vizualizați fotografii ale plantelor din oferta noastră.",
+    "photos": "fotografii"
+  },
+  "footer": {
+    "description": "Furnizorul dvs. de plante ornamentale en gros. Calitate superioară, prețuri competitive, livrare în toată România.",
+    "quickLinks": "Link-uri rapide",
+    "contactInfo": "Informații de contact",
+    "rights": "Toate drepturile rezervate.",
+    "wholesale": "Vânzare en gros",
+    "b2b": "Parteneriate B2B"
+  },
+  "productDescriptions": {
+    "1": {
+      "name": "Tuia 'Smaragd' (Thuja occidentalis 'Smaragd')",
+      "description": "Tuia 'Smaragd' (Thuja occidentalis 'Smaragd') este cel mai popular conifer pentru garduri vii din România. Formă colum­nară îngustă, culoare verde intensă tot anul. Disponibilă en gros în cantități mari."
+    },
+    "2": {
+      "name": "Tisă (Taxus baccata)",
+      "description": "Tisa (Taxus baccata) este unul dintre cei mai longevivi coniferi din Europa, excelentă pentru tuns în forme și garduri vii dense. Creștere lentă, dar extrem de durabilă și decorativă."
+    },
+    "3": {
+      "name": "Pin negru (Pinus nigra)",
+      "description": "Pinul Negru este un arbore sempervirescând frumos cu ace verde-închis caracteristice. Rezistent și se integrează bine în diverse peisaje."
+    },
+    "4": {
+      "name": "Tuie orientală (Platycladus orientalis)",
+      "description": "Tuia orientală (Platycladus orientalis) are ramuri verticale în formă de evantai și este mai rezistentă la secetă decât tuia comună. Ideală pentru amplasamente însorite și bine expuse."
+    },
+    "5": {
+      "name": "Molid albastru (Picea pungens 'Glauca')",
+      "description": "Molidul albastru (Picea pungens 'Glauca') impresionează prin acele argintii-albăstrui distincte. Arbore-spectacol de prim rang pentru parcuri, spații publice și proiecte de amenajare premium."
+    },
+    "6": {
+      "name": "Ienupăr târâtor (Juniperus horizontalis)",
+      "description": "Ienupărul târâtor (Juniperus horizontalis) este un covor verde perfect pentru acoperirea solului. Creștere joasă și densă – ideal pentru fixarea taluzurilor, grădini de stânci și alei."
+    },
+    "7": {
+      "name": "Catalpă (Catalpa bignonioides)",
+      "description": "Catalpa (Catalpa bignonioides) este un arbore ornamental impunător cu frunze mari și flori albe parfumate în vară. Un arbore de umbră spectaculos pentru parcuri, bulevarde și spații publice."
+    },
+    "8": {
+      "name": "Magnolie sempervirescent (Magnolia grandiflora)",
+      "description": "Magnolia sempervirescent (Magnolia grandiflora) este un arbore maiestuos cu flori albe uriașe și parfum intens de vară. Specie de elită pentru amenajări peisagistice de lux și grădini mediteraneene."
+    },
+    "9": {
+      "name": "Prunus laurocerasus",
+      "description": "Prunus laurocerasus este cel mai utilizat arbust sempervirescând pentru garduri vii din Europa. Frunziș dens și lucios, creștere rapidă, tolerează umbra, îngherul și condițiile urbane."
+    },
+    "10": {
+      "name": "Fotinie 'Red Robin' (Photinia × fraseri)",
+      "description": "Fotinia 'Red Robin' (Photinia × fraseri) fascinează prin lăstarii tineri roșu-aprins de primăvară. Ca gard viu sau arbust solitar, oferă un accent cromatic deosebit în grădini și spații verzi."
+    },
+    "11": {
+      "name": "Iarba-vulpii (Pennisetum alopecuroides)",
+      "description": "Iarba-vulpii (Pennisetum alopecuroides) este o iarbă ornamentală grațioasă cu spice mătăsoase ce se arcuiesc elegant. Ideală pentru amenajări naturale, parcuri și borduri decorative."
+    },
+    "12": {
+      "name": "Bambus",
+      "description": "Bambusul este o plantă cu creștere rapidă ce creează garduri vii naturale și oferă un peisaj exotic. Ideală pentru proiecte moderne de amenajare."
+    },
+    "13": {
+      "name": "Hortensie",
+      "description": "Hortensia este un arbust înfloritor magnific cu flori sferice mari în diverse culori. Ideală pentru decorarea grădinilor și spațiilor comerciale."
+    },
+    "14": {
+      "name": "Iederă comună (Hedera helix)",
+      "description": "Iedera (Hedera helix) este o agățătoare sempervirescândă, ideală pentru acoperirea gardurilor și zidurilor. Decorativă tot anul, creștere rapidă și densă."
+    },
+    "15": {
+      "name": "Caprifoi nitida (Lonicera nitida)",
+      "description": "Caprifoiul nitida (Lonicera nitida) formează garduri vii dese cu frunze mici, tolerând tunsorile repetate. Alegere perfectă pentru borduri joase și delimitarea spațiilor în amenajări formale."
+    },
+    "16": {
+      "name": "Heucheră / Clopoței de coral (Heuchera)",
+      "description": "Heuchera aduce culoare și eleganță pe tot parcursul anului. Alegere ideală pentru grădini decorative și spații verzi."
+    },
+    "17": {
+      "name": "Hibiscus de grădină (Hibiscus syriacus)",
+      "description": "Hibiscusul de grădină (Hibiscus syriacus) înflorește abundent din iulie până în octombrie în alb, roz și violet. Rezistent la ger și ușor de întreținut – un arbust exotic adaptat climei europene."
+    },
+    "18": {
+      "name": "Spiree (Spiraea)",
+      "description": "Spirea oferă înflorire abundentă și întreținere ușoară. Alegere ideală pentru decorarea spațiilor verzi comerciale."
+    },
+    "19": {
+      "name": "Pin mugo pe tulpină (Pinus mugo)",
+      "description": "Pinul pe tulpină este un conifer decorativ format pe un singur trunchi, ideal pentru grădini mici și ca accent în amenajări."
+    },
+    "20": {
+      "name": "Bujor (Paeonia)",
+      "description": "Bujorul (Paeonia) este o plantă magnifică cu flori mari și parfumate. Longevivă și rezistentă, înflorește primăvara."
+    },
+    "21": {
+      "name": "Ajugă / Vinariță (Ajuga reptans)",
+      "description": "Ajuga reptans este o perenă acoperitoare de sol cu floricele albastre. Ideală pentru acoperirea solului, grădini de stânci și margini de alei."
+    },
+    "22": {
+      "name": "Astilbă (Astilbe × arendsii)",
+      "description": "Astilbe este o perenă elegantă cu inflorescențe penate în nuanțe roz, roșu și alb. Excelentă pentru zonele umbrite ale grădinii."
+    },
+    "23": {
+      "name": "Rogoz japonez 'Ice Dance' (Carex morrowii)",
+      "description": "Carex morrowi 'Ice Dance' este o iarbă ornamentală cu frunze verzi bordate cu alb. Ideală pentru grădini de stânci."
+    },
+    "24": {
+      "name": "Păiuș albastru (Festuca glauca)",
+      "description": "Festuca glauca (iarba albastră) este o iarbă ornamentală compactă cu frunze albăstrui. Perfectă pentru grădini de stânci și peisaje moderne."
+    },
+    "25": {
+      "name": "Crin de zi (Hemerocallis)",
+      "description": "Hemerocallis (Crinul de zi) este o perenă recunoscătoare cu flori portocalii și galbene frumoase. Înflorire îndelungată și ușor de întreținut."
+    },
+    "26": {
+      "name": "Hostă (Hosta)",
+      "description": "Hosta este regina umbrei cu frunze decorative în diverse nuanțe de verde. Ideală pentru zonele umbrite ale spațiilor verzi."
+    },
+    "27": {
+      "name": "Stânjenel / Iris (Iris germanica)",
+      "description": "Stânjenelul (Iris germanica) este o perenă clasică cu flori elegante în violet, albastru, alb și galben la sfârșitul primăverii. Rezistent la secetă și ușor de cultivat."
+    },
+    "28": {
+      "name": "Torță de foc (Kniphofia uvaria)",
+      "description": "Kniphofia uvaria (Torța) este o perenă exotică cu inflorescențe portocaliu-roșiatice impresionante."
+    },
+    "29": {
+      "name": "Iarbă de șarpe (Ophiopogon japonicus)",
+      "description": "Ophiopogon japonicus este o iarbă ornamentală sempervirescândă, ideală ca acoperitor de sol. Decorativă pe tot parcursul anului."
+    },
+    "30": {
+      "name": "Plantă ascultătoare albă (Physostegia virginiana 'Alba')",
+      "description": "Physostegia alba este o perenă cu inflorescențe albe elegante. Înflorire bogată vara, ușor de întreținut."
+    },
+    "31": {
+      "name": "Iarbă grasă 'Angelina' (Sedum rupestre)",
+      "description": "Sedum angelina este o perenă suculentă cu frunze aurii-verzi care devin portocalii toamna. Perfectă pentru grădini de stânci."
+    },
+    "32": {
+      "name": "Iarbă grasă hibridă (Sedum hybridum)",
+      "description": "Sedum hybridum este o perenă acoperitoare densă cu frunze verde intens. Ideală pentru grădini de stânci și acoperișuri verzi."
+    },
+    "33": {
+      "name": "Iarbă grasă albastră (Sedum rupestre 'Blue')",
+      "description": "Sedum rupestre 'Blue' este o perenă cu frunze albăstrui. Joasă și rezistentă, perfectă pentru grădini de stânci."
+    },
+    "34": {
+      "name": "Sedum 'Watson' (Sedum)",
+      "description": "Sedum S. Watson este o perenă decorativă cu rozete roz-verzi. Culoare atractivă pe tot parcursul anului."
+    },
+    "35": {
+      "name": "Iarbă grasă spectaculoasă (Hylotelephium spectabile)",
+      "description": "Hylotelephium spectabile (fosta Sedum spectabile) este o perenă robustă cu frunze cărnoase și capete florale plate, roz, la sfârșitul verii. Excelentă plantă meliferă și rezistentă la secetă."
+    },
+    "36": {
+      "name": "Urechea mielului (Stachys byzantina)",
+      "description": "Urechea mielului (Stachys byzantina) este îndrăgită pentru frunzele sale moi, argintii și pufoase. Un acoperitor de sol excepțional și plantă de bordură pentru amplasamente însorite și bine drenate."
+    },
+    "37": {
+      "name": "Măslin",
+      "description": "Măslinul (Olea europaea) este un arbore mediteranean sempervirescând cu frunze argintii-verzi. Longeviv și decorativ, ideal pentru spații verzi cu stil mediteranean."
+    },
+    "38": {
+      "name": "Bonsai",
+      "description": "Bonsaiul este arta cultivării copacilor miniaturali. Elegant și unic, cadou perfect și element decorativ pentru orice interior sau terasă."
+    }
+  }
+}

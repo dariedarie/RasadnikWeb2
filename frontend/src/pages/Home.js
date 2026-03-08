@@ -11,9 +11,9 @@ const Home = () => {
   return (
     <>
     <Helmet>
-      <title>Rasadnik Tilija – Prodaja sadnica i ukrasnog bilja</title>
-      <meta name="description" content="Rasadnik Tilija nudi širok asortiman kvalitetnih sadnica: tuja, katalpa, lovor višnja, fotinija, bambus i još mnogo toga. Kvalitet, lepota i pristupačne cene." />
-      <link rel="canonical" href="https://rasadniktilija.rs/" />
+      <title>Plant Dgd – Angro de Plante Ornamentale | Vânzare En Gros România</title>
+      <meta name="description" content="Plant Dgd - furnizor de plante ornamentale en gros în România. Tuia, conifere, arbuști, garduri vii, arbori ornamentali angro. Prețuri competitive pentru peisagiști și centre de grădinărit. Livrare în toată România." />
+      <link rel="canonical" href="https://plantdgd.ro/" />
     </Helmet>
     <div className="home">
       {/* Hero sekcija */}
@@ -37,7 +37,6 @@ const Home = () => {
           zIndex: 1
         }} />
         <div className="container" style={{position: 'relative', zIndex: 2, textAlign: 'center', color: 'white', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: 18, padding: '48px 0 56px 0'}}>
-          <img src="/images/logo.png" alt="Logo Rasadnik Tilija" style={{maxWidth: '120px', width: '100%', margin: '0 auto 18px auto', display: 'block', filter: 'drop-shadow(0 2px 8px rgba(44,62,80,0.18))'}} />
           <h1 style={{fontSize: '3.2rem', fontWeight: 700, letterSpacing: 1, marginBottom: 18, textShadow: '0 2px 12px rgba(0,0,0,0.18)'}}>{t('home.title')}</h1>
           <p style={{fontWeight: 500, fontSize: '1.3rem', marginBottom: 32, opacity: 0.95, maxWidth: 600}}>{t('home.subtitle')}</p>
           <a href="/products" className="btn-primary" style={{
@@ -74,6 +73,11 @@ const Home = () => {
             <div style={{fontSize: 44, marginBottom: 12}}>🚚</div>
             <h3 style={{color: '#2e7d32', fontWeight: 700, marginBottom: 8}}>{t('home.fastDelivery')}</h3>
             <p style={{color: '#234d20'}}>{t('home.fastDeliveryDesc')}</p>
+          </div>
+          <div style={{textAlign: 'center', flex: '1 1 220px', minWidth: 180}}>
+            <div style={{fontSize: 44, marginBottom: 12}}>🤝</div>
+            <h3 style={{color: '#2e7d32', fontWeight: 700, marginBottom: 8}}>{t('home.wholesalePartner')}</h3>
+            <p style={{color: '#234d20'}}>{t('home.wholesalePartnerDesc')}</p>
           </div>
         </div>
       </section>
@@ -150,7 +154,7 @@ const Home = () => {
                     textTransform: 'uppercase',
                     opacity: 0.9,
                     marginBottom: 8
-                  }}>Najpopularnije</span>
+                  }}>{t('home.badgeFeatured')}</span>
                   <h3 style={{
                     fontSize: window.innerWidth > 768 ? '2.2rem' : '1.8rem',
                     fontWeight: 800,
@@ -172,7 +176,7 @@ const Home = () => {
                     opacity: hoveredCard === 'tuja' ? 1 : 0.8,
                     transition: 'opacity 0.3s'
                   }}>
-                    <span>Pogledaj detalje</span>
+                    <span>{t('home.viewDetails')}</span>
                     <span style={{
                       transform: hoveredCard === 'tuja' ? 'translateX(4px)' : 'translateX(0)',
                       transition: 'transform 0.3s'
@@ -230,7 +234,7 @@ const Home = () => {
                   color: '#2e7d32',
                   boxShadow: '0 4px 12px rgba(0,0,0,0.1)'
                 }}>
-                  Na stanju
+                  {t('home.badgeInStock')}
                 </div>
               </div>
               <div style={{
@@ -303,7 +307,7 @@ const Home = () => {
                   color: '#2e7d32',
                   boxShadow: '0 4px 12px rgba(0,0,0,0.1)'
                 }}>
-                  Na stanju
+                  {t('home.badgeInStock')}
                 </div>
               </div>
               <div style={{
@@ -376,7 +380,7 @@ const Home = () => {
                   color: '#2e7d32',
                   boxShadow: '0 4px 12px rgba(0,0,0,0.1)'
                 }}>
-                  Na stanju
+                  {t('home.badgeInStock')}
                 </div>
               </div>
               <div style={{
@@ -449,7 +453,7 @@ const Home = () => {
                   color: '#2e7d32',
                   boxShadow: '0 4px 12px rgba(0,0,0,0.1)'
                 }}>
-                  Na stanju
+                  {t('home.badgeInStock')}
                 </div>
               </div>
               <div style={{
@@ -502,7 +506,7 @@ const Home = () => {
                 e.currentTarget.style.boxShadow = '0 8px 24px rgba(46, 125, 50, 0.25)';
               }}
             >
-              Pogledaj sve proizvode
+              {t('home.viewAll')}
             </Link>
           </div>
         </div>

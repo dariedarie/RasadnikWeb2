@@ -7,51 +7,71 @@
     "gallery": "Gallery"
   },
   "home": {
-    "title": "Welcome to Tilija Nursery",
-    "subtitle": "Find the perfect plants for your home and garden. Quality, beauty and naturalness in every plant.",
-    "viewProducts": "View Products",
-    "whyChooseUs": "Why Choose Us",
+    "title": "Plant Dgd – Wholesale Ornamental Plants",
+    "subtitle": "Your trusted wholesale supplier of ornamental plants in Romania. Premium quality, competitive prices, delivery nationwide.",
+    "viewProducts": "View Catalog",
+    "whyChooseUs": "Why Choose Plant Dgd",
     "provenQuality": "Proven Quality",
-    "provenQualityDesc": "Years of experience and satisfied customers.",
+    "provenQualityDesc": "Over 15 years of experience in producing and delivering premium ornamental plants.",
     "fastDelivery": "Fast Delivery",
-    "fastDeliveryDesc": "Delivery throughout Serbia in the shortest time.",
-    "popularProducts": "Popular Products",
+    "fastDeliveryDesc": "Specialized transport throughout Romania. Plants professionally packaged to arrive in perfect condition.",
+    "wholesalePartner": "Wholesale Partner",
+    "wholesalePartnerDesc": "We supply landscapers, garden centers, municipalities and developers with bulk quantities at competitive prices.",
+    "popularProducts": "Top Products",
     "tuja": "Thuja",
-    "tujaDesc": "Evergreen conifer, ideal for hedges and yard decoration.",
+    "tujaDesc": "Evergreen conifer, ideal for commercial hedges and landscaping projects. Available wholesale.",
     "katalpa": "Catalpa",
-    "katalpaDesc": "Ornamental tree with large leaves and beautiful flowers.",
-    "lovor": "Cherry Laurel",
-    "lovorDesc": "Evergreen shrub with dense foliage, ideal for forming elegant hedges.",
-    "ctaTitle": "Ready to bring nature into your home?",
-    "ctaSubtitle": "View our complete range of ornamental plants"
+    "katalpaDesc": "Ornamental tree with large leaves and beautiful flowers. Ideal for landscaping projects.",
+    "lovor": "Prunus laurocerasus",
+    "lovorDesc": "Evergreen shrub with dense foliage, ideal for elegant commercial hedges.",
+    "fotinija": "Photinia Red Robin",
+    "fotinijaDesc": "Evergreen shrub with attractive red young shoots. Ideal for decoration and hedges.",
+    "bambus": "Bamboo",
+    "bambusDesc": "Fast-growing plant for natural privacy screens. Ideal for modern projects.",
+    "ctaTitle": "Need plants wholesale?",
+    "ctaSubtitle": "Contact us for a customized offer. Delivery throughout Romania.",
+    "ctaBtn": "Request Quote",
+    "badgeInStock": "Available",
+    "badgeFeatured": "Most Popular",
+    "viewDetails": "View Details",
+    "viewAll": "View All Products"
   },
   "about": {
-    "title": "About Us",
-    "subtitle": "Learn more about our mission and values",
+    "title": "About Plant Dgd",
+    "subtitle": "Your trusted wholesale partner for ornamental plants in Romania",
     "ourStory": "Our Story",
-    "story1": "Tilija Nursery is a family business that has been selling ornamental plants and flowers for more than 30 years. Our mission is to bring nature into your homes and help you create beautiful and healthy spaces.",
-    "story2": "We started as a small nursery in Pločica, and today we are one of the most reliable suppliers of ornamental plants in Serbia. Our team is here to help you choose the perfect plant for your space.",
+    "story1": "Plant Dgd is a company specialized in wholesale ornamental plants with over 15 years of experience. We supply professional landscapers, garden centers, municipalities and private companies throughout Romania with premium quality plants at competitive prices.",
+    "story2": "We produce and deliver conifers, ornamental trees, shrubs, perennials and hedge plants on a commercial scale. We work with clients from all over Romania, offering comprehensive services from species selection consulting to specialized transport.",
     "ourValues": "Our Values",
     "natural": "Naturalness",
-    "naturalDesc": "All our plants are naturally grown without chemicals and pesticides.",
+    "naturalDesc": "All our plants are naturally grown without harmful chemicals. We respect the environment.",
     "quality": "Quality",
-    "qualityDesc": "We provide only the highest quality plants that are carefully selected and maintained.",
+    "qualityDesc": "We provide only the highest quality plants, carefully selected and professionally maintained.",
     "reliability": "Reliability",
-    "reliabilityDesc": "Our customers are our priority. Always here to help and advise.",
+    "reliabilityDesc": "Our clients are our priority. We respect deadlines, quantities and agreed conditions.",
     "sustainability": "Sustainability",
-    "sustainabilityDesc": "We are committed to environmental protection and sustainable business.",
+    "sustainabilityDesc": "We are committed to environmental protection and sustainable agricultural practices.",
     "ourNumbers": "Our Numbers",
     "yearsExperience": "Years of Experience",
-    "satisfiedCustomers": "Satisfied Customers",
-    "plantTypes": "Plant Types",
-    "deliveryTime": "Delivery Time"
+    "satisfiedCustomers": "Satisfied Clients",
+    "plantTypes": "Plant Species",
+    "deliveryTime": "Delivery Time",
+    "whoWeServe": "Who We Serve",
+    "landscapers": "Landscapers",
+    "landscapersDesc": "Wholesale plant delivery for landscaping projects of any scale.",
+    "gardenCenters": "Garden Centers",
+    "gardenCentersDesc": "Advantageous partnerships for garden centers throughout Romania.",
+    "municipalities": "Municipalities & Institutions",
+    "municipalitiesDesc": "Plants for public spaces, parks and urban planning at special prices.",
+    "developers": "Real Estate Developers",
+    "developersDesc": "Complete planting solutions for residential and commercial complexes."
   },
   "contact": {
     "title": "Contact Us",
-    "subtitle": "We are here to help you and answer all your questions. Write to us or call us!",
-    "information": "Information",
-    "address": "Utrinska 17",
-    "addressCity": "26220 Kovin, Serbia",
+    "subtitle": "We are here to provide you with the right offer for your business needs. Write to us or call us!",
+    "information": "Contact Information",
+    "address": "Serbia",
+    "addressCity": "Delivery throughout Romania",
     "sendMessage": "Send Us a Message",
     "name": "Full Name",
     "email": "Email",
@@ -61,14 +81,15 @@
     "nameRequired": "Name field is required",
     "emailRequired": "Email field is required",
     "messageRequired": "Message field is required",
-    "success": "Message sent successfully! Thank you for contacting us.",
+    "success": "Message sent successfully! We will contact you as soon as possible.",
     "error": "An error occurred while sending the message. Please try again.",
-    "location": "Location",
-    "locationDesc": "Our nursery is located in the village of Pločica, near Kovin. You can easily find us and come by car on the local road."
+    "sending": "Sending...",
+    "location": "National Delivery",
+    "locationDesc": "Plant Dgd delivers ornamental plants wholesale throughout Romania. Transport is provided with specialized vehicles to ensure plants arrive in perfect condition. Contact us for delivery details and pricing."
   },
   "products": {
-    "title": "Our Offer",
-    "subtitle": "In our nursery you can find the highest quality seedlings for your yard and garden. View the selection of the most sought-after plants:",
+    "title": "Wholesale Product Catalog",
+    "subtitle": "Our complete range of ornamental plants for wholesale clients. Large quantities, competitive prices, guaranteed quality.",
     "allCategories": "All Categories",
     "cetinari": "Conifers",
     "liscari": "Deciduous",
@@ -118,83 +139,165 @@
     "photos": "photos"
   },
   "footer": {
-    "description": "Your reliable partner for ornamental plants and flowers. Quality and beauty in every plant.",
+    "description": "Your wholesale supplier of ornamental plants. Premium quality, competitive prices, delivery throughout Romania.",
     "quickLinks": "Quick Links",
     "contactInfo": "Contact Information",
-    "rights": "All rights reserved."
+    "rights": "All rights reserved.",
+    "wholesale": "Wholesale Sales",
+    "b2b": "B2B Partnerships"
   },
   "productDescriptions": {
     "1": {
-      "name": "Thuja Smaragd",
-      "description": "Thuja Smaragd is an evergreen conifer, perfect for hedges and yard decoration. Resistant, easy to maintain and grows fast."
+      "name": "Emerald Green Arborvitae (Thuja occidentalis 'Smaragd')",
+      "description": "Emerald Green Arborvitae (Thuja occidentalis 'Smaragd') is the most popular evergreen hedge conifer. Narrow, columnar form with vibrant green colour year-round. Available wholesale in large quantities."
     },
     "2": {
-      "name": "Yew",
-      "description": "Yew (Taxus) is a long-lived conifer, excellent for shaping and hedges. Grows slowly but is extremely decorative."
+      "name": "English Yew (Taxus baccata)",
+      "description": "English Yew (Taxus baccata) is one of the longest-lived conifers in Europe, excellent for topiary and formal hedging. Slow growing but exceptionally durable and decorative."
     },
     "3": {
-      "name": "Black Pine",
-      "description": "Black Pine is a beautiful evergreen tree with characteristic dark green needles. Resistant and fits well into various landscapes."
+      "name": "Austrian Pine (Pinus nigra)",
+      "description": "Austrian Pine (Pinus nigra) is a robust, wind-resistant evergreen tree with characteristic dark green needles. Tolerates poor soils, drought and urban pollution – ideal for large-scale plantings."
     },
     "4": {
-      "name": "Thuja Orientalis",
-      "description": "Thuja Orientalis is an evergreen conifer, ideal for hedges and yard decoration. Compact and resistant."
+      "name": "Oriental Arborvitae (Platycladus orientalis)",
+      "description": "Oriental Arborvitae (Platycladus orientalis) is an evergreen conifer with elegant, fan-shaped vertical sprays. More drought-tolerant than common thuja – ideal for warm, exposed sites."
     },
     "5": {
-      "name": "Blue Spruce",
-      "description": "Blue Spruce is a beautiful evergreen tree with characteristic blue-gray needles. Excellent for decorative purposes."
+      "name": "Colorado Blue Spruce (Picea pungens 'Glauca')",
+      "description": "Colorado Blue Spruce (Picea pungens 'Glauca') is a stunning evergreen with distinctive silvery-blue needles. A premium specimen tree for parks, public spaces and landscape focal points."
     },
     "6": {
-      "name": "Juniperus Horizontalis",
-      "description": "Juniperus horizontalis (creeping juniper) is a perfect ground cover. Low and dense growth, ideal for covering ground, rockeries and slopes."
+      "name": "Creeping Juniper (Juniperus horizontalis)",
+      "description": "Creeping Juniper (Juniperus horizontalis) is a low-growing, spreading groundcover conifer. Ideal for slope stabilisation, ground cover and rockery planting."
     },
     "7": {
-      "name": "Catalpa",
-      "description": "Catalpa is an ornamental tree with large leaves and beautiful white flowers. Provides shade and adds special beauty to any yard."
+      "name": "Indian Bean Tree (Catalpa bignonioides)",
+      "description": "Indian Bean Tree (Catalpa bignonioides) is a bold ornamental tree with large tropical-looking leaves and white orchid-like flowers in summer. An impressive shade tree for parks and avenues."
     },
     "8": {
-      "name": "Magnolia Grandiflora",
-      "description": "Magnolia Grandiflora is a beautiful evergreen tree with large white flowers and beautiful fragrance. True ornament of any yard."
+      "name": "Southern Magnolia (Magnolia grandiflora)",
+      "description": "Southern Magnolia (Magnolia grandiflora) is a magnificent evergreen tree bearing enormous, fragrant white flowers in summer. A premium statement tree for high-end landscaping projects."
     },
     "9": {
-      "name": "Cherry Laurel",
-      "description": "Cherry Laurel is an evergreen shrub, ideal for dense, elegant hedges. Resistant to frost and urban conditions."
+      "name": "Prunus laurocerasus",
+      "description": "Cherry Laurel (Prunus laurocerasus) is the most widely used evergreen hedging shrub in Europe. Dense, glossy foliage, fast-growing and tolerant of shade, frost and urban conditions."
     },
     "10": {
-      "name": "Photinia Red Robin",
-      "description": "Photinia Red Robin is an evergreen shrub with attractive red young shoots. Ideal for decoration and forming hedges."
+      "name": "Red Robin Photinia (Photinia × fraseri 'Red Robin')",
+      "description": "Red Robin Photinia (Photinia × fraseri 'Red Robin') is a striking evergreen shrub with vivid red new growth in spring. Excellent as a hedge or specimen shrub in commercial and residential projects."
     },
     "11": {
-      "name": "Pennisetum alopecuroides",
-      "description": "Pennisetum alopecuroides is a decorative perennial with beautiful inflorescences. Ideal for landscape designs and yard decoration."
+      "name": "Chinese Fountain Grass (Pennisetum alopecuroides)",
+      "description": "Chinese Fountain Grass (Pennisetum alopecuroides) is a graceful ornamental grass with arching foliage and fluffy bottle-brush flower heads. Ideal for naturalistic and contemporary landscape designs."
     },
     "12": {
-      "name": "Bamboo",
-      "description": "Bamboo is a fast-growing grass that creates a natural hedge and gives an exotic landscape. Ideal for modern designs."
+      "name": "Bamboo (Phyllostachys / Fargesia)",
+      "description": "Bamboo is a fast-growing plant that creates natural privacy screens and windbreaks. Available in clump-forming (Fargesia) and running (Phyllostachys) varieties for different applications."
     },
     "13": {
-      "name": "Hydrangea",
-      "description": "Hydrangea is a beautiful flowering shrub with large spherical flowers in various colors. Ideal for decorating gardens and yards."
+      "name": "Hydrangea (Hydrangea)",
+      "description": "Hydrangea is a classic flowering shrub bearing large mophead or lacecap blooms in white, pink and blue. A versatile plant for commercial gardens, parks and public spaces."
     },
     "14": {
-      "name": "Ivy (Hedera helix)",
-      "description": "Ivy (Hedera helix) is an evergreen climber, ideal for covering fences and walls. Decorative all year round, fast and dense growth."
+      "name": "Common Ivy (Hedera helix)",
+      "description": "Common Ivy (Hedera helix) is a vigorous, self-clinging evergreen climber, ideal for covering walls, fences and bare structures. Provides year-round coverage with minimal maintenance."
     },
     "15": {
-      "name": "Lonicera Nitida",
-      "description": "Lonicera nitida is a dense and modern green hedge. Perfect choice for low hedges and shaping spaces."
+      "name": "Box-leaved Honeysuckle (Lonicera nitida)",
+      "description": "Box-leaved Honeysuckle (Lonicera nitida) forms a dense, small-leaved evergreen hedge that responds excellently to clipping. Perfect for low formal hedges and edging in commercial landscapes."
     },
     "16": {
-      "name": "Heuchera",
-      "description": "Heuchera (Coral Bells) brings color and elegance throughout the year. Ideal choice for decorative gardens."
+      "name": "Coral Bells (Heuchera)",
+      "description": "Coral Bells (Heuchera) is a versatile perennial valued for its striking foliage in shades of burgundy, bronze, lime and silver. Provides colour and texture in borders throughout the year."
     },
     "17": {
-      "name": "Hibiskus",
-      "description": "Hibiscus is exotic beauty for any space. Perfect choice for yards, terraces and decorative gardens."
+      "name": "Rose of Sharon (Hibiscus syriacus)",
+      "description": "Rose of Sharon (Hibiscus syriacus) is a hardy deciduous shrub flowering prolifically from July to October in shades of white, pink and violet. An excellent choice for mixed borders and hedging."
     },
     "18": {
-      "name": "Spirea",
-      "description": "Spirea offers abundant flowering and easy care. Ideal choice for yard decoration."
+      "name": "Spirea / Bridalwreath (Spiraea)",
+      "description": "Spirea (Spiraea) is a flowering deciduous shrub producing masses of white or pink blossom in spring and summer. Low-maintenance and highly rewarding in borders and naturalistic plantings."
+    },
+    "19": {
+      "name": "Standard Mugo Pine (Pinus mugo on stem)",
+      "description": "Standard Mugo Pine (Pinus mugo) grafted onto a clear stem creates a compact, ball-headed specimen. An elegant focal point for entrance areas, patios and formal garden designs."
+    },
+    "20": {
+      "name": "Peony (Paeonia)",
+      "description": "Peony (Paeonia) is a long-lived herbaceous perennial producing large, fragrant blooms in white, pink and red each spring. Once established, it thrives for decades with minimal care."
+    },
+    "21": {
+      "name": "Common Bugle (Ajuga reptans)",
+      "description": "Common Bugle (Ajuga reptans) is a low-growing, spreading ground cover perennial with blue flower spikes in spring. Ideal for underplanting trees and shrubs in shaded areas."
+    },
+    "22": {
+      "name": "False Goatsbeard (Astilbe)",
+      "description": "False Goatsbeard (Astilbe) is an elegant moisture-loving perennial with feathery plumes in pink, red and white. Excellent for damp, shaded borders and waterside plantings."
+    },
+    "23": {
+      "name": "Japanese Sedge 'Ice Dance' (Carex morrowii)",
+      "description": "Japanese Sedge 'Ice Dance' (Carex morrowii) is a neat, semi-evergreen ornamental grass with green leaves edged in creamy white. Suitable for containers, rockeries and woodland gardens."
+    },
+    "24": {
+      "name": "Blue Fescue (Festuca glauca)",
+      "description": "Blue Fescue (Festuca glauca) is a compact ornamental grass with distinctive blue-grey tufted foliage. Drought-tolerant and ideal for rockeries, gravel gardens and contemporary landscapes."
+    },
+    "25": {
+      "name": "Daylily (Hemerocallis)",
+      "description": "Daylily (Hemerocallis) is a reliable, long-flowering perennial producing trumpet-shaped blooms in orange, yellow and red from June to August. Near-indestructible and suitable for mass planting."
+    },
+    "26": {
+      "name": "Plantain Lily (Hosta)",
+      "description": "Plantain Lily (Hosta) is the premier shade garden perennial, grown for its bold, decorative foliage in shades of blue, green and gold. An essential plant for woodland and shaded borders."
+    },
+    "27": {
+      "name": "Bearded Iris (Iris germanica)",
+      "description": "Bearded Iris (Iris germanica) is a classic cottage garden perennial bearing elegant flowers in purple, blue, white and yellow in late spring. Drought-tolerant and easy to grow."
+    },
+    "28": {
+      "name": "Red Hot Poker (Kniphofia uvaria)",
+      "description": "Red Hot Poker (Kniphofia uvaria) is a striking architectural perennial with vivid orange-red torch-like flower spikes. A dramatic focal point in sunny borders and contemporary gardens."
+    },
+    "29": {
+      "name": "Monkey Grass (Ophiopogon japonicus)",
+      "description": "Monkey Grass (Ophiopogon japonicus) is an evergreen, grass-like ground cover that forms dense, weed-suppressing carpets. Low-maintenance and suitable for shaded areas and underplanting."
+    },
+    "30": {
+      "name": "Obedient Plant (Physostegia virginiana 'Alba')",
+      "description": "Obedient Plant (Physostegia virginiana 'Alba') produces spikes of white tubular flowers in late summer. A vigorous, easy-to-grow perennial for naturalistic and informal border planting."
+    },
+    "31": {
+      "name": "Stonecrop 'Angelina' (Sedum rupestre)",
+      "description": "Stonecrop 'Angelina' (Sedum rupestre) is a succulent ground cover with golden-yellow needle-like leaves that turn vivid orange in autumn. Perfect for dry rockeries and green roofs."
+    },
+    "32": {
+      "name": "Hybrid Stonecrop (Sedum hybridum)",
+      "description": "Hybrid Stonecrop (Sedum hybridum) forms dense, evergreen mats of bright green succulent leaves. Drought-tolerant and ideal for large-scale ground cover and extensive green roof systems."
+    },
+    "33": {
+      "name": "Rock Stonecrop 'Blue' (Sedum rupestre)",
+      "description": "Rock Stonecrop 'Blue' (Sedum rupestre) is a low-growing succulent with attractive blue-grey foliage. Virtually indestructible and perfect for dry, sunny positions and wall crevices."
+    },
+    "34": {
+      "name": "Watson's Stonecrop (Sedum)",
+      "description": "Watson's Stonecrop is a decorative succulent perennial with attractive pink-green rosettes. Retains its colour and form throughout the growing season."
+    },
+    "35": {
+      "name": "Ice Plant (Hylotelephium spectabile)",
+      "description": "Ice Plant (Hylotelephium spectabile) is a robust late-season perennial with broad, fleshy leaves and large flat-topped pink flower heads in late summer. An excellent pollinator plant."
+    },
+    "36": {
+      "name": "Lamb's Ear (Stachys byzantina)",
+      "description": "Lamb's Ear (Stachys byzantina) is beloved for its thick, soft, silver-grey woolly leaves. An exceptional textural ground cover and edging plant for sunny, well-drained positions."
+    },
+    "37": {
+      "name": "Olive Tree (Olea europaea)",
+      "description": "Olive Tree (Olea europaea) is an iconic evergreen Mediterranean tree with distinctive silvery-green foliage. Long-lived and architectural – increasingly popular in northern European garden design."
+    },
+    "38": {
+      "name": "Bonsai",
+      "description": "Bonsai is the ancient Japanese art of cultivating miniature trees. Each piece is unique and handcrafted – an exceptional gift or statement decorative element for interiors and terraces."
     }
   }
 }

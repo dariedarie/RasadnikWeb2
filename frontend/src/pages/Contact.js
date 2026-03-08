@@ -73,9 +73,9 @@ const Contact = () => {
   return (
     <>
     <Helmet>
-      <title>Kontakt – Rasadnik Tilija | Pozovite nas</title>
-      <meta name="description" content="Kontaktirajte Rasadnik Tilija za narudžbinu sadnica. Telefon: 063/86-11-662. Adresa: Utrinska 17, Kovin. Dostava širom Srbije." />
-      <link rel="canonical" href="https://rasadniktilija.rs/contact" />
+      <title>Contact Plant Dgd – Ofertă Angro Plante Ornamentale România</title>
+      <meta name="description" content="Contactați Plant Dgd pentru ofertă en gros de plante ornamentale. Telefon: +381 63 88 70 837. Livrare în toată România. Prețuri competitive pentru peisagiști și centre de grădinărit." />
+      <link rel="canonical" href="https://plantdgd.ro/contact" />
     </Helmet>
     <div className="contact-page" style={{background: 'linear-gradient(135deg, #e0f2f1 0%, #f9fbe7 100%)', minHeight: '100vh'}}>
       <section className="hero-small">
@@ -103,6 +103,10 @@ const Contact = () => {
             <div className="info-item" style={{marginBottom: 24}}>
               <div style={{fontSize: 40, marginBottom: 8}}>📞</div>
               <a href="tel:+381638870837" style={{color: '#234d20', fontSize: '1.05rem', textDecoration: 'none'}}>+381 63 88 70 837</a>
+            </div>
+            <div className="info-item" style={{marginBottom: 24}}>
+              <div style={{fontSize: 40, marginBottom: 8}}>💬</div>
+              <a href="https://wa.me/381638870837" target="_blank" rel="noopener noreferrer" style={{color: '#234d20', fontSize: '1.05rem', textDecoration: 'none'}}>WhatsApp</a>
             </div>
             <div className="info-item" style={{marginBottom: 24}}>
               <div style={{fontSize: 40, marginBottom: 8}}>📧</div>
@@ -262,7 +266,7 @@ const Contact = () => {
                   e.target.style.boxShadow = '0 4px 12px rgba(46, 125, 50, 0.25)';
                 }}
               >
-                {isSubmitting ? 'Slanje...' : t('contact.send')}
+                {isSubmitting ? t('contact.sending') : t('contact.send')}
               </button>
             </form>
           </div>

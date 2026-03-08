@@ -8,9 +8,9 @@ const About = () => {
   return (
     <>
     <Helmet>
-      <title>O nama – Rasadnik Tilija | 30+ godina iskustva</title>
-      <meta name="description" content="Rasadnik Tilija je porodična firma iz Kovina sa više od 30 godina iskustva u prodaji ukrasnog bilja i sadnica. Kvalitet, pouzdanost i prirodnost." />
-      <link rel="canonical" href="https://rasadniktilija.rs/about" />
+      <title>Despre Plant Dgd – Furnizor Angro Plante Ornamentale România</title>
+      <meta name="description" content="Plant Dgd - furnizor de plante ornamentale en gros cu 15+ ani de experiență. Livrăm peisagiști, centre de grădinărit, primării și companii din toată România cu plante de calitate superioară." />
+      <link rel="canonical" href="https://plantdgd.ro/about" />
     </Helmet>
     <div className="about-page" style={{background: 'linear-gradient(135deg, #e0f2f1 0%, #f9fbe7 100%)', minHeight: '100vh'}}>
       <section className="hero-small">
@@ -39,9 +39,9 @@ const About = () => {
             justifyContent: 'center',
             padding: '20px'
           }}>
-            <img 
-              src="/images/logoeraser.png" 
-              alt="Logo Rasadnik Tilija" 
+            <img
+              src="/images/logo.png"
+              alt="Plant Dgd Logo"
               style={{
                 maxWidth: '280px', 
                 width: '100%', 
@@ -107,20 +107,48 @@ const About = () => {
               <div className="stat-number">15+</div>
               <div className="stat-label">{t('about.yearsExperience')}</div>
             </div>
-            
-            <div className="stat-card">
-              <div className="stat-number">1000+</div>
-              <div className="stat-label">{t('about.satisfiedCustomers')}</div>
-            </div>
-            
+
             <div className="stat-card">
               <div className="stat-number">500+</div>
+              <div className="stat-label">{t('about.satisfiedCustomers')}</div>
+            </div>
+
+            <div className="stat-card">
+              <div className="stat-number">100+</div>
               <div className="stat-label">{t('about.plantTypes')}</div>
             </div>
-            
+
             <div className="stat-card">
-              <div className="stat-number">24h</div>
+              <div className="stat-number">48h</div>
               <div className="stat-label">{t('about.deliveryTime')}</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="section" style={{background: '#fff'}}>
+        <div className="container">
+          <h2 className="section-title">{t('about.whoWeServe')}</h2>
+          <div className="values-grid">
+            <div className="value-card">
+              <div className="value-icon">🏗️</div>
+              <h3>{t('about.landscapers')}</h3>
+              <p>{t('about.landscapersDesc')}</p>
+            </div>
+            <div className="value-card">
+              <div className="value-icon">🪴</div>
+              <h3>{t('about.gardenCenters')}</h3>
+              <p>{t('about.gardenCentersDesc')}</p>
+            </div>
+            <div className="value-card">
+              <div className="value-icon">🏛️</div>
+              <h3>{t('about.municipalities')}</h3>
+              <p>{t('about.municipalitiesDesc')}</p>
+            </div>
+            <div className="value-card">
+              <div className="value-icon">🏢</div>
+              <h3>{t('about.developers')}</h3>
+              <p>{t('about.developersDesc')}</p>
             </div>
           </div>
         </div>

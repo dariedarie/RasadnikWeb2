@@ -1,0 +1,16 @@
+{
+  "short_name": "Plant DGD",
+  "name": "Plant DGD – Angro de Plante Ornamentale",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2e7d32",
+  "background_color": "#ffffff"
+}

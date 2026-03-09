@@ -37,8 +37,8 @@ const Home = () => {
           zIndex: 1
         }} />
         <div className="container" style={{position: 'relative', zIndex: 2, textAlign: 'center', color: 'white', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: 18, padding: '48px 0 56px 0'}}>
-          <h1 style={{fontSize: '3.2rem', fontWeight: 700, letterSpacing: 1, marginBottom: 18, textShadow: '0 2px 12px rgba(0,0,0,0.18)'}}>{t('home.title')}</h1>
-          <p style={{fontWeight: 500, fontSize: '1.3rem', marginBottom: 32, opacity: 0.95, maxWidth: 600}}>{t('home.subtitle')}</p>
+          <h1 style={{fontSize: 'clamp(1.6rem, 5vw, 3.2rem)', fontWeight: 700, letterSpacing: 1, marginBottom: 18, textShadow: '0 2px 12px rgba(0,0,0,0.18)'}}>{t('home.title')}</h1>
+          <p style={{fontWeight: 500, fontSize: 'clamp(1rem, 3vw, 1.3rem)', marginBottom: 32, opacity: 0.95, maxWidth: 600}}>{t('home.subtitle')}</p>
           <a href="/products" className="btn-primary" style={{
             marginTop: 12,
             padding: '18px 48px',

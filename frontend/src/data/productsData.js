@@ -127,6 +127,30 @@ export const products = [
     }
   },
 
+  // ==================== LEYLAND (ID: 39) ====================
+  {
+    id: 39,
+    name: 'Chiparos Leyland',
+    category: 'cetinari',
+    categories: ['cetinari', 'ziva-ograda'],
+    price: 0,
+    showPrice: false,
+    image: '/images/leylandii.jpeg',
+    images: [
+      '/images/leylandii.jpeg',
+      '/images/leylandii2.jpeg'
+    ],
+    description: 'Chiparosul Leyland (× Cuprocyparis leylandii) este un conifer sempervirescând cu creștere extrem de rapidă, ideal pentru garduri vii înalte și paravânturi. Tolerează tunsorile repetate și se adaptează la diverse condiții de sol.',
+    inStock: true,
+    details: {
+      height: 'Disponibil în toate înălțimile',
+      sunlight: 'Soare până la semiumbră',
+      watering: 'Udare moderată',
+      soil: 'Diverse tipuri de sol',
+      hardiness: 'Rezistent la ger până la -15°C'
+    }
+  },
+
   // ==================== LIŠĆARI (ID: 7-8) ====================
   {
     id: 7,

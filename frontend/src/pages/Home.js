@@ -405,17 +405,17 @@ const Home = () => {
               </div>
             </Link>
 
-            {/* Bambus kartica */}
+            {/* Leyland kartica */}
             <Link
-              to="/products/12"
-              onMouseEnter={() => setHoveredCard('bambus')}
+              to="/products/39"
+              onMouseEnter={() => setHoveredCard('leyland')}
               onMouseLeave={() => setHoveredCard(null)}
               style={{
                 position: 'relative',
                 borderRadius: 24,
                 overflow: 'hidden',
-                boxShadow: hoveredCard === 'bambus' ? '0 16px 48px rgba(46, 125, 50, 0.25)' : '0 8px 32px rgba(44,62,80,0.12)',
-                transform: hoveredCard === 'bambus' ? 'translateY(-8px)' : 'translateY(0)',
+                boxShadow: hoveredCard === 'leyland' ? '0 16px 48px rgba(46, 125, 50, 0.25)' : '0 8px 32px rgba(44,62,80,0.12)',
+                transform: hoveredCard === 'leyland' ? 'translateY(-8px)' : 'translateY(0)',
                 transition: 'all 0.4s cubic-bezier(0.4, 0, 0.2, 1)',
                 textDecoration: 'none',
                 cursor: 'pointer',
@@ -430,13 +430,13 @@ const Home = () => {
                 overflow: 'hidden'
               }}>
                 <img
-                  src="/images/bambus.jpeg"
-                  alt="Bambus"
+                  src="/images/leylandii.jpeg"
+                  alt="Chiparos Leyland"
                   style={{
                     width: '100%',
                     height: '100%',
                     objectFit: 'cover',
-                    transform: hoveredCard === 'bambus' ? 'scale(1.1)' : 'scale(1)',
+                    transform: hoveredCard === 'leyland' ? 'scale(1.1)' : 'scale(1)',
                     transition: 'transform 0.6s cubic-bezier(0.4, 0, 0.2, 1)'
                   }}
                 />
@@ -468,13 +468,13 @@ const Home = () => {
                   fontWeight: 700,
                   color: '#2e7d32',
                   marginBottom: 8
-                }}>{t('home.bambus')}</h3>
+                }}>{t('home.leyland')}</h3>
                 <p style={{
                   fontSize: '0.95rem',
                   color: '#234d20',
                   opacity: 0.85,
                   lineHeight: 1.5
-                }}>{t('home.bambusDesc')}</p>
+                }}>{t('home.leylandDesc')}</p>
               </div>
             </Link>
 

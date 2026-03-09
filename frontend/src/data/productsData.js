@@ -175,9 +175,9 @@ export const products = [
     image: '/images/lovorvisnja.jpeg',
     images: [
       '/images/lovorvisnja.jpeg',
+      '/images/prunus.jpeg',
       '/images/IMG_5327.jpeg',
       '/images/lovor1.jpeg',
-      '/images/lovor2.jpeg',
       '/images/lovor3.jpeg',
       '/images/lovor4.jpeg'
     ],

@@ -59,7 +59,7 @@ def contact():
         admin_email = os.environ.get('ADMIN_EMAIL', 'dvdcolak@gmail.com')
 
         params = {
-            "from": "Rasadnik Kontakt <onboarding@resend.dev>",
+            "from": "Plant DGD Kontakt <onboarding@resend.dev>",
             "to": [admin_email],
             "subject": f"Nova kontakt poruka od {name}",
             "html": f"""

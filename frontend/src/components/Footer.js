@@ -32,7 +32,7 @@ const Footer = () => {
             <h4>{t('footer.contactInfo')}</h4>
             <ul>
               <li><a href="tel:+40729048545" style={{color: 'inherit', textDecoration: 'none'}}>📞 +40 729 048 545</a></li>
-              <li><a href="https://wa.me/40729048545" target="_blank" rel="noopener noreferrer" style={{color: 'inherit', textDecoration: 'none'}}>💬 WhatsApp</a></li>
+              <li><a href="https://wa.me/381638870837" target="_blank" rel="noopener noreferrer" style={{color: 'inherit', textDecoration: 'none'}}>💬 WhatsApp</a></li>
               <li><a href="mailto:office@plantdgd.ro" style={{color: 'inherit', textDecoration: 'none'}}>📧 office@plantdgd.ro</a></li>
             </ul>
           </div>

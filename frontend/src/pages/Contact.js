@@ -106,7 +106,7 @@ const Contact = () => {
             </div>
             <div className="info-item" style={{marginBottom: 24}}>
               <div style={{fontSize: 40, marginBottom: 8}}>💬</div>
-              <a href="https://wa.me/40729048545" target="_blank" rel="noopener noreferrer" style={{color: '#234d20', fontSize: '1.05rem', textDecoration: 'none'}}>WhatsApp</a>
+              <a href="https://wa.me/381638870837" target="_blank" rel="noopener noreferrer" style={{color: '#234d20', fontSize: '1.05rem', textDecoration: 'none'}}>WhatsApp</a>
             </div>
             <div className="info-item" style={{marginBottom: 24}}>
               <div style={{fontSize: 40, marginBottom: 8}}>📧</div>

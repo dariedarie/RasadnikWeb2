@@ -11,7 +11,7 @@ import Contact from './pages/Contact';
 import Gallery from './pages/Gallery';
 import Footer from './components/Footer';
 
-const BACKEND_URL = process.env.REACT_APP_BACKEND_URL || 'https://rasadnikweb.onrender.com';
+const BACKEND_URL = process.env.REACT_APP_BACKEND_URL || 'https://rasadnikweb2.onrender.com';
 
 function App() {
   useEffect(() => {

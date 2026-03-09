@@ -7,10 +7,10 @@
     "gallery": "Galerie"
   },
   "home": {
-    "title": "Plant DGD – Pflanzen Großhandel",
+    "title": "PlantDGD – Pflanzen Großhandel",
     "subtitle": "Ihr zuverlässiger Partner für Zierpflanzen im Großhandel. Erstklassige Qualität, wettbewerbsfähige Preise, Lieferung in Rumänien und ganz Europa.",
     "viewProducts": "Katalog ansehen",
-    "whyChooseUs": "Warum Plant DGD wählen",
+    "whyChooseUs": "Warum PlantDGD wählen",
     "provenQuality": "Bewährte Qualität",
     "provenQualityDesc": "Bewährte Erfahrung in der Produktion und Lieferung hochwertiger Zierpflanzen in ganz Europa.",
     "fastDelivery": "Schnelle Lieferung",
@@ -37,10 +37,10 @@
     "viewAll": "Alle Produkte anzeigen"
   },
   "about": {
-    "title": "Über Plant DGD",
+    "title": "Über PlantDGD",
     "subtitle": "Ihr zuverlässiger Partner für Zierpflanzen im Großhandel in Rumänien und Europa",
     "ourStory": "Unsere Geschichte",
-    "story1": "Plant DGD ist ein auf den Großhandel mit Zierpflanzen spezialisiertes Unternehmen. Wir beliefern professionelle Landschaftsgärtner, Gartencenter, Gemeinden und Privatunternehmen in Rumänien mit hochwertigen Pflanzen zu wettbewerbsfähigen Preisen.",
+    "story1": "PlantDGD S.R.L. ist ein auf den Großhandel mit Zierpflanzen spezialisiertes Unternehmen. Wir beliefern professionelle Landschaftsgärtner, Gartencenter, Gemeinden und Privatunternehmen in Rumänien mit hochwertigen Pflanzen zu wettbewerbsfähigen Preisen.",
     "story2": "Wir produzieren und liefern Nadelbäume, Zierbäume, Sträucher, Stauden und Heckenpflanzen im kommerziellen Maßstab. Wir arbeiten mit Kunden aus ganz Rumänien und Europa zusammen und bieten umfassende Dienstleistungen.",
     "ourValues": "Unsere Werte",
     "natural": "Natürlichkeit",
@@ -86,7 +86,7 @@
     "success": "Nachricht erfolgreich gesendet! Wir werden Sie so schnell wie möglich kontaktieren.",
     "error": "Beim Senden der Nachricht ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.",
     "location": "Lieferung in Rumänien & Europa",
-    "locationDesc": "Plant DGD liefert Zierpflanzen im Großhandel in ganz Rumänien und Europa. Der Transport wird mit Spezialfahrzeugen durchgeführt, um sicherzustellen, dass die Pflanzen in einwandfreiem Zustand ankommen."
+    "locationDesc": "PlantDGD liefert Zierpflanzen im Großhandel in ganz Rumänien und Europa. Der Transport wird mit Spezialfahrzeugen durchgeführt, um sicherzustellen, dass die Pflanzen in einwandfreiem Zustand ankommen."
   },
   "products": {
     "title": "Großhandels-Produktkatalog",

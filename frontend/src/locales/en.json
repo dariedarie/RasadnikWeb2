@@ -7,10 +7,10 @@
     "gallery": "Gallery"
   },
   "home": {
-    "title": "Plant DGD – Wholesale Ornamental Plants",
+    "title": "PlantDGD – Wholesale Ornamental Plants",
     "subtitle": "Your trusted wholesale supplier of ornamental plants. Premium quality, competitive prices, delivery throughout Romania and Europe.",
     "viewProducts": "View Catalog",
-    "whyChooseUs": "Why Choose Plant DGD",
+    "whyChooseUs": "Why Choose PlantDGD",
     "provenQuality": "Proven Quality",
     "provenQualityDesc": "Proven experience in producing and delivering premium ornamental plants across Europe.",
     "fastDelivery": "Fast Delivery",
@@ -37,10 +37,10 @@
     "viewAll": "View All Products"
   },
   "about": {
-    "title": "About Plant DGD",
+    "title": "About PlantDGD",
     "subtitle": "Your trusted wholesale partner for ornamental plants in Romania and Europe",
     "ourStory": "Our Story",
-    "story1": "Plant DGD is a company specialized in wholesale ornamental plants. We supply professional landscapers, garden centers, municipalities and private companies in Romania with premium quality plants at competitive prices.",
+    "story1": "PlantDGD S.R.L. is a company specialized in wholesale ornamental plants. We supply professional landscapers, garden centers, municipalities and private companies in Romania with premium quality plants at competitive prices.",
     "story2": "We produce and deliver conifers, ornamental trees, shrubs, perennials and hedge plants on a commercial scale. We work with clients from all over Romania and Europe, offering comprehensive services from species selection consulting to specialized transport.",
     "ourValues": "Our Values",
     "natural": "Naturalness",
@@ -85,7 +85,7 @@
     "error": "An error occurred while sending the message. Please try again.",
     "sending": "Sending...",
     "location": "Romania & European Delivery",
-    "locationDesc": "Plant DGD delivers ornamental plants wholesale throughout Romania and Europe. Transport is provided with specialized vehicles to ensure plants arrive in perfect condition. Contact us for delivery details and pricing."
+    "locationDesc": "PlantDGD delivers ornamental plants wholesale throughout Romania and Europe. Transport is provided with specialized vehicles to ensure plants arrive in perfect condition. Contact us for delivery details and pricing."
   },
   "products": {
     "title": "Wholesale Product Catalog",

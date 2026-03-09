@@ -36,8 +36,8 @@ const Gallery = () => {
   return (
     <>
     <Helmet>
-      <title>Galerie Plant DGD – Fotografii Plante Ornamentale En Gros</title>
-      <meta name="description" content="Galeria Plant DGD - fotografii cu plante ornamentale disponibile en gros: conifere, arbuști, garduri vii, arbori ornamentali. Calitate superioară pentru peisagiști și centre de grădinărit." />
+      <title>Galerie PlantDGD – Fotografii Plante Ornamentale En Gros</title>
+      <meta name="description" content="Galeria PlantDGD - fotografii cu plante ornamentale disponibile en gros: conifere, arbuști, garduri vii, arbori ornamentali. Calitate superioară pentru peisagiști și centre de grădinărit." />
       <link rel="canonical" href="https://plantdgd.ro/gallery" />
     </Helmet>
     <div className="gallery-page">

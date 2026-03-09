@@ -52,10 +52,10 @@ const ProductDetails = () => {
   return (
     <>
     <Helmet>
-      <title>{product.name} – Plant DGD | Angro Plante Ornamentale România</title>
-      <meta name="description" content={`${product.name} en gros - Plant DGD furnizor de plante ornamentale. ${product.description.substring(0, 130)} Livrare în toată România.`} />
+      <title>{product.name} – PlantDGD | Angro Plante Ornamentale România</title>
+      <meta name="description" content={`${product.name} en gros - PlantDGD furnizor de plante ornamentale. ${product.description.substring(0, 130)} Livrare în toată România.`} />
       <link rel="canonical" href={`https://plantdgd.ro/products/${product.id}`} />
-      <meta property="og:title" content={`${product.name} En Gros – Plant DGD`} />
+      <meta property="og:title" content={`${product.name} En Gros – PlantDGD`} />
       <meta property="og:description" content={product.description.substring(0, 200)} />
       <meta property="og:image" content={`https://plantdgd.ro${product.image}`} />
       <meta property="og:url" content={`https://plantdgd.ro/products/${product.id}`} />

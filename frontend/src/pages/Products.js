@@ -181,7 +181,7 @@ const Products = () => {
   return (
     <>
     <Helmet>
-      <title>Catalog Produse – Plant DGD | Plante Ornamentale En Gros România</title>
+      <title>Catalog Produse – PlantDGD | Plante Ornamentale En Gros România</title>
       <meta name="description" content="Catalog complet de plante ornamentale en gros: conifere, arbuști, garduri vii, arbori foioși, perene. Prețuri competitive pentru peisagiști, centre de grădinărit și primării. Livrare în toată România." />
       <link rel="canonical" href="https://plantdgd.ro/products" />
     </Helmet>

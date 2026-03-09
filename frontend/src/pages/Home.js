@@ -11,8 +11,8 @@ const Home = () => {
   return (
     <>
     <Helmet>
-      <title>Plant DGD – Angro de Plante Ornamentale | Vânzare En Gros România</title>
-      <meta name="description" content="Plant DGD - furnizor de plante ornamentale en gros în România. Tuia, conifere, arbuști, garduri vii, arbori ornamentali angro. Prețuri competitive pentru peisagiști și centre de grădinărit. Livrare în toată România." />
+      <title>PlantDGD – Angro de Plante Ornamentale | Vânzare En Gros România</title>
+      <meta name="description" content="PlantDGD - furnizor de plante ornamentale en gros în România. Tuia, conifere, arbuști, garduri vii, arbori ornamentali angro. Prețuri competitive pentru peisagiști și centre de grădinărit. Livrare în toată România." />
       <link rel="canonical" href="https://plantdgd.ro/" />
     </Helmet>
     <div className="home">

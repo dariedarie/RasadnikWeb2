@@ -238,7 +238,7 @@ const Home = () => {
                 </div>
               </div>
               <div style={{
-                padding: 24,
+                padding: '28px 24px 20px 24px',
                 height: '30%',
                 display: 'flex',
                 flexDirection: 'column',
@@ -311,7 +311,7 @@ const Home = () => {
                 </div>
               </div>
               <div style={{
-                padding: 24,
+                padding: '28px 24px 20px 24px',
                 height: '30%',
                 display: 'flex',
                 flexDirection: 'column',
@@ -384,7 +384,7 @@ const Home = () => {
                 </div>
               </div>
               <div style={{
-                padding: 24,
+                padding: '28px 24px 20px 24px',
                 height: '30%',
                 display: 'flex',
                 flexDirection: 'column',
@@ -457,7 +457,7 @@ const Home = () => {
                 </div>
               </div>
               <div style={{
-                padding: 24,
+                padding: '28px 24px 20px 24px',
                 height: '30%',
                 display: 'flex',
                 flexDirection: 'column',

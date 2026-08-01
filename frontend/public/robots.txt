@@ -1,9 +1,9 @@
-# Robots.txt for rasadniktilija.rs
+# Robots.txt for plantdgd.ro
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://rasadniktilija.rs/sitemap.xml
+Sitemap: https://plantdgd.ro/sitemap.xml
 
 # Crawl-delay (optional, be nice to Google)
 Crawl-delay: 1

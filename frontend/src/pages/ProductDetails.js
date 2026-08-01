@@ -156,7 +156,7 @@ const ProductDetails = () => {
                     <span className="spec-icon">📏</span>
                     <div className="spec-content">
                       <span className="spec-label">{t('productDetails.height') || 'Visina'}</span>
-                      <span className="spec-value">{product.details.height}</span>
+                      <span className="spec-value">{t(`productDescriptions.${product.id}.details.height`, { defaultValue: product.details.height })}</span>
                     </div>
                   </div>
                 )}
@@ -165,7 +165,7 @@ const ProductDetails = () => {
                     <span className="spec-icon">☀️</span>
                     <div className="spec-content">
                       <span className="spec-label">{t('productDetails.sunlight') || 'Svetlost'}</span>
-                      <span className="spec-value">{product.details.sunlight}</span>
+                      <span className="spec-value">{t(`productDescriptions.${product.id}.details.sunlight`, { defaultValue: product.details.sunlight })}</span>
                     </div>
                   </div>
                 )}
@@ -174,7 +174,7 @@ const ProductDetails = () => {
                     <span className="spec-icon">💧</span>
                     <div className="spec-content">
                       <span className="spec-label">{t('productDetails.watering') || 'Zalivanje'}</span>
-                      <span className="spec-value">{product.details.watering}</span>
+                      <span className="spec-value">{t(`productDescriptions.${product.id}.details.watering`, { defaultValue: product.details.watering })}</span>
                     </div>
                   </div>
                 )}
@@ -183,7 +183,7 @@ const ProductDetails = () => {
                     <span className="spec-icon">🌱</span>
                     <div className="spec-content">
                       <span className="spec-label">{t('productDetails.soil') || 'Zemljište'}</span>
-                      <span className="spec-value">{product.details.soil}</span>
+                      <span className="spec-value">{t(`productDescriptions.${product.id}.details.soil`, { defaultValue: product.details.soil })}</span>
                     </div>
                   </div>
                 )}
@@ -192,7 +192,7 @@ const ProductDetails = () => {
                     <span className="spec-icon">❄️</span>
                     <div className="spec-content">
                       <span className="spec-label">{t('productDetails.hardiness') || 'Otpornost'}</span>
-                      <span className="spec-value">{product.details.hardiness}</span>
+                      <span className="spec-value">{t(`productDescriptions.${product.id}.details.hardiness`, { defaultValue: product.details.hardiness })}</span>
                     </div>
                   </div>
                 )}

@@ -157,195 +157,531 @@
   "productDescriptions": {
     "1": {
       "name": "Tuia 'Smaragd' (Thuja occidentalis 'Smaragd')",
-      "description": "Tuia 'Smaragd' (Thuja occidentalis 'Smaragd') este cel mai popular conifer pentru garduri vii din România. Formă colum­nară îngustă, culoare verde intensă tot anul. Disponibilă en gros în cantități mari."
+      "description": "Tuia 'Smaragd' (Thuja occidentalis 'Smaragd') este cel mai popular conifer pentru garduri vii din România. Formă colum­nară îngustă, culoare verde intensă tot anul. Disponibilă en gros în cantități mari.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
     },
     "2": {
       "name": "Tisă (Taxus baccata)",
-      "description": "Tisa (Taxus baccata) este unul dintre cei mai longevivi coniferi din Europa, excelentă pentru tuns în forme și garduri vii dense. Creștere lentă, dar extrem de durabilă și decorativă."
+      "description": "Tisa (Taxus baccata) este unul dintre cei mai longevivi coniferi din Europa, excelentă pentru tuns în forme și garduri vii dense. Creștere lentă, dar extrem de durabilă și decorativă.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Umbră până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -20°C"
+      }
     },
     "3": {
       "name": "Pin negru (Pinus nigra)",
-      "description": "Pinul Negru este un arbore sempervirescând frumos cu ace verde-închis caracteristice. Rezistent și se integrează bine în diverse peisaje."
+      "description": "Pinul Negru este un arbore sempervirescând frumos cu ace verde-închis caracteristice. Rezistent și se integrează bine în diverse peisaje.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Nisipos până la argilos",
+        "hardiness": "Foarte rezistentă la ger"
+      }
     },
     "4": {
       "name": "Tuie orientală (Platycladus orientalis)",
-      "description": "Tuia orientală (Platycladus orientalis) are ramuri verticale în formă de evantai și este mai rezistentă la secetă decât tuia comună. Ideală pentru amplasamente însorite și bine expuse."
+      "description": "Tuia orientală (Platycladus orientalis) are ramuri verticale în formă de evantai și este mai rezistentă la secetă decât tuia comună. Ideală pentru amplasamente însorite și bine expuse.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol bine drenat",
+        "hardiness": "Rezistentă la ger până la -20°C"
+      }
     },
     "5": {
       "name": "Molid albastru (Picea pungens 'Glauca')",
-      "description": "Molidul albastru (Picea pungens 'Glauca') impresionează prin acele argintii-albăstrui distincte. Arbore-spectacol de prim rang pentru parcuri, spații publice și proiecte de amenajare premium."
+      "description": "Molidul albastru (Picea pungens 'Glauca') impresionează prin acele argintii-albăstrui distincte. Arbore-spectacol de prim rang pentru parcuri, spații publice și proiecte de amenajare premium.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Sol ușor acid",
+        "hardiness": "Foarte rezistentă la ger"
+      }
     },
     "6": {
       "name": "Ienupăr târâtor (Juniperus horizontalis)",
-      "description": "Ienupărul târâtor (Juniperus horizontalis) este un covor verde perfect pentru acoperirea solului. Creștere joasă și densă – ideal pentru fixarea taluzurilor, grădini de stânci și alei."
+      "description": "Ienupărul târâtor (Juniperus horizontalis) este un covor verde perfect pentru acoperirea solului. Creștere joasă și densă – ideal pentru fixarea taluzurilor, grădini de stânci și alei.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Sol bine drenat",
+        "hardiness": "Foarte rezistentă la ger și secetă"
+      }
     },
     "7": {
       "name": "Catalpă (Catalpa bignonioides)",
-      "description": "Catalpa (Catalpa bignonioides) este un arbore ornamental impunător cu frunze mari și flori albe parfumate în vară. Un arbore de umbră spectaculos pentru parcuri, bulevarde și spații publice."
+      "description": "Catalpa (Catalpa bignonioides) este un arbore ornamental impunător cu frunze mari și flori albe parfumate în vară. Un arbore de umbră spectaculos pentru parcuri, bulevarde și spații publice.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare regulată",
+        "soil": "Sol fertil, umed",
+        "hardiness": "Rezistentă la ger până la -15°C"
+      }
     },
     "8": {
       "name": "Magnolie sempervirescent (Magnolia grandiflora)",
-      "description": "Magnolia sempervirescent (Magnolia grandiflora) este un arbore maiestuos cu flori albe uriașe și parfum intens de vară. Specie de elită pentru amenajări peisagistice de lux și grădini mediteraneene."
+      "description": "Magnolia sempervirescent (Magnolia grandiflora) este un arbore maiestuos cu flori albe uriașe și parfum intens de vară. Specie de elită pentru amenajări peisagistice de lux și grădini mediteraneene.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare până la semiumbră",
+        "watering": "Udare regulată",
+        "soil": "Sol ușor acid, bogat",
+        "hardiness": "Rezistentă la ger până la -12°C"
+      }
     },
     "9": {
       "name": "Prunus laurocerasus",
-      "description": "Prunus laurocerasus este cel mai utilizat arbust sempervirescând pentru garduri vii din Europa. Frunziș dens și lucios, creștere rapidă, tolerează umbra, îngherul și condițiile urbane."
+      "description": "Prunus laurocerasus este cel mai utilizat arbust sempervirescând pentru garduri vii din Europa. Frunziș dens și lucios, creștere rapidă, tolerează umbra, îngherul și condițiile urbane.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare până la umbră",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -20°C"
+      }
     },
     "10": {
       "name": "Fotinie 'Red Robin' (Photinia × fraseri)",
-      "description": "Fotinia 'Red Robin' (Photinia × fraseri) fascinează prin lăstarii tineri roșu-aprins de primăvară. Ca gard viu sau arbust solitar, oferă un accent cromatic deosebit în grădini și spații verzi."
+      "description": "Fotinia 'Red Robin' (Photinia × fraseri) fascinează prin lăstarii tineri roșu-aprins de primăvară. Ca gard viu sau arbust solitar, oferă un accent cromatic deosebit în grădini și spații verzi.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol bine drenat",
+        "hardiness": "Rezistentă la ger până la -15°C"
+      }
     },
     "11": {
       "name": "Iarba-vulpii (Pennisetum alopecuroides)",
-      "description": "Iarba-vulpii (Pennisetum alopecuroides) este o iarbă ornamentală grațioasă cu spice mătăsoase ce se arcuiesc elegant. Ideală pentru amenajări naturale, parcuri și borduri decorative."
+      "description": "Iarba-vulpii (Pennisetum alopecuroides) este o iarbă ornamentală grațioasă cu spice mătăsoase ce se arcuiesc elegant. Ideală pentru amenajări naturale, parcuri și borduri decorative.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Sol bine drenat",
+        "hardiness": "Rezistentă la ger până la -20°C"
+      }
     },
     "12": {
       "name": "Bambus",
-      "description": "Bambusul este o plantă cu creștere rapidă ce creează garduri vii naturale și oferă un peisaj exotic. Ideală pentru proiecte moderne de amenajare."
+      "description": "Bambusul este o plantă cu creștere rapidă ce creează garduri vii naturale și oferă un peisaj exotic. Ideală pentru proiecte moderne de amenajare.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare până la semiumbră",
+        "watering": "Udare regulată",
+        "soil": "Sol bogat, umed",
+        "hardiness": "Depinde de specie, până la -15°C"
+      }
     },
     "13": {
       "name": "Hortensie",
-      "description": "Hortensia este un arbust înfloritor magnific cu flori sferice mari în diverse culori. Ideală pentru decorarea grădinilor și spațiilor comerciale."
+      "description": "Hortensia este un arbust înfloritor magnific cu flori sferice mari în diverse culori. Ideală pentru decorarea grădinilor și spațiilor comerciale.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Semiumbră",
+        "watering": "Udare frecventă",
+        "soil": "Sol acid până la neutru",
+        "hardiness": "Rezistentă la ger până la -15°C"
+      }
     },
     "14": {
       "name": "Iederă comună (Hedera helix)",
-      "description": "Iedera (Hedera helix) este o agățătoare sempervirescândă, ideală pentru acoperirea gardurilor și zidurilor. Decorativă tot anul, creștere rapidă și densă."
+      "description": "Iedera (Hedera helix) este o agățătoare sempervirescândă, ideală pentru acoperirea gardurilor și zidurilor. Decorativă tot anul, creștere rapidă și densă.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Umbră până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -20°C"
+      }
     },
     "15": {
       "name": "Caprifoi nitida (Lonicera nitida)",
-      "description": "Caprifoiul nitida (Lonicera nitida) formează garduri vii dese cu frunze mici, tolerând tunsorile repetate. Alegere perfectă pentru borduri joase și delimitarea spațiilor în amenajări formale."
+      "description": "Caprifoiul nitida (Lonicera nitida) formează garduri vii dese cu frunze mici, tolerând tunsorile repetate. Alegere perfectă pentru borduri joase și delimitarea spațiilor în amenajări formale.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -15°C"
+      }
     },
     "16": {
       "name": "Heucheră / Clopoței de coral (Heuchera)",
-      "description": "Heuchera aduce culoare și eleganță pe tot parcursul anului. Alegere ideală pentru grădini decorative și spații verzi."
+      "description": "Heuchera aduce culoare și eleganță pe tot parcursul anului. Alegere ideală pentru grădini decorative și spații verzi.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol bogat, bine drenat",
+        "hardiness": "Rezistentă la ger până la -20°C"
+      }
     },
     "17": {
       "name": "Hibiscus de grădină (Hibiscus syriacus)",
-      "description": "Hibiscusul de grădină (Hibiscus syriacus) înflorește abundent din iulie până în octombrie în alb, roz și violet. Rezistent la ger și ușor de întreținut – un arbust exotic adaptat climei europene."
+      "description": "Hibiscusul de grădină (Hibiscus syriacus) înflorește abundent din iulie până în octombrie în alb, roz și violet. Rezistent la ger și ușor de întreținut – un arbust exotic adaptat climei europene.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare regulată",
+        "soil": "Sol fertil, bine drenat",
+        "hardiness": "Rezistentă la ger până la -10°C"
+      }
     },
     "18": {
       "name": "Spiree (Spiraea)",
-      "description": "Spirea oferă înflorire abundentă și întreținere ușoară. Alegere ideală pentru decorarea spațiilor verzi comerciale."
+      "description": "Spirea oferă înflorire abundentă și întreținere ușoară. Alegere ideală pentru decorarea spațiilor verzi comerciale.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
     },
     "19": {
       "name": "Pin mugo pe tulpină (Pinus mugo)",
-      "description": "Pinul pe tulpină este un conifer decorativ format pe un singur trunchi, ideal pentru grădini mici și ca accent în amenajări."
+      "description": "Pinul pe tulpină este un conifer decorativ format pe un singur trunchi, ideal pentru grădini mici și ca accent în amenajări.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Sol bine drenat",
+        "hardiness": "Foarte rezistentă la ger"
+      }
     },
     "20": {
       "name": "Bujor (Paeonia)",
-      "description": "Bujorul (Paeonia) este o plantă magnifică cu flori mari și parfumate. Longevivă și rezistentă, înflorește primăvara."
+      "description": "Bujorul (Paeonia) este o plantă magnifică cu flori mari și parfumate. Longevivă și rezistentă, înflorește primăvara.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol fertil, bine drenat",
+        "hardiness": "Rezistentă la ger până la -20°C"
+      }
     },
     "21": {
       "name": "Ajugă / Vinariță (Ajuga reptans)",
-      "description": "Ajuga reptans este o perenă acoperitoare de sol cu floricele albastre. Ideală pentru acoperirea solului, grădini de stânci și margini de alei."
+      "description": "Ajuga reptans este o perenă acoperitoare de sol cu floricele albastre. Ideală pentru acoperirea solului, grădini de stânci și margini de alei.",
+      "details": {
+        "height": "10-15 cm",
+        "sunlight": "Semiumbră până la umbră",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
     },
     "22": {
       "name": "Astilbă (Astilbe × arendsii)",
-      "description": "Astilbe este o perenă elegantă cu inflorescențe penate în nuanțe roz, roșu și alb. Excelentă pentru zonele umbrite ale grădinii."
+      "description": "Astilbe este o perenă elegantă cu inflorescențe penate în nuanțe roz, roșu și alb. Excelentă pentru zonele umbrite ale grădinii.",
+      "details": {
+        "height": "40-60 cm",
+        "sunlight": "Semiumbră până la umbră",
+        "watering": "Udare regulată",
+        "soil": "Sol umed, bogat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
     },
     "23": {
       "name": "Rogoz japonez 'Ice Dance' (Carex morrowii)",
-      "description": "Carex morrowi 'Ice Dance' este o iarbă ornamentală cu frunze verzi bordate cu alb. Ideală pentru grădini de stânci."
+      "description": "Carex morrowi 'Ice Dance' este o iarbă ornamentală cu frunze verzi bordate cu alb. Ideală pentru grădini de stânci.",
+      "details": {
+        "height": "25-35 cm",
+        "sunlight": "Semiumbră până la umbră",
+        "watering": "Udare moderată",
+        "soil": "Sol umed, bine drenat",
+        "hardiness": "Rezistentă la ger până la -20°C"
+      }
     },
     "24": {
       "name": "Păiuș albastru (Festuca glauca)",
-      "description": "Festuca glauca (iarba albastră) este o iarbă ornamentală compactă cu frunze albăstrui. Perfectă pentru grădini de stânci și peisaje moderne."
+      "description": "Festuca glauca (iarba albastră) este o iarbă ornamentală compactă cu frunze albăstrui. Perfectă pentru grădini de stânci și peisaje moderne.",
+      "details": {
+        "height": "20-30 cm",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Sol uscat, bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
     },
     "25": {
       "name": "Crin de zi (Hemerocallis)",
-      "description": "Hemerocallis (Crinul de zi) este o perenă recunoscătoare cu flori portocalii și galbene frumoase. Înflorire îndelungată și ușor de întreținut."
+      "description": "Hemerocallis (Crinul de zi) este o perenă recunoscătoare cu flori portocalii și galbene frumoase. Înflorire îndelungată și ușor de întreținut.",
+      "details": {
+        "height": "50-80 cm",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
     },
     "26": {
       "name": "Hostă (Hosta)",
-      "description": "Hosta este regina umbrei cu frunze decorative în diverse nuanțe de verde. Ideală pentru zonele umbrite ale spațiilor verzi."
+      "description": "Hosta este regina umbrei cu frunze decorative în diverse nuanțe de verde. Ideală pentru zonele umbrite ale spațiilor verzi.",
+      "details": {
+        "height": "30-60 cm",
+        "sunlight": "Semiumbră până la umbră",
+        "watering": "Udare regulată",
+        "soil": "Sol bogat, umed",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
     },
     "27": {
       "name": "Stânjenel / Iris (Iris germanica)",
-      "description": "Stânjenelul (Iris germanica) este o perenă clasică cu flori elegante în violet, albastru, alb și galben la sfârșitul primăverii. Rezistent la secetă și ușor de cultivat."
+      "description": "Stânjenelul (Iris germanica) este o perenă clasică cu flori elegante în violet, albastru, alb și galben la sfârșitul primăverii. Rezistent la secetă și ușor de cultivat.",
+      "details": {
+        "height": "40-70 cm",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
     },
     "28": {
       "name": "Torță de foc (Kniphofia uvaria)",
-      "description": "Kniphofia uvaria (Torța) este o perenă exotică cu inflorescențe portocaliu-roșiatice impresionante."
+      "description": "Kniphofia uvaria (Torța) este o perenă exotică cu inflorescențe portocaliu-roșiatice impresionante.",
+      "details": {
+        "height": "60-100 cm",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Sol bine drenat",
+        "hardiness": "Rezistentă la ger până la -15°C"
+      }
     },
     "29": {
       "name": "Iarbă de șarpe (Ophiopogon japonicus)",
-      "description": "Ophiopogon japonicus este o iarbă ornamentală sempervirescândă, ideală ca acoperitor de sol. Decorativă pe tot parcursul anului."
+      "description": "Ophiopogon japonicus este o iarbă ornamentală sempervirescândă, ideală ca acoperitor de sol. Decorativă pe tot parcursul anului.",
+      "details": {
+        "height": "15-25 cm",
+        "sunlight": "Semiumbră până la umbră",
+        "watering": "Udare moderată",
+        "soil": "Sol umed, bine drenat",
+        "hardiness": "Rezistentă la ger până la -15°C"
+      }
     },
     "30": {
       "name": "Plantă ascultătoare albă (Physostegia virginiana 'Alba')",
-      "description": "Physostegia alba este o perenă cu inflorescențe albe elegante. Înflorire bogată vara, ușor de întreținut."
+      "description": "Physostegia alba este o perenă cu inflorescențe albe elegante. Înflorire bogată vara, ușor de întreținut.",
+      "details": {
+        "height": "60-90 cm",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol umed, fertil",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
     },
     "31": {
       "name": "Iarbă grasă 'Angelina' (Sedum rupestre)",
-      "description": "Sedum angelina este o perenă suculentă cu frunze aurii-verzi care devin portocalii toamna. Perfectă pentru grădini de stânci."
+      "description": "Sedum angelina este o perenă suculentă cu frunze aurii-verzi care devin portocalii toamna. Perfectă pentru grădini de stânci.",
+      "details": {
+        "height": "10-15 cm",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Sol uscat, bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
     },
     "32": {
       "name": "Iarbă grasă hibridă (Sedum hybridum)",
-      "description": "Sedum hybridum este o perenă acoperitoare densă cu frunze verde intens. Ideală pentru grădini de stânci și acoperișuri verzi."
+      "description": "Sedum hybridum este o perenă acoperitoare densă cu frunze verde intens. Ideală pentru grădini de stânci și acoperișuri verzi.",
+      "details": {
+        "height": "10-20 cm",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Sol uscat, bine drenat",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
     },
     "33": {
       "name": "Iarbă grasă albastră (Sedum rupestre 'Blue')",
-      "description": "Sedum rupestre 'Blue' este o perenă cu frunze albăstrui. Joasă și rezistentă, perfectă pentru grădini de stânci."
+      "description": "Sedum rupestre 'Blue' este o perenă cu frunze albăstrui. Joasă și rezistentă, perfectă pentru grădini de stânci.",
+      "details": {
+        "height": "10-15 cm",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Sol uscat, bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
     },
     "34": {
       "name": "Sedum 'Watson' (Sedum)",
-      "description": "Sedum S. Watson este o perenă decorativă cu rozete roz-verzi. Culoare atractivă pe tot parcursul anului."
+      "description": "Sedum S. Watson este o perenă decorativă cu rozete roz-verzi. Culoare atractivă pe tot parcursul anului.",
+      "details": {
+        "height": "10-15 cm",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Sol uscat, bine drenat",
+        "hardiness": "Rezistentă la ger până la -20°C"
+      }
     },
     "35": {
       "name": "Iarbă grasă spectaculoasă (Hylotelephium spectabile)",
-      "description": "Hylotelephium spectabile (fosta Sedum spectabile) este o perenă robustă cu frunze cărnoase și capete florale plate, roz, la sfârșitul verii. Excelentă plantă meliferă și rezistentă la secetă."
+      "description": "Hylotelephium spectabile (fosta Sedum spectabile) este o perenă robustă cu frunze cărnoase și capete florale plate, roz, la sfârșitul verii. Excelentă plantă meliferă și rezistentă la secetă.",
+      "details": {
+        "height": "30-50 cm",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Sol bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
     },
     "36": {
       "name": "Urechea mielului (Stachys byzantina)",
-      "description": "Urechea mielului (Stachys byzantina) este îndrăgită pentru frunzele sale moi, argintii și pufoase. Un acoperitor de sol excepțional și plantă de bordură pentru amplasamente însorite și bine drenate."
+      "description": "Urechea mielului (Stachys byzantina) este îndrăgită pentru frunzele sale moi, argintii și pufoase. Un acoperitor de sol excepțional și plantă de bordură pentru amplasamente însorite și bine drenate.",
+      "details": {
+        "height": "20-30 cm",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Sol uscat, bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
     },
     "37": {
       "name": "Măslin",
-      "description": "Măslinul (Olea europaea) este un arbore mediteranean sempervirescând cu frunze argintii-verzi. Longeviv și decorativ, ideal pentru spații verzi cu stil mediteranean."
+      "description": "Măslinul (Olea europaea) este un arbore mediteranean sempervirescând cu frunze argintii-verzi. Longeviv și decorativ, ideal pentru spații verzi cu stil mediteranean.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Sol bine drenat, nisipos",
+        "hardiness": "Rezistentă la ger până la -10°C"
+      }
     },
     "38": {
       "name": "Bonsai",
-      "description": "Bonsaiul este arta cultivării copacilor miniaturali. Elegant și unic, cadou perfect și element decorativ pentru orice interior sau terasă."
+      "description": "Bonsaiul este arta cultivării copacilor miniaturali. Elegant și unic, cadou perfect și element decorativ pentru orice interior sau terasă.",
+      "details": {
+        "height": "Forme miniaturale",
+        "sunlight": "Soare până la semiumbră",
+        "watering": "Udare regulată",
+        "soil": "Substrat special pentru bonsai",
+        "hardiness": "Depinde de specie"
+      }
     },
     "39": {
       "name": "Chiparos Leyland",
-      "description": "Chiparosul Leyland (× Cuprocyparis leylandii) este un conifer sempervirescând cu creștere extrem de rapidă, ideal pentru garduri vii înalte și paravânturi. Tolerează tunsorile repetate și se adaptează la diverse condiții de sol."
+      "description": "Chiparosul Leyland (× Cuprocyparis leylandii) este un conifer sempervirescând cu creștere extrem de rapidă, ideal pentru garduri vii înalte și paravânturi. Tolerează tunsorile repetate și se adaptează la diverse condiții de sol.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistent la ger până la -15°C"
+      }
     },
     "40": {
       "name": "Gaura (Gaura lindheimeri)",
-      "description": "Gaura (Gaura lindheimeri) este o perenă grațioasă cu tulpini suple, roșiatice și flori mărunte în formă de fluture. Înflorire îndelungată vara, rezistentă la secetă și ușor de întreținut."
+      "description": "Gaura (Gaura lindheimeri) este o perenă grațioasă cu tulpini suple, roșiatice și flori mărunte în formă de fluture. Înflorire îndelungată vara, rezistentă la secetă și ușor de întreținut.",
+      "details": {
+        "height": "60-90 cm",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Sol bine drenat",
+        "hardiness": "Rezistentă la ger până la -20°C"
+      }
     },
     "41": {
       "name": "Iberis (Iberis sempervirens)",
-      "description": "Iberis (Iberis sempervirens) este o perenă acoperitoare sempervirescândă cu flori albe abundente primăvara. Ideală pentru grădini de stâncă, borduri și acoperirea solului."
+      "description": "Iberis (Iberis sempervirens) este o perenă acoperitoare sempervirescândă cu flori albe abundente primăvara. Ideală pentru grădini de stâncă, borduri și acoperirea solului.",
+      "details": {
+        "height": "15-25 cm",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Sol bine drenat",
+        "hardiness": "Rezistentă la ger până la -20°C"
+      }
     },
     "42": {
       "name": "Liliac comun (Syringa vulgaris)",
-      "description": "Liliacul comun (Syringa vulgaris) este arbustul înfloritor clasic, cu inflorescențe violete parfumate primăvara. Rezistent și longeviv, perfect pentru grădini și garduri vii."
+      "description": "Liliacul comun (Syringa vulgaris) este arbustul înfloritor clasic, cu inflorescențe violete parfumate primăvara. Rezistent și longeviv, perfect pentru grădini și garduri vii.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
     },
     "43": {
       "name": "Lagerstroemia (Lagerstroemia indica)",
-      "description": "Lagerstroemia (Lagerstroemia indica) este un arbust exotic cu flori crețe, spectaculoase, în nuanțe de roz și roșu pe tot parcursul verii. Ideal ca plantă solitară sau accent în grădină."
+      "description": "Lagerstroemia (Lagerstroemia indica) este un arbust exotic cu flori crețe, spectaculoase, în nuanțe de roz și roșu pe tot parcursul verii. Ideal ca plantă solitară sau accent în grădină.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Sol bine drenat",
+        "hardiness": "Rezistentă la ger până la -15°C"
+      }
     },
     "44": {
       "name": "Chiparos italian (Cupressus sempervirens)",
-      "description": "Chiparosul italian (Cupressus sempervirens) este un conifer zvelt, columnar, cu aspect mediteranean recognoscibil. Perfect ca accent vertical pe alei și în curți."
+      "description": "Chiparosul italian (Cupressus sempervirens) este un conifer zvelt, columnar, cu aspect mediteranean recognoscibil. Perfect ca accent vertical pe alei și în curți.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Sol bine drenat",
+        "hardiness": "Rezistentă la ger până la -15°C"
+      }
     },
     "45": {
       "name": "Cireș japonez (Prunus serrulata)",
-      "description": "Cireșul japonez (Prunus serrulata) este un arbore ornamental celebru pentru înflorirea sa spectaculoasă roz primăvara. O atracție veritabilă pentru parcuri și grădini."
+      "description": "Cireșul japonez (Prunus serrulata) este un arbore ornamental celebru pentru înflorirea sa spectaculoasă roz primăvara. O atracție veritabilă pentru parcuri și grădini.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol fertil, bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
     },
     "46": {
       "name": "Arțar japonez (Acer palmatum)",
-      "description": "Arțarul japonez (Acer palmatum) este un arbore ornamental elegant cu frunze fin crestate, roșu-purpurii. Accent ideal pentru grădini moderne și japoneze."
+      "description": "Arțarul japonez (Acer palmatum) este un arbore ornamental elegant cu frunze fin crestate, roșu-purpurii. Accent ideal pentru grădini moderne și japoneze.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol bogat, bine drenat",
+        "hardiness": "Rezistentă la ger până la -20°C"
+      }
     },
     "47": {
       "name": "Palmier (Trachycarpus fortunei)",
-      "description": "Palmierul (Trachycarpus fortunei) este unul dintre puținii palmieri rezistenți la ger, cu frunze evantai, sempervirescânde. Aduce o notă exotică și mediteraneană oricărui spațiu."
+      "description": "Palmierul (Trachycarpus fortunei) este unul dintre puținii palmieri rezistenți la ger, cu frunze evantai, sempervirescânde. Aduce o notă exotică și mediteraneană oricărui spațiu.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol bine drenat",
+        "hardiness": "Rezistentă la ger până la -12°C"
+      }
     },
     "48": {
       "name": "Cicas / Palmier sago (Cycas revoluta)",
-      "description": "Cicasul (Cycas revoluta), cunoscut și ca palmier sago, este o plantă exotică cu frunze rigide, penate și trunchi solzos caracteristic. Ideal pentru ghivece, terase și ambient mediteranean."
+      "description": "Cicasul (Cycas revoluta), cunoscut și ca palmier sago, este o plantă exotică cu frunze rigide, penate și trunchi solzos caracteristic. Ideal pentru ghivece, terase și ambient mediteranean.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare redusă",
+        "soil": "Sol bine drenat",
+        "hardiness": "Rezistentă la ger până la -8°C"
+      }
     }
   }
 }

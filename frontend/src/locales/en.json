@@ -151,195 +151,531 @@
   "productDescriptions": {
     "1": {
       "name": "Emerald Green Arborvitae (Thuja occidentalis 'Smaragd')",
-      "description": "Emerald Green Arborvitae (Thuja occidentalis 'Smaragd') is the most popular evergreen hedge conifer. Narrow, columnar form with vibrant green colour year-round. Available wholesale in large quantities."
+      "description": "Emerald Green Arborvitae (Thuja occidentalis 'Smaragd') is the most popular evergreen hedge conifer. Narrow, columnar form with vibrant green colour year-round. Available wholesale in large quantities.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
     },
     "2": {
       "name": "English Yew (Taxus baccata)",
-      "description": "English Yew (Taxus baccata) is one of the longest-lived conifers in Europe, excellent for topiary and formal hedging. Slow growing but exceptionally durable and decorative."
+      "description": "English Yew (Taxus baccata) is one of the longest-lived conifers in Europe, excellent for topiary and formal hedging. Slow growing but exceptionally durable and decorative.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full shade to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -20°C"
+      }
     },
     "3": {
       "name": "Austrian Pine (Pinus nigra)",
-      "description": "Austrian Pine (Pinus nigra) is a robust, wind-resistant evergreen tree with characteristic dark green needles. Tolerates poor soils, drought and urban pollution – ideal for large-scale plantings."
+      "description": "Austrian Pine (Pinus nigra) is a robust, wind-resistant evergreen tree with characteristic dark green needles. Tolerates poor soils, drought and urban pollution – ideal for large-scale plantings.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Sandy to clay soil",
+        "hardiness": "Very frost hardy"
+      }
     },
     "4": {
       "name": "Oriental Arborvitae (Platycladus orientalis)",
-      "description": "Oriental Arborvitae (Platycladus orientalis) is an evergreen conifer with elegant, fan-shaped vertical sprays. More drought-tolerant than common thuja – ideal for warm, exposed sites."
+      "description": "Oriental Arborvitae (Platycladus orientalis) is an evergreen conifer with elegant, fan-shaped vertical sprays. More drought-tolerant than common thuja – ideal for warm, exposed sites.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -20°C"
+      }
     },
     "5": {
       "name": "Colorado Blue Spruce (Picea pungens 'Glauca')",
-      "description": "Colorado Blue Spruce (Picea pungens 'Glauca') is a stunning evergreen with distinctive silvery-blue needles. A premium specimen tree for parks, public spaces and landscape focal points."
+      "description": "Colorado Blue Spruce (Picea pungens 'Glauca') is a stunning evergreen with distinctive silvery-blue needles. A premium specimen tree for parks, public spaces and landscape focal points.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Slightly acidic soil",
+        "hardiness": "Very frost hardy"
+      }
     },
     "6": {
       "name": "Creeping Juniper (Juniperus horizontalis)",
-      "description": "Creeping Juniper (Juniperus horizontalis) is a low-growing, spreading groundcover conifer. Ideal for slope stabilisation, ground cover and rockery planting."
+      "description": "Creeping Juniper (Juniperus horizontalis) is a low-growing, spreading groundcover conifer. Ideal for slope stabilisation, ground cover and rockery planting.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Very hardy against frost and drought"
+      }
     },
     "7": {
       "name": "Indian Bean Tree (Catalpa bignonioides)",
-      "description": "Indian Bean Tree (Catalpa bignonioides) is a bold ornamental tree with large tropical-looking leaves and white orchid-like flowers in summer. An impressive shade tree for parks and avenues."
+      "description": "Indian Bean Tree (Catalpa bignonioides) is a bold ornamental tree with large tropical-looking leaves and white orchid-like flowers in summer. An impressive shade tree for parks and avenues.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Regular watering",
+        "soil": "Fertile, moist soil",
+        "hardiness": "Hardy to -15°C"
+      }
     },
     "8": {
       "name": "Southern Magnolia (Magnolia grandiflora)",
-      "description": "Southern Magnolia (Magnolia grandiflora) is a magnificent evergreen tree bearing enormous, fragrant white flowers in summer. A premium statement tree for high-end landscaping projects."
+      "description": "Southern Magnolia (Magnolia grandiflora) is a magnificent evergreen tree bearing enormous, fragrant white flowers in summer. A premium statement tree for high-end landscaping projects.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Sun to partial shade",
+        "watering": "Regular watering",
+        "soil": "Slightly acidic, rich soil",
+        "hardiness": "Hardy to -12°C"
+      }
     },
     "9": {
       "name": "Prunus laurocerasus",
-      "description": "Cherry Laurel (Prunus laurocerasus) is the most widely used evergreen hedging shrub in Europe. Dense, glossy foliage, fast-growing and tolerant of shade, frost and urban conditions."
+      "description": "Cherry Laurel (Prunus laurocerasus) is the most widely used evergreen hedging shrub in Europe. Dense, glossy foliage, fast-growing and tolerant of shade, frost and urban conditions.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Sun to full shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -20°C"
+      }
     },
     "10": {
       "name": "Red Robin Photinia (Photinia × fraseri 'Red Robin')",
-      "description": "Red Robin Photinia (Photinia × fraseri 'Red Robin') is a striking evergreen shrub with vivid red new growth in spring. Excellent as a hedge or specimen shrub in commercial and residential projects."
+      "description": "Red Robin Photinia (Photinia × fraseri 'Red Robin') is a striking evergreen shrub with vivid red new growth in spring. Excellent as a hedge or specimen shrub in commercial and residential projects.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -15°C"
+      }
     },
     "11": {
       "name": "Chinese Fountain Grass (Pennisetum alopecuroides)",
-      "description": "Chinese Fountain Grass (Pennisetum alopecuroides) is a graceful ornamental grass with arching foliage and fluffy bottle-brush flower heads. Ideal for naturalistic and contemporary landscape designs."
+      "description": "Chinese Fountain Grass (Pennisetum alopecuroides) is a graceful ornamental grass with arching foliage and fluffy bottle-brush flower heads. Ideal for naturalistic and contemporary landscape designs.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -20°C"
+      }
     },
     "12": {
       "name": "Bamboo (Phyllostachys / Fargesia)",
-      "description": "Bamboo is a fast-growing plant that creates natural privacy screens and windbreaks. Available in clump-forming (Fargesia) and running (Phyllostachys) varieties for different applications."
+      "description": "Bamboo is a fast-growing plant that creates natural privacy screens and windbreaks. Available in clump-forming (Fargesia) and running (Phyllostachys) varieties for different applications.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Sun to partial shade",
+        "watering": "Regular watering",
+        "soil": "Rich, moist soil",
+        "hardiness": "Depends on the variety, down to -15°C"
+      }
     },
     "13": {
       "name": "Hydrangea (Hydrangea)",
-      "description": "Hydrangea is a classic flowering shrub bearing large mophead or lacecap blooms in white, pink and blue. A versatile plant for commercial gardens, parks and public spaces."
+      "description": "Hydrangea is a classic flowering shrub bearing large mophead or lacecap blooms in white, pink and blue. A versatile plant for commercial gardens, parks and public spaces.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Partial shade",
+        "watering": "Frequent watering",
+        "soil": "Acidic to neutral soil",
+        "hardiness": "Hardy to -15°C"
+      }
     },
     "14": {
       "name": "Common Ivy (Hedera helix)",
-      "description": "Common Ivy (Hedera helix) is a vigorous, self-clinging evergreen climber, ideal for covering walls, fences and bare structures. Provides year-round coverage with minimal maintenance."
+      "description": "Common Ivy (Hedera helix) is a vigorous, self-clinging evergreen climber, ideal for covering walls, fences and bare structures. Provides year-round coverage with minimal maintenance.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full shade to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -20°C"
+      }
     },
     "15": {
       "name": "Box-leaved Honeysuckle (Lonicera nitida)",
-      "description": "Box-leaved Honeysuckle (Lonicera nitida) forms a dense, small-leaved evergreen hedge that responds excellently to clipping. Perfect for low formal hedges and edging in commercial landscapes."
+      "description": "Box-leaved Honeysuckle (Lonicera nitida) forms a dense, small-leaved evergreen hedge that responds excellently to clipping. Perfect for low formal hedges and edging in commercial landscapes.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -15°C"
+      }
     },
     "16": {
       "name": "Coral Bells (Heuchera)",
-      "description": "Coral Bells (Heuchera) is a versatile perennial valued for its striking foliage in shades of burgundy, bronze, lime and silver. Provides colour and texture in borders throughout the year."
+      "description": "Coral Bells (Heuchera) is a versatile perennial valued for its striking foliage in shades of burgundy, bronze, lime and silver. Provides colour and texture in borders throughout the year.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Partial shade",
+        "watering": "Moderate watering",
+        "soil": "Rich, well-drained soil",
+        "hardiness": "Hardy to -20°C"
+      }
     },
     "17": {
       "name": "Rose of Sharon (Hibiscus syriacus)",
-      "description": "Rose of Sharon (Hibiscus syriacus) is a hardy deciduous shrub flowering prolifically from July to October in shades of white, pink and violet. An excellent choice for mixed borders and hedging."
+      "description": "Rose of Sharon (Hibiscus syriacus) is a hardy deciduous shrub flowering prolifically from July to October in shades of white, pink and violet. An excellent choice for mixed borders and hedging.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Regular watering",
+        "soil": "Fertile, well-drained soil",
+        "hardiness": "Hardy to -10°C"
+      }
     },
     "18": {
       "name": "Spirea / Bridalwreath (Spiraea)",
-      "description": "Spirea (Spiraea) is a flowering deciduous shrub producing masses of white or pink blossom in spring and summer. Low-maintenance and highly rewarding in borders and naturalistic plantings."
+      "description": "Spirea (Spiraea) is a flowering deciduous shrub producing masses of white or pink blossom in spring and summer. Low-maintenance and highly rewarding in borders and naturalistic plantings.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -25°C"
+      }
     },
     "19": {
       "name": "Standard Mugo Pine (Pinus mugo on stem)",
-      "description": "Standard Mugo Pine (Pinus mugo) grafted onto a clear stem creates a compact, ball-headed specimen. An elegant focal point for entrance areas, patios and formal garden designs."
+      "description": "Standard Mugo Pine (Pinus mugo) grafted onto a clear stem creates a compact, ball-headed specimen. An elegant focal point for entrance areas, patios and formal garden designs.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Very frost hardy"
+      }
     },
     "20": {
       "name": "Peony (Paeonia)",
-      "description": "Peony (Paeonia) is a long-lived herbaceous perennial producing large, fragrant blooms in white, pink and red each spring. Once established, it thrives for decades with minimal care."
+      "description": "Peony (Paeonia) is a long-lived herbaceous perennial producing large, fragrant blooms in white, pink and red each spring. Once established, it thrives for decades with minimal care.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Fertile, well-drained soil",
+        "hardiness": "Hardy to -20°C"
+      }
     },
     "21": {
       "name": "Common Bugle (Ajuga reptans)",
-      "description": "Common Bugle (Ajuga reptans) is a low-growing, spreading ground cover perennial with blue flower spikes in spring. Ideal for underplanting trees and shrubs in shaded areas."
+      "description": "Common Bugle (Ajuga reptans) is a low-growing, spreading ground cover perennial with blue flower spikes in spring. Ideal for underplanting trees and shrubs in shaded areas.",
+      "details": {
+        "height": "10-15 cm",
+        "sunlight": "Partial shade to full shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -25°C"
+      }
     },
     "22": {
       "name": "False Goatsbeard (Astilbe)",
-      "description": "False Goatsbeard (Astilbe) is an elegant moisture-loving perennial with feathery plumes in pink, red and white. Excellent for damp, shaded borders and waterside plantings."
+      "description": "False Goatsbeard (Astilbe) is an elegant moisture-loving perennial with feathery plumes in pink, red and white. Excellent for damp, shaded borders and waterside plantings.",
+      "details": {
+        "height": "40-60 cm",
+        "sunlight": "Partial shade to full shade",
+        "watering": "Regular watering",
+        "soil": "Moist, rich soil",
+        "hardiness": "Hardy to -25°C"
+      }
     },
     "23": {
       "name": "Japanese Sedge 'Ice Dance' (Carex morrowii)",
-      "description": "Japanese Sedge 'Ice Dance' (Carex morrowii) is a neat, semi-evergreen ornamental grass with green leaves edged in creamy white. Suitable for containers, rockeries and woodland gardens."
+      "description": "Japanese Sedge 'Ice Dance' (Carex morrowii) is a neat, semi-evergreen ornamental grass with green leaves edged in creamy white. Suitable for containers, rockeries and woodland gardens.",
+      "details": {
+        "height": "25-35 cm",
+        "sunlight": "Partial shade to full shade",
+        "watering": "Moderate watering",
+        "soil": "Moist, well-drained soil",
+        "hardiness": "Hardy to -20°C"
+      }
     },
     "24": {
       "name": "Blue Fescue (Festuca glauca)",
-      "description": "Blue Fescue (Festuca glauca) is a compact ornamental grass with distinctive blue-grey tufted foliage. Drought-tolerant and ideal for rockeries, gravel gardens and contemporary landscapes."
+      "description": "Blue Fescue (Festuca glauca) is a compact ornamental grass with distinctive blue-grey tufted foliage. Drought-tolerant and ideal for rockeries, gravel gardens and contemporary landscapes.",
+      "details": {
+        "height": "20-30 cm",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Dry, well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
     },
     "25": {
       "name": "Daylily (Hemerocallis)",
-      "description": "Daylily (Hemerocallis) is a reliable, long-flowering perennial producing trumpet-shaped blooms in orange, yellow and red from June to August. Near-indestructible and suitable for mass planting."
+      "description": "Daylily (Hemerocallis) is a reliable, long-flowering perennial producing trumpet-shaped blooms in orange, yellow and red from June to August. Near-indestructible and suitable for mass planting.",
+      "details": {
+        "height": "50-80 cm",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -25°C"
+      }
     },
     "26": {
       "name": "Plantain Lily (Hosta)",
-      "description": "Plantain Lily (Hosta) is the premier shade garden perennial, grown for its bold, decorative foliage in shades of blue, green and gold. An essential plant for woodland and shaded borders."
+      "description": "Plantain Lily (Hosta) is the premier shade garden perennial, grown for its bold, decorative foliage in shades of blue, green and gold. An essential plant for woodland and shaded borders.",
+      "details": {
+        "height": "30-60 cm",
+        "sunlight": "Partial shade to full shade",
+        "watering": "Regular watering",
+        "soil": "Rich, moist soil",
+        "hardiness": "Hardy to -30°C"
+      }
     },
     "27": {
       "name": "Bearded Iris (Iris germanica)",
-      "description": "Bearded Iris (Iris germanica) is a classic cottage garden perennial bearing elegant flowers in purple, blue, white and yellow in late spring. Drought-tolerant and easy to grow."
+      "description": "Bearded Iris (Iris germanica) is a classic cottage garden perennial bearing elegant flowers in purple, blue, white and yellow in late spring. Drought-tolerant and easy to grow.",
+      "details": {
+        "height": "40-70 cm",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
     },
     "28": {
       "name": "Red Hot Poker (Kniphofia uvaria)",
-      "description": "Red Hot Poker (Kniphofia uvaria) is a striking architectural perennial with vivid orange-red torch-like flower spikes. A dramatic focal point in sunny borders and contemporary gardens."
+      "description": "Red Hot Poker (Kniphofia uvaria) is a striking architectural perennial with vivid orange-red torch-like flower spikes. A dramatic focal point in sunny borders and contemporary gardens.",
+      "details": {
+        "height": "60-100 cm",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -15°C"
+      }
     },
     "29": {
       "name": "Monkey Grass (Ophiopogon japonicus)",
-      "description": "Monkey Grass (Ophiopogon japonicus) is an evergreen, grass-like ground cover that forms dense, weed-suppressing carpets. Low-maintenance and suitable for shaded areas and underplanting."
+      "description": "Monkey Grass (Ophiopogon japonicus) is an evergreen, grass-like ground cover that forms dense, weed-suppressing carpets. Low-maintenance and suitable for shaded areas and underplanting.",
+      "details": {
+        "height": "15-25 cm",
+        "sunlight": "Partial shade to full shade",
+        "watering": "Moderate watering",
+        "soil": "Moist, well-drained soil",
+        "hardiness": "Hardy to -15°C"
+      }
     },
     "30": {
       "name": "Obedient Plant (Physostegia virginiana 'Alba')",
-      "description": "Obedient Plant (Physostegia virginiana 'Alba') produces spikes of white tubular flowers in late summer. A vigorous, easy-to-grow perennial for naturalistic and informal border planting."
+      "description": "Obedient Plant (Physostegia virginiana 'Alba') produces spikes of white tubular flowers in late summer. A vigorous, easy-to-grow perennial for naturalistic and informal border planting.",
+      "details": {
+        "height": "60-90 cm",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Moist, fertile soil",
+        "hardiness": "Hardy to -25°C"
+      }
     },
     "31": {
       "name": "Stonecrop 'Angelina' (Sedum rupestre)",
-      "description": "Stonecrop 'Angelina' (Sedum rupestre) is a succulent ground cover with golden-yellow needle-like leaves that turn vivid orange in autumn. Perfect for dry rockeries and green roofs."
+      "description": "Stonecrop 'Angelina' (Sedum rupestre) is a succulent ground cover with golden-yellow needle-like leaves that turn vivid orange in autumn. Perfect for dry rockeries and green roofs.",
+      "details": {
+        "height": "10-15 cm",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Dry, well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
     },
     "32": {
       "name": "Hybrid Stonecrop (Sedum hybridum)",
-      "description": "Hybrid Stonecrop (Sedum hybridum) forms dense, evergreen mats of bright green succulent leaves. Drought-tolerant and ideal for large-scale ground cover and extensive green roof systems."
+      "description": "Hybrid Stonecrop (Sedum hybridum) forms dense, evergreen mats of bright green succulent leaves. Drought-tolerant and ideal for large-scale ground cover and extensive green roof systems.",
+      "details": {
+        "height": "10-20 cm",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Dry, well-drained soil",
+        "hardiness": "Hardy to -30°C"
+      }
     },
     "33": {
       "name": "Rock Stonecrop 'Blue' (Sedum rupestre)",
-      "description": "Rock Stonecrop 'Blue' (Sedum rupestre) is a low-growing succulent with attractive blue-grey foliage. Virtually indestructible and perfect for dry, sunny positions and wall crevices."
+      "description": "Rock Stonecrop 'Blue' (Sedum rupestre) is a low-growing succulent with attractive blue-grey foliage. Virtually indestructible and perfect for dry, sunny positions and wall crevices.",
+      "details": {
+        "height": "10-15 cm",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Dry, well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
     },
     "34": {
       "name": "Watson's Stonecrop (Sedum)",
-      "description": "Watson's Stonecrop is a decorative succulent perennial with attractive pink-green rosettes. Retains its colour and form throughout the growing season."
+      "description": "Watson's Stonecrop is a decorative succulent perennial with attractive pink-green rosettes. Retains its colour and form throughout the growing season.",
+      "details": {
+        "height": "10-15 cm",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Dry, well-drained soil",
+        "hardiness": "Hardy to -20°C"
+      }
     },
     "35": {
       "name": "Ice Plant (Hylotelephium spectabile)",
-      "description": "Ice Plant (Hylotelephium spectabile) is a robust late-season perennial with broad, fleshy leaves and large flat-topped pink flower heads in late summer. An excellent pollinator plant."
+      "description": "Ice Plant (Hylotelephium spectabile) is a robust late-season perennial with broad, fleshy leaves and large flat-topped pink flower heads in late summer. An excellent pollinator plant.",
+      "details": {
+        "height": "30-50 cm",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
     },
     "36": {
       "name": "Lamb's Ear (Stachys byzantina)",
-      "description": "Lamb's Ear (Stachys byzantina) is beloved for its thick, soft, silver-grey woolly leaves. An exceptional textural ground cover and edging plant for sunny, well-drained positions."
+      "description": "Lamb's Ear (Stachys byzantina) is beloved for its thick, soft, silver-grey woolly leaves. An exceptional textural ground cover and edging plant for sunny, well-drained positions.",
+      "details": {
+        "height": "20-30 cm",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Dry, well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
     },
     "37": {
       "name": "Olive Tree (Olea europaea)",
-      "description": "Olive Tree (Olea europaea) is an iconic evergreen Mediterranean tree with distinctive silvery-green foliage. Long-lived and architectural – increasingly popular in northern European garden design."
+      "description": "Olive Tree (Olea europaea) is an iconic evergreen Mediterranean tree with distinctive silvery-green foliage. Long-lived and architectural – increasingly popular in northern European garden design.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Well-drained, sandy soil",
+        "hardiness": "Hardy to -10°C"
+      }
     },
     "38": {
       "name": "Bonsai",
-      "description": "Bonsai is the ancient Japanese art of cultivating miniature trees. Each piece is unique and handcrafted – an exceptional gift or statement decorative element for interiors and terraces."
+      "description": "Bonsai is the ancient Japanese art of cultivating miniature trees. Each piece is unique and handcrafted – an exceptional gift or statement decorative element for interiors and terraces.",
+      "details": {
+        "height": "Miniature forms",
+        "sunlight": "Sun to partial shade",
+        "watering": "Regular watering",
+        "soil": "Special bonsai substrate",
+        "hardiness": "Depends on the variety"
+      }
     },
     "39": {
       "name": "Leyland Cypress",
-      "description": "Leyland Cypress (× Cuprocyparis leylandii) is a fast-growing evergreen conifer, ideal for tall hedges and windbreaks. Tolerates repeated trimming and adapts to a wide range of soil conditions."
+      "description": "Leyland Cypress (× Cuprocyparis leylandii) is a fast-growing evergreen conifer, ideal for tall hedges and windbreaks. Tolerates repeated trimming and adapts to a wide range of soil conditions.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -15°C"
+      }
     },
     "40": {
       "name": "Gaura (Gaura lindheimeri)",
-      "description": "Gaura (Gaura lindheimeri) is a graceful perennial with slender, reddish stems and small butterfly-like flowers. Long summer bloom, drought-tolerant and low-maintenance."
+      "description": "Gaura (Gaura lindheimeri) is a graceful perennial with slender, reddish stems and small butterfly-like flowers. Long summer bloom, drought-tolerant and low-maintenance.",
+      "details": {
+        "height": "60-90 cm",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -20°C"
+      }
     },
     "41": {
       "name": "Candytuft (Iberis sempervirens)",
-      "description": "Candytuft (Iberis sempervirens) is an evergreen ground-cover perennial with abundant white flowers in spring. Ideal for rock gardens, borders and ground cover."
+      "description": "Candytuft (Iberis sempervirens) is an evergreen ground-cover perennial with abundant white flowers in spring. Ideal for rock gardens, borders and ground cover.",
+      "details": {
+        "height": "15-25 cm",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -20°C"
+      }
     },
     "42": {
       "name": "Common Lilac (Syringa vulgaris)",
-      "description": "Common Lilac (Syringa vulgaris) is the classic flowering shrub with fragrant purple flower clusters in spring. Hardy and long-lived – perfect for gardens and hedges."
+      "description": "Common Lilac (Syringa vulgaris) is the classic flowering shrub with fragrant purple flower clusters in spring. Hardy and long-lived – perfect for gardens and hedges.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -30°C"
+      }
     },
     "43": {
       "name": "Crape Myrtle (Lagerstroemia indica)",
-      "description": "Crape Myrtle (Lagerstroemia indica) is an exotic shrub with ruffled, showy flowers in pink and red shades all summer long. Ideal as a specimen plant or garden accent."
+      "description": "Crape Myrtle (Lagerstroemia indica) is an exotic shrub with ruffled, showy flowers in pink and red shades all summer long. Ideal as a specimen plant or garden accent.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -15°C"
+      }
     },
     "44": {
       "name": "Italian Cypress (Cupressus sempervirens)",
-      "description": "Italian Cypress (Cupressus sempervirens) is a slender, columnar conifer with an unmistakable Mediterranean look. Perfect as a vertical accent along driveways and gardens."
+      "description": "Italian Cypress (Cupressus sempervirens) is a slender, columnar conifer with an unmistakable Mediterranean look. Perfect as a vertical accent along driveways and gardens.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -15°C"
+      }
     },
     "45": {
       "name": "Japanese Flowering Cherry (Prunus serrulata)",
-      "description": "Japanese Flowering Cherry (Prunus serrulata) is an ornamental tree famous for its spectacular pink spring blossom. A true showstopper for parks and gardens."
+      "description": "Japanese Flowering Cherry (Prunus serrulata) is an ornamental tree famous for its spectacular pink spring blossom. A true showstopper for parks and gardens.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Fertile, well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
     },
     "46": {
       "name": "Japanese Maple (Acer palmatum)",
-      "description": "Japanese Maple (Acer palmatum) is an elegant ornamental tree with finely dissected, red-purple foliage. An ideal accent for modern and Japanese-style gardens."
+      "description": "Japanese Maple (Acer palmatum) is an elegant ornamental tree with finely dissected, red-purple foliage. An ideal accent for modern and Japanese-style gardens.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Partial shade",
+        "watering": "Moderate watering",
+        "soil": "Rich, well-drained soil",
+        "hardiness": "Hardy to -20°C"
+      }
     },
     "47": {
       "name": "Windmill Palm (Trachycarpus fortunei)",
-      "description": "Windmill Palm (Trachycarpus fortunei) is one of the hardiest palms, with evergreen fan-shaped fronds able to tolerate light frost. Brings an exotic, Mediterranean touch to any space."
+      "description": "Windmill Palm (Trachycarpus fortunei) is one of the hardiest palms, with evergreen fan-shaped fronds able to tolerate light frost. Brings an exotic, Mediterranean touch to any space.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -12°C"
+      }
     },
     "48": {
       "name": "Sago Palm (Cycas revoluta)",
-      "description": "Sago Palm (Cycas revoluta) is an exotic cycad with stiff, feather-like fronds and a characteristic scaly trunk. Ideal for pots, terraces and Mediterranean-style settings."
+      "description": "Sago Palm (Cycas revoluta) is an exotic cycad with stiff, feather-like fronds and a characteristic scaly trunk. Ideal for pots, terraces and Mediterranean-style settings.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Low watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -8°C"
+      }
     }
   }
 }

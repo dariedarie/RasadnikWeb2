@@ -143,7 +143,7 @@ const ProductDetails = () => {
           </div>
 
           <div className="product-price-section price-on-request-section">
-            <span className="product-price-value">Preț la cerere</span>
+            <span className="product-price-value">{t('products.priceOnRequest')}</span>
           </div>
 
           {/* Detalji o biljci */}

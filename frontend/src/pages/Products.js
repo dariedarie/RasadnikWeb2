@@ -277,7 +277,7 @@ const Products = () => {
                     <h3>{t(`productDescriptions.${product.id}.name`) || product.name}</h3>
                     <p>{t(`productDescriptions.${product.id}.description`) || product.description}</p>
                     <div className="product-price-badge price-on-request">
-                      Preț la cerere
+                      {t('products.priceOnRequest')}
                     </div>
                   </div>
                 </Link>

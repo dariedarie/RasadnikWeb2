@@ -264,7 +264,7 @@ const Products = () => {
                   <div className="product-image-compact">
                     <img
                       src={product.image}
-                      alt={product.name}
+                      alt={t(`productDescriptions.${product.id}.name`, { defaultValue: product.name })}
                       onError={(e) => {
                         e.target.src = '/images/logo.png';
                       }}
@@ -274,8 +274,8 @@ const Products = () => {
                     </span>
                   </div>
                   <div className="product-info-compact">
-                    <h3>{t(`productDescriptions.${product.id}.name`) || product.name}</h3>
-                    <p>{t(`productDescriptions.${product.id}.description`) || product.description}</p>
+                    <h3>{t(`productDescriptions.${product.id}.name`, { defaultValue: product.name })}</h3>
+                    <p>{t(`productDescriptions.${product.id}.description`, { defaultValue: product.description })}</p>
                     <div className="product-price-badge price-on-request">
                       {t('products.priceOnRequest')}
                     </div>

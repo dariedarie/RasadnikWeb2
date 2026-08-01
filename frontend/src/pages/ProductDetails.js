@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Helmet } from 'react-helmet-async';
 import { useParams, useNavigate, Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
-import { getProductById, getCategoryName } from '../data/productsData';
+import { getProductById, categories } from '../data/productsData';
 import ImageLightbox from '../components/ImageLightbox';
 import './ProductDetails.css';
 
@@ -35,7 +35,10 @@ const ProductDetails = () => {
     );
   }
 
-  const categoryName = getCategoryName(product.category);
+  const categoryData = categories.find(c => c.id === product.category);
+  const categoryName = categoryData ? t(categoryData.nameKey) : product.category;
+  const translatedName = t(`productDescriptions.${product.id}.name`, { defaultValue: product.name });
+  const translatedDescription = t(`productDescriptions.${product.id}.description`, { defaultValue: product.description });
 
   // Kreiraj niz slika - glavna + dodatne ako postoje
   const productImages = product.images && product.images.length > 0
@@ -52,11 +55,11 @@ const ProductDetails = () => {
   return (
     <>
     <Helmet>
-      <title>{product.name} – PlantDGD | Angro Plante Ornamentale România</title>
-      <meta name="description" content={`${product.name} en gros - PlantDGD furnizor de plante ornamentale. ${product.description.substring(0, 130)} Livrare în toată România.`} />
+      <title>{translatedName} – PlantDGD | Angro Plante Ornamentale România</title>
+      <meta name="description" content={`${translatedName} en gros - PlantDGD furnizor de plante ornamentale. ${translatedDescription.substring(0, 130)} Livrare în toată România.`} />
       <link rel="canonical" href={`https://plantdgd.ro/products/${product.id}`} />
-      <meta property="og:title" content={`${product.name} En Gros – PlantDGD`} />
-      <meta property="og:description" content={product.description.substring(0, 200)} />
+      <meta property="og:title" content={`${translatedName} En Gros – PlantDGD`} />
+      <meta property="og:description" content={translatedDescription.substring(0, 200)} />
       <meta property="og:image" content={`https://plantdgd.ro${product.image}`} />
       <meta property="og:url" content={`https://plantdgd.ro/products/${product.id}`} />
     </Helmet>
@@ -67,7 +70,7 @@ const ProductDetails = () => {
         <span className="breadcrumb-separator">/</span>
         <Link to="/products">{t('nav.products') || 'Proizvodi'}</Link>
         <span className="breadcrumb-separator">/</span>
-        <span className="breadcrumb-current">{product.name}</span>
+        <span className="breadcrumb-current">{translatedName}</span>
       </nav>
 
       <div className="product-details-container">
@@ -77,7 +80,7 @@ const ProductDetails = () => {
           <div className="product-main-image" onClick={() => openLightbox(0)}>
             <img
               src={productImages[0]}
-              alt={product.name}
+              alt={translatedName}
               onError={(e) => {
                 e.target.src = '/images/logo.png';
               }}
@@ -110,7 +113,7 @@ const ProductDetails = () => {
                 >
                   <img
                     src={img}
-                    alt={`${product.name} - ${index + 1}`}
+                    alt={`${translatedName} - ${index + 1}`}
                     onError={(e) => {
                       e.target.src = '/images/logo.png';
                     }}
@@ -135,11 +138,11 @@ const ProductDetails = () => {
           </div>
 
           <h1 className="product-title">
-            {t(`productDescriptions.${product.id}.name`) || product.name}
+            {translatedName}
           </h1>
 
           <div className="product-description">
-            <p>{t(`productDescriptions.${product.id}.description`) || product.description}</p>
+            <p>{translatedDescription}</p>
           </div>
 
           <div className="product-price-section price-on-request-section">
@@ -220,7 +223,7 @@ const ProductDetails = () => {
           images={productImages}
           initialIndex={lightboxIndex}
           onClose={() => setLightboxOpen(false)}
-          productName={product.name}
+          productName={translatedName}
         />
       )}
     </div>

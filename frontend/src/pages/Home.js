@@ -430,7 +430,7 @@ const Home = () => {
                 overflow: 'hidden'
               }}>
                 <img
-                  src="/images/leylandii.jpeg"
+                  src="/images/lejlandinew.jpeg"
                   alt="Chiparos Leyland"
                   style={{
                     width: '100%',

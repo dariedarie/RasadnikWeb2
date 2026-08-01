@@ -12,7 +12,8 @@ export const products = [
     image: '/images/tujavelika.jpeg',
     images: [
       '/images/tujavelika.jpeg',
-      '/images/tujasmaragd.jpg'
+      '/images/tujakontejnerska.jpeg',
+      '/images/tuje.jpeg'
     ],
     description: 'Tuja Smaragd je zimzeleni četinar, savršen za žive ograde i dekoraciju dvorišta. Otporna, laka za održavanje i brzo raste.',
     inStock: true,
@@ -31,6 +32,11 @@ export const products = [
     categories: ['cetinari', 'ziva-ograda'],
     price: 2000,
     image: '/images/tisa.jpeg',
+    images: [
+      '/images/tisa.jpeg',
+      '/images/taxus.jpeg',
+      '/images/taxusbaccata.jpeg'
+    ],
     description: 'Tisa (Taxus) je dugovečan četinar, odličan za formiranje oblika i žive ograde. Sporo raste, ali je izuzetno dekorativna.',
     inStock: true,
     details: {
@@ -116,6 +122,10 @@ export const products = [
     categories: ['cetinari'],
     price: 2500,
     image: '/images/Bor na štapu cetinar.jpg',
+    images: [
+      '/images/Bor na štapu cetinar.jpg',
+      '/images/bornastapu.jpeg'
+    ],
     description: 'Bor na štapu je dekorativni četinar formiran na jednom stablu, idealan za male vrtove i kao akcenat u dvorištu. Elegantan i lak za održavanje.',
     inStock: true,
     details: {
@@ -135,10 +145,11 @@ export const products = [
     categories: ['cetinari', 'ziva-ograda'],
     price: 0,
     showPrice: false,
-    image: '/images/leylandii.jpeg',
+    image: '/images/lejlandinew.jpeg',
     images: [
-      '/images/leylandii.jpeg',
-      '/images/leylandii2.jpeg'
+      '/images/lejlandinew.jpeg',
+      '/images/lejlandi.jpeg',
+      '/images/lejlandi1.jpeg'
     ],
     description: 'Chiparosul Leyland (× Cuprocyparis leylandii) este un conifer sempervirescând cu creștere extrem de rapidă, ideal pentru garduri vii înalte și paravânturi. Tolerează tunsorile repetate și se adaptează la diverse condiții de sol.',
     inStock: true,
@@ -199,11 +210,14 @@ export const products = [
     image: '/images/lovorvisnja.jpeg',
     images: [
       '/images/lovorvisnja.jpeg',
-      '/images/prunus.jpeg',
       '/images/IMG_5327.jpeg',
       '/images/lovor1.jpeg',
       '/images/lovor3.jpeg',
-      '/images/lovor4.jpeg'
+      '/images/lovor4.jpeg',
+      '/images/lovormali.jpeg',
+      '/images/lovorrazgranati.jpeg',
+      '/images/lovorvisok.jpeg',
+      '/images/lovormarakana.PNG'
     ],
     description: 'Lovor višnja je zimzeleni žbun, idealan za guste, elegantne žive ograde. Otporna na mraz i gradske uslove.',
     inStock: true,
@@ -222,7 +236,13 @@ export const products = [
     categories: ['liscari', 'ziva-ograda'],
     price: 400,
     showPrice: true,
-    image: '/images/WhatsApp Image 2025-12-30 at 14.15.33.jpeg',
+    image: '/images/fotinijanaslovna.jpeg',
+    images: [
+      '/images/fotinijanaslovna.jpeg',
+      '/images/WhatsApp Image 2025-12-30 at 14.15.33.jpeg',
+      '/images/fotinijanastapu.jpeg',
+      '/images/fotinijanastapu2.jpeg'
+    ],
     description: 'Fotinija Red Robin je zimzeleni žbun sa atraktivnim crvenim mladim izbojcima. Idealna za dekoraciju i formiranje žive ograde.',
     inStock: true,
     details: {
@@ -732,7 +752,10 @@ export const products = [
       '/images/maslina1.jpeg',
       '/images/maslina2.jpeg',
       '/images/maslina3.jpeg',
-      '/images/maslina5.jpeg'
+      '/images/maslina5.jpeg',
+      '/images/novemasline1.jpeg',
+      '/images/novemasline2.jpeg',
+      '/images/novemasline3.jpeg'
     ],
     description: 'Maslina (Olea europaea) je zimzeleno mediteransko drvo sa srebrno-zelenim listovima. Dugovečna i dekorativna, idealna za dvorišta, terase i mediteranski stil uređenja.',
     inStock: true,

@@ -783,6 +783,161 @@ export const products = [
       soil: 'Specijalni supstrat za bonsai',
       hardiness: 'Zavisi od vrste'
     }
+  },
+
+  // ==================== NOVE VRSTE (ID: 40-48) ====================
+  {
+    id: 40,
+    name: 'Gaura',
+    category: 'perene',
+    categories: ['perene'],
+    price: 0,
+    image: '/images/gaura.jpg',
+    description: 'Gaura (Gaura lindheimeri) je graciozna perena sa vitkim, crvenkastim stabljikama i sitnim cvetovima nalik leptirima. Dugo cveta tokom leta, laka za održavanje i otporna na sušu.',
+    inStock: true,
+    details: {
+      height: '60-90 cm',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -20°C'
+    }
+  },
+  {
+    id: 41,
+    name: 'Iberis',
+    category: 'perene',
+    categories: ['perene'],
+    price: 0,
+    image: '/images/iberis.jpg',
+    description: 'Iberis (Iberis sempervirens) je zimzelena pokrovna perena sa obiljem sitnih belih cvetova u proleće. Idealna za kamenjare, ivice staza i pokrivanje tla.',
+    inStock: true,
+    details: {
+      height: '15-25 cm',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -20°C'
+    }
+  },
+  {
+    id: 42,
+    name: 'Baštenski jorgovan',
+    category: 'siblje',
+    categories: ['siblje'],
+    price: 0,
+    image: '/images/indijskijorgovan.jpeg',
+    description: 'Baštenski jorgovan (Syringa vulgaris) je omiljeni cvetni žbun sa mirisnim ljubičastim cvastovima u proleće. Otporan i dugovečan, savršen za dvorišta i žive ograde.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 43,
+    name: 'Indijski jorgovan',
+    category: 'siblje',
+    categories: ['siblje'],
+    price: 0,
+    image: '/images/bastenskijorgovan.jpeg',
+    description: 'Indijski jorgovan (Lagerstroemia indica) je egzotičan žbun sa bujnim, naboranim cvetovima u ružičastim i crvenim tonovima tokom leta. Idealan kao solitera ili akcenat u dvorištu.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -15°C'
+    }
+  },
+  {
+    id: 44,
+    name: 'Italijanski čempres',
+    category: 'cetinari',
+    categories: ['cetinari'],
+    price: 0,
+    image: '/images/italijanskicempres.jpeg',
+    description: 'Italijanski čempres (Cupressus sempervirens) je vitak, stubasti četinar prepoznatljivog mediteranskog izgleda. Savršen kao vertikalni akcenat u alejama i dvorištima.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -15°C'
+    }
+  },
+  {
+    id: 45,
+    name: 'Japanska trešnja',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/japanskatresnja.jpeg',
+    description: 'Japanska trešnja (Prunus serrulata) je ukrasno drvo poznato po spektakularnom prolećnom cvetanju u ružičastim tonovima. Prava atrakcija za svaki park i dvorište.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Plodna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 46,
+    name: 'Japanski javor',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/japanskijavor.jpeg',
+    description: 'Japanski javor (Acer palmatum) je elegantno ukrasno drvce sa fino izrezanim, crveno-purpurnim lišćem. Idealan akcenat u modernim i japanskim vrtovima.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Bogata, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -20°C'
+    }
+  },
+  {
+    id: 47,
+    name: 'Palma',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/palma1.jpeg',
+    description: 'Palma (Trachycarpus fortunei) je otporna zimzelena palma lepezastih listova, jedna od retkih koja podnosi i blaže mrazeve. Donosi mediteranski i egzotičan štih svakom prostoru.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -12°C'
+    }
+  },
+  {
+    id: 48,
+    name: 'Cikas',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/palma.jpeg',
+    description: 'Cikas (Cycas revoluta), poznat i kao sago palma, je egzotična biljka sa krutim, perastim listovima i debelim, ljuspastim stablom. Idealna za saksije, terase i mediteranski ambijent.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Malo zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -8°C'
+    }
   }
 ];
 

@@ -310,6 +310,42 @@
     "39": {
       "name": "Leyland-Zypresse",
       "description": "Die Leyland-Zypresse (× Cuprocyparis leylandii) ist ein schnellwachsender immergrüner Nadelbaum, ideal für hohe Hecken und Windschutz. Verträgt wiederholten Schnitt und gedeiht in verschiedenen Bodentypen."
+    },
+    "40": {
+      "name": "Prachtkerze (Gaura lindheimeri)",
+      "description": "Die Prachtkerze (Gaura lindheimeri) ist eine anmutige Staude mit schlanken, rötlichen Stängeln und kleinen, schmetterlingsartigen Blüten. Lange Sommerblüte, trockenheitsresistent und pflegeleicht."
+    },
+    "41": {
+      "name": "Schleifenblume (Iberis sempervirens)",
+      "description": "Die Schleifenblume (Iberis sempervirens) ist eine immergrüne, bodendeckende Staude mit reichlich weißen Blüten im Frühling. Ideal für Steingärten, Beeteinfassungen und Bodendeckung."
+    },
+    "42": {
+      "name": "Gewöhnlicher Flieder (Syringa vulgaris)",
+      "description": "Der Gewöhnliche Flieder (Syringa vulgaris) ist der klassische Blühstrauch mit duftenden violetten Blütenrispen im Frühling. Winterhart und langlebig – perfekt für Gärten und Hecken."
+    },
+    "43": {
+      "name": "Kreppmyrte (Lagerstroemia indica)",
+      "description": "Die Kreppmyrte (Lagerstroemia indica) ist ein exotischer Strauch mit auffälligen, krausen Blüten in Rosa- und Rottönen den ganzen Sommer über. Ideal als Solitärpflanze oder Gartenakzent."
+    },
+    "44": {
+      "name": "Italienische Zypresse (Cupressus sempervirens)",
+      "description": "Die Italienische Zypresse (Cupressus sempervirens) ist ein schlanker, säulenförmiger Nadelbaum mit unverwechselbarem mediterranem Charakter. Perfekt als vertikaler Akzent an Alleen und in Gärten."
+    },
+    "45": {
+      "name": "Japanische Blütenkirsche (Prunus serrulata)",
+      "description": "Die Japanische Blütenkirsche (Prunus serrulata) ist ein Zierbaum, berühmt für seine spektakuläre rosa Frühlingsblüte. Ein echter Blickfang für Parks und Gärten."
+    },
+    "46": {
+      "name": "Japanischer Ahorn (Acer palmatum)",
+      "description": "Der Japanische Ahorn (Acer palmatum) ist ein eleganter Zierbaum mit fein geschlitztem, rot-purpurnem Laub. Idealer Akzent für moderne und japanische Gärten."
+    },
+    "47": {
+      "name": "Hanfpalme (Trachycarpus fortunei)",
+      "description": "Die Hanfpalme (Trachycarpus fortunei) ist eine der winterhärtesten Palmen, mit immergrünen, fächerförmigen Wedeln, die leichten Frost vertragen. Verleiht jedem Raum eine exotische, mediterrane Note."
+    },
+    "48": {
+      "name": "Sagopalme (Cycas revoluta)",
+      "description": "Die Sagopalme (Cycas revoluta) ist ein exotischer Palmfarn mit steifen, gefiederten Wedeln und einem charakteristischen schuppigen Stamm. Ideal für Kübel, Terrassen und mediterranes Ambiente."
     }
   }
 }

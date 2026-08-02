@@ -1,12 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import { Helmet } from 'react-helmet-async';
 import { useTranslation } from 'react-i18next';
+import { getSeoLinks } from '../utils/i18nRoutes';
 import './Contact.css';
 
 const RECAPTCHA_SITE_KEY = '6LcMH1IsAAAAANqBw0Qdqcg8zJ2Wq3HAZABNx-cd';
 
 const Contact = () => {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
   const [formData, setFormData] = useState({
     name: '',
     email: '',
@@ -75,7 +76,7 @@ const Contact = () => {
     <Helmet>
       <title>{t('seo.contactTitle')}</title>
       <meta name="description" content={t('seo.contactDescription')} />
-      <link rel="canonical" href="https://plantdgd.ro/contact" />
+      {getSeoLinks('/contact', i18n.language)}
     </Helmet>
     <div className="contact-page" style={{background: 'linear-gradient(135deg, #e0f2f1 0%, #f9fbe7 100%)', minHeight: '100vh'}}>
       <section className="hero-small">

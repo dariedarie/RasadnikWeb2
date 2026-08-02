@@ -1,16 +1,17 @@
 import React from 'react';
 import { Helmet } from 'react-helmet-async';
 import { useTranslation } from 'react-i18next';
+import { getSeoLinks } from '../utils/i18nRoutes';
 import './About.css';
 
 const About = () => {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
   return (
     <>
     <Helmet>
       <title>{t('seo.aboutTitle')}</title>
       <meta name="description" content={t('seo.aboutDescription')} />
-      <link rel="canonical" href="https://plantdgd.ro/about" />
+      {getSeoLinks('/about', i18n.language)}
     </Helmet>
     <div className="about-page" style={{background: 'linear-gradient(135deg, #e0f2f1 0%, #f9fbe7 100%)', minHeight: '100vh'}}>
       <section className="hero-small">

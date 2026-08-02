@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Helmet } from 'react-helmet-async';
 import { useTranslation } from 'react-i18next';
 import ImageLightbox from '../components/ImageLightbox';
+import { getSeoLinks } from '../utils/i18nRoutes';
 import './Gallery.css';
 
 const galleryImages = [
@@ -24,7 +25,7 @@ const galleryImages = [
 ];
 
 const Gallery = () => {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
   const [lightboxOpen, setLightboxOpen] = useState(false);
   const [lightboxIndex, setLightboxIndex] = useState(0);
 
@@ -38,7 +39,7 @@ const Gallery = () => {
     <Helmet>
       <title>{t('seo.galleryTitle')}</title>
       <meta name="description" content={t('seo.galleryDescription')} />
-      <link rel="canonical" href="https://plantdgd.ro/gallery" />
+      {getSeoLinks('/gallery', i18n.language)}
     </Helmet>
     <div className="gallery-page">
       <section className="gallery-section">

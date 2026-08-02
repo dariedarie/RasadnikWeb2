@@ -1,15 +1,21 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
+import { useNavigate, useLocation } from 'react-router-dom';
+import { parseLocalizedPath, buildLocalizedPath } from '../utils/i18nRoutes';
 import './LanguageSwitcher.css';
 
 const LanguageSwitcher = () => {
   const { i18n } = useTranslation();
+  const navigate = useNavigate();
+  const location = useLocation();
   const [isOpen, setIsOpen] = useState(false);
   const dropdownRef = useRef(null);
 
   const changeLanguage = (lng) => {
+    const { path } = parseLocalizedPath(location.pathname);
     i18n.changeLanguage(lng);
     localStorage.setItem('language', lng);
+    navigate(buildLocalizedPath(path, lng));
     setIsOpen(false);
   };
 

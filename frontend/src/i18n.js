@@ -16,11 +16,21 @@ const resources = {
   }
 };
 
+// Jezik se isključivo određuje iz URL putanje (/en/..., /de/..., inače ro) —
+// ne iz localStorage-a, jer svaka ruta ima tačno određen jezik i mora ostati
+// deterministička (nezavisna od prethodno posećenog jezika) i za korisnike i za crawlere.
+const getInitialLanguage = () => {
+  const path = window.location.pathname;
+  if (path === '/en' || path.startsWith('/en/')) return 'en';
+  if (path === '/de' || path.startsWith('/de/')) return 'de';
+  return 'ro';
+};
+
 i18n
   .use(initReactI18next)
   .init({
     resources,
-    lng: localStorage.getItem('language') || 'ro',
+    lng: getInitialLanguage(),
     fallbackLng: 'ro',
     interpolation: {
       escapeValue: false

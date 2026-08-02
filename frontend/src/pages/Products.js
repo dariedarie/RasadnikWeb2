@@ -3,13 +3,15 @@ import { Helmet } from 'react-helmet-async';
 import { Link, useSearchParams, useLocation } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { products } from '../data/productsData';
+import { getLangPrefix, getSeoLinks } from '../utils/i18nRoutes';
 import './Products.css';
 
 const SCROLL_POSITION_KEY = 'products_scroll_position';
 const PRODUCTS_STATE_KEY = 'products_state';
 
 const Products = () => {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
+  const prefix = getLangPrefix(i18n.language);
   const [searchParams, setSearchParams] = useSearchParams();
   const location = useLocation();
   const ITEMS_PER_PAGE = 12;
@@ -183,7 +185,7 @@ const Products = () => {
     <Helmet>
       <title>{t('seo.productsTitle')}</title>
       <meta name="description" content={t('seo.productsDescription')} />
-      <link rel="canonical" href="https://plantdgd.ro/products" />
+      {getSeoLinks('/products', i18n.language)}
     </Helmet>
     <div className="products-page" style={{background: 'linear-gradient(135deg, #e0f2f1 0%, #f9fbe7 100%)', minHeight: '100vh', paddingTop: '32px', paddingBottom: '48px'}}>
       <section className="section" style={{background: 'linear-gradient(135deg, #f9fbe7 0%, #e0f2f1 100%)', borderRadius: 18, boxShadow: '0 8px 32px rgba(44,62,80,0.08)', maxWidth: 900, margin: '0 auto 32px auto', padding: 32}}>
@@ -257,7 +259,7 @@ const Products = () => {
               {visibleProducts.map(product => (
                 <Link
                   key={product.id}
-                  to={`/products/${product.id}`}
+                  to={`${prefix}/products/${product.id}`}
                   className="product-card-compact"
                   onClick={() => handleProductClick(product.id)}
                 >

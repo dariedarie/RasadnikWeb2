@@ -3,13 +3,15 @@ import { Helmet } from 'react-helmet-async';
 import { useParams, useNavigate, Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { getProductById, categories } from '../data/productsData';
+import { getLangPrefix, buildHreflangUrls, getSeoLinks } from '../utils/i18nRoutes';
 import ImageLightbox from '../components/ImageLightbox';
 import './ProductDetails.css';
 
 const ProductDetails = () => {
   const { id } = useParams();
   const navigate = useNavigate();
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
+  const prefix = getLangPrefix(i18n.language);
   const [lightboxOpen, setLightboxOpen] = useState(false);
   const [lightboxIndex, setLightboxIndex] = useState(0);
 
@@ -27,7 +29,7 @@ const ProductDetails = () => {
         <div className="product-not-found">
           <h2>{t('productDetails.notFound') || 'Proizvod nije pronađen'}</h2>
           <p>{t('productDetails.notFoundDesc') || 'Proizvod koji tražite ne postoji ili je uklonjen.'}</p>
-          <Link to="/products" className="back-to-products-btn">
+          <Link to={`${prefix}/products`} className="back-to-products-btn">
             {t('productDetails.backToProducts') || 'Nazad na proizvode'}
           </Link>
         </div>
@@ -51,6 +53,8 @@ const ProductDetails = () => {
   };
 
   const priceText = '';
+  const pageUrls = buildHreflangUrls(`/products/${product.id}`);
+  const canonicalUrl = pageUrls[i18n.language] || pageUrls.ro;
 
   const productSchema = {
     '@context': 'https://schema.org',
@@ -64,10 +68,10 @@ const ProductDetails = () => {
       '@type': 'Brand',
       name: 'PlantDGD'
     },
-    url: `https://plantdgd.ro/products/${product.id}`,
+    url: canonicalUrl,
     offers: {
       '@type': 'Offer',
-      url: `https://plantdgd.ro/products/${product.id}`,
+      url: canonicalUrl,
       availability: product.inStock ? 'https://schema.org/InStock' : 'https://schema.org/OutOfStock',
       seller: {
         '@type': 'Organization',
@@ -81,19 +85,19 @@ const ProductDetails = () => {
     <Helmet>
       <title>{translatedName} – PlantDGD | Angro Plante Ornamentale România</title>
       <meta name="description" content={`${translatedName} en gros - PlantDGD furnizor de plante ornamentale. ${translatedDescription.substring(0, 130)} Livrare în toată România.`} />
-      <link rel="canonical" href={`https://plantdgd.ro/products/${product.id}`} />
+      {getSeoLinks(`/products/${product.id}`, i18n.language)}
       <meta property="og:title" content={`${translatedName} En Gros – PlantDGD`} />
       <meta property="og:description" content={translatedDescription.substring(0, 200)} />
       <meta property="og:image" content={`https://plantdgd.ro${product.image}`} />
-      <meta property="og:url" content={`https://plantdgd.ro/products/${product.id}`} />
+      <meta property="og:url" content={canonicalUrl} />
       <script type="application/ld+json">{JSON.stringify(productSchema)}</script>
     </Helmet>
     <div className="product-details-page">
       {/* Breadcrumb navigacija */}
       <nav className="breadcrumb">
-        <Link to="/">{t('nav.home') || 'Početna'}</Link>
+        <Link to={prefix || '/'}>{t('nav.home') || 'Početna'}</Link>
         <span className="breadcrumb-separator">/</span>
-        <Link to="/products">{t('nav.products') || 'Proizvodi'}</Link>
+        <Link to={`${prefix}/products`}>{t('nav.products') || 'Proizvodi'}</Link>
         <span className="breadcrumb-separator">/</span>
         <span className="breadcrumb-current">{translatedName}</span>
       </nav>
@@ -231,7 +235,7 @@ const ProductDetails = () => {
 
           {/* Akcije */}
           <div className="product-actions">
-            <Link to="/contact" className="contact-btn">
+            <Link to={`${prefix}/contact`} className="contact-btn">
               {t('productDetails.contactUs') || 'Kontaktirajte nas za narudžbinu'}
             </Link>
           </div>

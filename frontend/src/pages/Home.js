@@ -2,10 +2,12 @@ import React, { useState } from 'react';
 import { Helmet } from 'react-helmet-async';
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
+import { getLangPrefix, getSeoLinks } from '../utils/i18nRoutes';
 import './Home.css';
 
 const Home = () => {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
+  const prefix = getLangPrefix(i18n.language);
   const [hoveredCard, setHoveredCard] = useState(null);
 
   return (
@@ -13,7 +15,7 @@ const Home = () => {
     <Helmet>
       <title>{t('seo.homeTitle')}</title>
       <meta name="description" content={t('seo.homeDescription')} />
-      <link rel="canonical" href="https://plantdgd.ro/" />
+      {getSeoLinks('/', i18n.language)}
     </Helmet>
     <div className="home">
       {/* Hero sekcija */}
@@ -98,7 +100,7 @@ const Home = () => {
             
             {/* Featured kartica - Tuja (veća i istaknuta) */}
             <Link 
-              to="/products/1"
+              to={`${prefix}/products/1`}
               onMouseEnter={() => setHoveredCard('tuja')}
               onMouseLeave={() => setHoveredCard(null)}
               style={{
@@ -188,7 +190,7 @@ const Home = () => {
 
             {/* Katalpa kartica */}
             <Link
-              to="/products/7"
+              to={`${prefix}/products/7`}
               onMouseEnter={() => setHoveredCard('katalpa')}
               onMouseLeave={() => setHoveredCard(null)}
               style={{
@@ -262,7 +264,7 @@ const Home = () => {
 
             {/* Lovor višnja kartica */}
             <Link
-              to="/products/9"
+              to={`${prefix}/products/9`}
               onMouseEnter={() => setHoveredCard('lovor')}
               onMouseLeave={() => setHoveredCard(null)}
               style={{
@@ -336,7 +338,7 @@ const Home = () => {
 
             {/* Fotinija Red Robin kartica */}
             <Link
-              to="/products/10"
+              to={`${prefix}/products/10`}
               onMouseEnter={() => setHoveredCard('fotinija')}
               onMouseLeave={() => setHoveredCard(null)}
               style={{
@@ -410,7 +412,7 @@ const Home = () => {
 
             {/* Leyland kartica */}
             <Link
-              to="/products/39"
+              to={`${prefix}/products/39`}
               onMouseEnter={() => setHoveredCard('leyland')}
               onMouseLeave={() => setHoveredCard(null)}
               style={{
@@ -486,8 +488,8 @@ const Home = () => {
 
           {/* View all button */}
           <div style={{textAlign: 'center', marginTop: 48}}>
-            <Link 
-              to="/products"
+            <Link
+              to={`${prefix}/products`}
               style={{
                 display: 'inline-block',
                 padding: '16px 48px',

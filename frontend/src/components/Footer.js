@@ -1,10 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
+import { getLangPrefix } from '../utils/i18nRoutes';
 import './Footer.css';
 
 const Footer = () => {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
+  const prefix = getLangPrefix(i18n.language);
   return (
     <footer className="footer">
       <div className="container">
@@ -20,11 +22,11 @@ const Footer = () => {
           <div className="footer-section">
             <h4>{t('footer.quickLinks')}</h4>
             <ul>
-              <li><Link to="/" onClick={() => window.scrollTo(0,0)}>{t('nav.home')}</Link></li>
-              <li><Link to="/products" onClick={() => window.scrollTo(0,0)}>{t('nav.products')}</Link></li>
-              <li><Link to="/about" onClick={() => window.scrollTo(0,0)}>{t('nav.about')}</Link></li>
-              <li><Link to="/contact" onClick={() => window.scrollTo(0,0)}>{t('nav.contact')}</Link></li>
-              <li><Link to="/gallery" onClick={() => window.scrollTo(0,0)}>{t('nav.gallery')}</Link></li>
+              <li><Link to={prefix || '/'} onClick={() => window.scrollTo(0,0)}>{t('nav.home')}</Link></li>
+              <li><Link to={`${prefix}/products`} onClick={() => window.scrollTo(0,0)}>{t('nav.products')}</Link></li>
+              <li><Link to={`${prefix}/about`} onClick={() => window.scrollTo(0,0)}>{t('nav.about')}</Link></li>
+              <li><Link to={`${prefix}/contact`} onClick={() => window.scrollTo(0,0)}>{t('nav.contact')}</Link></li>
+              <li><Link to={`${prefix}/gallery`} onClick={() => window.scrollTo(0,0)}>{t('nav.gallery')}</Link></li>
             </ul>
           </div>
 

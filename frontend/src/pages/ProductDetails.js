@@ -52,6 +52,30 @@ const ProductDetails = () => {
 
   const priceText = '';
 
+  const productSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Product',
+    name: translatedName,
+    description: translatedDescription,
+    image: `https://plantdgd.ro${product.image}`,
+    sku: String(product.id),
+    category: categoryName,
+    brand: {
+      '@type': 'Brand',
+      name: 'PlantDGD'
+    },
+    url: `https://plantdgd.ro/products/${product.id}`,
+    offers: {
+      '@type': 'Offer',
+      url: `https://plantdgd.ro/products/${product.id}`,
+      availability: product.inStock ? 'https://schema.org/InStock' : 'https://schema.org/OutOfStock',
+      seller: {
+        '@type': 'Organization',
+        name: 'PlantDGD'
+      }
+    }
+  };
+
   return (
     <>
     <Helmet>
@@ -62,6 +86,7 @@ const ProductDetails = () => {
       <meta property="og:description" content={translatedDescription.substring(0, 200)} />
       <meta property="og:image" content={`https://plantdgd.ro${product.image}`} />
       <meta property="og:url" content={`https://plantdgd.ro/products/${product.id}`} />
+      <script type="application/ld+json">{JSON.stringify(productSchema)}</script>
     </Helmet>
     <div className="product-details-page">
       {/* Breadcrumb navigacija */}
@@ -114,6 +139,7 @@ const ProductDetails = () => {
                   <img
                     src={img}
                     alt={`${translatedName} - ${index + 1}`}
+                    loading="lazy"
                     onError={(e) => {
                       e.target.src = '/images/logo.png';
                     }}

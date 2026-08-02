@@ -8,8 +8,8 @@ const About = () => {
   return (
     <>
     <Helmet>
-      <title>Despre PlantDGD – Furnizor Angro Plante Ornamentale România</title>
-      <meta name="description" content="PlantDGD - furnizor de plante ornamentale en gros cu 15+ ani de experiență. Livrăm peisagiști, centre de grădinărit, primării și companii din toată România cu plante de calitate superioară." />
+      <title>{t('seo.aboutTitle')}</title>
+      <meta name="description" content={t('seo.aboutDescription')} />
       <link rel="canonical" href="https://plantdgd.ro/about" />
     </Helmet>
     <div className="about-page" style={{background: 'linear-gradient(135deg, #e0f2f1 0%, #f9fbe7 100%)', minHeight: '100vh'}}>

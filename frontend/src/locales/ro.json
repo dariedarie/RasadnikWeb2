@@ -154,6 +154,18 @@
     "wholesale": "Vânzare en gros",
     "b2b": "Parteneriate B2B"
   },
+  "seo": {
+    "homeTitle": "PlantDGD – Angro de Plante Ornamentale | Vânzare En Gros România",
+    "homeDescription": "PlantDGD - furnizor de plante ornamentale en gros în România. Tuia, conifere, arbuști, garduri vii, arbori ornamentali angro. Prețuri competitive pentru peisagiști și centre de grădinărit. Livrare în toată România.",
+    "aboutTitle": "Despre PlantDGD – Furnizor Angro Plante Ornamentale România",
+    "aboutDescription": "PlantDGD - furnizor de plante ornamentale en gros cu 15+ ani de experiență. Livrăm peisagiști, centre de grădinărit, primării și companii din toată România cu plante de calitate superioară.",
+    "contactTitle": "Contact PlantDGD – Ofertă Angro Plante Ornamentale România",
+    "contactDescription": "Contactați PlantDGD pentru ofertă en gros de plante ornamentale. Telefon: +40 729 048 545. Livrare în toată România. Prețuri competitive pentru peisagiști și centre de grădinărit.",
+    "galleryTitle": "Galerie PlantDGD – Fotografii Plante Ornamentale En Gros",
+    "galleryDescription": "Galeria PlantDGD - fotografii cu plante ornamentale disponibile en gros: conifere, arbuști, garduri vii, arbori ornamentali. Calitate superioară pentru peisagiști și centre de grădinărit.",
+    "productsTitle": "Catalog Produse – PlantDGD | Plante Ornamentale En Gros România",
+    "productsDescription": "Catalog complet de plante ornamentale en gros: conifere, arbuști, garduri vii, arbori foioși, perene. Prețuri competitive pentru peisagiști, centre de grădinărit și primării. Livrare în toată România."
+  },
   "productDescriptions": {
     "1": {
       "name": "Tuia 'Smaragd' (Thuja occidentalis 'Smaragd')",

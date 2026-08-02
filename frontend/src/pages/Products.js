@@ -181,8 +181,8 @@ const Products = () => {
   return (
     <>
     <Helmet>
-      <title>Catalog Produse – PlantDGD | Plante Ornamentale En Gros România</title>
-      <meta name="description" content="Catalog complet de plante ornamentale en gros: conifere, arbuști, garduri vii, arbori foioși, perene. Prețuri competitive pentru peisagiști, centre de grădinărit și primării. Livrare în toată România." />
+      <title>{t('seo.productsTitle')}</title>
+      <meta name="description" content={t('seo.productsDescription')} />
       <link rel="canonical" href="https://plantdgd.ro/products" />
     </Helmet>
     <div className="products-page" style={{background: 'linear-gradient(135deg, #e0f2f1 0%, #f9fbe7 100%)', minHeight: '100vh', paddingTop: '32px', paddingBottom: '48px'}}>
@@ -265,6 +265,7 @@ const Products = () => {
                     <img
                       src={product.image}
                       alt={t(`productDescriptions.${product.id}.name`, { defaultValue: product.name })}
+                      loading="lazy"
                       onError={(e) => {
                         e.target.src = '/images/logo.png';
                       }}

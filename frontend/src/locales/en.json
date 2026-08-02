@@ -150,6 +150,18 @@
     "wholesale": "Wholesale Sales",
     "b2b": "B2B Partnerships"
   },
+  "seo": {
+    "homeTitle": "PlantDGD – Wholesale Ornamental Plants | Bulk Sales Romania",
+    "homeDescription": "PlantDGD - wholesale ornamental plant supplier in Romania. Thuja, conifers, shrubs, hedges, ornamental trees in bulk. Competitive prices for landscapers and garden centers. Delivery throughout Romania.",
+    "aboutTitle": "About PlantDGD – Wholesale Ornamental Plant Supplier Romania",
+    "aboutDescription": "PlantDGD - wholesale ornamental plant supplier with 15+ years of experience. We supply landscapers, garden centers, municipalities and companies throughout Romania with premium quality plants.",
+    "contactTitle": "Contact PlantDGD – Wholesale Ornamental Plants Quote Romania",
+    "contactDescription": "Contact PlantDGD for a wholesale ornamental plants quote. Phone: +40 729 048 545. Delivery throughout Romania. Competitive prices for landscapers and garden centers.",
+    "galleryTitle": "PlantDGD Gallery – Wholesale Ornamental Plant Photos",
+    "galleryDescription": "PlantDGD gallery - photos of ornamental plants available wholesale: conifers, shrubs, hedges, ornamental trees. Premium quality for landscapers and garden centers.",
+    "productsTitle": "Product Catalog – PlantDGD | Wholesale Ornamental Plants Romania",
+    "productsDescription": "Complete catalog of wholesale ornamental plants: conifers, shrubs, hedges, deciduous trees, perennials. Competitive prices for landscapers, garden centers and municipalities. Delivery throughout Romania."
+  },
   "productDescriptions": {
     "1": {
       "name": "Emerald Green Arborvitae (Thuja occidentalis 'Smaragd')",

@@ -154,6 +154,18 @@
     "wholesale": "Großhandel",
     "b2b": "B2B-Partnerschaften"
   },
+  "seo": {
+    "homeTitle": "PlantDGD – Zierpflanzen Großhandel | Großhandelsverkauf Rumänien",
+    "homeDescription": "PlantDGD - Großhandelslieferant für Zierpflanzen in Rumänien. Thuja, Nadelbäume, Sträucher, Hecken, Zierbäume im Großhandel. Wettbewerbsfähige Preise für Landschaftsgärtner und Gartencenter. Lieferung in ganz Rumänien.",
+    "aboutTitle": "Über PlantDGD – Zierpflanzen-Großhändler Rumänien",
+    "aboutDescription": "PlantDGD - Großhandelslieferant für Zierpflanzen mit über 15 Jahren Erfahrung. Wir beliefern Landschaftsgärtner, Gartencenter, Gemeinden und Unternehmen in ganz Rumänien mit hochwertigen Pflanzen.",
+    "contactTitle": "Kontakt PlantDGD – Großhandelsangebot Zierpflanzen Rumänien",
+    "contactDescription": "Kontaktieren Sie PlantDGD für ein Großhandelsangebot für Zierpflanzen. Telefon: +40 729 048 545. Lieferung in ganz Rumänien. Wettbewerbsfähige Preise für Landschaftsgärtner und Gartencenter.",
+    "galleryTitle": "PlantDGD Galerie – Fotos von Zierpflanzen im Großhandel",
+    "galleryDescription": "PlantDGD Galerie - Fotos von Zierpflanzen im Großhandel erhältlich: Nadelbäume, Sträucher, Hecken, Zierbäume. Hochwertige Qualität für Landschaftsgärtner und Gartencenter.",
+    "productsTitle": "Produktkatalog – PlantDGD | Zierpflanzen Großhandel Rumänien",
+    "productsDescription": "Vollständiger Katalog an Zierpflanzen im Großhandel: Nadelbäume, Sträucher, Hecken, Laubbäume, Stauden. Wettbewerbsfähige Preise für Landschaftsgärtner, Gartencenter und Gemeinden. Lieferung in ganz Rumänien."
+  },
   "productDescriptions": {
     "1": {
       "name": "Lebensbaum 'Smaragd' (Thuja occidentalis)",

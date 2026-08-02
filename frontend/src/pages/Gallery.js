@@ -36,8 +36,8 @@ const Gallery = () => {
   return (
     <>
     <Helmet>
-      <title>Galerie PlantDGD – Fotografii Plante Ornamentale En Gros</title>
-      <meta name="description" content="Galeria PlantDGD - fotografii cu plante ornamentale disponibile en gros: conifere, arbuști, garduri vii, arbori ornamentali. Calitate superioară pentru peisagiști și centre de grădinărit." />
+      <title>{t('seo.galleryTitle')}</title>
+      <meta name="description" content={t('seo.galleryDescription')} />
       <link rel="canonical" href="https://plantdgd.ro/gallery" />
     </Helmet>
     <div className="gallery-page">
@@ -59,6 +59,7 @@ const Gallery = () => {
               <img
                 src={src}
                 alt={`${t('gallery.title')} ${idx + 1}`}
+                loading="lazy"
                 onError={(e) => {
                   e.target.src = '/images/logo.png';
                 }}

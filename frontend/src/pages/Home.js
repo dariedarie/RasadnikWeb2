@@ -11,8 +11,8 @@ const Home = () => {
   return (
     <>
     <Helmet>
-      <title>PlantDGD – Angro de Plante Ornamentale | Vânzare En Gros România</title>
-      <meta name="description" content="PlantDGD - furnizor de plante ornamentale en gros în România. Tuia, conifere, arbuști, garduri vii, arbori ornamentali angro. Prețuri competitive pentru peisagiști și centre de grădinărit. Livrare în toată România." />
+      <title>{t('seo.homeTitle')}</title>
+      <meta name="description" content={t('seo.homeDescription')} />
       <link rel="canonical" href="https://plantdgd.ro/" />
     </Helmet>
     <div className="home">
@@ -121,9 +121,9 @@ const Home = () => {
                 height: '100%',
                 overflow: 'hidden'
               }}>
-                <img 
-                  src="/images/tujavelika.jpeg" 
-                  alt="Tuja Smaragd" 
+                <img
+                  src="/images/tujavelika.jpeg"
+                  alt={t('home.tuja')}
                   style={{
                     width: '100%',
                     height: '100%',
@@ -210,9 +210,10 @@ const Home = () => {
                 height: '70%',
                 overflow: 'hidden'
               }}>
-                <img 
-                  src="/images/katalpa.jpg" 
-                  alt="Katalpa" 
+                <img
+                  src="/images/katalpa.jpg"
+                  alt={t('home.katalpa')}
+                  loading="lazy"
                   style={{
                     width: '100%',
                     height: '100%',
@@ -283,9 +284,10 @@ const Home = () => {
                 height: '70%',
                 overflow: 'hidden'
               }}>
-                <img 
-                  src="/images/lovorvisnja.jpeg" 
-                  alt="Lovor višnja" 
+                <img
+                  src="/images/lovorvisnja.jpeg"
+                  alt={t('home.lovor')}
+                  loading="lazy"
                   style={{
                     width: '100%',
                     height: '100%',
@@ -358,7 +360,8 @@ const Home = () => {
               }}>
                 <img
                   src="/images/WhatsApp Image 2025-12-30 at 14.15.33.jpeg"
-                  alt="Fotinija Red Robin"
+                  alt={t('home.fotinija')}
+                  loading="lazy"
                   style={{
                     width: '100%',
                     height: '100%',
@@ -431,7 +434,8 @@ const Home = () => {
               }}>
                 <img
                   src="/images/lejlandinew.jpeg"
-                  alt="Chiparos Leyland"
+                  alt={t('home.leyland')}
+                  loading="lazy"
                   style={{
                     width: '100%',
                     height: '100%',

@@ -2,7 +2,7 @@
 
 export const SUPPORTED_LANGS = ['ro', 'en', 'de'];
 export const DEFAULT_LANG = 'ro';
-export const SITE_URL = 'https://plantdgd.ro';
+export const SITE_URL = 'https://www.plantdgd.ro';
 
 // URL prefiks za dati jezik ('' za ro, '/en', '/de')
 export function getLangPrefix(lang) {

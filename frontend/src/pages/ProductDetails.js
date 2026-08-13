@@ -61,7 +61,7 @@ const ProductDetails = () => {
     '@type': 'Product',
     name: translatedName,
     description: translatedDescription,
-    image: `https://plantdgd.ro${product.image}`,
+    image: `https://www.plantdgd.ro${product.image}`,
     sku: String(product.id),
     category: categoryName,
     brand: {
@@ -88,7 +88,7 @@ const ProductDetails = () => {
       {getSeoLinks(`/products/${product.id}`, i18n.language)}
       <meta property="og:title" content={`${translatedName} En Gros – PlantDGD`} />
       <meta property="og:description" content={translatedDescription.substring(0, 200)} />
-      <meta property="og:image" content={`https://plantdgd.ro${product.image}`} />
+      <meta property="og:image" content={`https://www.plantdgd.ro${product.image}`} />
       <meta property="og:url" content={canonicalUrl} />
       <script type="application/ld+json">{JSON.stringify(productSchema)}</script>
     </Helmet>

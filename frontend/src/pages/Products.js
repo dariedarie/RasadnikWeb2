@@ -269,7 +269,7 @@ const Products = () => {
                       alt={t(`productDescriptions.${product.id}.name`, { defaultValue: product.name })}
                       loading="lazy"
                       onError={(e) => {
-                        e.target.src = '/images/logo.png';
+                        e.target.src = '/images/plantDGD2.png';
                       }}
                     />
                     <span className={`stock-badge ${product.inStock ? 'in-stock' : 'out-of-stock'}`}>

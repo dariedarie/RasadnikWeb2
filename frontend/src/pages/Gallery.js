@@ -62,7 +62,7 @@ const Gallery = () => {
                 alt={`${t('gallery.title')} ${idx + 1}`}
                 loading="lazy"
                 onError={(e) => {
-                  e.target.src = '/images/logo.png';
+                  e.target.src = '/images/plantDGD2.png';
                 }}
               />
               <div className="gallery-item-overlay">

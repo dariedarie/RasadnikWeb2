@@ -137,7 +137,7 @@ const ImageLightbox = ({ images, initialIndex = 0, onClose, productName }) => {
             className="lightbox-image"
             onClick={toggleZoom}
             onError={(e) => {
-              e.target.src = '/images/logo.png';
+              e.target.src = '/images/plantDGD2.png';
             }}
           />
         </div>
@@ -169,7 +169,7 @@ const ImageLightbox = ({ images, initialIndex = 0, onClose, productName }) => {
                 src={img}
                 alt={`Thumbnail ${index + 1}`}
                 onError={(e) => {
-                  e.target.src = '/images/logo.png';
+                  e.target.src = '/images/plantDGD2.png';
                 }}
               />
             </button>

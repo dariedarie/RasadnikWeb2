@@ -41,7 +41,7 @@ const About = () => {
             padding: '20px'
           }}>
             <img
-              src="/images/logo.png"
+              src="/images/plantDGD2.png"
               alt="PlantDGD Logo"
               style={{
                 maxWidth: '280px', 

@@ -111,7 +111,7 @@ const ProductDetails = () => {
               src={productImages[0]}
               alt={translatedName}
               onError={(e) => {
-                e.target.src = '/images/logo.png';
+                e.target.src = '/images/plantDGD2.png';
               }}
             />
             <span className={`stock-indicator ${product.inStock ? 'in-stock' : 'out-of-stock'}`}>
@@ -145,7 +145,7 @@ const ProductDetails = () => {
                     alt={`${translatedName} - ${index + 1}`}
                     loading="lazy"
                     onError={(e) => {
-                      e.target.src = '/images/logo.png';
+                      e.target.src = '/images/plantDGD2.png';
                     }}
                   />
                 </button>

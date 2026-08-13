@@ -18,7 +18,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="container">
         <Link to={prefix || '/'} className="navbar-brand">
-          <img src="/images/logo.png" alt="PlantDGD Logo" style={{height: '40px', width: 'auto', objectFit: 'contain', verticalAlign: 'middle', marginRight: '10px'}} />
+          <img src="/images/plantDGD2.png" alt="PlantDGD Logo" style={{height: '40px', width: 'auto', objectFit: 'contain', verticalAlign: 'middle', marginRight: '10px'}} />
           PlantDGD
         </Link>
 

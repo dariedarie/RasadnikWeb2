@@ -2,10 +2,12 @@ import React, { useState, useEffect } from 'react';
 import { Helmet } from 'react-helmet-async';
 import { useParams, useNavigate, Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
-import { getProductById, categories } from '../data/productsData';
+import { products, getProductById, categories } from '../data/productsData';
+import { getCategoryPageByCategoryId, pickLang, labels, productInCategory, productMeta, breadcrumbJsonLd } from '../data/seoPages';
 import { getLangPrefix, buildHreflangUrls, getSeoLinks } from '../utils/i18nRoutes';
 import ImageLightbox from '../components/ImageLightbox';
 import './ProductDetails.css';
+import './Products.css';
 
 const ProductDetails = () => {
   const { id } = useParams();
@@ -52,9 +54,22 @@ const ProductDetails = () => {
     setLightboxOpen(true);
   };
 
-  const priceText = '';
   const pageUrls = buildHreflangUrls(`/products/${product.id}`);
   const canonicalUrl = pageUrls[i18n.language] || pageUrls.ro;
+  const meta = productMeta(translatedName, translatedDescription, i18n.language);
+
+  const categoryPage = getCategoryPageByCategoryId(product.category);
+  const categoryPageName = categoryPage ? pickLang(categoryPage.content, i18n.language).name : null;
+  const breadcrumbs = [
+    { name: t('nav.home'), path: prefix || '/' },
+    { name: t('nav.products'), path: `${prefix}/products` },
+    ...(categoryPage ? [{ name: categoryPageName, path: `${prefix}/${categoryPage.slug}` }] : []),
+    { name: translatedName, path: `${prefix}/products/${product.id}` }
+  ];
+
+  const relatedProducts = products
+    .filter(p => p.id !== product.id && productInCategory(p, product.category))
+    .slice(0, 4);
 
   const productSchema = {
     '@context': 'https://schema.org',
@@ -83,23 +98,27 @@ const ProductDetails = () => {
   return (
     <>
     <Helmet>
-      <title>{translatedName} – PlantDGD | Angro Plante Ornamentale România</title>
-      <meta name="description" content={`${translatedName} en gros - PlantDGD furnizor de plante ornamentale. ${translatedDescription.substring(0, 130)} Livrare în toată România.`} />
+      <title>{meta.title}</title>
+      <meta name="description" content={meta.description} />
       {getSeoLinks(`/products/${product.id}`, i18n.language)}
-      <meta property="og:title" content={`${translatedName} En Gros – PlantDGD`} />
-      <meta property="og:description" content={translatedDescription.substring(0, 200)} />
-      <meta property="og:image" content={`https://www.plantdgd.ro${product.image}`} />
+      <meta property="og:title" content={meta.title} />
+      <meta property="og:description" content={meta.description} />
+      <meta property="og:image" content={`https://www.plantdgd.ro${encodeURI(product.image)}`} />
       <meta property="og:url" content={canonicalUrl} />
       <script type="application/ld+json">{JSON.stringify(productSchema)}</script>
+      <script type="application/ld+json">{JSON.stringify(breadcrumbJsonLd(breadcrumbs))}</script>
     </Helmet>
     <div className="product-details-page">
       {/* Breadcrumb navigacija */}
-      <nav className="breadcrumb">
-        <Link to={prefix || '/'}>{t('nav.home') || 'Početna'}</Link>
-        <span className="breadcrumb-separator">/</span>
-        <Link to={`${prefix}/products`}>{t('nav.products') || 'Proizvodi'}</Link>
-        <span className="breadcrumb-separator">/</span>
-        <span className="breadcrumb-current">{translatedName}</span>
+      <nav className="breadcrumb" aria-label="breadcrumb">
+        {breadcrumbs.map((crumb, i) => (
+          <React.Fragment key={crumb.path}>
+            {i > 0 && <span className="breadcrumb-separator">/</span>}
+            {i < breadcrumbs.length - 1
+              ? <Link to={crumb.path}>{crumb.name}</Link>
+              : <span className="breadcrumb-current">{crumb.name}</span>}
+          </React.Fragment>
+        ))}
       </nav>
 
       <div className="product-details-container">
@@ -163,9 +182,13 @@ const ProductDetails = () => {
 
         {/* Desna strana - informacije */}
         <div className="product-info-section">
-          <div className="product-category-badge">
-            {categoryName}
-          </div>
+          {categoryPage ? (
+            <Link to={`${prefix}/${categoryPage.slug}`} className="product-category-badge" style={{textDecoration: 'none'}}>
+              {categoryName}
+            </Link>
+          ) : (
+            <div className="product-category-badge">{categoryName}</div>
+          )}
 
           <h1 className="product-title">
             {translatedName}
@@ -246,6 +269,32 @@ const ProductDetails = () => {
           </button>
         </div>
       </div>
+
+      {/* Povezani proizvodi - interno linkovanje */}
+      {relatedProducts.length > 0 && (
+        <section style={{maxWidth: 1200, margin: '48px auto 0', padding: '0 16px'}}>
+          <h2 style={{color: '#2e7d32', fontWeight: 700, marginBottom: 24, fontSize: '1.5rem'}}>
+            {categoryPage
+              ? <Link to={`${prefix}/${categoryPage.slug}`} style={{color: 'inherit'}}>{categoryPageName}</Link>
+              : pickLang(labels, i18n.language).related}
+          </h2>
+          <div className="products-grid-compact">
+            {relatedProducts.map(p => {
+              const pName = t(`productDescriptions.${p.id}.name`, { defaultValue: p.name });
+              return (
+                <Link key={p.id} to={`${prefix}/products/${p.id}`} className="product-card-compact">
+                  <div className="product-image-compact">
+                    <img src={p.image} alt={pName} loading="lazy" onError={(e) => { e.target.src = '/images/plantDGD2.png'; }} />
+                  </div>
+                  <div className="product-info-compact">
+                    <h3>{pName}</h3>
+                  </div>
+                </Link>
+              );
+            })}
+          </div>
+        </section>
+      )}
 
       {/* Lightbox */}
       {lightboxOpen && (

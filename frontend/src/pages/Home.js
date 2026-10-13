@@ -3,11 +3,13 @@ import { Helmet } from 'react-helmet-async';
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
 import { getLangPrefix, getSeoLinks } from '../utils/i18nRoutes';
+import { homeContent, categoryPages, pickLang, labels, faqJsonLd } from '../data/seoPages';
 import './Home.css';
 
 const Home = () => {
   const { t, i18n } = useTranslation();
   const prefix = getLangPrefix(i18n.language);
+  const content = pickLang(homeContent, i18n.language);
   const [hoveredCard, setHoveredCard] = useState(null);
 
   return (
@@ -16,6 +18,7 @@ const Home = () => {
       <title>{t('seo.homeTitle')}</title>
       <meta name="description" content={t('seo.homeDescription')} />
       {getSeoLinks('/', i18n.language)}
+      <script type="application/ld+json">{JSON.stringify(faqJsonLd(content.faq))}</script>
     </Helmet>
     <div className="home">
       {/* Hero sekcija */}
@@ -41,7 +44,7 @@ const Home = () => {
         <div className="container" style={{position: 'relative', zIndex: 2, textAlign: 'center', color: 'white', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: 18, padding: '48px 0 56px 0'}}>
           <h1 style={{fontSize: 'clamp(1.6rem, 5vw, 3.2rem)', fontWeight: 700, letterSpacing: 1, marginBottom: 18, textShadow: '0 2px 12px rgba(0,0,0,0.18)'}}>{t('home.title')}</h1>
           <p style={{fontWeight: 500, fontSize: 'clamp(1rem, 3vw, 1.3rem)', marginBottom: 32, opacity: 0.95, maxWidth: 600}}>{t('home.subtitle')}</p>
-          <a href="/products" className="btn-primary" style={{
+          <Link to={`${prefix}/products`} className="btn-primary" style={{
             marginTop: 12,
             padding: '18px 48px',
             fontSize: '1.35rem',
@@ -60,7 +63,7 @@ const Home = () => {
           onMouseOut={e => {e.currentTarget.style.background='#2e7d32'; e.currentTarget.style.transform='none';}}
           >
             {t('home.viewProducts')}
-          </a>
+          </Link>
         </div>
       </section>
       {/* Zašto izabrati nas */}
@@ -515,6 +518,37 @@ const Home = () => {
               {t('home.viewAll')}
             </Link>
           </div>
+        </div>
+      </section>
+
+      {/* SEO tekst + kategorije */}
+      <section className="section" style={{background: '#fff'}}>
+        <div className="container" style={{maxWidth: 1000}}>
+          <h2 className="section-title">{content.introTitle}</h2>
+          {content.intro.map((p, i) => (
+            <p key={i} style={{fontSize: '1.05rem', color: '#234d20', lineHeight: 1.7}}>{p}</p>
+          ))}
+          <h2 className="section-title" style={{marginTop: 40}}>{content.categoriesTitle}</h2>
+          <div style={{display: 'flex', flexWrap: 'wrap', gap: 12, justifyContent: 'center'}}>
+            {categoryPages.map(c => (
+              <Link key={c.slug} to={`${prefix}/${c.slug}`} style={{padding: '12px 26px', border: '2px solid #2e7d32', borderRadius: 25, color: '#2e7d32', fontWeight: 600, textDecoration: 'none'}}>
+                {pickLang(c.content, i18n.language).name}
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* FAQ - vidljiv sadrzaj koji odgovara FAQPage schema-i */}
+      <section className="section bg-light">
+        <div className="container" style={{maxWidth: 1000}}>
+          <h2 className="section-title">{pickLang(labels, i18n.language).faqTitle}</h2>
+          {content.faq.map((f, i) => (
+            <div key={i} style={{marginBottom: 20}}>
+              <h3 style={{fontSize: '1.1rem', fontWeight: 600, color: '#234d20', marginBottom: 6}}>{f.q}</h3>
+              <p style={{color: '#234d20', lineHeight: 1.6, marginBottom: 0}}>{f.a}</p>
+            </div>
+          ))}
         </div>
       </section>
 

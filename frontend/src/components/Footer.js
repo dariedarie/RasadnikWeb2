@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { getLangPrefix } from '../utils/i18nRoutes';
+import { categoryPages, pickLang, labels } from '../data/seoPages';
 import './Footer.css';
 
 const Footer = () => {
@@ -31,8 +32,18 @@ const Footer = () => {
           </div>
 
           <div className="footer-section">
+            <h4>{pickLang(labels, i18n.language).wholesalePlants}</h4>
+            <ul>
+              {categoryPages.map(c => (
+                <li key={c.slug}><Link to={`${prefix}/${c.slug}`} onClick={() => window.scrollTo(0,0)}>{pickLang(c.content, i18n.language).name}</Link></li>
+              ))}
+            </ul>
+          </div>
+
+          <div className="footer-section">
             <h4>{t('footer.contactInfo')}</h4>
             <ul>
+              <li>📍 {t('contact.address')}, {t('contact.addressCity')}</li>
               <li><a href="tel:+40729048545" style={{color: 'inherit', textDecoration: 'none'}}>📞 +40 729 048 545</a></li>
               <li><a href="https://wa.me/381638870837" target="_blank" rel="noopener noreferrer" style={{color: 'inherit', textDecoration: 'none'}}>💬 WhatsApp</a></li>
               <li><a href="mailto:office@plantdgd.ro" style={{color: 'inherit', textDecoration: 'none'}}>📧 office@plantdgd.ro</a></li>

@@ -1,13 +1,8 @@
 // Centralizovana logika za rute po jeziku (ro = bez prefiksa, en = /en, de = /de)
+// Osnovne konstante i funkcije su u data/seoPages.js (koristi ih i prerender skripta)
+import { SUPPORTED_LANGS, DEFAULT_LANG, SITE_URL, getLangPrefix, buildLocalizedPath } from '../data/seoPages';
 
-export const SUPPORTED_LANGS = ['ro', 'en', 'de'];
-export const DEFAULT_LANG = 'ro';
-export const SITE_URL = 'https://www.plantdgd.ro';
-
-// URL prefiks za dati jezik ('' za ro, '/en', '/de')
-export function getLangPrefix(lang) {
-  return lang === DEFAULT_LANG ? '' : `/${lang}`;
-}
+export { SUPPORTED_LANGS, DEFAULT_LANG, SITE_URL, getLangPrefix, buildLocalizedPath };
 
 // Rastavlja trenutni pathname na { lang, path } gde je path "neutralna" putanja bez prefiksa jezika
 export function parseLocalizedPath(pathname) {
@@ -22,13 +17,6 @@ export function parseLocalizedPath(pathname) {
     }
   }
   return { lang: DEFAULT_LANG, path: pathname || '/' };
-}
-
-// Gradi putanju za dati jezik od neutralne putanje (npr. '/products/5', 'en' -> '/en/products/5')
-export function buildLocalizedPath(neutralPath, lang) {
-  const prefix = getLangPrefix(lang);
-  if (neutralPath === '/') return prefix || '/';
-  return `${prefix}${neutralPath}`;
 }
 
 // Apsolutni URL-ovi za sve jezike, za upotrebu u canonical/hreflang tagovima

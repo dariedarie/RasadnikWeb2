@@ -4,7 +4,11 @@ import { Link, useSearchParams, useLocation } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { products } from '../data/productsData';
 import { getLangPrefix, getSeoLinks } from '../utils/i18nRoutes';
+import { categoryPages, pickLang } from '../data/seoPages';
 import './Products.css';
+
+// Pretraga bez obzira na dijakritike (stanjenel = stânjenel)
+const normalize = (s) => (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
 
 const SCROLL_POSITION_KEY = 'products_scroll_position';
 const PRODUCTS_STATE_KEY = 'products_state';
@@ -76,11 +80,12 @@ const Products = () => {
       selectedCategory === 'sve' ||
       (product.categories && product.categories.includes(selectedCategory)) ||
       product.category === selectedCategory;
-    const term = searchTerm.trim().toLowerCase();
+    const term = normalize(searchTerm.trim());
     if (!term) return matchesCategory;
 
-    const inName = product.name.toLowerCase().startsWith(term);
-    return matchesCategory && inName;
+    // Trazi po prevedenom nazivu (ro/en/de) i po originalnom nazivu
+    const translatedName = t(`productDescriptions.${product.id}.name`, { defaultValue: product.name });
+    return matchesCategory && normalize(`${translatedName} ${product.name}`).includes(term);
   });
 
   // Paginacija
@@ -193,6 +198,13 @@ const Products = () => {
         <p style={{fontSize: '1.15rem', color: '#234d20', textAlign: 'center', marginBottom: 0}}>
           {t('products.subtitle')}
         </p>
+        <nav style={{display: 'flex', flexWrap: 'wrap', gap: '8px 16px', justifyContent: 'center', marginTop: 16}}>
+          {categoryPages.map(c => (
+            <Link key={c.slug} to={`${prefix}/${c.slug}`} style={{color: '#2e7d32', fontWeight: 600}}>
+              {pickLang(c.content, i18n.language).name}
+            </Link>
+          ))}
+        </nav>
       </section>
 
       {/* Filter kategorije + pretraga */}

@@ -1,5 +1,5 @@
 // Post-build SEO: za svaku rutu (ro/en/de) pravi build/<ruta>/index.html sa ispravnim
-// title/description/canonical/hreflang/Open Graph/JSON-LD i osnovnim HTML sadrzajem
+// title/description/canonical/hreflang/Open Graph/JSON-LD i osnovnim HTML sadrzajem u <noscript>
 // (za botove koji ne izvrsavaju JavaScript), i generise build/sitemap.xml.
 // Pokrece se automatski posle `react-scripts build` (vidi package.json).
 import fs from 'node:fs';
@@ -194,7 +194,8 @@ for (const page of pages) {
     html = html.replace('</head>', `${hreflangLinks(page.path, L)}${ld}</head>`);
     if (!html.includes('<div id="root"></div>')) throw new Error('prerender: <div id="root"></div> nije pronadjen');
     const footer = `<footer><p>PlantDGD S.R.L. – ${esc(loc.contact.address)}, ${esc(loc.contact.addressCity)} – Tel: +40 729 048 545 – office@plantdgd.ro</p></footer>`;
-    html = html.replace('<div id="root"></div>', `<div id="root">${navHtml(L, loc, P)}<main>${r.body}</main>${footer}</div>`);
+    // Sadrzaj u <noscript> vide samo botovi bez JavaScript-a; posetioci ga ne vide (nema "blica" pre React-a)
+    html = html.replace('<div id="root"></div>', `<noscript>${navHtml(L, loc, P)}<main>${r.body}</main>${footer}</noscript><div id="root"></div>`);
 
     const out = localPath === '/' ? path.join(buildDir, 'index.html') : path.join(buildDir, localPath, 'index.html');
     fs.mkdirSync(path.dirname(out), { recursive: true });

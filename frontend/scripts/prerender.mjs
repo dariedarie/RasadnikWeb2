@@ -24,7 +24,16 @@ const { products, categories } = await load('productsData');
 fs.rmSync(tmpDir, { recursive: true, force: true });
 
 const { SITE_URL, SUPPORTED_LANGS, buildLocalizedPath, categoryPages, homeContent, labels, productInCategory,
-  getCategoryPageByCategoryId, productMeta, breadcrumbJsonLd, faqJsonLd, itemListJsonLd } = seo;
+  getCategoryPageByCategoryId, productMeta, productPath, breadcrumbJsonLd, faqJsonLd, itemListJsonLd } = seo;
+
+// Provera: svaki proizvod mora imati slug (seoPages.productSlugs) i 301 preusmerenje sa starog URL-a (vercel.json)
+const vercelRedirects = new Set(JSON.parse(fs.readFileSync(path.join(root, 'vercel.json'), 'utf8')).redirects.map(r => r.source));
+for (const p of products) {
+  if (!seo.productSlugs[p.id]) throw new Error(`prerender: proizvod ${p.id} nema slug u seoPages.js -> productSlugs`);
+  for (const prefix of ['', '/en', '/de']) {
+    if (!vercelRedirects.has(`${prefix}/products/${p.id}`)) throw new Error(`prerender: vercel.json nema redirect za ${prefix}/products/${p.id}`);
+  }
+}
 
 const locales = Object.fromEntries(SUPPORTED_LANGS.map(lang => [
   lang, JSON.parse(fs.readFileSync(path.join(root, 'src', 'locales', `${lang}.json`), 'utf8'))
@@ -68,7 +77,7 @@ for (const page of categoryPages) {
         title: c.title, description: c.description,
         jsonLd: [
           breadcrumbJsonLd([{ name: loc.nav.home, path: P('/') }, { name: loc.nav.products, path: P('/products') }, { name: c.name, path: P(`/${page.slug}`) }]),
-          itemListJsonLd(list.map(p => ({ name: pName(p, L), path: P(`/products/${p.id}`) }))),
+          itemListJsonLd(list.map(p => ({ name: pName(p, L), path: P(productPath(p.id)) }))),
           faqJsonLd(c.faq)
         ],
         body: `<h1>${esc(c.h1)}</h1>${c.intro.map(p => `<p>${esc(p)}</p>`).join('')}${productLinks(list, L, P)}
@@ -80,7 +89,7 @@ for (const page of categoryPages) {
 
 for (const p of products) {
   pages.push({
-    path: `/products/${p.id}`, image: p.image,
+    path: productPath(p.id), image: p.image,
     images: p.images && p.images.length ? p.images : [p.image],
     build: (L, loc, P) => {
       const name = pName(p, L);
@@ -89,7 +98,7 @@ for (const p of products) {
       const cat = categories.find(c => c.id === p.category);
       const categoryName = cat ? get(loc, cat.nameKey) || p.category : p.category;
       const catPage = getCategoryPageByCategoryId(p.category);
-      const url = SITE_URL + P(`/products/${p.id}`);
+      const url = SITE_URL + P(productPath(p.id));
       // Isti Product schema kao u ProductDetails.js
       const productSchema = {
         '@context': 'https://schema.org', '@type': 'Product', name, description: desc,
@@ -105,7 +114,7 @@ for (const p of products) {
         { name: loc.nav.home, path: P('/') },
         { name: loc.nav.products, path: P('/products') },
         ...(catPage ? [{ name: catPage.content[L].name, path: P(`/${catPage.slug}`) }] : []),
-        { name, path: P(`/products/${p.id}`) }
+        { name, path: P(productPath(p.id)) }
       ];
       const specs = Object.entries(p.details || {}).map(([k, v]) =>
         `<li>${esc(loc.productDetails[k] || k)}: ${esc(loc.productDescriptions?.[p.id]?.details?.[k] || v)}</li>`).join('');
@@ -146,7 +155,7 @@ pages.push({
 function get(obj, key) { return key.split('.').reduce((o, k) => (o ? o[k] : undefined), obj); }
 function pName(p, L) { return locales[L].productDescriptions?.[p.id]?.name || p.name; }
 function productLinks(list, L, P) {
-  return `<ul>${list.map(p => `<li><a href="${P(`/products/${p.id}`)}">${esc(pName(p, L))}</a></li>`).join('')}</ul>`;
+  return `<ul>${list.map(p => `<li><a href="${P(productPath(p.id))}">${esc(pName(p, L))}</a></li>`).join('')}</ul>`;
 }
 
 // ---------- Generisanje HTML-a ----------

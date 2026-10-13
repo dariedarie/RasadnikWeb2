@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet-async';
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
 import { getLangPrefix, getSeoLinks } from '../utils/i18nRoutes';
-import { homeContent, categoryPages, pickLang, labels, faqJsonLd } from '../data/seoPages';
+import { homeContent, categoryPages, pickLang, labels, faqJsonLd, productPath } from '../data/seoPages';
 import './Home.css';
 
 const Home = () => {
@@ -103,7 +103,7 @@ const Home = () => {
             
             {/* Featured kartica - Tuja (veća i istaknuta) */}
             <Link 
-              to={`${prefix}/products/1`}
+              to={`${prefix}${productPath(1)}`}
               onMouseEnter={() => setHoveredCard('tuja')}
               onMouseLeave={() => setHoveredCard(null)}
               style={{
@@ -193,7 +193,7 @@ const Home = () => {
 
             {/* Katalpa kartica */}
             <Link
-              to={`${prefix}/products/7`}
+              to={`${prefix}${productPath(7)}`}
               onMouseEnter={() => setHoveredCard('katalpa')}
               onMouseLeave={() => setHoveredCard(null)}
               style={{
@@ -267,7 +267,7 @@ const Home = () => {
 
             {/* Lovor višnja kartica */}
             <Link
-              to={`${prefix}/products/9`}
+              to={`${prefix}${productPath(9)}`}
               onMouseEnter={() => setHoveredCard('lovor')}
               onMouseLeave={() => setHoveredCard(null)}
               style={{
@@ -341,7 +341,7 @@ const Home = () => {
 
             {/* Fotinija Red Robin kartica */}
             <Link
-              to={`${prefix}/products/10`}
+              to={`${prefix}${productPath(10)}`}
               onMouseEnter={() => setHoveredCard('fotinija')}
               onMouseLeave={() => setHoveredCard(null)}
               style={{
@@ -415,7 +415,7 @@ const Home = () => {
 
             {/* Leyland kartica */}
             <Link
-              to={`${prefix}/products/39`}
+              to={`${prefix}${productPath(39)}`}
               onMouseEnter={() => setHoveredCard('leyland')}
               onMouseLeave={() => setHoveredCard(null)}
               style={{

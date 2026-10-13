@@ -15,7 +15,70 @@ export const buildLocalizedPath = (neutralPath, lang) => {
   return `${prefix}${neutralPath}`;
 };
 
-export const pickLang = (byLang, lang) => byLang[lang] || byLang[(lang || '').slice(0, 2)] || byLang[DEFAULT_LANG];
+// SEO URL-ovi proizvoda: /products/tuia-smaragd (isti slug na svim jezicima: /en/products/tuia-smaragd)
+// VAZNO: postojeci slug se ne menja (vec je indeksiran); stari /products/<id> se 301 preusmerava (vercel.json)
+export const productSlugs = {
+  1: 'tuia-smaragd',
+  2: 'tisa-taxus-baccata',
+  3: 'pin-negru-pinus-nigra',
+  4: 'tuia-orientala-platycladus-orientalis',
+  5: 'molid-albastru-picea-pungens-glauca',
+  6: 'ienupar-tarator-juniperus-horizontalis',
+  7: 'catalpa-bignonioides',
+  8: 'magnolia-grandiflora',
+  9: 'laurocerasus-prunus-laurocerasus',
+  10: 'photinia-red-robin',
+  11: 'pennisetum-alopecuroides',
+  12: 'bambus',
+  13: 'hortensie-hydrangea',
+  14: 'iedera-hedera-helix',
+  15: 'lonicera-nitida',
+  16: 'heuchera',
+  17: 'hibiscus-syriacus',
+  18: 'spiree-spiraea',
+  19: 'pin-mugo-pe-tulpina',
+  20: 'bujor-paeonia',
+  21: 'ajuga-reptans',
+  22: 'astilbe',
+  23: 'carex-morrowii-ice-dance',
+  24: 'festuca-glauca',
+  25: 'crin-de-zi-hemerocallis',
+  26: 'hosta',
+  27: 'stanjenel-iris-germanica',
+  28: 'kniphofia-uvaria',
+  29: 'ophiopogon-japonicus',
+  30: 'physostegia-virginiana-alba',
+  31: 'sedum-angelina',
+  32: 'sedum-hybridum',
+  33: 'sedum-rupestre-blue',
+  34: 'sedum-watson',
+  35: 'sedum-spectabile',
+  36: 'stachys-byzantina',
+  37: 'maslin-olea-europaea',
+  38: 'bonsai',
+  39: 'chiparos-leyland',
+  40: 'gaura-lindheimeri',
+  41: 'iberis-sempervirens',
+  42: 'liliac-syringa-vulgaris',
+  43: 'lagerstroemia-indica',
+  44: 'chiparos-italian-cupressus-sempervirens',
+  45: 'cires-japonez-prunus-serrulata',
+  46: 'artar-japonez-acer-palmatum',
+  47: 'palmier-trachycarpus-fortunei',
+  48: 'cycas-revoluta'
+};
+
+// Neutralna putanja proizvoda (bez jezickog prefiksa): '/products/tuia-smaragd'
+export const productPath = (id) => `/products/${productSlugs[id] || id}`;
+
+// Iz URL parametra (slug ili stari numericki id) vraca id proizvoda
+export const productIdFromParam = (param) => {
+  const entry = Object.entries(productSlugs).find(([, slug]) => slug === param);
+  if (entry) return Number(entry[0]);
+  return /^\d+$/.test(param) ? Number(param) : undefined;
+};
+
+export const pickLang =(byLang, lang) => byLang[lang] || byLang[(lang || '').slice(0, 2)] || byLang[DEFAULT_LANG];
 
 export const labels = {
   ro: { faqTitle: 'Întrebări frecvente', wholesalePlants: 'Plante en gros', related: 'Produse similare' },

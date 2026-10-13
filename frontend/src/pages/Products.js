@@ -4,7 +4,7 @@ import { Link, useSearchParams, useLocation } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { products } from '../data/productsData';
 import { getLangPrefix, getSeoLinks } from '../utils/i18nRoutes';
-import { categoryPages, pickLang } from '../data/seoPages';
+import { categoryPages, pickLang, productPath } from '../data/seoPages';
 import './Products.css';
 
 // Pretraga bez obzira na dijakritike (stanjenel = stânjenel)
@@ -271,7 +271,7 @@ const Products = () => {
               {visibleProducts.map(product => (
                 <Link
                   key={product.id}
-                  to={`${prefix}/products/${product.id}`}
+                  to={`${prefix}${productPath(product.id)}`}
                   className="product-card-compact"
                   onClick={() => handleProductClick(product.id)}
                 >

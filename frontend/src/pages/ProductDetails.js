@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import { Helmet } from 'react-helmet-async';
-import { useParams, useNavigate, Link } from 'react-router-dom';
+import { useParams, useNavigate, Link, Navigate } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { products, getProductById, categories } from '../data/productsData';
-import { getCategoryPageByCategoryId, pickLang, labels, productInCategory, productMeta, breadcrumbJsonLd } from '../data/seoPages';
+import { getCategoryPageByCategoryId, pickLang, labels, productInCategory, productMeta, breadcrumbJsonLd, productPath, productIdFromParam } from '../data/seoPages';
 import { getLangPrefix, buildHreflangUrls, getSeoLinks } from '../utils/i18nRoutes';
 import ImageLightbox from '../components/ImageLightbox';
 import './ProductDetails.css';
@@ -22,7 +22,12 @@ const ProductDetails = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }, [id]);
 
-  const product = getProductById(id);
+  const product = getProductById(productIdFromParam(id));
+
+  // Stari URL (/products/1) -> novi SEO URL (/products/tuia-smaragd)
+  if (product && /^\d+$/.test(id)) {
+    return <Navigate to={`${prefix}${productPath(product.id)}`} replace />;
+  }
 
   // Ako proizvod nije pronađen
   if (!product) {
@@ -54,7 +59,7 @@ const ProductDetails = () => {
     setLightboxOpen(true);
   };
 
-  const pageUrls = buildHreflangUrls(`/products/${product.id}`);
+  const pageUrls = buildHreflangUrls(productPath(product.id));
   const canonicalUrl = pageUrls[i18n.language] || pageUrls.ro;
   const meta = productMeta(translatedName, translatedDescription, i18n.language);
 
@@ -64,7 +69,7 @@ const ProductDetails = () => {
     { name: t('nav.home'), path: prefix || '/' },
     { name: t('nav.products'), path: `${prefix}/products` },
     ...(categoryPage ? [{ name: categoryPageName, path: `${prefix}/${categoryPage.slug}` }] : []),
-    { name: translatedName, path: `${prefix}/products/${product.id}` }
+    { name: translatedName, path: `${prefix}${productPath(product.id)}` }
   ];
 
   const relatedProducts = products
@@ -100,7 +105,7 @@ const ProductDetails = () => {
     <Helmet>
       <title>{meta.title}</title>
       <meta name="description" content={meta.description} />
-      {getSeoLinks(`/products/${product.id}`, i18n.language)}
+      {getSeoLinks(productPath(product.id), i18n.language)}
       <meta property="og:title" content={meta.title} />
       <meta property="og:description" content={meta.description} />
       <meta property="og:image" content={`https://www.plantdgd.ro${encodeURI(product.image)}`} />
@@ -282,7 +287,7 @@ const ProductDetails = () => {
             {relatedProducts.map(p => {
               const pName = t(`productDescriptions.${p.id}.name`, { defaultValue: p.name });
               return (
-                <Link key={p.id} to={`${prefix}/products/${p.id}`} className="product-card-compact">
+                <Link key={p.id} to={`${prefix}${productPath(p.id)}`} className="product-card-compact">
                   <div className="product-image-compact">
                     <img src={p.image} alt={pName} loading="lazy" onError={(e) => { e.target.src = '/images/plantDGD2.png'; }} />
                   </div>

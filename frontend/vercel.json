@@ -1,0 +1,724 @@
+{
+  "redirects": [
+    {
+      "source": "/products/1",
+      "destination": "/products/tuia-smaragd",
+      "permanent": true
+    },
+    {
+      "source": "/products/2",
+      "destination": "/products/tisa-taxus-baccata",
+      "permanent": true
+    },
+    {
+      "source": "/products/3",
+      "destination": "/products/pin-negru-pinus-nigra",
+      "permanent": true
+    },
+    {
+      "source": "/products/4",
+      "destination": "/products/tuia-orientala-platycladus-orientalis",
+      "permanent": true
+    },
+    {
+      "source": "/products/5",
+      "destination": "/products/molid-albastru-picea-pungens-glauca",
+      "permanent": true
+    },
+    {
+      "source": "/products/6",
+      "destination": "/products/ienupar-tarator-juniperus-horizontalis",
+      "permanent": true
+    },
+    {
+      "source": "/products/7",
+      "destination": "/products/catalpa-bignonioides",
+      "permanent": true
+    },
+    {
+      "source": "/products/8",
+      "destination": "/products/magnolia-grandiflora",
+      "permanent": true
+    },
+    {
+      "source": "/products/9",
+      "destination": "/products/laurocerasus-prunus-laurocerasus",
+      "permanent": true
+    },
+    {
+      "source": "/products/10",
+      "destination": "/products/photinia-red-robin",
+      "permanent": true
+    },
+    {
+      "source": "/products/11",
+      "destination": "/products/pennisetum-alopecuroides",
+      "permanent": true
+    },
+    {
+      "source": "/products/12",
+      "destination": "/products/bambus",
+      "permanent": true
+    },
+    {
+      "source": "/products/13",
+      "destination": "/products/hortensie-hydrangea",
+      "permanent": true
+    },
+    {
+      "source": "/products/14",
+      "destination": "/products/iedera-hedera-helix",
+      "permanent": true
+    },
+    {
+      "source": "/products/15",
+      "destination": "/products/lonicera-nitida",
+      "permanent": true
+    },
+    {
+      "source": "/products/16",
+      "destination": "/products/heuchera",
+      "permanent": true
+    },
+    {
+      "source": "/products/17",
+      "destination": "/products/hibiscus-syriacus",
+      "permanent": true
+    },
+    {
+      "source": "/products/18",
+      "destination": "/products/spiree-spiraea",
+      "permanent": true
+    },
+    {
+      "source": "/products/19",
+      "destination": "/products/pin-mugo-pe-tulpina",
+      "permanent": true
+    },
+    {
+      "source": "/products/20",
+      "destination": "/products/bujor-paeonia",
+      "permanent": true
+    },
+    {
+      "source": "/products/21",
+      "destination": "/products/ajuga-reptans",
+      "permanent": true
+    },
+    {
+      "source": "/products/22",
+      "destination": "/products/astilbe",
+      "permanent": true
+    },
+    {
+      "source": "/products/23",
+      "destination": "/products/carex-morrowii-ice-dance",
+      "permanent": true
+    },
+    {
+      "source": "/products/24",
+      "destination": "/products/festuca-glauca",
+      "permanent": true
+    },
+    {
+      "source": "/products/25",
+      "destination": "/products/crin-de-zi-hemerocallis",
+      "permanent": true
+    },
+    {
+      "source": "/products/26",
+      "destination": "/products/hosta",
+      "permanent": true
+    },
+    {
+      "source": "/products/27",
+      "destination": "/products/stanjenel-iris-germanica",
+      "permanent": true
+    },
+    {
+      "source": "/products/28",
+      "destination": "/products/kniphofia-uvaria",
+      "permanent": true
+    },
+    {
+      "source": "/products/29",
+      "destination": "/products/ophiopogon-japonicus",
+      "permanent": true
+    },
+    {
+      "source": "/products/30",
+      "destination": "/products/physostegia-virginiana-alba",
+      "permanent": true
+    },
+    {
+      "source": "/products/31",
+      "destination": "/products/sedum-angelina",
+      "permanent": true
+    },
+    {
+      "source": "/products/32",
+      "destination": "/products/sedum-hybridum",
+      "permanent": true
+    },
+    {
+      "source": "/products/33",
+      "destination": "/products/sedum-rupestre-blue",
+      "permanent": true
+    },
+    {
+      "source": "/products/34",
+      "destination": "/products/sedum-watson",
+      "permanent": true
+    },
+    {
+      "source": "/products/35",
+      "destination": "/products/sedum-spectabile",
+      "permanent": true
+    },
+    {
+      "source": "/products/36",
+      "destination": "/products/stachys-byzantina",
+      "permanent": true
+    },
+    {
+      "source": "/products/37",
+      "destination": "/products/maslin-olea-europaea",
+      "permanent": true
+    },
+    {
+      "source": "/products/38",
+      "destination": "/products/bonsai",
+      "permanent": true
+    },
+    {
+      "source": "/products/39",
+      "destination": "/products/chiparos-leyland",
+      "permanent": true
+    },
+    {
+      "source": "/products/40",
+      "destination": "/products/gaura-lindheimeri",
+      "permanent": true
+    },
+    {
+      "source": "/products/41",
+      "destination": "/products/iberis-sempervirens",
+      "permanent": true
+    },
+    {
+      "source": "/products/42",
+      "destination": "/products/liliac-syringa-vulgaris",
+      "permanent": true
+    },
+    {
+      "source": "/products/43",
+      "destination": "/products/lagerstroemia-indica",
+      "permanent": true
+    },
+    {
+      "source": "/products/44",
+      "destination": "/products/chiparos-italian-cupressus-sempervirens",
+      "permanent": true
+    },
+    {
+      "source": "/products/45",
+      "destination": "/products/cires-japonez-prunus-serrulata",
+      "permanent": true
+    },
+    {
+      "source": "/products/46",
+      "destination": "/products/artar-japonez-acer-palmatum",
+      "permanent": true
+    },
+    {
+      "source": "/products/47",
+      "destination": "/products/palmier-trachycarpus-fortunei",
+      "permanent": true
+    },
+    {
+      "source": "/products/48",
+      "destination": "/products/cycas-revoluta",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/1",
+      "destination": "/en/products/tuia-smaragd",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/2",
+      "destination": "/en/products/tisa-taxus-baccata",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/3",
+      "destination": "/en/products/pin-negru-pinus-nigra",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/4",
+      "destination": "/en/products/tuia-orientala-platycladus-orientalis",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/5",
+      "destination": "/en/products/molid-albastru-picea-pungens-glauca",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/6",
+      "destination": "/en/products/ienupar-tarator-juniperus-horizontalis",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/7",
+      "destination": "/en/products/catalpa-bignonioides",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/8",
+      "destination": "/en/products/magnolia-grandiflora",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/9",
+      "destination": "/en/products/laurocerasus-prunus-laurocerasus",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/10",
+      "destination": "/en/products/photinia-red-robin",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/11",
+      "destination": "/en/products/pennisetum-alopecuroides",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/12",
+      "destination": "/en/products/bambus",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/13",
+      "destination": "/en/products/hortensie-hydrangea",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/14",
+      "destination": "/en/products/iedera-hedera-helix",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/15",
+      "destination": "/en/products/lonicera-nitida",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/16",
+      "destination": "/en/products/heuchera",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/17",
+      "destination": "/en/products/hibiscus-syriacus",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/18",
+      "destination": "/en/products/spiree-spiraea",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/19",
+      "destination": "/en/products/pin-mugo-pe-tulpina",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/20",
+      "destination": "/en/products/bujor-paeonia",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/21",
+      "destination": "/en/products/ajuga-reptans",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/22",
+      "destination": "/en/products/astilbe",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/23",
+      "destination": "/en/products/carex-morrowii-ice-dance",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/24",
+      "destination": "/en/products/festuca-glauca",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/25",
+      "destination": "/en/products/crin-de-zi-hemerocallis",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/26",
+      "destination": "/en/products/hosta",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/27",
+      "destination": "/en/products/stanjenel-iris-germanica",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/28",
+      "destination": "/en/products/kniphofia-uvaria",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/29",
+      "destination": "/en/products/ophiopogon-japonicus",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/30",
+      "destination": "/en/products/physostegia-virginiana-alba",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/31",
+      "destination": "/en/products/sedum-angelina",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/32",
+      "destination": "/en/products/sedum-hybridum",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/33",
+      "destination": "/en/products/sedum-rupestre-blue",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/34",
+      "destination": "/en/products/sedum-watson",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/35",
+      "destination": "/en/products/sedum-spectabile",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/36",
+      "destination": "/en/products/stachys-byzantina",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/37",
+      "destination": "/en/products/maslin-olea-europaea",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/38",
+      "destination": "/en/products/bonsai",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/39",
+      "destination": "/en/products/chiparos-leyland",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/40",
+      "destination": "/en/products/gaura-lindheimeri",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/41",
+      "destination": "/en/products/iberis-sempervirens",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/42",
+      "destination": "/en/products/liliac-syringa-vulgaris",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/43",
+      "destination": "/en/products/lagerstroemia-indica",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/44",
+      "destination": "/en/products/chiparos-italian-cupressus-sempervirens",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/45",
+      "destination": "/en/products/cires-japonez-prunus-serrulata",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/46",
+      "destination": "/en/products/artar-japonez-acer-palmatum",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/47",
+      "destination": "/en/products/palmier-trachycarpus-fortunei",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/48",
+      "destination": "/en/products/cycas-revoluta",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/1",
+      "destination": "/de/products/tuia-smaragd",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/2",
+      "destination": "/de/products/tisa-taxus-baccata",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/3",
+      "destination": "/de/products/pin-negru-pinus-nigra",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/4",
+      "destination": "/de/products/tuia-orientala-platycladus-orientalis",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/5",
+      "destination": "/de/products/molid-albastru-picea-pungens-glauca",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/6",
+      "destination": "/de/products/ienupar-tarator-juniperus-horizontalis",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/7",
+      "destination": "/de/products/catalpa-bignonioides",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/8",
+      "destination": "/de/products/magnolia-grandiflora",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/9",
+      "destination": "/de/products/laurocerasus-prunus-laurocerasus",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/10",
+      "destination": "/de/products/photinia-red-robin",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/11",
+      "destination": "/de/products/pennisetum-alopecuroides",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/12",
+      "destination": "/de/products/bambus",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/13",
+      "destination": "/de/products/hortensie-hydrangea",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/14",
+      "destination": "/de/products/iedera-hedera-helix",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/15",
+      "destination": "/de/products/lonicera-nitida",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/16",
+      "destination": "/de/products/heuchera",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/17",
+      "destination": "/de/products/hibiscus-syriacus",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/18",
+      "destination": "/de/products/spiree-spiraea",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/19",
+      "destination": "/de/products/pin-mugo-pe-tulpina",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/20",
+      "destination": "/de/products/bujor-paeonia",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/21",
+      "destination": "/de/products/ajuga-reptans",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/22",
+      "destination": "/de/products/astilbe",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/23",
+      "destination": "/de/products/carex-morrowii-ice-dance",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/24",
+      "destination": "/de/products/festuca-glauca",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/25",
+      "destination": "/de/products/crin-de-zi-hemerocallis",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/26",
+      "destination": "/de/products/hosta",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/27",
+      "destination": "/de/products/stanjenel-iris-germanica",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/28",
+      "destination": "/de/products/kniphofia-uvaria",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/29",
+      "destination": "/de/products/ophiopogon-japonicus",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/30",
+      "destination": "/de/products/physostegia-virginiana-alba",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/31",
+      "destination": "/de/products/sedum-angelina",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/32",
+      "destination": "/de/products/sedum-hybridum",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/33",
+      "destination": "/de/products/sedum-rupestre-blue",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/34",
+      "destination": "/de/products/sedum-watson",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/35",
+      "destination": "/de/products/sedum-spectabile",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/36",
+      "destination": "/de/products/stachys-byzantina",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/37",
+      "destination": "/de/products/maslin-olea-europaea",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/38",
+      "destination": "/de/products/bonsai",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/39",
+      "destination": "/de/products/chiparos-leyland",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/40",
+      "destination": "/de/products/gaura-lindheimeri",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/41",
+      "destination": "/de/products/iberis-sempervirens",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/42",
+      "destination": "/de/products/liliac-syringa-vulgaris",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/43",
+      "destination": "/de/products/lagerstroemia-indica",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/44",
+      "destination": "/de/products/chiparos-italian-cupressus-sempervirens",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/45",
+      "destination": "/de/products/cires-japonez-prunus-serrulata",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/46",
+      "destination": "/de/products/artar-japonez-acer-palmatum",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/47",
+      "destination": "/de/products/palmier-trachycarpus-fortunei",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/48",
+      "destination": "/de/products/cycas-revoluta",
+      "permanent": true
+    }
+  ]
+}

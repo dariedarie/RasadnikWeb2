@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet-async';
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { products } from '../data/productsData';
-import { categoryPages, pickLang, labels, productInCategory, breadcrumbJsonLd, faqJsonLd, itemListJsonLd } from '../data/seoPages';
+import { categoryPages, pickLang, labels, productInCategory, productPath, breadcrumbJsonLd, faqJsonLd, itemListJsonLd } from '../data/seoPages';
 import { getLangPrefix, getSeoLinks, SITE_URL } from '../utils/i18nRoutes';
 import './Products.css';
 
@@ -37,7 +37,7 @@ const CategoryPage = ({ page }) => {
       { name: t('nav.products'), path: `${prefix}/products` },
       { name: content.name, path }
     ]),
-    itemListJsonLd(categoryProducts.map(p => ({ name: productName(p), path: `${prefix}/products/${p.id}` }))),
+    itemListJsonLd(categoryProducts.map(p => ({ name: productName(p), path: `${prefix}${productPath(p.id)}` }))),
     faqJsonLd(content.faq)
   ];
 
@@ -77,7 +77,7 @@ const CategoryPage = ({ page }) => {
       <section style={boxStyle}>
         <div className="products-grid-compact">
           {categoryProducts.map(p => (
-            <Link key={p.id} to={`${prefix}/products/${p.id}`} className="product-card-compact">
+            <Link key={p.id} to={`${prefix}${productPath(p.id)}`} className="product-card-compact">
               <div className="product-image-compact">
                 <img src={p.image} alt={productName(p)} loading="lazy" onError={(e) => { e.target.src = '/images/plantDGD2.png'; }} />
                 <span className={`stock-badge ${p.inStock ? 'in-stock' : 'out-of-stock'}`}>

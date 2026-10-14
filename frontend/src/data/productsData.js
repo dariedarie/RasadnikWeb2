@@ -210,7 +210,6 @@ export const products = [
     image: '/images/laurocerasus-prunus-laurocerasus.jpg',
     images: [
       '/images/laurocerasus-prunus-laurocerasus.jpg',
-      '/images/laurocerasus-prunus-laurocerasus-2.jpg',
       '/images/laurocerasus-prunus-laurocerasus-3.jpg',
       '/images/laurocerasus-prunus-laurocerasus-4.jpg',
       '/images/laurocerasus-prunus-laurocerasus-5.jpg',

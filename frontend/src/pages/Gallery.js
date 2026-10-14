@@ -33,7 +33,6 @@ const galleryImages = [
   '/images/IMG_5210.jpeg',
   '/images/72052.jpeg',
   '/images/72299.jpeg',
-  '/images/laurocerasus-prunus-laurocerasus-2.jpg',
   '/images/77219.jpeg',
   '/images/486679551_18465391054068689_5399905233392503403_n.jpg',
   '/images/588721729_18509882257068689_6717567260362003079_n.jpg',

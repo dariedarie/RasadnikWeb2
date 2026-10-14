@@ -12,11 +12,6 @@ const galleryAlt = {
     en: 'Balled conifers ready for wholesale delivery – PlantDGD',
     de: 'Koniferen mit Ballen, bereit zur Großhandelslieferung – PlantDGD'
   },
-  '/images/plantdgd-incarcare-conifere-camion-livrare-en-gros.jpg': {
-    ro: 'Încărcarea coniferelor în camion pentru livrare en gros – PlantDGD',
-    en: 'Loading conifers onto a truck for wholesale delivery – PlantDGD',
-    de: 'Verladung von Koniferen in den LKW zur Großhandelslieferung – PlantDGD'
-  },
   '/images/plantdgd-arbori-ornamentali-cu-balot-transport.jpg': {
     ro: 'Arbori ornamentali cu balot în camion, pregătiți pentru transport – PlantDGD',
     en: 'Balled ornamental trees loaded on a truck for transport – PlantDGD',
@@ -26,7 +21,6 @@ const galleryAlt = {
 
 const galleryImages = [
   '/images/plantdgd-conifere-cu-balot-pregatite-pentru-livrare.jpg',
-  '/images/plantdgd-incarcare-conifere-camion-livrare-en-gros.jpg',
   '/images/plantdgd-arbori-ornamentali-cu-balot-transport.jpg',
   '/images/IMG_4670.jpeg',
   '/images/IMG_4686.jpeg',

@@ -49,6 +49,16 @@ const Footer = () => {
               <li><a href="tel:+40729048545" style={{color: 'inherit', textDecoration: 'none'}}>📞 +40 729 048 545</a></li>
               <li><a href="https://wa.me/381638870837" target="_blank" rel="noopener noreferrer" style={{color: 'inherit', textDecoration: 'none'}}>💬 WhatsApp</a></li>
               <li><a href="mailto:office@plantdgd.ro" style={{color: 'inherit', textDecoration: 'none'}}>📧 office@plantdgd.ro</a></li>
+              <li>
+                <a href="https://www.instagram.com/plantdgd/" target="_blank" rel="noopener noreferrer" aria-label="PlantDGD pe Instagram" style={{color: 'inherit', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: 6}}>
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
+                    <rect x="2" y="2" width="20" height="20" rx="5" />
+                    <circle cx="12" cy="12" r="4.5" />
+                    <circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none" />
+                  </svg>
+                  Instagram @plantdgd
+                </a>
+              </li>
             </ul>
           </div>
           

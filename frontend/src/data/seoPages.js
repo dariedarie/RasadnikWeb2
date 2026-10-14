@@ -92,7 +92,7 @@ export const categoryPages = [
   {
     slug: 'gard-viu-en-gros',
     categoryId: 'ziva-ograda',
-    image: '/images/tujavelika.jpeg',
+    image: '/images/tuia-smaragd.jpg',
     content: {
       ro: {
         name: 'Gard viu en gros',
@@ -147,7 +147,7 @@ export const categoryPages = [
   {
     slug: 'conifere-en-gros',
     categoryId: 'cetinari',
-    image: '/images/leylandii.jpeg',
+    image: '/images/chiparos-leyland.jpg',
     content: {
       ro: {
         name: 'Conifere en gros',
@@ -202,7 +202,7 @@ export const categoryPages = [
   {
     slug: 'arbori-ornamentali-en-gros',
     categoryId: 'liscari',
-    image: '/images/katalpa.jpg',
+    image: '/images/catalpa-bignonioides.jpg',
     content: {
       ro: {
         name: 'Arbori ornamentali en gros',
@@ -257,7 +257,7 @@ export const categoryPages = [
   {
     slug: 'arbusti-ornamentali-en-gros',
     categoryId: 'siblje',
-    image: '/images/hortenzija.jpeg',
+    image: '/images/hortensie-hydrangea.jpg',
     content: {
       ro: {
         name: 'Arbuști ornamentali en gros',
@@ -312,7 +312,7 @@ export const categoryPages = [
   {
     slug: 'plante-perene-en-gros',
     categoryId: 'perene',
-    image: '/images/Hosta mix. perena za senku.jpg',
+    image: '/images/hosta.jpg',
     content: {
       ro: {
         name: 'Plante perene en gros',

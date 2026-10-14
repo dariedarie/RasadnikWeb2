@@ -6,6 +6,7 @@ import { products, getProductById, categories } from '../data/productsData';
 import { getCategoryPageByCategoryId, pickLang, labels, productInCategory, productMeta, breadcrumbJsonLd, productPath, productIdFromParam } from '../data/seoPages';
 import { getLangPrefix, buildHreflangUrls, getSeoLinks } from '../utils/i18nRoutes';
 import ImageLightbox from '../components/ImageLightbox';
+import { thumbSrc, mediumSrc, fallbackTo } from '../utils/images';
 import './ProductDetails.css';
 import './Products.css';
 
@@ -132,11 +133,12 @@ const ProductDetails = () => {
           {/* Glavna slika */}
           <div className="product-main-image" onClick={() => openLightbox(0)}>
             <img
-              src={productImages[0]}
+              src={mediumSrc(productImages[0])}
               alt={translatedName}
-              onError={(e) => {
-                e.target.src = '/images/plantDGD2.png';
-              }}
+              width="1000"
+              height="750"
+              fetchpriority="high"
+              onError={fallbackTo(productImages[0])}
             />
             <span className={`stock-indicator ${product.inStock ? 'in-stock' : 'out-of-stock'}`}>
               {product.inStock
@@ -165,12 +167,10 @@ const ProductDetails = () => {
                   onClick={() => openLightbox(index)}
                 >
                   <img
-                    src={img}
+                    src={thumbSrc(img)}
                     alt={`${translatedName} - ${index + 1}`}
                     loading="lazy"
-                    onError={(e) => {
-                      e.target.src = '/images/plantDGD2.png';
-                    }}
+                    onError={fallbackTo(img)}
                   />
                 </button>
               ))}
@@ -289,7 +289,7 @@ const ProductDetails = () => {
               return (
                 <Link key={p.id} to={`${prefix}${productPath(p.id)}`} className="product-card-compact">
                   <div className="product-image-compact">
-                    <img src={p.image} alt={pName} loading="lazy" onError={(e) => { e.target.src = '/images/plantDGD2.png'; }} />
+                    <img src={thumbSrc(p.image)} alt={pName} loading="lazy" onError={fallbackTo(p.image)} />
                   </div>
                   <div className="product-info-compact">
                     <h3>{pName}</h3>

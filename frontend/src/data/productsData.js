@@ -9,11 +9,11 @@ export const products = [
     categories: ['cetinari', 'ziva-ograda'],
     price: 550,
     showPrice: true,
-    image: '/images/tujavelika.jpeg',
+    image: '/images/tuia-smaragd.jpg',
     images: [
-      '/images/tujavelika.jpeg',
-      '/images/tujakontejnerska.jpeg',
-      '/images/tuje.jpeg'
+      '/images/tuia-smaragd.jpg',
+      '/images/tuia-smaragd-2.jpg',
+      '/images/tuia-smaragd-3.jpg'
     ],
     description: 'Tuja Smaragd je zimzeleni četinar, savršen za žive ograde i dekoraciju dvorišta. Otporna, laka za održavanje i brzo raste.',
     inStock: true,
@@ -31,11 +31,11 @@ export const products = [
     category: 'cetinari',
     categories: ['cetinari', 'ziva-ograda'],
     price: 2000,
-    image: '/images/tisa.jpeg',
+    image: '/images/tisa-taxus-baccata.jpg',
     images: [
-      '/images/tisa.jpeg',
-      '/images/taxus.jpeg',
-      '/images/taxusbaccata.jpeg'
+      '/images/tisa-taxus-baccata.jpg',
+      '/images/tisa-taxus-baccata-2.jpg',
+      '/images/tisa-taxus-baccata-3.jpg'
     ],
     description: 'Tisa (Taxus) je dugovečan četinar, odličan za formiranje oblika i žive ograde. Sporo raste, ali je izuzetno dekorativna.',
     inStock: true,
@@ -53,7 +53,7 @@ export const products = [
     category: 'cetinari',
     categories: ['cetinari'],
     price: 1500,
-    image: '/images/WhatsApp Image 2025-12-30 at 20.53.06.jpeg',
+    image: '/images/pin-negru-pinus-nigra.jpg',
     description: 'Crni bor je lepo zimzeleno drvo sa karakterističnim tamno zelenim iglicama. Otporan i lepo se uklapa u različite pejzaže.',
     inStock: true,
     details: {
@@ -70,7 +70,7 @@ export const products = [
     category: 'cetinari',
     categories: ['cetinari', 'ziva-ograda'],
     price: 900,
-    image: '/images/WhatsApp Image 2026-01-03 at 19.53.27.jpeg',
+    image: '/images/tuia-orientala-platycladus-orientalis.jpg',
     description: 'Thuja Orientalis je zimzeleni četinar, idealan za žive ograde i ukrašavanje dvorišta. Kompaktan i otporan.',
     inStock: true,
     details: {
@@ -87,7 +87,7 @@ export const products = [
     category: 'cetinari',
     categories: ['cetinari'],
     price: 1800,
-    image: '/images/WhatsApp Image 2026-01-04 at 19.50.56.jpeg',
+    image: '/images/molid-albastru-picea-pungens-glauca.jpg',
     description: 'Plava smrča je prelepo zimzeleno drvo sa karakterističnim plavo-sivim iglicama. Odlična za dekorativne svrhe.',
     inStock: true,
     details: {
@@ -104,7 +104,7 @@ export const products = [
     category: 'cetinari',
     categories: ['cetinari'],
     price: 1200,
-    image: '/images/juniperushorizontalis.jpeg',
+    image: '/images/ienupar-tarator-juniperus-horizontalis.jpg',
     description: 'Juniperus horizontalis (polegli klek) je savršen pokrivač tla. Nizak i gust rast, idealan za prekrivanje tla, kamenjare i kosine. Zimzelen i dekorativan tokom cele godine, otporan na mraz i sušu, minimalno održavanje.',
     inStock: true,
     details: {
@@ -121,10 +121,10 @@ export const products = [
     category: 'cetinari',
     categories: ['cetinari'],
     price: 2500,
-    image: '/images/Bor na štapu cetinar.jpg',
+    image: '/images/pin-mugo-pe-tulpina.jpg',
     images: [
-      '/images/Bor na štapu cetinar.jpg',
-      '/images/bornastapu.jpeg'
+      '/images/pin-mugo-pe-tulpina.jpg',
+      '/images/pin-mugo-pe-tulpina-2.jpg'
     ],
     description: 'Bor na štapu je dekorativni četinar formiran na jednom stablu, idealan za male vrtove i kao akcenat u dvorištu. Elegantan i lak za održavanje.',
     inStock: true,
@@ -145,11 +145,11 @@ export const products = [
     categories: ['cetinari', 'ziva-ograda'],
     price: 0,
     showPrice: false,
-    image: '/images/lejlandinew.jpeg',
+    image: '/images/chiparos-leyland.jpg',
     images: [
-      '/images/lejlandinew.jpeg',
-      '/images/lejlandi.jpeg',
-      '/images/lejlandi1.jpeg'
+      '/images/chiparos-leyland.jpg',
+      '/images/chiparos-leyland-2.jpg',
+      '/images/chiparos-leyland-3.jpg'
     ],
     description: 'Chiparosul Leyland (× Cuprocyparis leylandii) este un conifer sempervirescând cu creștere extrem de rapidă, ideal pentru garduri vii înalte și paravânturi. Tolerează tunsorile repetate și se adaptează la diverse condiții de sol.',
     inStock: true,
@@ -170,7 +170,7 @@ export const products = [
     categories: ['liscari'],
     price: 4000,
     showPrice: true,
-    image: '/images/katalpa.jpg',
+    image: '/images/catalpa-bignonioides.jpg',
     description: 'Katalpa je ukrasno drvo sa velikim listovima i prelepim belim cvetovima. Pravi hlad i daje posebnu lepotu svakom dvorištu.',
     inStock: true,
     details: {
@@ -187,7 +187,7 @@ export const products = [
     category: 'liscari',
     categories: ['liscari'],
     price: 2500,
-    image: '/images/WhatsApp Image 2026-01-03 at 19.52.34.jpeg',
+    image: '/images/magnolia-grandiflora.jpg',
     description: 'Magnolija Grandiflora je prelepo zimzeleno drvo sa velikim belim cvetovima i lepim mirisom. Prava ukrasnost svakog dvorišta.',
     inStock: true,
     details: {
@@ -207,17 +207,17 @@ export const products = [
     categories: ['liscari', 'ziva-ograda'],
     price: 360,
     showPrice: true,
-    image: '/images/lovorvisnja.jpeg',
+    image: '/images/laurocerasus-prunus-laurocerasus.jpg',
     images: [
-      '/images/lovorvisnja.jpeg',
-      '/images/IMG_5327.jpeg',
-      '/images/lovor1.jpeg',
-      '/images/lovor3.jpeg',
-      '/images/lovor4.jpeg',
-      '/images/lovormali.jpeg',
-      '/images/lovorrazgranati.jpeg',
-      '/images/lovorvisok.jpeg',
-      '/images/lovormarakana.PNG'
+      '/images/laurocerasus-prunus-laurocerasus.jpg',
+      '/images/laurocerasus-prunus-laurocerasus-2.jpg',
+      '/images/laurocerasus-prunus-laurocerasus-3.jpg',
+      '/images/laurocerasus-prunus-laurocerasus-4.jpg',
+      '/images/laurocerasus-prunus-laurocerasus-5.jpg',
+      '/images/laurocerasus-prunus-laurocerasus-6.jpg',
+      '/images/laurocerasus-prunus-laurocerasus-7.jpg',
+      '/images/laurocerasus-prunus-laurocerasus-8.jpg',
+      '/images/laurocerasus-prunus-laurocerasus-9.png'
     ],
     description: 'Lovor višnja je zimzeleni žbun, idealan za guste, elegantne žive ograde. Otporna na mraz i gradske uslove.',
     inStock: true,
@@ -236,12 +236,12 @@ export const products = [
     categories: ['liscari', 'ziva-ograda'],
     price: 400,
     showPrice: true,
-    image: '/images/fotinijanaslovna.jpeg',
+    image: '/images/photinia-red-robin.jpg',
     images: [
-      '/images/fotinijanaslovna.jpeg',
-      '/images/WhatsApp Image 2025-12-30 at 14.15.33.jpeg',
-      '/images/fotinijanastapu.jpeg',
-      '/images/fotinijanastapu2.jpeg'
+      '/images/photinia-red-robin.jpg',
+      '/images/photinia-red-robin-2.jpg',
+      '/images/photinia-red-robin-3.jpg',
+      '/images/photinia-red-robin-4.jpg'
     ],
     description: 'Fotinija Red Robin je zimzeleni žbun sa atraktivnim crvenim mladim izbojcima. Idealna za dekoraciju i formiranje žive ograde.',
     inStock: true,
@@ -259,10 +259,10 @@ export const products = [
     category: 'siblje',
     categories: ['siblje'],
     price: 1000,
-    image: '/images/Pennisetum1.jpeg',
+    image: '/images/pennisetum-alopecuroides.jpg',
     images: [
-      '/images/Pennisetum1.jpeg',
-      '/images/Pennisetum2.jpeg'
+      '/images/pennisetum-alopecuroides.jpg',
+      '/images/pennisetum-alopecuroides-2.jpg'
     ],
     description: 'Pennisetum alopecuroides je dekorativna trajnica sa prelepim cvastovima. Idealna za pejzažne dizajne i ukrašavanje dvorišta.',
     inStock: true,
@@ -281,7 +281,7 @@ export const products = [
     categories: ['liscari'],
     price: 3500,
     showPrice: true,
-    image: '/images/bambus.jpeg',
+    image: '/images/bambus.jpg',
     description: 'Bambus je brzorastuća trava koja stvara prirodnu živu ogradu i daje egzotični pejzaž. Idealna za modernije dizajne.',
     inStock: true,
     details: {
@@ -298,10 +298,10 @@ export const products = [
     category: 'siblje',
     categories: ['siblje'],
     price: 1300,
-    image: '/images/hortenzija.jpeg',
+    image: '/images/hortensie-hydrangea.jpg',
     images: [
-      '/images/hortenzija.jpeg',
-      '/images/WhatsApp Image 2026-01-04 at 19.51.44.jpeg'
+      '/images/hortensie-hydrangea.jpg',
+      '/images/hortensie-hydrangea-2.jpg'
     ],
     description: 'Hortenzija je prelep cvetni žbun sa velikim kuglastim cvetovima u različitim bojama. Idealna za ukrašavanje bašta i dvorišta.',
     inStock: true,
@@ -319,10 +319,10 @@ export const products = [
     category: 'siblje',
     categories: ['siblje'],
     price: 800,
-    image: '/images/puzavice1.jpeg',
+    image: '/images/iedera-hedera-helix.jpg',
     images: [
-      '/images/puzavice1.jpeg',
-      '/images/puzavice2.jpeg'
+      '/images/iedera-hedera-helix.jpg',
+      '/images/iedera-hedera-helix-2.jpg'
     ],
     description: 'Bršljan (Hedera helix) je zimzelena puzavica, idealna za prekrivanje ograda i zidova. Dekorativna cele godine, brz i gust rast, otporna i laka za održavanje. Odlično podnosi senku i polusenku.',
     inStock: true,
@@ -340,10 +340,10 @@ export const products = [
     category: 'siblje',
     categories: ['siblje'],
     price: 900,
-    image: '/images/lonicerantida1.jpeg',
+    image: '/images/lonicera-nitida.jpg',
     images: [
-      '/images/lonicerantida1.jpeg',
-      '/images/lonicerantida2.jpeg'
+      '/images/lonicera-nitida.jpg',
+      '/images/lonicera-nitida-2.jpg'
     ],
     description: 'Lonicera nitida je gusta i moderna zelena ograda. Savršen izbor za niske žive ograde i oblikovanje prostora. Gusta i kompaktna forma, brz rast i lako održavanje, odlično podnosi orezivanje. Poluzimzelena i dekorativna tokom cele godine.',
     inStock: true,
@@ -361,11 +361,11 @@ export const products = [
     category: 'siblje',
     categories: ['siblje'],
     price: 700,
-    image: '/images/heuchera1.jpeg',
+    image: '/images/heuchera.jpg',
     images: [
-      '/images/heuchera1.jpeg',
-      '/images/heuchera2.jpeg',
-      '/images/heuchera3.jpg'
+      '/images/heuchera.jpg',
+      '/images/heuchera-2.jpg',
+      '/images/heuchera-3.jpg'
     ],
     description: 'Heuchera (Koralna zvona) donosi boju i eleganciju tokom cele godine. Idealan izbor za dekorativne bašte. Dekorativni listovi u raznim bojama, niska i kompaktna biljka, otporna i laka za održavanje.',
     inStock: true,
@@ -383,7 +383,7 @@ export const products = [
     category: 'siblje',
     categories: ['siblje'],
     price: 1500,
-    image: '/images/hibiskus.jpeg',
+    image: '/images/hibiscus-syriacus.jpg',
     description: 'Hibiskus je egzotična lepota za svaki prostor. Savršen izbor za dvorišta, terase i dekorativne bašte. Krupni i atraktivni cvetovi, dugo i bogato cvetanje, brz rast i laka nega. Pogodan za sadnju u bašti i u saksijama.',
     inStock: true,
     details: {
@@ -400,11 +400,11 @@ export const products = [
     category: 'siblje',
     categories: ['siblje'],
     price: 1000,
-    image: '/images/Spirea japonica \'Little Princes\' - ukrasno šiblje.jpg',
+    image: '/images/spiree-spiraea.jpg',
     images: [
-      '/images/Spirea japonica \'Little Princes\' - ukrasno šiblje.jpg',
-      '/images/spirea.jpeg',
-      '/images/Spirea japonica.jpg'
+      '/images/spiree-spiraea.jpg',
+      '/images/spiree-spiraea-2.jpg',
+      '/images/spiree-spiraea-3.jpg'
     ],
     description: 'Spirea nudi bogato cvetanje i laku negu. Idealan izbor za dekoraciju dvorišta. Obilno i dekorativno cvetanje, brz rast i gusta forma, veoma laka za održavanje. Otporna i dugovečna biljka.',
     inStock: true,
@@ -422,10 +422,10 @@ export const products = [
     category: 'siblje',
     categories: ['siblje'],
     price: 1000,
-    image: '/images/Božur (Paeonia) 1 siblje.jpg',
+    image: '/images/bujor-paeonia.jpg',
     images: [
-      '/images/Božur (Paeonia) 1 siblje.jpg',
-      '/images/Božur (Paeonia) 2 siblje.jpg'
+      '/images/bujor-paeonia.jpg',
+      '/images/bujor-paeonia-2.jpg'
     ],
     description: 'Božur (Paeonia) je raskošna biljka sa krupnim, mirisnim cvetovima. Dugovečna i otporna, idealna za cvetne leje i dekoraciju dvorišta. Cveta u proleće u ružičastim, belim i crvenim nijansama.',
     inStock: true,
@@ -445,7 +445,7 @@ export const products = [
     category: 'perene',
     categories: ['perene'],
     price: 400,
-    image: '/images/Ajuga reptans perena.jpg',
+    image: '/images/ajuga-reptans.jpg',
     description: 'Ajuga reptans je niska pokrovna perena sa plavim cvetićima. Idealna za pokrivanje tla, kamenjare i rubove staza. Brzo se širi i ne zahteva posebnu negu.',
     inStock: true,
     details: {
@@ -462,10 +462,10 @@ export const products = [
     category: 'perene',
     categories: ['perene'],
     price: 600,
-    image: '/images/Astilba isto.jpg',
+    image: '/images/astilbe.jpg',
     images: [
-      '/images/Astilba isto.jpg',
-      '/images/Astilba sp. perena.jpg'
+      '/images/astilbe.jpg',
+      '/images/astilbe-2.jpg'
     ],
     description: 'Astilba je elegantna perena sa pernatim cvastovima u roze, crvenim i belim tonovima. Odlična za senkovite delove bašte i vlažna staništa.',
     inStock: true,
@@ -483,7 +483,7 @@ export const products = [
     category: 'perene',
     categories: ['perene'],
     price: 500,
-    image: '/images/Carex morrowi \'Ice Dance\' -perena.jpg',
+    image: '/images/carex-morrowii-ice-dance.jpg',
     description: 'Carex morrowi \'Ice Dance\' je ukrasna trava sa zelenim listovima obrubljenim belom prugom. Idealna za bordure, kamenjare i sadnju ispod drveća.',
     inStock: true,
     details: {
@@ -500,7 +500,7 @@ export const products = [
     category: 'perene',
     categories: ['perene'],
     price: 500,
-    image: '/images/Festuca glauca- plava trava.jpg',
+    image: '/images/festuca-glauca.jpg',
     description: 'Festuca glauca (plava trava) je kompaktna ukrasna trava sa atraktivnim plavo-sivim listovima. Savršena za kamenjare, rubove i moderne bašte.',
     inStock: true,
     details: {
@@ -517,7 +517,7 @@ export const products = [
     category: 'perene',
     categories: ['perene'],
     price: 600,
-    image: '/images/Hemerocalis sp. (narandžasti i žuti cvet).jpg',
+    image: '/images/crin-de-zi-hemerocallis.jpg',
     description: 'Hemerocallis (Dnevni ljiljan) je zahvalna perena sa prelepim narandžastim i žutim cvetovima. Cveta dugo, laka za održavanje i otporna na razne uslove.',
     inStock: true,
     details: {
@@ -534,10 +534,10 @@ export const products = [
     category: 'perene',
     categories: ['perene'],
     price: 600,
-    image: '/images/Hosta mix. perena za senku.jpg',
+    image: '/images/hosta.jpg',
     images: [
-      '/images/Hosta mix. perena za senku.jpg',
-      '/images/Hosta mix isto.jpg'
+      '/images/hosta.jpg',
+      '/images/hosta-2.jpg'
     ],
     description: 'Hosta je kraljica senke sa dekorativnim listovima u raznim nijansama zelene. Idealna za senkovite delove bašte, ispod drveća i uz vodene površine.',
     inStock: true,
@@ -555,7 +555,7 @@ export const products = [
     category: 'perene',
     categories: ['perene'],
     price: 500,
-    image: '/images/Iris - perunika (beli i ljubičasti cvet) perena.jpg',
+    image: '/images/stanjenel-iris-germanica.jpg',
     description: 'Iris (Perunika) je elegantna perena sa prelepim belim i ljubičastim cvetovima. Nenametljiva lepota za svaku baštu, cveta u proleće.',
     inStock: true,
     details: {
@@ -572,7 +572,7 @@ export const products = [
     category: 'perene',
     categories: ['perene'],
     price: 700,
-    image: '/images/Kniphophia uvaria, narandžasti cvet, perena.jpg',
+    image: '/images/kniphofia-uvaria.jpg',
     description: 'Kniphofia uvaria (Baklja) je egzotična perena sa upečatljivim narandžasto-crvenim cvastovima. Privlači poglede i leptire, idealna kao akcenat u bašti.',
     inStock: true,
     details: {
@@ -589,7 +589,7 @@ export const products = [
     category: 'perene',
     categories: ['perene'],
     price: 500,
-    image: '/images/Ophiopogon japonicus ukrasna trava.jpg',
+    image: '/images/ophiopogon-japonicus.jpg',
     description: 'Ophiopogon japonicus je zimzelena ukrasna trava, idealna za bordure i kao pokrivač tla. Niska i gusta, dekorativna tokom cele godine.',
     inStock: true,
     details: {
@@ -606,10 +606,10 @@ export const products = [
     category: 'perene',
     categories: ['perene'],
     price: 500,
-    image: '/images/Physostegia alba - perena.jpg',
+    image: '/images/physostegia-virginiana-alba.jpg',
     images: [
-      '/images/Physostegia alba - perena.jpg',
-      '/images/Physostegia alba.jpg'
+      '/images/physostegia-virginiana-alba.jpg',
+      '/images/physostegia-virginiana-alba-2.jpg'
     ],
     description: 'Physostegia alba je perena sa elegantnim belim cvastovima. Bogato cveta tokom leta, laka za održavanje.',
     inStock: true,
@@ -627,10 +627,10 @@ export const products = [
     category: 'perene',
     categories: ['perene'],
     price: 400,
-    image: '/images/Sedum angelina isto.jpg',
+    image: '/images/sedum-angelina.jpg',
     images: [
-      '/images/Sedum angelina isto.jpg',
-      '/images/Sedum angelina perena.jpg'
+      '/images/sedum-angelina.jpg',
+      '/images/sedum-angelina-2.jpg'
     ],
     description: 'Sedum angelina je sukulentna perena sa zlatno-zelenim listovima koji u jesen postaju narandžasti. Savršena za kamenjare i kao pokrivač tla.',
     inStock: true,
@@ -648,10 +648,10 @@ export const products = [
     category: 'perene',
     categories: ['perene'],
     price: 400,
-    image: '/images/Isto sedum hybridum samo pojedinačna slika.jpg',
+    image: '/images/sedum-hybridum.jpg',
     images: [
-      '/images/Isto sedum hybridum samo pojedinačna slika.jpg',
-      '/images/Sedum hybridum - perena.jpg'
+      '/images/sedum-hybridum.jpg',
+      '/images/sedum-hybridum-2.jpg'
     ],
     description: 'Sedum hybridum je gusta pokrovna perena sa jarko zelenim mesnatim listovima. Idealna za kamenjare, zelene krovove i prekrivanje tla.',
     inStock: true,
@@ -669,7 +669,7 @@ export const products = [
     category: 'perene',
     categories: ['perene'],
     price: 400,
-    image: '/images/sedum rupestre \'blue\' perena.jpg',
+    image: '/images/sedum-rupestre-blue.jpg',
     description: 'Sedum rupestre \'Blue\' je sukulentna perena sa plavo-sivim iglicama. Niska i otporna, savršena za kamenjare i suve bašte.',
     inStock: true,
     details: {
@@ -686,10 +686,10 @@ export const products = [
     category: 'perene',
     categories: ['perene'],
     price: 400,
-    image: '/images/Sedum S. Watson perena.jpg',
+    image: '/images/sedum-watson.jpg',
     images: [
-      '/images/Sedum S. Watson perena.jpg',
-      '/images/Sedum S. Watson isto.jpg'
+      '/images/sedum-watson.jpg',
+      '/images/sedum-watson-2.jpg'
     ],
     description: 'Sedum S. Watson je dekorativna sukulentna perena sa roze-zelenim rozetama. Atraktivna boja tokom cele godine, idealna za kamenjare i saksije.',
     inStock: true,
@@ -707,7 +707,7 @@ export const products = [
     category: 'perene',
     categories: ['perene'],
     price: 500,
-    image: '/images/Sedum spectabile - debela koka.jpg',
+    image: '/images/sedum-spectabile.jpg',
     description: 'Sedum spectabile (Debela koka) je robusna perena sa krupnim mesnatim listovima i ružičastim cvastovima. Privlači leptire i pčele, cveta u kasno leto.',
     inStock: true,
     details: {
@@ -724,10 +724,10 @@ export const products = [
     category: 'perene',
     categories: ['perene'],
     price: 400,
-    image: '/images/zekineusi.jpg',
+    image: '/images/stachys-byzantina.jpg',
     images: [
-      '/images/zekineusi.jpg',
-      '/images/Stachys lanata - zekine uši.jpg'
+      '/images/stachys-byzantina.jpg',
+      '/images/stachys-byzantina-2.jpg'
     ],
     description: 'Stachys lanata (Zečije uši) je perena sa mekanim, srebrno-sivim listovima nalik zečijim ušima. Odlična za kamenjare i kao kontrast tamnijem lišću.',
     inStock: true,
@@ -747,15 +747,15 @@ export const products = [
     category: 'liscari',
     categories: ['liscari'],
     price: 0,
-    image: '/images/maslina1.jpeg',
+    image: '/images/maslin-olea-europaea.jpg',
     images: [
-      '/images/maslina1.jpeg',
-      '/images/maslina2.jpeg',
-      '/images/maslina3.jpeg',
-      '/images/maslina5.jpeg',
-      '/images/novemasline1.jpeg',
-      '/images/novemasline2.jpeg',
-      '/images/novemasline3.jpeg'
+      '/images/maslin-olea-europaea.jpg',
+      '/images/maslin-olea-europaea-2.jpg',
+      '/images/maslin-olea-europaea-3.jpg',
+      '/images/maslin-olea-europaea-4.jpg',
+      '/images/maslin-olea-europaea-5.jpg',
+      '/images/maslin-olea-europaea-6.jpg',
+      '/images/maslin-olea-europaea-7.jpg'
     ],
     description: 'Maslina (Olea europaea) je zimzeleno mediteransko drvo sa srebrno-zelenim listovima. Dugovečna i dekorativna, idealna za dvorišta, terase i mediteranski stil uređenja.',
     inStock: true,
@@ -773,7 +773,7 @@ export const products = [
     category: 'liscari',
     categories: ['liscari'],
     price: 0,
-    image: '/images/Bonsai.jpeg',
+    image: '/images/bonsai.jpg',
     description: 'Bonsai je umetnost uzgoja minijaturnog drveća. Elegantan i jedinstven, savršen poklon i ukras za svaki enterijer ili terasu. Zahteva pažljivu negu i oblikovanje.',
     inStock: true,
     details: {
@@ -792,7 +792,7 @@ export const products = [
     category: 'perene',
     categories: ['perene'],
     price: 0,
-    image: '/images/gaura.jpg',
+    image: '/images/gaura-lindheimeri.jpg',
     description: 'Gaura (Gaura lindheimeri) je graciozna perena sa vitkim, crvenkastim stabljikama i sitnim cvetovima nalik leptirima. Dugo cveta tokom leta, laka za održavanje i otporna na sušu.',
     inStock: true,
     details: {
@@ -809,7 +809,7 @@ export const products = [
     category: 'perene',
     categories: ['perene'],
     price: 0,
-    image: '/images/iberis.jpg',
+    image: '/images/iberis-sempervirens.jpg',
     description: 'Iberis (Iberis sempervirens) je zimzelena pokrovna perena sa obiljem sitnih belih cvetova u proleće. Idealna za kamenjare, ivice staza i pokrivanje tla.',
     inStock: true,
     details: {
@@ -826,7 +826,7 @@ export const products = [
     category: 'siblje',
     categories: ['siblje'],
     price: 0,
-    image: '/images/indijskijorgovan.jpeg',
+    image: '/images/liliac-syringa-vulgaris.jpg',
     description: 'Baštenski jorgovan (Syringa vulgaris) je omiljeni cvetni žbun sa mirisnim ljubičastim cvastovima u proleće. Otporan i dugovečan, savršen za dvorišta i žive ograde.',
     inStock: true,
     details: {
@@ -843,7 +843,7 @@ export const products = [
     category: 'siblje',
     categories: ['siblje'],
     price: 0,
-    image: '/images/bastenskijorgovan.jpeg',
+    image: '/images/lagerstroemia-indica.jpg',
     description: 'Indijski jorgovan (Lagerstroemia indica) je egzotičan žbun sa bujnim, naboranim cvetovima u ružičastim i crvenim tonovima tokom leta. Idealan kao solitera ili akcenat u dvorištu.',
     inStock: true,
     details: {
@@ -860,7 +860,7 @@ export const products = [
     category: 'cetinari',
     categories: ['cetinari'],
     price: 0,
-    image: '/images/italijanskicempres.jpeg',
+    image: '/images/chiparos-italian-cupressus-sempervirens.jpg',
     description: 'Italijanski čempres (Cupressus sempervirens) je vitak, stubasti četinar prepoznatljivog mediteranskog izgleda. Savršen kao vertikalni akcenat u alejama i dvorištima.',
     inStock: true,
     details: {
@@ -877,7 +877,7 @@ export const products = [
     category: 'liscari',
     categories: ['liscari'],
     price: 0,
-    image: '/images/japanskatresnja.jpeg',
+    image: '/images/cires-japonez-prunus-serrulata.jpg',
     description: 'Japanska trešnja (Prunus serrulata) je ukrasno drvo poznato po spektakularnom prolećnom cvetanju u ružičastim tonovima. Prava atrakcija za svaki park i dvorište.',
     inStock: true,
     details: {
@@ -894,7 +894,7 @@ export const products = [
     category: 'liscari',
     categories: ['liscari'],
     price: 0,
-    image: '/images/japanskijavor.jpeg',
+    image: '/images/artar-japonez-acer-palmatum.jpg',
     description: 'Japanski javor (Acer palmatum) je elegantno ukrasno drvce sa fino izrezanim, crveno-purpurnim lišćem. Idealan akcenat u modernim i japanskim vrtovima.',
     inStock: true,
     details: {
@@ -911,7 +911,7 @@ export const products = [
     category: 'liscari',
     categories: ['liscari'],
     price: 0,
-    image: '/images/palma1.jpeg',
+    image: '/images/palmier-trachycarpus-fortunei.jpg',
     description: 'Palma (Trachycarpus fortunei) je otporna zimzelena palma lepezastih listova, jedna od retkih koja podnosi i blaže mrazeve. Donosi mediteranski i egzotičan štih svakom prostoru.',
     inStock: true,
     details: {
@@ -928,7 +928,7 @@ export const products = [
     category: 'liscari',
     categories: ['liscari'],
     price: 0,
-    image: '/images/palma.jpeg',
+    image: '/images/cycas-revoluta.jpg',
     description: 'Cikas (Cycas revoluta), poznat i kao sago palma, je egzotična biljka sa krutim, perastim listovima i debelim, ljuspastim stablom. Idealna za saksije, terase i mediteranski ambijent.',
     inStock: true,
     details: {

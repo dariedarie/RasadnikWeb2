@@ -16,7 +16,7 @@ const galleryImages = [
   '/images/72052.jpeg',
   '/images/IMG_4839.jpeg',
   '/images/72299.jpeg',
-  '/images/IMG_5327.jpeg',
+  '/images/laurocerasus-prunus-laurocerasus-2.jpg',
   '/images/77219.jpeg',
   '/images/72100.jpeg',
   '/images/WhatsApp Image 2025-12-26 at 13.00.03.jpeg',

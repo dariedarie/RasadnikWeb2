@@ -6,6 +6,7 @@ import { products } from '../data/productsData';
 import { getLangPrefix, getSeoLinks } from '../utils/i18nRoutes';
 import { categoryPages, pickLang, productPath } from '../data/seoPages';
 import './Products.css';
+import { thumbSrc, mediumSrc, fallbackTo } from '../utils/images';
 
 // Pretraga bez obzira na dijakritike (stanjenel = stânjenel)
 const normalize = (s) => (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
@@ -277,12 +278,10 @@ const Products = () => {
                 >
                   <div className="product-image-compact">
                     <img
-                      src={product.image}
+                      src={thumbSrc(product.image)}
                       alt={t(`productDescriptions.${product.id}.name`, { defaultValue: product.name })}
                       loading="lazy"
-                      onError={(e) => {
-                        e.target.src = '/images/plantDGD2.png';
-                      }}
+                      onError={fallbackTo(product.image)}
                     />
                     <span className={`stock-badge ${product.inStock ? 'in-stock' : 'out-of-stock'}`}>
                       {product.inStock ? t('products.inStock') : t('products.outOfStock')}

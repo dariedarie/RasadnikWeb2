@@ -6,6 +6,7 @@ import { products } from '../data/productsData';
 import { categoryPages, pickLang, labels, productInCategory, productPath, breadcrumbJsonLd, faqJsonLd, itemListJsonLd } from '../data/seoPages';
 import { getLangPrefix, getSeoLinks, SITE_URL } from '../utils/i18nRoutes';
 import './Products.css';
+import { thumbSrc, mediumSrc, fallbackTo } from '../utils/images';
 
 const boxStyle = {
   background: '#fff',
@@ -79,7 +80,7 @@ const CategoryPage = ({ page }) => {
           {categoryProducts.map(p => (
             <Link key={p.id} to={`${prefix}${productPath(p.id)}`} className="product-card-compact">
               <div className="product-image-compact">
-                <img src={p.image} alt={productName(p)} loading="lazy" onError={(e) => { e.target.src = '/images/plantDGD2.png'; }} />
+                <img src={thumbSrc(p.image)} alt={productName(p)} loading="lazy" onError={fallbackTo(p.image)} />
                 <span className={`stock-badge ${p.inStock ? 'in-stock' : 'out-of-stock'}`}>
                   {p.inStock ? t('products.inStock') : t('products.outOfStock')}
                 </span>

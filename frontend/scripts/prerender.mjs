@@ -35,6 +35,13 @@ for (const p of products) {
   }
 }
 
+// Upozorenje: slike proizvoda bez WebP verzija (sajt radi, ali sporije) -> python scripts/optimize_images.py
+const missingVariants = [...new Set(products.flatMap(p => [p.image, ...(p.images || [])]))]
+  .filter(img => !fs.existsSync(path.join(root, 'public', img.replace(/^\/images\//, '/images/thumbs/').replace(/\.\w+$/, '.webp'))));
+if (missingVariants.length) {
+  console.warn(`prerender: UPOZORENJE - ${missingVariants.length} slika bez WebP verzija, pokrenite: python scripts/optimize_images.py`);
+}
+
 const locales = Object.fromEntries(SUPPORTED_LANGS.map(lang => [
   lang, JSON.parse(fs.readFileSync(path.join(root, 'src', 'locales', `${lang}.json`), 'utf8'))
 ]));

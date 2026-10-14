@@ -4,6 +4,7 @@ import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
 import { getLangPrefix, getSeoLinks } from '../utils/i18nRoutes';
 import { homeContent, categoryPages, pickLang, labels, faqJsonLd, productPath } from '../data/seoPages';
+import { thumbSrc, mediumSrc, fallbackTo } from '../utils/images';
 import './Home.css';
 
 const Home = () => {
@@ -23,7 +24,7 @@ const Home = () => {
     <div className="home">
       {/* Hero sekcija */}
       <section className="hero" style={{
-        backgroundImage: 'url(/images/hero-background.jpg)',
+        backgroundImage: 'url(/images/hero-background.webp)',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         position: 'relative',
@@ -127,7 +128,8 @@ const Home = () => {
                 overflow: 'hidden'
               }}>
                 <img
-                  src="/images/tujavelika.jpeg"
+                  src={mediumSrc('/images/tuia-smaragd.jpg')}
+                  onError={fallbackTo('/images/tuia-smaragd.jpg')}
                   alt={t('home.tuja')}
                   style={{
                     width: '100%',
@@ -216,7 +218,8 @@ const Home = () => {
                 overflow: 'hidden'
               }}>
                 <img
-                  src="/images/katalpa.jpg"
+                  src={thumbSrc('/images/catalpa-bignonioides.jpg')}
+                  onError={fallbackTo('/images/catalpa-bignonioides.jpg')}
                   alt={t('home.katalpa')}
                   loading="lazy"
                   style={{
@@ -290,7 +293,8 @@ const Home = () => {
                 overflow: 'hidden'
               }}>
                 <img
-                  src="/images/lovorvisnja.jpeg"
+                  src={thumbSrc('/images/laurocerasus-prunus-laurocerasus.jpg')}
+                  onError={fallbackTo('/images/laurocerasus-prunus-laurocerasus.jpg')}
                   alt={t('home.lovor')}
                   loading="lazy"
                   style={{
@@ -364,7 +368,8 @@ const Home = () => {
                 overflow: 'hidden'
               }}>
                 <img
-                  src="/images/WhatsApp Image 2025-12-30 at 14.15.33.jpeg"
+                  src={thumbSrc('/images/photinia-red-robin-2.jpg')}
+                  onError={fallbackTo('/images/photinia-red-robin-2.jpg')}
                   alt={t('home.fotinija')}
                   loading="lazy"
                   style={{
@@ -438,7 +443,8 @@ const Home = () => {
                 overflow: 'hidden'
               }}>
                 <img
-                  src="/images/lejlandinew.jpeg"
+                  src={thumbSrc('/images/chiparos-leyland.jpg')}
+                  onError={fallbackTo('/images/chiparos-leyland.jpg')}
                   alt={t('home.leyland')}
                   loading="lazy"
                   style={{

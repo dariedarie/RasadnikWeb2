@@ -56,8 +56,8 @@ export const guides = [
     description: 'Când se plantează tuia, coniferele, arbuștii și perenele: perioadele optime pentru plante cu balot și în container, plantarea de toamnă și de primăvară.',
     h1: 'Când se plantează tuia și coniferele? Calendar de plantare',
     excerpt: 'Perioadele optime de plantare pentru conifere, arbuști, arbori și perene, cu diferențele dintre plantele cu balot și cele în container.',
-    image: '/images/plantdgd-conifere-cu-balot-pregatite-pentru-livrare.jpg',
-    imageAlt: 'Conifere cu balot pregătite pentru plantare',
+    image: '/images/tujavelika_stara.jpeg',
+    imageAlt: 'Rând de tuia Smaragd crescute în câmp, înainte de plantare',
     date: '2026-10-14',
     products: [1, 5, 3, 2, 44],
     categories: ['cetinari']

@@ -5,21 +5,36 @@ import ImageLightbox from '../components/ImageLightbox';
 import { getSeoLinks } from '../utils/i18nRoutes';
 import './Gallery.css';
 
+// Opisni alt tekst za slike koje ga imaju (Google Images); ostale dobijaju generički
+const galleryAlt = {
+  '/images/plantdgd-conifere-cu-balot-pregatite-pentru-livrare.jpg': {
+    ro: 'Conifere cu balot pregătite pentru livrare en gros – PlantDGD',
+    en: 'Balled conifers ready for wholesale delivery – PlantDGD',
+    de: 'Koniferen mit Ballen, bereit zur Großhandelslieferung – PlantDGD'
+  },
+  '/images/plantdgd-incarcare-conifere-camion-livrare-en-gros.jpg': {
+    ro: 'Încărcarea coniferelor în camion pentru livrare en gros – PlantDGD',
+    en: 'Loading conifers onto a truck for wholesale delivery – PlantDGD',
+    de: 'Verladung von Koniferen in den LKW zur Großhandelslieferung – PlantDGD'
+  },
+  '/images/plantdgd-arbori-ornamentali-cu-balot-transport.jpg': {
+    ro: 'Arbori ornamentali cu balot în camion, pregătiți pentru transport – PlantDGD',
+    en: 'Balled ornamental trees loaded on a truck for transport – PlantDGD',
+    de: 'Zierbäume mit Ballen im LKW, bereit für den Transport – PlantDGD'
+  }
+};
+
 const galleryImages = [
-  '/images/72097.jpeg',
-  '/images/68271.jpeg',
-  '/images/72095.jpeg',
+  '/images/plantdgd-conifere-cu-balot-pregatite-pentru-livrare.jpg',
+  '/images/plantdgd-incarcare-conifere-camion-livrare-en-gros.jpg',
+  '/images/plantdgd-arbori-ornamentali-cu-balot-transport.jpg',
   '/images/IMG_4670.jpeg',
   '/images/IMG_4686.jpeg',
   '/images/IMG_5210.jpeg',
-  '/images/72290.jpeg',
   '/images/72052.jpeg',
-  '/images/IMG_4839.jpeg',
   '/images/72299.jpeg',
   '/images/laurocerasus-prunus-laurocerasus-2.jpg',
   '/images/77219.jpeg',
-  '/images/72100.jpeg',
-  '/images/WhatsApp Image 2025-12-26 at 13.00.03.jpeg',
   '/images/486679551_18465391054068689_5399905233392503403_n.jpg',
   '/images/588721729_18509882257068689_6717567260362003079_n.jpg',
 ];
@@ -59,7 +74,7 @@ const Gallery = () => {
             >
               <img
                 src={src}
-                alt={`${t('gallery.title')} ${idx + 1}`}
+                alt={galleryAlt[src]?.[i18n.language] || galleryAlt[src]?.ro || `${t('gallery.title')} ${idx + 1}`}
                 loading="lazy"
                 onError={(e) => {
                   e.target.src = '/images/plantDGD2.png';

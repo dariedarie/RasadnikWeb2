@@ -45,6 +45,10 @@ if (missingVariants.length) {
 const locales = Object.fromEntries(SUPPORTED_LANGS.map(lang => [
   lang, JSON.parse(fs.readFileSync(path.join(root, 'src', 'locales', `${lang}.json`), 'utf8'))
 ]));
+// Prošireni sadržaj proizvoda (utilizare/plantare/îngrijire/FAQ), isti kao u ProductDetails.js
+const productContent = Object.fromEntries(SUPPORTED_LANGS.map(lang => [
+  lang, JSON.parse(fs.readFileSync(path.join(dataDir, 'productContent', `${lang}.json`), 'utf8'))
+]));
 
 const esc = (s) => String(s)
   .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -126,11 +130,16 @@ for (const p of products) {
       const specs = Object.entries(p.details || {}).map(([k, v]) =>
         `<li>${esc(loc.productDetails[k] || k)}: ${esc(loc.productDescriptions?.[p.id]?.details?.[k] || v)}</li>`).join('');
       const related = products.filter(o => o.id !== p.id && productInCategory(o, p.category)).slice(0, 4);
+      const extra = productContent[L][p.id];
+      if (!extra) throw new Error(`prerender: proizvod ${p.id} nema tekst u src/data/productContent/${L}.json`);
+      const extraHtml = ['uses', 'planting', 'care'].map(k => `<h2>${esc(labels[L][k])}</h2><p>${esc(extra[k])}</p>`).join('') +
+        `<h2>${esc(labels[L].faqTitle)}</h2>${extra.faq.map(f => `<h3>${esc(f.q)}</h3><p>${esc(f.a)}</p>`).join('')}`;
       return {
-        ...meta, jsonLd: [productSchema, breadcrumbJsonLd(crumbs)],
+        ...meta, jsonLd: [productSchema, breadcrumbJsonLd(crumbs), faqJsonLd(extra.faq)],
         body: `<h1>${esc(name)}</h1><img src="${encodeURI(p.image)}" alt="${esc(name)}"><p>${esc(desc)}</p>
 <p>${esc(loc.products.priceOnRequest || '')} – <a href="${P('/contact')}">${esc(loc.productDetails.contactUs)}</a></p>
 ${specs ? `<h2>${esc(loc.productDetails.specifications)}</h2><ul>${specs}</ul>` : ''}
+${extraHtml}
 ${catPage ? `<p><a href="${P(`/${catPage.slug}`)}">${esc(catPage.content[L].name)}</a></p>` : ''}${productLinks(related, L, P)}`
       };
     }

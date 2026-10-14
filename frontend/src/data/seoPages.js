@@ -81,9 +81,12 @@ export const productIdFromParam = (param) => {
 export const pickLang =(byLang, lang) => byLang[lang] || byLang[(lang || '').slice(0, 2)] || byLang[DEFAULT_LANG];
 
 export const labels = {
-  ro: { faqTitle: 'Întrebări frecvente', wholesalePlants: 'Plante en gros', related: 'Produse similare' },
-  en: { faqTitle: 'Frequently asked questions', wholesalePlants: 'Wholesale plants', related: 'Similar products' },
-  de: { faqTitle: 'Häufige Fragen', wholesalePlants: 'Pflanzen im Großhandel', related: 'Ähnliche Produkte' }
+  ro: { faqTitle: 'Întrebări frecvente', wholesalePlants: 'Plante en gros', related: 'Produse similare',
+    uses: 'Utilizare în proiecte peisagistice', planting: 'Plantare și densitate', care: 'Îngrijire și întreținere' },
+  en: { faqTitle: 'Frequently asked questions', wholesalePlants: 'Wholesale plants', related: 'Similar products',
+    uses: 'Use in landscaping projects', planting: 'Planting and spacing', care: 'Care and maintenance' },
+  de: { faqTitle: 'Häufige Fragen', wholesalePlants: 'Pflanzen im Großhandel', related: 'Ähnliche Produkte',
+    uses: 'Verwendung in Landschaftsprojekten', planting: 'Pflanzung und Pflanzabstand', care: 'Pflege' }
 };
 
 // Landing stranice po kategorijama - ciljaju glavne kljucne reci ("gard viu en gros" itd.)

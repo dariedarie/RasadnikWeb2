@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet-async';
 import { useParams, useNavigate, Link, Navigate } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { products, getProductById, categories } from '../data/productsData';
-import { getCategoryPageByCategoryId, pickLang, labels, productInCategory, productMeta, breadcrumbJsonLd, productPath, productIdFromParam } from '../data/seoPages';
+import { getCategoryPageByCategoryId, pickLang, labels, productInCategory, productMeta, breadcrumbJsonLd, faqJsonLd, productPath, productIdFromParam } from '../data/seoPages';
 import { getLangPrefix, buildHreflangUrls, getSeoLinks } from '../utils/i18nRoutes';
 import ImageLightbox from '../components/ImageLightbox';
 import { thumbSrc, mediumSrc, fallbackTo } from '../utils/images';
@@ -18,12 +18,25 @@ const ProductDetails = () => {
   const [lightboxOpen, setLightboxOpen] = useState(false);
   const [lightboxIndex, setLightboxIndex] = useState(0);
 
+  // Prošireni SEO sadržaj (utilizare/plantare/îngrijire/FAQ) - učitava se samo za aktivni jezik
+  const [contentByLang, setContentByLang] = useState({});
+  const lang = ['ro', 'en', 'de'].includes(i18n.language) ? i18n.language : 'ro';
+
   // Scroll to top kada se stranica učita
   useEffect(() => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }, [id]);
 
+  useEffect(() => {
+    if (contentByLang[lang]) return;
+    import(`../data/productContent/${lang}.json`)
+      .then(m => setContentByLang(prev => ({ ...prev, [lang]: m.default || m })))
+      .catch(() => {});
+  }, [lang, contentByLang]);
+
   const product = getProductById(productIdFromParam(id));
+  const extra = product && contentByLang[lang] ? contentByLang[lang][product.id] : null;
+  const L = pickLang(labels, lang);
 
   // Stari URL (/products/1) -> novi SEO URL (/products/tuia-smaragd)
   if (product && /^\d+$/.test(id)) {
@@ -113,6 +126,7 @@ const ProductDetails = () => {
       <meta property="og:url" content={canonicalUrl} />
       <script type="application/ld+json">{JSON.stringify(productSchema)}</script>
       <script type="application/ld+json">{JSON.stringify(breadcrumbJsonLd(breadcrumbs))}</script>
+      {extra && <script type="application/ld+json">{JSON.stringify(faqJsonLd(extra.faq))}</script>}
     </Helmet>
     <div className="product-details-page">
       {/* Breadcrumb navigacija */}
@@ -274,6 +288,25 @@ const ProductDetails = () => {
           </button>
         </div>
       </div>
+
+      {/* Prošireni sadržaj o biljci */}
+      {extra && (
+        <section className="product-guide" style={{maxWidth: 1200, margin: '48px auto 0', padding: '32px', background: '#fff', borderRadius: 18, boxShadow: '0 8px 32px rgba(44,62,80,0.08)'}}>
+          {['uses', 'planting', 'care'].map(key => (
+            <div key={key} style={{marginBottom: 24}}>
+              <h2 style={{color: '#2e7d32', fontWeight: 700, fontSize: '1.4rem', marginBottom: 10}}>{L[key]}</h2>
+              <p style={{color: '#234d20', lineHeight: 1.7, fontSize: '1.02rem', marginBottom: 0}}>{extra[key]}</p>
+            </div>
+          ))}
+          <h2 style={{color: '#2e7d32', fontWeight: 700, fontSize: '1.4rem', marginBottom: 14}}>{L.faqTitle}</h2>
+          {extra.faq.map((f, i) => (
+            <div key={i} style={{marginBottom: 16}}>
+              <h3 style={{fontSize: '1.08rem', fontWeight: 600, color: '#234d20', marginBottom: 4}}>{f.q}</h3>
+              <p style={{color: '#234d20', lineHeight: 1.6, marginBottom: 0}}>{f.a}</p>
+            </div>
+          ))}
+        </section>
+      )}
 
       {/* Povezani proizvodi - interno linkovanje */}
       {relatedProducts.length > 0 && (

@@ -456,6 +456,25 @@ export const faqJsonLd = (faq) => ({
   }))
 });
 
+// Article schema za vodiče (/ghiduri/<slug>)
+export const articleJsonLd = (guide, url) => ({
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: guide.h1,
+  description: guide.description,
+  image: SITE_URL + encodeURI(guide.image),
+  datePublished: guide.date,
+  dateModified: guide.updated || guide.date,
+  inLanguage: 'ro',
+  author: { '@type': 'Organization', name: 'PlantDGD', url: SITE_URL + '/' },
+  publisher: {
+    '@type': 'Organization',
+    name: 'PlantDGD',
+    logo: { '@type': 'ImageObject', url: SITE_URL + '/images/plantDGD2.png' }
+  },
+  mainEntityOfPage: url
+});
+
 export const itemListJsonLd = (items) => ({
   '@context': 'https://schema.org',
   '@type': 'ItemList',

@@ -11,6 +11,9 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 import Gallery from './pages/Gallery';
 import CategoryPage from './pages/CategoryPage';
+import GuidesIndex from './pages/GuidesIndex';
+import GuideArticle from './pages/GuideArticle';
+import { GUIDES_PATH } from './data/guides';
 import { categoryPages } from './data/seoPages';
 import Footer from './components/Footer';
 import { SUPPORTED_LANGS, getLangPrefix } from './utils/i18nRoutes';
@@ -76,6 +79,12 @@ function App() {
                   );
                 })
               )}
+              {/* Vodiči postoje samo na rumunskom; /en/ghiduri i /de/ghiduri vode na početnu tog jezika */}
+              <Route path={GUIDES_PATH} element={<LanguageWrapper lang="ro"><GuidesIndex /></LanguageWrapper>} />
+              <Route path={`${GUIDES_PATH}/:slug`} element={<LanguageWrapper lang="ro"><GuideArticle /></LanguageWrapper>} />
+              {SUPPORTED_LANGS.filter(l => l !== 'ro').map(lang => (
+                <Route key={`guides-${lang}`} path={`${getLangPrefix(lang)}${GUIDES_PATH}/*`} element={<Navigate to={getLangPrefix(lang)} replace />} />
+              ))}
               <Route path="*" element={<Navigate to="/" replace />} />
             </Routes>
           </main>

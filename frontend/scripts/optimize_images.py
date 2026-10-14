@@ -16,8 +16,11 @@ IMAGES = os.path.join(FRONT, 'public', 'images')
 DATA = os.path.join(FRONT, 'src', 'data', 'productsData.js')
 VARIANTS = [('thumbs', 480, 62), ('md', 1000, 68)]
 
-src = open(DATA, encoding='utf-8').read()
-paths = {re.sub(r"\\(.)", r"\1", m) for m in re.findall(r"'(/images/(?:[^'\\]|\\.)+)'", src)}
+paths = set()
+# slike proizvoda + naslovne slike vodiča
+for data_file in [DATA, os.path.join(FRONT, 'src', 'data', 'guides.js')]:
+    src = open(data_file, encoding='utf-8').read()
+    paths |= {re.sub(r"\\(.)", r"\1", m) for m in re.findall(r"'(/images/(?:[^'\\]|\\.)+)'", src)}
 
 made = 0
 for p in sorted(paths):

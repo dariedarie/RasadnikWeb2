@@ -38,6 +38,11 @@ const Navbar = () => {
           <Link to={`${prefix}/gallery`} className="nav-link" onClick={() => setIsOpen(false)}>
             {t('nav.gallery')}
           </Link>
+          {i18n.language === 'ro' && (
+            <Link to="/ghiduri" className="nav-link" onClick={() => setIsOpen(false)}>
+              Ghiduri
+            </Link>
+          )}
           <LanguageSwitcher />
         </div>
         

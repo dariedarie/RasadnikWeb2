@@ -6,6 +6,7 @@ import { products } from '../data/productsData';
 import { categoryPages, pickLang, labels, productInCategory, productPath, breadcrumbJsonLd, faqJsonLd, itemListJsonLd } from '../data/seoPages';
 import { getLangPrefix, getSeoLinks, SITE_URL } from '../utils/i18nRoutes';
 import './Products.css';
+import { guidesForCategory, guidePath } from '../data/guides';
 import { thumbSrc, mediumSrc, fallbackTo } from '../utils/images';
 
 const boxStyle = {
@@ -104,6 +105,18 @@ const CategoryPage = ({ page }) => {
           </div>
         ))}
       </section>
+
+      {/* Vodiči za ovu kategoriju (samo na rumunskom) */}
+      {lang === 'ro' && guidesForCategory(page.categoryId).length > 0 && (
+        <section style={boxStyle}>
+          <h2 style={{color: '#2e7d32', fontWeight: 700, marginBottom: 12, fontSize: '1.4rem'}}>Ghiduri utile</h2>
+          <ul style={{paddingLeft: 20, lineHeight: 1.9, marginBottom: 0}}>
+            {guidesForCategory(page.categoryId).map(g => (
+              <li key={g.slug}><Link to={guidePath(g.slug)} style={{color: '#2e7d32', fontWeight: 600}}>{g.h1}</Link></li>
+            ))}
+          </ul>
+        </section>
+      )}
 
       <section style={{...boxStyle, padding: '24px 32px'}}>
         <div style={{display: 'flex', flexWrap: 'wrap', gap: 12, justifyContent: 'center'}}>

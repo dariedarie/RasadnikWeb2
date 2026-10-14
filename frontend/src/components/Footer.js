@@ -28,6 +28,7 @@ const Footer = () => {
               <li><Link to={`${prefix}/about`} onClick={() => window.scrollTo(0,0)}>{t('nav.about')}</Link></li>
               <li><Link to={`${prefix}/contact`} onClick={() => window.scrollTo(0,0)}>{t('nav.contact')}</Link></li>
               <li><Link to={`${prefix}/gallery`} onClick={() => window.scrollTo(0,0)}>{t('nav.gallery')}</Link></li>
+              <li><Link to="/ghiduri" onClick={() => window.scrollTo(0,0)}>{i18n.language === 'ro' ? 'Ghiduri' : 'Ghiduri (RO)'}</Link></li>
             </ul>
           </div>
 

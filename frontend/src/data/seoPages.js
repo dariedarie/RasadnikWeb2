@@ -457,7 +457,7 @@ export const faqJsonLd = (faq) => ({
 });
 
 // Article schema za vodiče (/ghiduri/<slug>)
-export const articleJsonLd = (guide, url) => ({
+export const articleJsonLd = (guide, url, lang = 'ro') => ({
   '@context': 'https://schema.org',
   '@type': 'Article',
   headline: guide.h1,
@@ -465,7 +465,7 @@ export const articleJsonLd = (guide, url) => ({
   image: SITE_URL + encodeURI(guide.image),
   datePublished: guide.date,
   dateModified: guide.updated || guide.date,
-  inLanguage: 'ro',
+  inLanguage: lang,
   author: { '@type': 'Organization', name: 'PlantDGD', url: SITE_URL + '/' },
   publisher: {
     '@type': 'Organization',

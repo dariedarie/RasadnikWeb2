@@ -1,0 +1,363 @@
+{
+  "cate-tuia-pe-metru-liniar": [
+    ["p", "Eine der ersten Fragen bei jedem Heckenprojekt lautet: Wie viele Pflanzen braucht man? Die Antwort hängt von der Art, der Pflanzenhöhe beim Pflanzen und davon ab, wie schnell die Hecke dicht werden soll. Unten finden Sie die empfohlenen Pflanzabstände für die gängigsten Heckenpflanzen und einen Rechner, der schnell den Bedarf für Ihre Heckenlänge zeigt."],
+    ["h2", "Rechner: wie viele Pflanzen für Ihre Hecke"],
+    ["calculator"],
+    ["h2", "Wie viele Thuja Smaragd pro laufendem Meter"],
+    ["p", "Für [Thuja Smaragd](/products/tuia-smaragd) lautet die übliche Empfehlung 2–3 Pflanzen pro laufendem Meter, also 35–50 cm Abstand von Stamm zu Stamm. Thuja Smaragd wächst schmal säulenförmig – ausgewachsen wird sie 1–1,5 m breit – und lässt bei größerem Abstand jahrelang Lücken zwischen den Pflanzen."],
+    ["ul", [
+      "Kleine Pflanzen (60–100 cm): 3 Pflanzen pro laufendem Meter, damit die Hecke schneller dicht wird.",
+      "Mittlere Pflanzen (100–150 cm): 2–3 Pflanzen pro laufendem Meter.",
+      "Große Pflanzen (über 150 cm): meist 2 Pflanzen pro laufendem Meter, da sie bereits breiter sind."
+    ]],
+    ["p", "Sehr dichtes Pflanzen (4 oder mehr Pflanzen pro Meter) ist nicht empfehlenswert: Die Pflanzen konkurrieren um Wasser und Licht, und der untere Teil der Hecke kann mit der Zeit verkahlen."],
+    ["h2", "Pflanzabstände für andere Heckenpflanzen"],
+    ["table", {
+      "head": ["Pflanze", "Pflanzen pro laufendem Meter", "Abstand zwischen den Pflanzen"],
+      "rows": [
+        ["Thuja Smaragd", "2–3", "35–50 cm"],
+        ["Morgenländischer Lebensbaum", "2–3", "35–50 cm"],
+        ["Kirschlorbeer", "2–3", "35–50 cm"],
+        ["Photinia Red Robin", "2–3", "35–50 cm"],
+        ["Leylandzypresse", "1,5–2", "50–70 cm"],
+        ["Eibe (Taxus baccata)", "3–4", "25–35 cm"],
+        ["Lonicera nitida (niedrige Einfassung)", "3–4", "25–35 cm"]
+      ]
+    }],
+    ["p", "Die [Leylandzypresse](/products/chiparos-leyland) wächst viel schneller und breiter als Thuja und wird daher weiter gepflanzt. Langsam wachsende Arten für niedrige Formhecken wie [Eibe](/products/tisa-taxus-baccata) und [Lonicera nitida](/products/lonicera-nitida) werden dichter gesetzt."],
+    ["h2", "Einreihig oder zweireihig?"],
+    ["p", "Für die meisten Hecken genügt eine Reihe. Eine zweireihige, versetzte Pflanzung wählt man, wenn von Anfang an ein sehr dichter Sichtschutz, eine breitere Hecke oder besserer Wind- und Lärmschutz gewünscht ist. Die Reihen liegen dann 30–50 cm auseinander, und in jeder Reihe pflanzt man etwas weiter als bei einer einreihigen Hecke – meist 1,5–2 Pflanzen pro laufendem Meter je Reihe."],
+    ["h2", "So pflanzt man eine Hecke richtig"],
+    ["ul", [
+      "Markieren Sie die Heckenlinie mit einer Schnur und heben Sie einzelne Pflanzlöcher oder einen durchgehenden Graben von etwa 40–50 cm Breite aus.",
+      "Das Pflanzloch sollte mindestens doppelt so breit wie Ballen oder Topf sein; die Pflanze wird so tief gesetzt, wie sie vorher stand.",
+      "Bei Ballenpflanzen in Netz oder Jute wird das Material oben geöffnet, der Ballen aber nicht zerstört.",
+      "Mit Erde und Kompost auffüllen, leicht andrücken und sofort kräftig wässern.",
+      "Den Boden mit Mulch (z. B. Pinienrinde) abdecken, um Feuchtigkeit zu halten und Unkraut zu reduzieren."
+    ]],
+    ["p", "In den ersten zwei Jahren ist regelmäßiges Gießen die wichtigste Arbeit. Die meisten Probleme frisch gepflanzter Hecken – vergilbende oder braune Pflanzen – entstehen durch Wassermangel."],
+    ["h2", "Großhandelsbestellungen für Hecken"],
+    ["p", "Bei Projekten mit Hunderten oder Tausenden Pflanzen ist wichtig, dass die Pflanzen aus Partien mit einheitlicher Höhe und Dichte stammen, damit die Hecke vom ersten Tag an gleichmäßig wirkt. PlantDGD liefert [Heckenpflanzen im Großhandel](/gard-viu-en-gros) in ganz Rumänien und Europa. Senden Sie uns Heckenlänge, Art und gewünschte Höhe über die [Kontaktseite](/contact), und wir berechnen den Bedarf und senden Ihnen ein Angebot."],
+    ["faq", [
+      { "q": "Wie viele Thujen brauche ich für 10 Meter Hecke?", "a": "Bei Thuja Smaragd mit 2–3 Pflanzen pro laufendem Meter brauchen Sie für 10 Meter 20–30 Pflanzen, je nach Pflanzenhöhe." },
+      { "q": "Welcher Abstand zu Zaun oder Gebäude ist nötig?", "a": "Empfohlen sind mindestens 40–50 cm zum vorhandenen Zaun oder zur Wand, damit die Pflanzen Platz haben und von beiden Seiten geschnitten werden können." },
+      { "q": "Kann ich Thujen weiter pflanzen, um zu sparen?", "a": "Das ist möglich, aber die Hecke hat dann jahrelang Lücken. Thuja Smaragd wächst langsam in die Breite, ein Abstand über 50 cm verzögert das Schließen der Hecke deutlich." }
+    ]]
+  ],
+  "cele-mai-bune-plante-pentru-gard-viu": [
+    ["p", "Die eine „beste“ Heckenpflanze gibt es nicht. Die Wahl hängt vom verfügbaren Platz, der Lage, der gewünschten Höhe, davon, wie schnell Sie Sichtschutz brauchen, und vom Pflegeaufwand ab. Hier vergleichen wir die in Wohn-, Gewerbe- und öffentlichen Projekten meistverwendeten Heckenpflanzen."],
+    ["h2", "Vergleichstabelle"],
+    ["table", {
+      "head": ["Pflanze", "Zuwachs pro Jahr", "Schatten", "Trockenheit", "Pflanzen / m", "Schnitte pro Jahr"],
+      "rows": [
+        ["Thuja Smaragd", "20–30 cm", "Halbschatten", "Mittel", "2–3", "0–1"],
+        ["Kirschlorbeer", "30–50 cm", "Ja, auch Schatten", "Mittel", "2–3", "1–2"],
+        ["Photinia Red Robin", "30–40 cm", "Halbschatten", "Mittel", "2–3", "2–3"],
+        ["Leylandzypresse", "60–100 cm", "Halbschatten", "Mittel", "1,5–2", "2–3"],
+        ["Eibe", "15–20 cm", "Ja, auch Schatten", "Mittel", "3–4", "1–2"],
+        ["Lonicera nitida", "schnell", "Halbschatten", "Mittel", "3–4", "2–3"],
+        ["Morgenländischer Lebensbaum", "mäßig", "Halbschatten", "Gut", "2–3", "0–1"]
+      ]
+    }],
+    ["p", "Die Werte sind Richtwerte und hängen von Boden, Klima und Pflege ab, zeigen aber die Unterschiede zwischen den Arten gut."],
+    ["h2", "Thuja Smaragd – die klassische, schmale, gepflegte Hecke"],
+    ["p", "[Thuja Smaragd](/products/tuia-smaragd) ist die beliebteste Heckenpflanze in Rumänien. Sie braucht wenig Breite, bleibt auch im Winter smaragdgrün und muss selten geschnitten werden. Nachteile sind die Trockenheitsempfindlichkeit in den ersten Jahren und der langsamere Wuchs. Sie passt für Privatgärten, Wohnanlagen und Orte, an denen die Hecke schmal sein muss."],
+    ["h2", "Kirschlorbeer – dicht, schnell und schattenverträglich"],
+    ["p", "[Kirschlorbeer](/products/laurocerasus-prunus-laurocerasus) hat große, glänzende Blätter und bildet schnell einen dichten Sicht- und Lärmschutz. Er verträgt Schatten besser als fast jede andere Heckenpflanze und eignet sich daher sehr gut für Innenhöfe und zwischen Gebäuden. Er braucht jedoch mehr Breite und ein- bis zweimal jährlich einen Schnitt. Einen ausführlichen Vergleich finden Sie unter [Kirschlorbeer oder Thuja](/ghiduri/laurocerasus-sau-tuia)."],
+    ["h2", "Photinia Red Robin – eine Hecke mit Farbe"],
+    ["p", "[Photinia Red Robin](/products/photinia-red-robin) bildet im Frühjahr und nach jedem Schnitt leuchtend rote Triebe. Sie wird allein oder mit Kirschlorbeer für Hecken mit Farbakzenten an Firmensitzen, Gewerbeflächen und in Wohnanlagen verwendet. Sie bevorzugt sonnige Lagen, durchlässige Böden und ist bis etwa -15°C winterhart."],
+    ["h2", "Leylandzypresse – die schnellste hohe Hecke"],
+    ["p", "Wer schnell eine hohe Hecke braucht, kommt an der [Leylandzypresse](/products/chiparos-leyland) kaum vorbei: Sie wächst 60–100 cm pro Jahr. Sie eignet sich für Windschutz und Sichtschutz um große Grundstücke, Lagerhallen oder Industriegebiete. Sie muss regelmäßig 2–3 Mal jährlich geschnitten werden, da sie aus altem Holz nicht wieder austreibt."],
+    ["h2", "Eibe – für Formhecken und Schatten"],
+    ["p", "Die [Eibe](/products/tisa-taxus-baccata) wächst langsam, ist aber sehr langlebig, schattenverträglich und lässt sich präzise in Form schneiden. Sie wird in formalen Gärten und hochwertigen Anlagen bevorzugt. Alle Pflanzenteile sind giftig, daher ist sie nicht für die Nähe von Spielplätzen geeignet."],
+    ["h2", "Lonicera nitida – niedrige Einfassungen, Buchsbaum-Alternative"],
+    ["p", "Für niedrige Hecken und Einfassungen ist [Lonicera nitida](/products/lonicera-nitida) eine der besten Alternativen zum Buchsbaum, der unter dem Buchsbaumzünsler leidet. Sie verträgt wiederholten Schnitt sehr gut und wächst schnell."],
+    ["h2", "So wählen Sie: kurze Empfehlungen"],
+    ["ul", [
+      "Wenig Platz, gepflegtes Aussehen, minimale Pflege: Thuja Smaragd.",
+      "Schatten, Innenhöfe, Lärmschutz: Kirschlorbeer.",
+      "Hohe Hecke, sehr schnell: Leylandzypresse.",
+      "Farbe und dekorative Akzente: Photinia Red Robin.",
+      "Heiße, trockene Lagen: Morgenländischer Lebensbaum.",
+      "Niedrige Einfassungen, formale Gärten: Lonicera nitida oder Eibe."
+    ]],
+    ["p", "Alle diese Pflanzen sind im Großhandel in großen Mengen und einheitlichen Partien erhältlich. Das ganze Sortiment finden Sie in der Kategorie [Heckenpflanzen im Großhandel](/gard-viu-en-gros), oder fragen Sie über die [Kontaktseite](/contact) nach einer Empfehlung für Ihr Projekt."],
+    ["faq", [
+      { "q": "Welche Heckenpflanze ist am besten für Schatten?", "a": "Kirschlorbeer und Eibe sind am besten für Schatten geeignet; Thuja Smaragd und Leyland bevorzugen Sonne oder Halbschatten." },
+      { "q": "Welche Hecke bleibt im Winter grün?", "a": "Alle Pflanzen in der Tabelle sind immergrün: Thuja, Kirschlorbeer, Photinia, Leyland, Eibe und Lonicera nitida." }
+    ]]
+  ],
+  "gard-viu-cu-crestere-rapida": [
+    ["p", "Wer in ein neues Haus zieht, eine Wohnanlage baut oder ein Industriegelände abschirmen muss, braucht schnell Sichtschutz. Manche Heckenpflanzen wachsen drei- bis viermal schneller als andere. Hier sind die schnellsten – und die Kompromisse, die jede mit sich bringt."],
+    ["h2", "1. Leylandzypresse – 60–100 cm pro Jahr"],
+    ["p", "Die [Leylandzypresse](/products/chiparos-leyland) ist die schnellste Konifere für hohe Hecken. In wenigen Jahren kann sie eine 3–4 m hohe grüne Wand bilden. Man pflanzt 1,5–2 Pflanzen pro laufendem Meter. Der Kompromiss: Sie muss schon ab dem ersten Jahr 2–3 Mal jährlich geschnitten werden, und wenn man sie unkontrolliert wachsen lässt und dann stark zurückschneidet, treibt sie aus altem Holz nicht wieder aus."],
+    ["h2", "2. Kirschlorbeer – 30–50 cm pro Jahr"],
+    ["p", "[Kirschlorbeer](/products/laurocerasus-prunus-laurocerasus) verbindet schnellen Wuchs mit Schattenverträglichkeit und dichtem, immergrünem Laub. Er ist die richtige Wahl für einen dichten Sicht- und Lärmschutz von 1,5–3 m in Gärten, auf Parkplätzen oder in Wohnanlagen."],
+    ["h2", "3. Photinia Red Robin – 30–40 cm pro Jahr"],
+    ["p", "[Photinia Red Robin](/products/photinia-red-robin) wächst schnell und bietet einen Bonus: Die neuen Triebe sind leuchtend rot. Jeder Schnitt löst einen neuen „roten Austrieb“ aus. Sie bevorzugt sonnige Lagen und durchlässige Böden."],
+    ["h2", "4. Bambus – exotischer, sehr schneller Sichtschutz"],
+    ["p", "[Bambus](/products/bambus) schafft schnell dichten Sichtschutz, besonders in Kübeln auf Terrassen und Dächern. Achten Sie auf den Typ: Ausläuferbildende Arten breiten sich aus und brauchen eine Rhizomsperre, horstbildende Arten nicht."],
+    ["h2", "5. Flieder – freiwachsende Blütenhecke"],
+    ["p", "Wenn Sie keine Formhecke, sondern einen natürlichen, blühenden Sichtschutz möchten, ist [Flieder](/products/liliac-syringa-vulgaris) eine gute Wahl: Er wächst schnell, ist äußerst frosthart und duftet im April–Mai. Im Winter verliert er jedoch seine Blätter und bietet daher keinen ganzjährigen Sichtschutz."],
+    ["h2", "Schneller Vergleich"],
+    ["table", {
+      "head": ["Pflanze", "Zuwachs pro Jahr", "Im Winter grün", "Pflanzen / m"],
+      "rows": [
+        ["Leylandzypresse", "60–100 cm", "Ja", "1,5–2"],
+        ["Kirschlorbeer", "30–50 cm", "Ja", "2–3"],
+        ["Photinia Red Robin", "30–40 cm", "Ja", "2–3"],
+        ["Bambus", "schnell, je nach Art", "Ja", "1–2"],
+        ["Flieder", "schnell", "Nein", "0,7–1"]
+      ]
+    }],
+    ["h2", "So geht es schneller: größere Pflanzen von Anfang an"],
+    ["p", "Der sicherste Weg zu sofortigem Sichtschutz ist nicht nur die Art, sondern die Pflanzenhöhe beim Pflanzen. Eine Hecke aus 1,8–2 m hohen Pflanzen bietet vom ersten Tag an Sichtschutz – selbst mit einer mäßig wachsenden Art wie [Thuja Smaragd](/products/tuia-smaragd). Bei großen Projekten bringt die Kombination aus größeren Pflanzen und einer schnell wachsenden Art die besten Ergebnisse."],
+    ["h2", "Was Sie vermeiden sollten"],
+    ["ul", [
+      "Sehr dichtes Pflanzen, „damit es schneller zuwächst“ – die Pflanzen konkurrieren und verkahlen unten.",
+      "Fehlender Schnitt in den ersten Jahren – schnellwachsende Hecken müssen von Anfang an geformt werden, sonst werden sie unten licht.",
+      "Vernachlässigtes Gießen – schneller Wuchs bedeutet auch hohen Wasserverbrauch."
+    ]],
+    ["p", "Alle genannten Pflanzen sind im Großhandel in mehreren Höhen erhältlich. Siehe Kategorie [Heckenpflanzen im Großhandel](/gard-viu-en-gros) oder [fordern Sie ein Angebot an](/contact) mit Heckenlänge und gewünschter Höhe."],
+    ["faq", [
+      { "q": "Welche immergrüne Hecke wächst am schnellsten?", "a": "Die Leylandzypresse mit 60–100 cm pro Jahr, gefolgt von Kirschlorbeer und Photinia Red Robin." },
+      { "q": "Wie lange dauert es, bis eine Hecke dicht ist?", "a": "Das hängt von Art und Pflanzengröße ab: mit Leyland oder Kirschlorbeer meist 2–3 Jahre; mit großen Pflanzen kann der Effekt fast sofort eintreten." }
+    ]]
+  ],
+  "cand-se-planteaza-tuia-si-coniferele": [
+    ["p", "Der Pflanzzeitpunkt beeinflusst direkt das Anwachsen und wie schnell sich die Pflanzen entwickeln. Die Grundregel ist einfach: Pflanzen Sie, wenn der Boden nicht gefroren ist und keine extremen Temperaturen herrschen. Wichtige Unterschiede gibt es zwischen Ballen- und Containerpflanzen."],
+    ["h2", "Pflanzkalender (Richtwerte)"],
+    ["table", {
+      "head": ["Pflanzentyp", "Beste Zeit", "Hinweise"],
+      "rows": [
+        ["Koniferen mit Ballen (Thuja, Kiefer, Fichte)", "März–April und September–November", "Der Herbst ist ideal: Der Boden ist warm, Regen fördert das Einwurzeln."],
+        ["Koniferen im Container", "März–November", "Auch im Sommer möglich, mit viel Wasser und ohne Hitzewellen."],
+        ["Laubbäume mit Ballen", "Oktober–November und März–April", "In der Vegetationsruhe, ohne Laub."],
+        ["Sträucher und Heckenpflanzen im Container", "März–November", "Hitzewellen und gefrorenen Boden meiden."],
+        ["Stauden", "März–Mai und September–Oktober", "Frostempfindliche Arten im Frühjahr."],
+        ["Frostempfindliche Arten (Olive, Magnolia grandiflora, Lagerstroemia)", "April–Mai", "Damit sie vor dem Winter einwurzeln können."]
+      ]
+    }],
+    ["h2", "Warum der Herbst die beste Zeit für Koniferen ist"],
+    ["p", "Im Herbst ist der Boden noch sommerwarm, während die Lufttemperaturen sinken. Die Wurzeln wachsen weiter, der oberirdische Teil verbraucht wenig Wasser. Herbstregen reduziert das Gießen, und im nächsten Frühjahr startet die Pflanze bereits eingewurzelt. Deshalb ist der Herbst (September–November) die bevorzugte Pflanzzeit für [Koniferen](/conifere-en-gros) mit Ballen wie [Thuja Smaragd](/products/tuia-smaragd), [Blaufichte](/products/molid-albastru-picea-pungens-glauca) oder [Schwarzkiefer](/products/pin-negru-pinus-nigra)."],
+    ["h2", "Pflanzung im Frühjahr"],
+    ["p", "Das Frühjahr (März–April) ist die zweite sehr gute Zeit, vor allem für frostempfindlichere Arten, die eine ganze Saison zum Einwurzeln vor dem ersten Winter brauchen. Nachteil: Der Sommer folgt schnell, daher muss sofort und regelmäßig gegossen werden."],
+    ["h2", "Kann man im Sommer pflanzen?"],
+    ["p", "Containerpflanzen können auch im Sommer gepflanzt werden, da ihre Wurzeln beim Pflanzen nicht gestört werden. Voraussetzung ist reichliches Gießen – bei Hitze in den ersten Wochen täglich – und das Pflanzen morgens oder abends. Ballenpflanzen sind im Sommer nicht zu empfehlen."],
+    ["h2", "Wann man nicht pflanzt"],
+    ["ul", [
+      "Auf gefrorenem oder schneebedecktem Boden.",
+      "Bei Hitzewellen über 30°C ohne Bewässerungsmöglichkeit.",
+      "In vernässtem Boden nach starkem Regen – einige Tage warten."
+    ]],
+    ["h2", "Planung großer Projekte"],
+    ["p", "Bei Landschaftsprojekten mit großen Mengen sollten Sie früh bestellen: Die gefragtesten Arten und Größen werden für die Pflanzsaisons im Frühjahr und Herbst früh reserviert. Zu den Unterschieden zwischen Ballen- und Containerware siehe den Ratgeber [Ballenware oder Containerware](/ghiduri/plante-cu-balot-sau-in-container). Für ein Angebot für die nächste Saison [kontaktieren Sie uns](/contact)."],
+    ["faq", [
+      { "q": "Wann pflanzt man Thuja am besten?", "a": "Im Herbst, September–November, oder im Frühjahr, März–April. Thuja im Container kann von Frühjahr bis Herbst bei regelmäßigem Gießen gepflanzt werden." },
+      { "q": "Kann man Thuja im Winter pflanzen?", "a": "Nur an frostfreien Tagen in ungefrorenen Boden. Herbst und Frühjahr sind deutlich sicherer." }
+    ]]
+  ],
+  "plante-cu-balot-sau-in-container": [
+    ["p", "Zierpflanzen werden hauptsächlich in zwei Formen geliefert: mit Erdballen (die Wurzeln in einem mit Jute oder Netz umwickelten Erdballen) und im Container (Kunststofftopf). Jede Variante hat klare Vorteile, und die richtige Wahl kann Projektkosten und Ausfallrisiko senken."],
+    ["img", { "src": "/images/plantdgd-conifere-cu-balot-pregatite-pentru-livrare.jpg", "alt": "Koniferen mit Ballen im Netz, bereit zur Lieferung" }],
+    ["h2", "Ballenpflanzen"],
+    ["p", "Ballenpflanzen wachsen im Freiland direkt im Boden und werden mit einem Erdballen um die Wurzeln gerodet. Das ist die klassische Form für Bäume, große Koniferen und große Heckenpflanzen."],
+    ["ul", [
+      "Vorteile: meist günstiger bei großen Größen, gut entwickelte Pflanzen, im natürlichen Boden gewachsenes Wurzelsystem.",
+      "Nachteile: Pflanzung nur in der Vegetationsruhe (Herbst und Frühjahr), schwere Ballen, und die Pflanzen müssen möglichst bald nach der Lieferung gepflanzt werden."
+    ]],
+    ["h2", "Containerpflanzen"],
+    ["p", "Containerpflanzen wachsen im Topf, ihre Wurzeln bleiben beim Pflanzen intakt. Sie sind die bevorzugte Form für Sträucher, Stauden, kleine und mittlere Heckenpflanzen und für Pflanzungen außerhalb der klassischen Saison."],
+    ["img", { "src": "/images/chiparos-leyland.jpg", "alt": "Leylandzypresse im Container (Topf), bereit zur Pflanzung" }],
+    ["ul", [
+      "Vorteile: fast ganzjährig pflanzbar, sehr gutes Anwachsen, einfacher Transport und Lagerung.",
+      "Nachteile: höherer Preis bei gleicher Größe, und bei zu lange im Topf gehaltenen Pflanzen können die Wurzeln kreisen."
+    ]],
+    ["h2", "Schneller Vergleich"],
+    ["table", {
+      "head": ["Kriterium", "Mit Ballen", "Im Container"],
+      "rows": [
+        ["Pflanzzeit", "Herbst und Frühjahr", "Fast ganzjährig"],
+        ["Kosten bei großen Größen", "Niedriger", "Höher"],
+        ["Anwachsen", "Gut, wenn rechtzeitig gepflanzt", "Sehr gut"],
+        ["Gewicht und Transport", "Schwer, sorgfältige Handhabung nötig", "Leichter"],
+        ["Geeignet für", "Bäume, große Koniferen, hohe Hecken", "Sträucher, Stauden, kleine und mittlere Hecken"]
+      ]
+    }],
+    ["h2", "Handhabung und Pflanzung von Ballenpflanzen"],
+    ["ul", [
+      "Pflanzen immer am Ballen anheben, nie am Stamm – sonst kann sich der Ballen von den Wurzeln lösen.",
+      "Wenn nicht sofort gepflanzt wird, die Ballen eng nebeneinander im Schatten lagern und feucht halten.",
+      "Jute kann im Pflanzloch bleiben und wird oben geöffnet; Draht- oder Kunststoffnetze werden aufgeschnitten und teilweise entfernt.",
+      "Den Ballen so tief setzen, wie die Pflanze vorher stand, dann kräftig wässern.",
+      "Große Bäume mit Pfählen verankern, damit der Wind den Ballen in den ersten Jahren nicht bewegt."
+    ]],
+    ["img", { "src": "/images/plantdgd-arbori-ornamentali-cu-balot-transport.jpg", "alt": "Zierbäume mit Ballen im LKW für den Transport" }],
+    ["h2", "Was passt zu Ihrem Projekt"],
+    ["p", "Für [Straßenbäume](/ghiduri/arbori-pentru-aliniamente-stradale), Parks und hohe [Hecken](/gard-viu-en-gros), die im Herbst oder Frühjahr gepflanzt werden, bieten Ballenpflanzen das beste Preis-Leistungs-Verhältnis. Für Projekte mit Terminen im Sommer, für [Stauden](/plante-perene-en-gros) und [Sträucher](/arbusti-ornamentali-en-gros) ist der Container sicherer. Viele Projekte kombinieren beide Varianten."],
+    ["p", "PlantDGD liefert je nach Art und Größe sowohl Ballen- als auch Containerpflanzen. Senden Sie uns Pflanzenliste, Größen und Pflanzzeitraum über die [Kontaktseite](/contact), und wir empfehlen die passende Variante."],
+    ["faq", [
+      { "q": "Wie lange können Ballenpflanzen ungepflanzt bleiben?", "a": "So kurz wie möglich – idealerweise werden sie innerhalb weniger Tage nach der Lieferung gepflanzt. Bis dahin im Schatten lagern und die Ballen regelmäßig wässern." },
+      { "q": "Entfernt man die Jute beim Pflanzen?", "a": "Naturjute kann im Pflanzloch bleiben und wird oben geöffnet. Draht- oder Kunststoffnetze werden aufgeschnitten und teilweise entfernt." }
+    ]]
+  ],
+  "plante-rezistente-la-seceta-spatii-verzi": [
+    ["p", "Immer heißere, trockenere Sommer und begrenzte Pflegebudgets machen Trockenheitsverträglichkeit zu einem zentralen Kriterium für öffentliche Grünflächen: Kreisverkehre, Plätze, Parkplätze, Straßenbegleitgrün und Böschungen. Die richtige Artenwahl senkt Wasserverbrauch, Pflegeeinsätze und Pflanzenausfälle."],
+    ["h2", "Grundsätze für trockenheitsresistente Grünflächen"],
+    ["ul", [
+      "Arten wählen, die an volle Sonne und magere, durchlässige Böden angepasst sind.",
+      "Pflanzen nach Wasserbedarf gruppieren, damit die Bewässerung effizient ist.",
+      "Mulch (Rinde oder Kies) verwenden, um Verdunstung und Unkraut zu reduzieren.",
+      "Im Herbst pflanzen, damit sich die Wurzeln vor dem ersten Sommer entwickeln.",
+      "In den ersten 1–2 Jahren für Bewässerung sorgen – auch trockenheitsverträgliche Pflanzen brauchen bis zum Anwachsen Wasser."
+    ]],
+    ["h2", "Koniferen"],
+    ["p", "Die [Schwarzkiefer](/products/pin-negru-pinus-nigra) gehört zu den trockenheits-, wind- und kalkverträglichsten Bäumen und eignet sich für Parks und Windschutzstreifen. Der [Kriechwacholder](/products/ienupar-tarator-juniperus-horizontalis) bedeckt Böschungen und Kreisverkehre mit einem grünen Teppich, der fast keine Pflege braucht. Der [Morgenländische Lebensbaum](/products/tuia-orientala-platycladus-orientalis) ist die Wahl für Hecken in heißen Regionen. Siehe alle [Koniferen im Großhandel](/conifere-en-gros)."],
+    ["h2", "Ziergräser"],
+    ["p", "Ziergräser sind die Stars moderner pflegeleichter Anlagen. [Lampenputzergras (Pennisetum)](/products/pennisetum-alopecuroides) bildet von Sommer bis Winter dekorative Horste und braucht nur einen Schnitt im Jahr. [Festuca glauca](/products/festuca-glauca) hat blaue Blätter und bevorzugt magere, trockene Böden."],
+    ["h2", "Stauden"],
+    ["p", "Trockenheitsverträgliche Stauden bringen Blüten und Farbe bei minimalem Wasserverbrauch:"],
+    ["ul", [
+      "[Taglilie (Hemerocallis)](/products/crin-de-zi-hemerocallis) – äußerst robust, geeignet für Böschungen und Straßenränder.",
+      "[Sedum spectabile](/products/sedum-spectabile) – rosa Blüten im Spätsommer, eine Bienenweide.",
+      "[Sedum 'Angelina'](/products/sedum-angelina) – goldener Teppich für sonnige Flächen und Dachbegrünungen.",
+      "[Woll-Ziest](/products/stachys-byzantina) – silberne Blätter, Bodendecker in voller Sonne.",
+      "[Gaura](/products/gaura-lindheimeri) – Blüte von Juni bis Herbst, tiefe Wurzeln.",
+      "[Bart-Iris (Iris germanica)](/products/stanjenel-iris-germanica) – trockenheitsverträglich, Blüte im späten Frühjahr."
+    ]],
+    ["h2", "Beispielpflanzung für einen Kreisverkehr"],
+    ["p", "Ein einfaches, wirkungsvolles Schema: ein Teppich aus Kriechwacholder oder Sedum als Basis, Gruppen von Pennisetum für Volumen und Bewegung, Akzente aus Gaura und Sedum spectabile für Sommer- und Herbstblüte, alles auf einer Mulchschicht. Das Ergebnis ist ganzjährig dekorativ und braucht nur eine Frühjahrsreinigung und einen Rückschnitt der Gräser."],
+    ["table", {
+      "head": ["Pflanze", "Funktion", "Pflanzen / m²"],
+      "rows": [
+        ["Kriechwacholder", "Grundbedeckung", "1–3"],
+        ["Sedum 'Angelina'", "Sonniger Teppich", "9–12"],
+        ["Pennisetum alopecuroides", "Volumen, Struktur", "3–5"],
+        ["Gaura", "Sommerblüte", "5–7"],
+        ["Sedum spectabile", "Herbstblüte", "5–7"]
+      ]
+    }],
+    ["p", "PlantDGD liefert Pflanzen für öffentliche Grünflächen und Projekte von Gemeinden, auch für Leistungsverzeichnisse mit vielen Arten. Wir nehmen auch Teilangebote an. Senden Sie uns Ihre Pflanzenliste über die [Kontaktseite](/contact)."],
+    ["faq", [
+      { "q": "Welche Pflanzen müssen nicht gegossen werden?", "a": "Keine Pflanze kommt im ersten Jahr ganz ohne Gießen aus. Nach dem Anwachsen überstehen Kriechwacholder, Schwarzkiefer, Sedum, Festuca glauca und Gaura lange Zeit ohne Bewässerung." },
+      { "q": "Welche Pflanzen eignen sich für Kreisverkehre?", "a": "Kriechwacholder, Sedum, Ziergräser wie Pennisetum und robuste Stauden wie Taglilie und Gaura." }
+    ]]
+  ],
+  "arbori-pentru-aliniamente-stradale": [
+    ["p", "Straßenbäume leben unter harten Bedingungen: verdichteter Boden, begrenzter Wurzelraum, vom Asphalt reflektierte Hitze, Luftverschmutzung und Streusalz. Die richtige Art und Größe entscheiden darüber, ob eine Pflanzung Jahrzehnte hält, ohne Probleme mit Leitungen, Gehwegen oder Fassaden zu verursachen."],
+    ["h2", "Was vor der Artenwahl zu prüfen ist"],
+    ["ul", [
+      "Straßenbreite und Abstand zu Gebäuden – sie bestimmen die maximale Kronengröße.",
+      "Ober- und unterirdische Leitungen – unter Stromleitungen kleine Arten oder Kugelformen wählen.",
+      "Das verfügbare Bodenvolumen für die Wurzeln.",
+      "Sonnenexposition und reflektierte Hitze.",
+      "Pflegeaufwand – große Blätter, Früchte oder Blüten, die auf den Gehweg fallen."
+    ]],
+    ["h2", "Empfohlene Arten"],
+    ["p", "Der [Trompetenbaum (Catalpa bignonioides)](/products/catalpa-bignonioides) ist ein klassischer Schattenbaum für Boulevards und Parks: breite Krone, große Blätter, weiße Blüten im Juni–Juli und gute Stadtklimatoleranz. Für schmale Straßen werden Kugelformen verwendet."],
+    ["p", "Die [Japanische Blütenkirsche (Prunus serrulata)](/products/cires-japonez-prunus-serrulata) ist ideal für Wohnstraßen, Plätze und Schulhöfe: mittlere Größe von 6–8 m und eine spektakuläre Blüte im April."],
+    ["p", "Die [Schwarzkiefer](/products/pin-negru-pinus-nigra) passt dank ihrer Trockenheits- und Windfestigkeit in Parks, an Straßenränder und in Windschutzstreifen. Für vertikale Akzente an Alleen und Eingängen in Regionen mit milden Wintern bildet die [Mittelmeer-Zypresse](/products/chiparos-italian-cupressus-sempervirens) eindrucksvolle Reihen."],
+    ["h2", "Richtwerte für Pflanzabstände"],
+    ["table", {
+      "head": ["Art", "Endhöhe", "Abstand in der Allee"],
+      "rows": [
+        ["Trompetenbaum", "10–15 m", "8–10 m"],
+        ["Japanische Blütenkirsche", "6–8 m", "6–8 m"],
+        ["Schwarzkiefer", "15–20 m+", "6–10 m"],
+        ["Mittelmeer-Zypresse", "säulenförmig", "1–1,5 m (durchgehende Reihe)"]
+      ]
+    }],
+    ["h2", "Baumgröße bei der Pflanzung"],
+    ["p", "Im öffentlichen Raum pflanzt man meist Bäume mit einem Stammumfang von 12–14 cm oder mehr und einem astfreien Stamm bis 2–2,5 m, damit Fußgänger und Verkehr nicht behindert werden. Große Bäume werden mit Ballen geliefert und im Herbst oder Frühjahr gepflanzt. Mehr zu den Lieferformen unter [Ballenware oder Containerware](/ghiduri/plante-cu-balot-sau-in-container)."],
+    ["h2", "Pflanzung und Pflege in den ersten Jahren"],
+    ["ul", [
+      "Möglichst große Pflanzgruben mit gutem Boden und Schutz vor Verdichtung.",
+      "Verankerung mit 2–3 Pfählen und Stammschutz.",
+      "Regelmäßiges Gießen in den ersten 2–3 Jahren, auch mit Bewässerungssäcken.",
+      "Erziehungsschnitt zum Aufasten der Krone und zur Korrektur sich kreuzender Äste."
+    ]],
+    ["p", "PlantDGD liefert Zierbäume im Großhandel an Gemeinden, Bauunternehmen und Planer. Siehe die Kategorie [Zierbäume im Großhandel](/arbori-ornamentali-en-gros) oder senden Sie uns Ihr Leistungsverzeichnis über die [Kontaktseite](/contact) – wir nehmen auch Teilangebote an."],
+    ["faq", [
+      { "q": "Welche Bäume eignen sich unter Stromleitungen?", "a": "Kleine Arten oder Kugelformen, die die Leitungen nicht erreichen; Japanische Blütenkirsche und kugelförmiger Trompetenbaum werden oft verwendet." },
+      { "q": "In welchem Abstand pflanzt man Alleebäume?", "a": "Je nach Kronengröße im Endstadium: meist 6–8 m für mittelgroße und 8–10 m für große Bäume wie den Trompetenbaum." }
+    ]]
+  ],
+  "plante-pentru-acoperisuri-verzi": [
+    ["p", "Extensive Dachbegrünungen haben eine dünne Substratschicht (meist 6–15 cm), werden nicht oder nur sehr selten bewässert und sind Sonne, Wind, Hitze und Frost ausgesetzt. Nur wenige Pflanzengruppen überstehen diese Bedingungen, und Sedum-Arten sind die Grundlage fast jeder extensiven Dachbegrünung."],
+    ["h2", "Warum Sedum?"],
+    ["ul", [
+      "Speichert Wasser in den fleischigen Blättern und übersteht Wochen ohne Regen.",
+      "Hat flache Wurzeln, passend für dünne Substrate.",
+      "Verträgt starke Sonne, Wind und Frost.",
+      "Bildet einen dichten Teppich, der das Substrat vor Erosion schützt.",
+      "Muss nicht gemäht werden und braucht sehr wenig Pflege."
+    ]],
+    ["h2", "Empfohlene Arten"],
+    ["p", "[Sedum 'Angelina'](/products/sedum-angelina) hat goldene Blätter, die sich im Winter orange färben, und ist eine der meistverwendeten Arten für Dachbegrünungen. [Sedum hybridum](/products/sedum-hybridum) bildet einen dichten grünen Teppich mit gelben Blüten und ist extrem frosthart. [Sedum rupestre 'Blue'](/products/sedum-rupestre-blue) bringt blaugraue Töne und [Sedum 'Watson'](/products/sedum-watson) rosa-grüne Rosetten. In Bändern oder Flächen verschiedener Farben kombiniert, entstehen von oben sichtbare Muster."],
+    ["p", "Auf etwas dickeren Substraten kann man [Festuca glauca](/products/festuca-glauca) für Struktur und [Iberis sempervirens](/products/iberis-sempervirens) für weiße Frühjahrsblüten ergänzen."],
+    ["h2", "Pflanzdichte"],
+    ["table", {
+      "head": ["Pflanze", "Pflanzen / m²", "Hinweise"],
+      "rows": [
+        ["Sedum (verschiedene Arten)", "9–16", "Dichter für schnelle Deckung"],
+        ["Festuca glauca", "7–9", "Auf mindestens 10–12 cm Substrat"],
+        ["Iberis sempervirens", "7–9", "In Bereichen mit dickerem Substrat"]
+      ]
+    }],
+    ["h2", "Pflanzung und Pflege"],
+    ["ul", [
+      "Gepflanzt wird im Frühjahr oder Frühherbst auf speziellem Dachbegrünungssubstrat.",
+      "In den ersten 4–6 Wochen regelmäßig gießen, bis die Pflanzen eingewurzelt sind.",
+      "Nach dem Anwachsen ist Gießen nur bei sehr langer Trockenheit nötig.",
+      "Ein- bis zweimal im Jahr Unkraut entfernen und Lücken nachpflanzen.",
+      "Selten und mäßig düngen – zu viel Dünger schwächt die Pflanzen."
+    ]],
+    ["h2", "Nicht nur auf Dächern"],
+    ["p", "Dieselben Pflanzen eignen sich sehr gut für Kübel auf Terrassen, Stützmauern, Steingärten, Kreisverkehre und andere sonnige Flächen ohne Bewässerung. Siehe auch den Ratgeber [Trockenheitsverträgliche Pflanzen für öffentliche Grünflächen](/ghiduri/plante-rezistente-la-seceta-spatii-verzi)."],
+    ["p", "PlantDGD liefert [Stauden im Großhandel](/plante-perene-en-gros), auch Sedum für große Flächen. Für ein Angebot senden Sie uns die Fläche in Quadratmetern und die gewünschten Arten über die [Kontaktseite](/contact)."],
+    ["faq", [
+      { "q": "Wie viele Sedum-Pflanzen braucht man pro Quadratmeter Dachbegrünung?", "a": "Meist 9–16 Pflanzen pro m², je nach Pflanzengröße und gewünschter Deckungsgeschwindigkeit." },
+      { "q": "Muss eine Sedum-Dachbegrünung gegossen werden?", "a": "Nur in den ersten Wochen nach der Pflanzung und bei sehr langer Trockenheit; danach übersteht Sedum ohne regelmäßiges Gießen." }
+    ]]
+  ],
+  "laurocerasus-sau-tuia": [
+    ["p", "Kirschlorbeer und Thuja Smaragd sind die gefragtesten Heckenpflanzen, passen aber zu unterschiedlichen Situationen. Beide sind immergrün und bilden dichten Sichtschutz; die Unterschiede betreffen Platz, Schatten, Wuchsgeschwindigkeit und Optik."],
+    ["h2", "Direkter Vergleich"],
+    ["table", {
+      "head": ["Kriterium", "Kirschlorbeer", "Thuja Smaragd"],
+      "rows": [
+        ["Typ", "Laubgehölz mit glänzenden Blättern", "Konifere mit Schuppenblättern"],
+        ["Zuwachs pro Jahr", "30–50 cm", "20–30 cm"],
+        ["Heckenbreite", "Breiter (meist 80–150 cm)", "Schmal (60–100 cm)"],
+        ["Schatten", "Verträgt auch Schatten", "Bevorzugt Sonne oder Halbschatten"],
+        ["Schnitte pro Jahr", "1–2", "0–1"],
+        ["Lärmschutz", "Sehr gut (große Blätter)", "Gut"],
+        ["Pflanzen pro Meter", "2–3", "2–3"],
+        ["Giftigkeit", "Früchte und Blätter sind giftig", "Gilt üblicherweise nicht als gefährlich"]
+      ]
+    }],
+    ["h2", "Wann Kirschlorbeer"],
+    ["ul", [
+      "Sie haben schattige Bereiche: Innenhöfe, Flächen zwischen Wohnblöcken, unter großen Bäumen.",
+      "Sie brauchen schneller eine dichte Hecke.",
+      "Sie möchten auch Straßenlärm reduzieren.",
+      "Sie haben genug Platz in der Breite."
+    ]],
+    ["p", "[Kirschlorbeer](/products/laurocerasus-prunus-laurocerasus) passt sehr gut zu Wohnanlagen, Parkplätzen und Gewerbeflächen, wo eine breite, glänzende Hecke das ganze Jahr gepflegt aussieht."],
+    ["h2", "Wann Thuja Smaragd"],
+    ["ul", [
+      "Der Platz in der Breite ist begrenzt, etwa entlang eines Zauns oder Wegs.",
+      "Sie möchten ein gepflegtes Aussehen mit minimaler Pflege, ohne häufigen Schnitt.",
+      "Der Standort ist sonnig.",
+      "Sie bevorzugen die Optik von Koniferen."
+    ]],
+    ["p", "[Thuja Smaragd](/products/tuia-smaragd) bleibt die beliebteste Wahl für Privatgärten und kleine Grundstücke. Achten Sie jedoch in den ersten zwei Jahren auf regelmäßiges Gießen, besonders im Sommer."],
+    ["h2", "Eine dritte Option: kombinieren"],
+    ["p", "In größeren Projekten lassen sich beide nach Bereichen kombinieren: Kirschlorbeer im Schatten und wo Platz ist, Thuja auf schmalen, sonnigen Abschnitten. Für Farbakzente passt [Photinia Red Robin](/products/photinia-red-robin) sehr gut zu Kirschlorbeer."],
+    ["p", "Beide Arten sind im Großhandel in mehreren Höhen in der Kategorie [Heckenpflanzen im Großhandel](/gard-viu-en-gros) erhältlich. Für ein Angebot senden Sie uns Heckenlänge und gewünschte Höhe über die [Kontaktseite](/contact)."],
+    ["faq", [
+      { "q": "Was wächst schneller, Kirschlorbeer oder Thuja?", "a": "Kirschlorbeer wächst schneller, etwa 30–50 cm pro Jahr, gegenüber 20–30 cm pro Jahr bei Thuja Smaragd." },
+      { "q": "Was ist besser im Schatten?", "a": "Kirschlorbeer verträgt Schatten deutlich besser; Thuja Smaragd bevorzugt sonnige oder halbschattige Standorte." }
+    ]]
+  ]
+}

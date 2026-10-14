@@ -79,12 +79,11 @@ function App() {
                   );
                 })
               )}
-              {/* Vodiči postoje samo na rumunskom; /en/ghiduri i /de/ghiduri vode na početnu tog jezika */}
-              <Route path={GUIDES_PATH} element={<LanguageWrapper lang="ro"><GuidesIndex /></LanguageWrapper>} />
-              <Route path={`${GUIDES_PATH}/:slug`} element={<LanguageWrapper lang="ro"><GuideArticle /></LanguageWrapper>} />
-              {SUPPORTED_LANGS.filter(l => l !== 'ro').map(lang => (
-                <Route key={`guides-${lang}`} path={`${getLangPrefix(lang)}${GUIDES_PATH}/*`} element={<Navigate to={getLangPrefix(lang)} replace />} />
-              ))}
+              {/* Vodiči na sva tri jezika: /ghiduri, /en/ghiduri, /de/ghiduri */}
+              {SUPPORTED_LANGS.flatMap(lang => [
+                <Route key={`guides-${lang}`} path={`${getLangPrefix(lang)}${GUIDES_PATH}`} element={<LanguageWrapper lang={lang}><GuidesIndex /></LanguageWrapper>} />,
+                <Route key={`guide-${lang}`} path={`${getLangPrefix(lang)}${GUIDES_PATH}/:slug`} element={<LanguageWrapper lang={lang}><GuideArticle /></LanguageWrapper>} />
+              ])}
               <Route path="*" element={<Navigate to="/" replace />} />
             </Routes>
           </main>

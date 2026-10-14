@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import LanguageSwitcher from './LanguageSwitcher';
 import { getLangPrefix } from '../utils/i18nRoutes';
+import { GUIDES_PATH, guideLabelsFor } from '../data/guides';
 import './Navbar.css';
 
 const Navbar = () => {
@@ -38,11 +39,9 @@ const Navbar = () => {
           <Link to={`${prefix}/gallery`} className="nav-link" onClick={() => setIsOpen(false)}>
             {t('nav.gallery')}
           </Link>
-          {i18n.language === 'ro' && (
-            <Link to="/ghiduri" className="nav-link" onClick={() => setIsOpen(false)}>
-              Ghiduri
-            </Link>
-          )}
+          <Link to={`${prefix}${GUIDES_PATH}`} className="nav-link" onClick={() => setIsOpen(false)}>
+            {guideLabelsFor(i18n.language).nav}
+          </Link>
           <LanguageSwitcher />
         </div>
         

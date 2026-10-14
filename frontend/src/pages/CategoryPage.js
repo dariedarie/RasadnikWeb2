@@ -6,7 +6,7 @@ import { products } from '../data/productsData';
 import { categoryPages, pickLang, labels, productInCategory, productPath, breadcrumbJsonLd, faqJsonLd, itemListJsonLd } from '../data/seoPages';
 import { getLangPrefix, getSeoLinks, SITE_URL } from '../utils/i18nRoutes';
 import './Products.css';
-import { guidesForCategory, guidePath } from '../data/guides';
+import { guidesForCategory, guidePath, guideMeta, guideLabelsFor } from '../data/guides';
 import { thumbSrc, mediumSrc, fallbackTo } from '../utils/images';
 
 const boxStyle = {
@@ -106,13 +106,13 @@ const CategoryPage = ({ page }) => {
         ))}
       </section>
 
-      {/* Vodiči za ovu kategoriju (samo na rumunskom) */}
-      {lang === 'ro' && guidesForCategory(page.categoryId).length > 0 && (
+      {/* Vodiči za ovu kategoriju */}
+      {guidesForCategory(page.categoryId).length > 0 && (
         <section style={boxStyle}>
-          <h2 style={{color: '#2e7d32', fontWeight: 700, marginBottom: 12, fontSize: '1.4rem'}}>Ghiduri utile</h2>
+          <h2 style={{color: '#2e7d32', fontWeight: 700, marginBottom: 12, fontSize: '1.4rem'}}>{guideLabelsFor(lang).useful}</h2>
           <ul style={{paddingLeft: 20, lineHeight: 1.9, marginBottom: 0}}>
             {guidesForCategory(page.categoryId).map(g => (
-              <li key={g.slug}><Link to={guidePath(g.slug)} style={{color: '#2e7d32', fontWeight: 600}}>{g.h1}</Link></li>
+              <li key={g.slug}><Link to={`${prefix}${guidePath(g.slug)}`} style={{color: '#2e7d32', fontWeight: 600}}>{guideMeta(g, lang).h1}</Link></li>
             ))}
           </ul>
         </section>

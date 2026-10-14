@@ -5,7 +5,7 @@ import { useTranslation } from 'react-i18next';
 import { products, getProductById, categories } from '../data/productsData';
 import { getCategoryPageByCategoryId, pickLang, labels, productInCategory, productMeta, breadcrumbJsonLd, faqJsonLd, productPath, productIdFromParam } from '../data/seoPages';
 import { getLangPrefix, buildHreflangUrls, getSeoLinks } from '../utils/i18nRoutes';
-import { guidesForProduct, guidePath } from '../data/guides';
+import { guidesForProduct, guidePath, guideMeta, guideLabelsFor } from '../data/guides';
 import ImageLightbox from '../components/ImageLightbox';
 import { thumbSrc, mediumSrc, fallbackTo } from '../utils/images';
 import './ProductDetails.css';
@@ -309,13 +309,13 @@ const ProductDetails = () => {
         </section>
       )}
 
-      {/* Vodiči za ovu biljku (samo na rumunskom) */}
-      {lang === 'ro' && guidesForProduct(product.id).length > 0 && (
+      {/* Vodiči za ovu biljku */}
+      {guidesForProduct(product.id).length > 0 && (
         <section style={{maxWidth: 1200, margin: '32px auto 0', padding: '0 16px'}}>
-          <h2 style={{color: '#2e7d32', fontWeight: 700, marginBottom: 12, fontSize: '1.3rem'}}>Ghiduri utile</h2>
+          <h2 style={{color: '#2e7d32', fontWeight: 700, marginBottom: 12, fontSize: '1.3rem'}}>{guideLabelsFor(lang).useful}</h2>
           <ul style={{paddingLeft: 20, lineHeight: 1.9, marginBottom: 0}}>
             {guidesForProduct(product.id).slice(0, 4).map(g => (
-              <li key={g.slug}><Link to={guidePath(g.slug)} style={{color: '#2e7d32', fontWeight: 600}}>{g.h1}</Link></li>
+              <li key={g.slug}><Link to={`${prefix}${guidePath(g.slug)}`} style={{color: '#2e7d32', fontWeight: 600}}>{guideMeta(g, lang).h1}</Link></li>
             ))}
           </ul>
         </section>

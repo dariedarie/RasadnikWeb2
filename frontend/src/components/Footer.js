@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { getLangPrefix } from '../utils/i18nRoutes';
 import { categoryPages, pickLang, labels } from '../data/seoPages';
+import { GUIDES_PATH, guideLabelsFor } from '../data/guides';
 import './Footer.css';
 
 const Footer = () => {
@@ -28,7 +29,7 @@ const Footer = () => {
               <li><Link to={`${prefix}/about`} onClick={() => window.scrollTo(0,0)}>{t('nav.about')}</Link></li>
               <li><Link to={`${prefix}/contact`} onClick={() => window.scrollTo(0,0)}>{t('nav.contact')}</Link></li>
               <li><Link to={`${prefix}/gallery`} onClick={() => window.scrollTo(0,0)}>{t('nav.gallery')}</Link></li>
-              <li><Link to="/ghiduri" onClick={() => window.scrollTo(0,0)}>{i18n.language === 'ro' ? 'Ghiduri' : 'Ghiduri (RO)'}</Link></li>
+              <li><Link to={`${prefix}${GUIDES_PATH}`} onClick={() => window.scrollTo(0,0)}>{guideLabelsFor(i18n.language).nav}</Link></li>
             </ul>
           </div>
 

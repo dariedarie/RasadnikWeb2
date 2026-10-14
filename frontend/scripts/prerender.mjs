@@ -21,7 +21,7 @@ for (const name of ['seoPages', 'productsData', 'guides']) {
 const load = (name) => import(pathToFileURL(path.join(tmpDir, `${name}.mjs`)).href);
 const seo = await load('seoPages');
 const { products, categories } = await load('productsData');
-const { guides, guidesIndex, guidePath, guidesForProduct, guidesForCategory, parseInlineLinks, GUIDES_PATH } = await load('guides');
+const { guides, guidesIndexFor, guideMeta, guideLabelsFor, guidePath, guidesForProduct, guidesForCategory, parseInlineLinks, GUIDES_PATH } = await load('guides');
 fs.rmSync(tmpDir, { recursive: true, force: true });
 
 const { SITE_URL, SUPPORTED_LANGS, buildLocalizedPath, categoryPages, homeContent, labels, productInCategory,
@@ -51,10 +51,15 @@ const productContent = Object.fromEntries(SUPPORTED_LANGS.map(lang => [
   lang, JSON.parse(fs.readFileSync(path.join(dataDir, 'productContent', `${lang}.json`), 'utf8'))
 ]));
 
-// Vodiči (samo ro): tekst članaka, mora postojati za svaki vodič iz guides.js
-const guidesContent = JSON.parse(fs.readFileSync(path.join(dataDir, 'guidesContent.json'), 'utf8'));
+// Vodiči: tekst članaka po jeziku, mora postojati za svaki vodič iz guides.js na svakom jeziku
+const guidesContent = Object.fromEntries(SUPPORTED_LANGS.map(lang => [
+  lang, JSON.parse(fs.readFileSync(path.join(dataDir, `guidesContent.${lang}.json`), 'utf8'))
+]));
 for (const g of guides) {
-  if (!guidesContent[g.slug]) throw new Error(`prerender: vodič ${g.slug} nema tekst u src/data/guidesContent.json`);
+  for (const lang of SUPPORTED_LANGS) {
+    if (!guidesContent[lang][g.slug]) throw new Error(`prerender: vodič ${g.slug} nema tekst u src/data/guidesContent.${lang}.json`);
+    if (!g.meta[lang]) throw new Error(`prerender: vodič ${g.slug} nema meta podatke za jezik ${lang} u guides.js`);
+  }
 }
 
 const esc = (s) => String(s)
@@ -99,7 +104,7 @@ for (const page of categoryPages) {
           faqJsonLd(c.faq)
         ],
         body: `<h1>${esc(c.h1)}</h1>${c.intro.map(p => `<p>${esc(p)}</p>`).join('')}${productLinks(list, L, P)}
-<h2>${esc(labels[L].faqTitle)}</h2>${c.faq.map(f => `<h3>${esc(f.q)}</h3><p>${esc(f.a)}</p>`).join('')}${L === 'ro' ? guideLinks(guidesForCategory(page.categoryId)) : ''}`
+<h2>${esc(labels[L].faqTitle)}</h2>${c.faq.map(f => `<h3>${esc(f.q)}</h3><p>${esc(f.a)}</p>`).join('')}${guideLinks(guidesForCategory(page.categoryId), L, P)}`
       };
     }
   });
@@ -147,7 +152,7 @@ for (const p of products) {
 <p>${esc(loc.products.priceOnRequest || '')} – <a href="${P('/contact')}">${esc(loc.productDetails.contactUs)}</a></p>
 ${specs ? `<h2>${esc(loc.productDetails.specifications)}</h2><ul>${specs}</ul>` : ''}
 ${extraHtml}
-${catPage ? `<p><a href="${P(`/${catPage.slug}`)}">${esc(catPage.content[L].name)}</a></p>` : ''}${productLinks(related, L, P)}${L === 'ro' ? guideLinks(guidesForProduct(p.id)) : ''}`
+${catPage ? `<p><a href="${P(`/${catPage.slug}`)}">${esc(catPage.content[L].name)}</a></p>` : ''}${productLinks(related, L, P)}${guideLinks(guidesForProduct(p.id), L, P)}`
       };
     }
   });
@@ -175,52 +180,61 @@ pages.push({
   })
 });
 
-// ---------- Vodiči (/ghiduri) - samo na rumunskom ----------
+// ---------- Vodiči (/ghiduri, /en/ghiduri, /de/ghiduri) ----------
 pages.push({
-  path: GUIDES_PATH, langs: ['ro'],
-  build: () => ({
-    title: guidesIndex.title, description: guidesIndex.description,
-    jsonLd: [
-      breadcrumbJsonLd([{ name: 'Acasă', path: '/' }, { name: 'Ghiduri', path: GUIDES_PATH }]),
-      itemListJsonLd(guides.map(g => ({ name: g.h1, path: guidePath(g.slug) })))
-    ],
-    body: `<h1>${esc(guidesIndex.h1)}</h1><p>${esc(guidesIndex.intro)}</p><ul>${guides.map(g => `<li><a href="${guidePath(g.slug)}">${esc(g.h1)}</a> – ${esc(g.excerpt)}</li>`).join('')}</ul>`
-  })
-});
-for (const g of guides) {
-  const blocks = guidesContent[g.slug];
-  const faq = blocks.find(b => b[0] === 'faq');
-  const guideProducts = g.products.map(id => products.find(p => p.id === id)).filter(Boolean);
-  pages.push({
-    path: guidePath(g.slug), langs: ['ro'], image: g.image, images: [g.image],
-    build: (L, loc, P) => ({
-      title: g.title, description: g.description,
+  path: GUIDES_PATH,
+  build: (L, loc, P) => {
+    const index = guidesIndexFor(L);
+    const labels = guideLabelsFor(L);
+    const list = guides.map(g => guideMeta(g, L));
+    return {
+      title: index.title, description: index.description,
       jsonLd: [
-        articleJsonLd(g, SITE_URL + guidePath(g.slug)),
-        breadcrumbJsonLd([{ name: 'Acasă', path: '/' }, { name: 'Ghiduri', path: GUIDES_PATH }, { name: g.h1, path: guidePath(g.slug) }]),
-        ...(faq ? [faqJsonLd(faq[1])] : [])
+        breadcrumbJsonLd([{ name: labels.home, path: P('/') }, { name: labels.guides, path: P(GUIDES_PATH) }]),
+        itemListJsonLd(list.map(g => ({ name: g.h1, path: P(guidePath(g.slug)) })))
       ],
-      body: `<h1>${esc(g.h1)}</h1><img src="${encodeURI(g.image)}" alt="${esc(g.imageAlt)}">${blocks.map(blockHtml).join('')}<h2>Plante din acest ghid</h2>${productLinks(guideProducts, L, P)}`
-    })
+      body: `<h1>${esc(index.h1)}</h1><p>${esc(index.intro)}</p><ul>${list.map(g => `<li><a href="${P(guidePath(g.slug))}">${esc(g.h1)}</a> – ${esc(g.excerpt)}</li>`).join('')}</ul>`
+    };
+  }
+});
+for (const base of guides) {
+  const guideProducts = base.products.map(id => products.find(p => p.id === id)).filter(Boolean);
+  pages.push({
+    path: guidePath(base.slug), image: base.image, images: [base.image],
+    build: (L, loc, P) => {
+      const g = guideMeta(base, L);
+      const labels = guideLabelsFor(L);
+      const blocks = guidesContent[L][g.slug];
+      const faq = blocks.find(b => b[0] === 'faq');
+      return {
+        title: g.title, description: g.description,
+        jsonLd: [
+          articleJsonLd(g, SITE_URL + P(guidePath(g.slug)), L),
+          breadcrumbJsonLd([{ name: labels.home, path: P('/') }, { name: labels.guides, path: P(GUIDES_PATH) }, { name: g.h1, path: P(guidePath(g.slug)) }]),
+          ...(faq ? [faqJsonLd(faq[1])] : [])
+        ],
+        body: `<h1>${esc(g.h1)}</h1><img src="${encodeURI(g.image)}" alt="${esc(g.imageAlt)}">${blocks.map(b => blockHtml(b, labels, P)).join('')}<h2>${esc(labels.productsTitle)}</h2>${productLinks(guideProducts, L, P)}`
+      };
+    }
   });
 }
 
-function inline(text) {
-  return parseInlineLinks(text).map(part => (part.href ? `<a href="${esc(part.href)}">${esc(part.text)}</a>` : esc(part.text))).join('');
+function inline(text, P) {
+  return parseInlineLinks(text).map(part => (part.href ? `<a href="${esc(P(part.href))}">${esc(part.text)}</a>` : esc(part.text))).join('');
 }
-function blockHtml([type, data]) {
+function blockHtml([type, data], labels, P) {
   switch (type) {
     case 'h2': return `<h2>${esc(data)}</h2>`;
-    case 'p': return `<p>${inline(data)}</p>`;
-    case 'ul': return `<ul>${data.map(i => `<li>${inline(i)}</li>`).join('')}</ul>`;
+    case 'p': return `<p>${inline(data, P)}</p>`;
+    case 'ul': return `<ul>${data.map(i => `<li>${inline(i, P)}</li>`).join('')}</ul>`;
     case 'table': return `<table><thead><tr>${data.head.map(h => `<th>${esc(h)}</th>`).join('')}</tr></thead><tbody>${data.rows.map(r => `<tr>${r.map(c => `<td>${esc(c)}</td>`).join('')}</tr>`).join('')}</tbody></table>`;
     case 'img': return `<img src="${encodeURI(data.src)}" alt="${esc(data.alt)}">`;
-    case 'faq': return `<h2>Întrebări frecvente</h2>${data.map(f => `<h3>${esc(f.q)}</h3><p>${esc(f.a)}</p>`).join('')}`;
+    case 'faq': return `<h2>${esc(labels.faq)}</h2>${data.map(f => `<h3>${esc(f.q)}</h3><p>${esc(f.a)}</p>`).join('')}`;
     default: return '';
   }
 }
-function guideLinks(list) {
-  return list.length ? `<h2>Ghiduri utile</h2><ul>${list.map(g => `<li><a href="${guidePath(g.slug)}">${esc(g.h1)}</a></li>`).join('')}</ul>` : '';
+function guideLinks(list, L, P) {
+  return list.length ? `<h2>${esc(guideLabelsFor(L).useful)}</h2><ul>${list.map(g => `<li><a href="${P(guidePath(g.slug))}">${esc(guideMeta(g, L).h1)}</a></li>`).join('')}</ul>` : '';
 }
 
 function get(obj, key) { return key.split('.').reduce((o, k) => (o ? o[k] : undefined), obj); }
@@ -248,7 +262,7 @@ const hreflangLinks = (neutralPath, lang, langs = SUPPORTED_LANGS) => {
 
 const navHtml = (L, loc, P) => `<nav><a href="${P('/')}">${esc(loc.nav.home)}</a> | <a href="${P('/products')}">${esc(loc.nav.products)}</a> | ${
   categoryPages.map(c => `<a href="${P(`/${c.slug}`)}">${esc(c.content[L].name)}</a>`).join(' | ')
-} | <a href="${P('/about')}">${esc(loc.nav.about)}</a> | <a href="${P('/contact')}">${esc(loc.nav.contact)}</a> | <a href="${P('/gallery')}">${esc(loc.nav.gallery)}</a>${L === 'ro' ? ` | <a href="${GUIDES_PATH}">Ghiduri</a>` : ''}</nav>`;
+} | <a href="${P('/about')}">${esc(loc.nav.about)}</a> | <a href="${P('/contact')}">${esc(loc.nav.contact)}</a> | <a href="${P('/gallery')}">${esc(loc.nav.gallery)}</a> | <a href="${P(GUIDES_PATH)}">${esc(guideLabelsFor(L).nav)}</a></nav>`;
 
 let count = 0;
 for (const page of pages) {

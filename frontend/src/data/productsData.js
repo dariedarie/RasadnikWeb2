@@ -938,6 +938,258 @@ export const products = [
       soil: 'Dobro drenirana zemlja',
       hardiness: 'Otporna na mraz do -8°C'
     }
+  },
+  {
+    id: 49,
+    name: 'Japanska trešnja Royal Burgundy',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/cires-japonez-royal-burgundy-prunus-serrulata.jpg',
+    images: [
+      '/images/cires-japonez-royal-burgundy-prunus-serrulata.jpg',
+      '/images/cires-japonez-royal-burgundy-prunus-serrulata-2.jpg'
+    ],
+    description: 'Japanska trešnja \'Royal Burgundy\' (Prunus serrulata) ima tamnoljubičasto lišće tokom cele sezone i krupne, pune ružičaste cvetove u aprilu. Odlična za drvorede, parkove i dvorišta.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Plodna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 50,
+    name: 'Albicija',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/albizia-julibrissin.jpg',
+    images: [
+      '/images/albizia-julibrissin.jpg',
+      '/images/albizia-julibrissin-2.jpg'
+    ],
+    description: 'Albicija (Albizia julibrissin) je ukrasno drvo sa perastim lišćem i pahuljastim ružičastim cvetovima tokom leta. Kišobranasta krona, idealna za terase, dvorišta i parkove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -15°C'
+    }
+  },
+  {
+    id: 51,
+    name: 'Albicija višestablo',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/albizia-julibrissin-multitulpina.jpg',
+    images: [
+      '/images/albizia-julibrissin-multitulpina.jpg',
+      '/images/albizia-julibrissin-multitulpina-2.jpg'
+    ],
+    description: 'Albicija (Albizia julibrissin) u višestabaonoj formi, sa više stabala iz osnove. Dekorativan soliter za terase, ulaze i moderne vrtove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -15°C'
+    }
+  },
+  {
+    id: 52,
+    name: 'Krupnolisna lipa',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/tei-cu-frunza-mare-tilia-platyphyllos.jpg',
+    images: [
+      '/images/tei-cu-frunza-mare-tilia-platyphyllos.jpg',
+      '/images/tei-cu-frunza-mare-tilia-platyphyllos-2.jpg'
+    ],
+    description: 'Krupnolisna lipa (Tilia platyphyllos) je veliko drvo za drvorede i parkove, sa mirisnim medonosnim cvetovima u junu.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Plodna, vlažna zemlja',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 53,
+    name: 'Sitnolisna lipa',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/tei-pucios-tilia-cordata.jpg',
+    images: [
+      '/images/tei-pucios-tilia-cordata.jpg',
+      '/images/tei-pucios-tilia-cordata-2.jpg'
+    ],
+    description: 'Sitnolisna lipa (Tilia cordata) je otporno drvo za drvorede, ulice i parkove, dobro podnosi gradske uslove. Medonosna.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 54,
+    name: 'Srebrna lipa',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/tei-argintiu-tilia-tomentosa.jpg',
+    images: [
+      '/images/tei-argintiu-tilia-tomentosa.jpg',
+      '/images/tei-argintiu-tilia-tomentosa-2.jpg'
+    ],
+    description: 'Srebrna lipa (Tilia tomentosa) ima lišće srebrnasto sa naličja i dobro podnosi sušu i vrućinu. Odlična za drvorede i parkove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 55,
+    name: 'Beli bor',
+    category: 'cetinari',
+    categories: ['cetinari'],
+    price: 0,
+    image: '/images/pin-silvestru-pinus-sylvestris.jpg',
+    images: [
+      '/images/pin-silvestru-pinus-sylvestris.jpg',
+      '/images/pin-silvestru-pinus-sylvestris-2.jpg'
+    ],
+    description: 'Beli bor (Pinus sylvestris) je otporan četinar sa narandžastom korom u gornjem delu stabla. Podnosi siromašna i peskovita zemljišta.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Peskovita do glinena',
+      hardiness: 'Veoma otporan na mraz'
+    }
+  },
+  {
+    id: 56,
+    name: 'Crveni hrast',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/stejar-rosu-quercus-rubra.jpg',
+    images: [
+      '/images/stejar-rosu-quercus-rubra.jpg',
+      '/images/stejar-rosu-quercus-rubra-2.jpg'
+    ],
+    description: 'Crveni hrast (Quercus rubra) je brzorastući hrast sa spektakularnom crvenom jesenjom bojom. Za parkove i drvorede.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Kisela do neutralna zemlja',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 57,
+    name: 'Likvidambar',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/liquidambar-styraciflua.jpg',
+    images: [
+      '/images/liquidambar-styraciflua.jpg',
+      '/images/liquidambar-styraciflua-2.jpg'
+    ],
+    description: 'Likvidambar (Liquidambar styraciflua) je drvo sa zvezdastim lišćem i izuzetnom jesenjom bojom u nijansama crvene, ljubičaste i narandžaste.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Vlažna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 58,
+    name: 'Tulipanovo drvo',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/arborele-lalea-liriodendron-tulipifera.jpg',
+    images: [
+      '/images/arborele-lalea-liriodendron-tulipifera.jpg',
+      '/images/arborele-lalea-liriodendron-tulipifera-2.jpg'
+    ],
+    description: 'Tulipanovo drvo (Liriodendron tulipifera) ima lišće neobičnog oblika, cvetove nalik tulipanima u junu i zlatnu jesenju boju.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Plodna, vlažna zemlja',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 59,
+    name: 'Javor Crimson King',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/artar-crimson-king-acer-platanoides.jpg',
+    images: [
+      '/images/artar-crimson-king-acer-platanoides.jpg',
+      '/images/artar-crimson-king-acer-platanoides-2.jpg'
+    ],
+    description: 'Javor \'Crimson King\' (Acer platanoides) ima tamnocrveno-ljubičasto lišće tokom cele sezone. Okrugla krona, za drvorede i parkove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 60,
+    name: 'Magnolija Soulangeana',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/magnolia-soulangeana.jpg',
+    images: [
+      '/images/magnolia-soulangeana.jpg',
+      '/images/magnolia-soulangeana-2.jpg'
+    ],
+    description: 'Magnolija (Magnolia × soulangeana) cveta u aprilu krupnim belo-ružičastim cvetovima pre listanja. Spektakularan soliter za vrtove i ulaze.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Blago kisela, bogata zemlja',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
   }
 ];
 

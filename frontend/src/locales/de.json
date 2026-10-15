@@ -694,6 +694,138 @@
         "soil": "Gut durchlässiger Boden",
         "hardiness": "Winterhart bis -8°C"
       }
+    },
+    "49": {
+      "name": "Japanische Blütenkirsche 'Royal Burgundy' (Prunus serrulata)",
+      "description": "Die Japanische Blütenkirsche 'Royal Burgundy' (Prunus serrulata) hat die ganze Saison dunkelpurpurnes Laub und große, gefüllte rosa Blüten im April. Ein auffälliger Zierbaum für Alleen, Parks und Gärten.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Fruchtbarer, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "50": {
+      "name": "Seidenbaum (Albizia julibrissin)",
+      "description": "Der Seidenbaum (Albizia julibrissin) hat fein gefiederte Blätter und flauschige rosa Pinselblüten den ganzen Sommer über. Die schirmförmige Krone ist ideal für Terrassen, Gärten und Parks.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -15°C"
+      }
+    },
+    "51": {
+      "name": "Seidenbaum, mehrstämmig (Albizia julibrissin)",
+      "description": "Seidenbaum (Albizia julibrissin) als mehrstämmiges Solitärgehölz mit mehreren Stämmen aus der Basis. Ein dekorativer Blickfang für Terrassen, Eingänge und moderne Gärten, mit rosa Pinselblüten im Sommer.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -15°C"
+      }
+    },
+    "52": {
+      "name": "Sommerlinde (Tilia platyphyllos)",
+      "description": "Die Sommerlinde (Tilia platyphyllos) ist ein großer Baum mit breiter Krone für Alleen und Parks. Sie blüht im Juni mit duftenden, bienenfreundlichen Blüten.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Fruchtbarer, feuchter Boden",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "53": {
+      "name": "Winterlinde (Tilia cordata)",
+      "description": "Die Winterlinde (Tilia cordata) ist einer der meistverwendeten Bäume für Straßenpflanzungen und Parks: robust, stadtklimafest und bienenfreundlich.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "54": {
+      "name": "Silberlinde (Tilia tomentosa)",
+      "description": "Die Silberlinde (Tilia tomentosa) hat Blätter mit silbriger Unterseite und verträgt Trockenheit und Hitze gut. Ein ausgezeichneter Baum für Alleen und Parks.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "55": {
+      "name": "Waldkiefer (Pinus sylvestris)",
+      "description": "Die Waldkiefer (Pinus sylvestris) ist eine sehr robuste Konifere mit orangefarbener Rinde im oberen Stammbereich. Sie verträgt magere, sandige Böden und Trockenheit.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Sandig bis lehmig",
+        "hardiness": "Sehr winterhart"
+      }
+    },
+    "56": {
+      "name": "Roteiche (Quercus rubra)",
+      "description": "Die Roteiche (Quercus rubra) ist eine relativ schnellwachsende Eiche mit spektakulär leuchtend roter Herbstfärbung. Geeignet für Parks, Alleen und große Grünflächen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Saurer bis neutraler Boden",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "57": {
+      "name": "Amberbaum (Liquidambar styraciflua)",
+      "description": "Der Amberbaum (Liquidambar styraciflua) hat sternförmige Blätter und eine der schönsten Herbstfärbungen in Rot, Purpur und Orange. Kegelförmige Krone für Parks und Alleen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Feuchter, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "58": {
+      "name": "Tulpenbaum (Liriodendron tulipifera)",
+      "description": "Der Tulpenbaum (Liriodendron tulipifera) hat ungewöhnlich geformte Blätter, tulpenähnliche Blüten im Juni und eine goldgelbe Herbstfärbung. Ein imposanter Parkbaum.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Fruchtbarer, feuchter Boden",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "59": {
+      "name": "Spitzahorn 'Crimson King' (Acer platanoides)",
+      "description": "Der Spitzahorn 'Crimson King' (Acer platanoides) hat die ganze Saison tiefrot-purpurnes Laub und eine dichte, runde Krone. Häufig in Alleen und Parks verwendet.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "60": {
+      "name": "Tulpen-Magnolie (Magnolia × soulangeana)",
+      "description": "Die Tulpen-Magnolie (Magnolia × soulangeana) blüht im April vor dem Laubaustrieb mit großen, weiß-rosa, tulpenförmigen Blüten. Ein spektakulärer Solitär für Gärten, Eingänge und Parks.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Leicht saurer, nährstoffreicher Boden",
+        "hardiness": "Winterhart bis -25°C"
+      }
     }
   }
 }

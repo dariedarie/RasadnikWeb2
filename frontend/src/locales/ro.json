@@ -694,6 +694,138 @@
         "soil": "Sol bine drenat",
         "hardiness": "Rezistentă la ger până la -8°C"
       }
+    },
+    "49": {
+      "name": "Cireș japonez 'Royal Burgundy' (Prunus serrulata)",
+      "description": "Cireșul japonez 'Royal Burgundy' (Prunus serrulata) are frunze purpuriu-închis pe tot parcursul sezonului și flori mari, involte, roz, în aprilie. Un arbore ornamental de efect pentru aliniamente, parcuri și curți.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Sol fertil, bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "50": {
+      "name": "Arborele de mătase (Albizia julibrissin)",
+      "description": "Albizia julibrissin, arborele de mătase, are frunze fin penate și flori roz pufoase, ca niște pămătufuri, pe tot parcursul verii. Coroană în formă de umbrelă, ideală pentru terase, curți și parcuri.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Sol bine drenat",
+        "hardiness": "Rezistentă la ger până la -15°C"
+      }
+    },
+    "51": {
+      "name": "Albizia julibrissin multitulpină",
+      "description": "Albizia julibrissin în formă multitulpină, cu mai multe trunchiuri pornind de la bază. Un exemplar solitar decorativ pentru terase, intrări și grădini moderne, cu flori roz pufoase vara.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Sol bine drenat",
+        "hardiness": "Rezistentă la ger până la -15°C"
+      }
+    },
+    "52": {
+      "name": "Tei cu frunza mare (Tilia platyphyllos)",
+      "description": "Teiul cu frunza mare (Tilia platyphyllos) este un arbore mare, cu coroană amplă, potrivit pentru aliniamente și parcuri. Înflorește în iunie, cu flori parfumate, melifere.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol fertil, umed",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "53": {
+      "name": "Tei pucios (Tilia cordata)",
+      "description": "Teiul pucios (Tilia cordata) este unul dintre cei mai folosiți arbori pentru aliniamente stradale și parcuri: rezistent, tolerant la condițiile urbane și melifer.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "54": {
+      "name": "Tei argintiu (Tilia tomentosa)",
+      "description": "Teiul argintiu (Tilia tomentosa) are frunze cu dosul argintiu și tolerează bine seceta și căldura. Un arbore excelent pentru aliniamente și parcuri în climatul din România.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "55": {
+      "name": "Pin silvestru (Pinus sylvestris)",
+      "description": "Pinul silvestru (Pinus sylvestris) este un conifer foarte rezistent, cu scoarță portocalie în partea superioară a trunchiului. Tolerează solurile sărace și nisipoase și seceta.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Nisipos până la argilos",
+        "hardiness": "Foarte rezistentă la ger"
+      }
+    },
+    "56": {
+      "name": "Stejar roșu (Quercus rubra)",
+      "description": "Stejarul roșu (Quercus rubra) este un stejar cu creștere relativ rapidă și o colorație de toamnă roșu-aprins spectaculoasă. Potrivit pentru parcuri, aliniamente și spații verzi mari.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Sol acid până la neutru",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "57": {
+      "name": "Arbore de ambră (Liquidambar styraciflua)",
+      "description": "Liquidambar styraciflua are frunze în formă de stea și una dintre cele mai frumoase colorații de toamnă, în nuanțe de roșu, purpuriu și portocaliu. Coroană piramidală, pentru parcuri și aliniamente.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Sol umed, bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "58": {
+      "name": "Arborele lalea (Liriodendron tulipifera)",
+      "description": "Arborele lalea (Liriodendron tulipifera) are frunze cu formă neobișnuită, flori asemănătoare lalelelor în iunie și o colorație de toamnă galben-aurie. Un arbore impunător pentru parcuri.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Sol fertil, umed",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "59": {
+      "name": "Arțar 'Crimson King' (Acer platanoides)",
+      "description": "Arțarul 'Crimson King' (Acer platanoides) are frunze roșu-purpuriu închis pe tot parcursul sezonului și o coroană rotundă, densă. Foarte folosit în aliniamente și parcuri.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "60": {
+      "name": "Magnolie (Magnolia × soulangeana)",
+      "description": "Magnolia × soulangeana înflorește în aprilie, înainte de înfrunzire, cu flori mari, albe cu roz, în formă de cupă. Un exemplar solitar spectaculos pentru grădini, intrări și parcuri.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol ușor acid, bogat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
     }
   }
 }

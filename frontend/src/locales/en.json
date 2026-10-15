@@ -690,7 +690,138 @@
         "soil": "Well-drained soil",
         "hardiness": "Hardy to -8°C"
       }
+    },
+    "49": {
+      "name": "Japanese Cherry 'Royal Burgundy' (Prunus serrulata)",
+      "description": "Japanese cherry 'Royal Burgundy' (Prunus serrulata) has dark purple foliage all season and large, double pink flowers in April. A striking ornamental tree for avenues, parks and gardens.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Fertile, well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "50": {
+      "name": "Silk Tree (Albizia julibrissin)",
+      "description": "The silk tree (Albizia julibrissin) has finely divided, fern-like leaves and fluffy pink powder-puff flowers throughout summer. Its umbrella-shaped crown is ideal for terraces, gardens and parks.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -15°C"
+      }
+    },
+    "51": {
+      "name": "Silk Tree, Multi-stem (Albizia julibrissin)",
+      "description": "Silk tree (Albizia julibrissin) grown as a multi-stem specimen with several trunks from the base. A decorative focal point for terraces, entrances and modern gardens, with fluffy pink flowers in summer.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -15°C"
+      }
+    },
+    "52": {
+      "name": "Large-leaved Lime (Tilia platyphyllos)",
+      "description": "The large-leaved lime (Tilia platyphyllos) is a large tree with a broad crown, well suited to avenues and parks. It flowers in June with fragrant blossoms that are valuable for bees.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Fertile, moist soil",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "53": {
+      "name": "Small-leaved Lime (Tilia cordata)",
+      "description": "The small-leaved lime (Tilia cordata) is one of the most widely used trees for street plantings and parks: tough, tolerant of urban conditions and good for bees.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "54": {
+      "name": "Silver Lime (Tilia tomentosa)",
+      "description": "The silver lime (Tilia tomentosa) has leaves with silvery undersides and tolerates drought and heat well. An excellent tree for avenues and parks.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "55": {
+      "name": "Scots Pine (Pinus sylvestris)",
+      "description": "Scots pine (Pinus sylvestris) is a very hardy conifer with orange bark on the upper trunk. It tolerates poor, sandy soils and drought.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Sandy to clay soil",
+        "hardiness": "Very frost hardy"
+      }
+    },
+    "56": {
+      "name": "Red Oak (Quercus rubra)",
+      "description": "Red oak (Quercus rubra) is a relatively fast-growing oak with spectacular bright red autumn colour. Suited to parks, avenues and large green spaces.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Acidic to neutral soil",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "57": {
+      "name": "Sweetgum (Liquidambar styraciflua)",
+      "description": "Sweetgum (Liquidambar styraciflua) has star-shaped leaves and one of the most beautiful autumn colours, in shades of red, purple and orange. A pyramidal crown for parks and avenues.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Moist, well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "58": {
+      "name": "Tulip Tree (Liriodendron tulipifera)",
+      "description": "The tulip tree (Liriodendron tulipifera) has unusually shaped leaves, tulip-like flowers in June and golden-yellow autumn colour. An imposing tree for parks.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Fertile, moist soil",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "59": {
+      "name": "Norway Maple 'Crimson King' (Acer platanoides)",
+      "description": "Norway maple 'Crimson King' (Acer platanoides) has deep crimson-purple foliage all season and a dense, rounded crown. Widely used in avenues and parks.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "60": {
+      "name": "Saucer Magnolia (Magnolia × soulangeana)",
+      "description": "Saucer magnolia (Magnolia × soulangeana) flowers in April before the leaves appear, with large white-and-pink cup-shaped blooms. A spectacular specimen for gardens, entrances and parks.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Slightly acidic, rich soil",
+        "hardiness": "Hardy to -25°C"
+      }
     }
   }
 }
-

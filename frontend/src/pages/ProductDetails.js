@@ -7,6 +7,7 @@ import { getCategoryPageByCategoryId, pickLang, labels, productInCategory, produ
 import { getLangPrefix, buildHreflangUrls, getSeoLinks } from '../utils/i18nRoutes';
 import { guidesForProduct, guidePath, guideMeta, guideLabelsFor } from '../data/guides';
 import ImageLightbox from '../components/ImageLightbox';
+import imageCredits from '../data/imageCredits';
 import { thumbSrc, mediumSrc, fallbackTo } from '../utils/images';
 import './ProductDetails.css';
 import './Products.css';
@@ -196,6 +197,28 @@ const ProductDetails = () => {
           {productImages.length > 1 && (
             <p className="gallery-hint">
               {productImages.length} {t('productDetails.photos') || 'fotografija'} - {t('productDetails.clickToView') || 'kliknite za pregled'}
+            </p>
+          )}
+
+          {/* Autori slika sa Wikimedia Commons (zahtev licence CC BY / CC BY-SA) */}
+          {productImages.some(img => imageCredits[img]) && (
+            <p style={{fontSize: '0.75rem', color: '#78909c', marginTop: 8, lineHeight: 1.5}}>
+              Foto:{' '}
+              {productImages.filter(img => imageCredits[img]).map((img, i) => {
+                const c = imageCredits[img];
+                return (
+                  <React.Fragment key={img}>
+                    {i > 0 && '; '}
+                    <a href={c.source} target="_blank" rel="noopener noreferrer nofollow" style={{color: 'inherit'}}>{c.author}</a>
+                    {' ('}
+                    {c.licenseUrl
+                      ? <a href={c.licenseUrl} target="_blank" rel="noopener noreferrer nofollow" style={{color: 'inherit'}}>{c.license}</a>
+                      : c.license}
+                    {')'}
+                  </React.Fragment>
+                );
+              })}
+              {' / Wikimedia Commons'}
             </p>
           )}
         </div>

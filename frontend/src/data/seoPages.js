@@ -65,7 +65,19 @@ export const productSlugs = {
   45: 'cires-japonez-prunus-serrulata',
   46: 'artar-japonez-acer-palmatum',
   47: 'palmier-trachycarpus-fortunei',
-  48: 'cycas-revoluta'
+  48: 'cycas-revoluta',
+  49: 'cires-japonez-royal-burgundy-prunus-serrulata',
+  50: 'albizia-julibrissin',
+  51: 'albizia-julibrissin-multitulpina',
+  52: 'tei-cu-frunza-mare-tilia-platyphyllos',
+  53: 'tei-pucios-tilia-cordata',
+  54: 'tei-argintiu-tilia-tomentosa',
+  55: 'pin-silvestru-pinus-sylvestris',
+  56: 'stejar-rosu-quercus-rubra',
+  57: 'liquidambar-styraciflua',
+  58: 'arborele-lalea-liriodendron-tulipifera',
+  59: 'artar-crimson-king-acer-platanoides',
+  60: 'magnolia-soulangeana'
 };
 
 // Neutralna putanja proizvoda (bez jezickog prefiksa): '/products/tuia-smaragd'
@@ -211,10 +223,10 @@ export const categoryPages = [
         name: 'Arbori ornamentali en gros',
         h1: 'Arbori ornamentali en gros',
         title: 'Arbori Ornamentali En Gros – Catalpa, Arțar Japonez, Magnolia | PlantDGD',
-        description: 'Arbori ornamentali en gros: catalpa, magnolia grandiflora, arțar japonez, cireș japonez, măslin, palmier, laurocerasus, Photinia Red Robin. Pentru parcuri, aliniamente și proiecte peisagistice.',
+        description: 'Arbori ornamentali en gros: tei, stejar roșu, arțar Crimson King, catalpa, cireș japonez, magnolie, arborele lalea, Liquidambar, Albizia. Pentru parcuri, aliniamente și proiecte peisagistice.',
         intro: [
           'Arborii ornamentali dau structură și umbră oricărui spațiu verde. PlantDGD furnizează arbori ornamentali en gros pentru parcuri, aliniamente stradale, curți de școli, ansambluri rezidențiale și grădini private.',
-          'Catalpa (Catalpa bignonioides) este un arbore de umbră cu frunze mari și flori albe vara, potrivit pentru bulevarde și spații publice. Magnolia grandiflora rămâne verde și iarna și are flori mari, parfumate. Arțarul japonez (Acer palmatum) și cireșul japonez (Prunus serrulata) sunt accente decorative spectaculoase, iar măslinul și palmierul aduc un aer mediteranean teraselor și curților interioare. Laurocerasul și Photinia Red Robin creează rapid perdele verzi dense.',
+          'Catalpa (Catalpa bignonioides) este un arbore de umbră cu frunze mari și flori albe vara, potrivit pentru bulevarde și spații publice. Magnolia grandiflora rămâne verde și iarna și are flori mari, parfumate. Arțarul japonez (Acer palmatum) și cireșul japonez (Prunus serrulata) sunt accente decorative spectaculoase, iar măslinul și palmierul aduc un aer mediteranean teraselor și curților interioare. Laurocerasul și Photinia Red Robin creează rapid perdele verzi dense. Pentru aliniamente și parcuri oferim și tei (Tilia cordata, Tilia platyphyllos, Tilia tomentosa), stejar roșu, arțar \'Crimson King\', arborele lalea, arborele de ambră (Liquidambar), Albizia și Magnolia soulangeana.',
           'Vă ajutăm să alegeți speciile potrivite pentru clima și solul din zona proiectului și organizăm transportul plantelor până la locația dvs.'
         ],
         faq: [
@@ -230,7 +242,7 @@ export const categoryPages = [
         description: 'Wholesale ornamental trees: catalpa, Magnolia grandiflora, Japanese maple, Japanese cherry, olive, palm, cherry laurel, Photinia. For parks, avenues and landscaping projects.',
         intro: [
           'Ornamental trees give structure and shade to every green space. PlantDGD supplies wholesale ornamental trees for parks, avenues, school yards, residential developments and private gardens.',
-          'Catalpa (Catalpa bignonioides) is a shade tree with large leaves and white summer flowers, ideal for boulevards and public spaces. Magnolia grandiflora stays green in winter and has large fragrant flowers. Japanese maple (Acer palmatum) and Japanese cherry (Prunus serrulata) are striking focal points, while olive trees and palms bring a Mediterranean feel to terraces and courtyards. Cherry laurel and Photinia Red Robin quickly create dense green screens.',
+          'Catalpa (Catalpa bignonioides) is a shade tree with large leaves and white summer flowers, ideal for boulevards and public spaces. Magnolia grandiflora stays green in winter and has large fragrant flowers. Japanese maple (Acer palmatum) and Japanese cherry (Prunus serrulata) are striking focal points, while olive trees and palms bring a Mediterranean feel to terraces and courtyards. Cherry laurel and Photinia Red Robin quickly create dense green screens. For avenues and parks we also offer limes (Tilia cordata, Tilia platyphyllos, Tilia tomentosa), red oak, Norway maple \'Crimson King\', tulip tree, sweetgum (Liquidambar), Albizia and Magnolia soulangeana.',
           'We help you choose species suited to the climate and soil of your project and arrange transport to your site.'
         ],
         faq: [
@@ -246,7 +258,7 @@ export const categoryPages = [
         description: 'Zierbäume im Großhandel: Trompetenbaum, Magnolia grandiflora, Fächerahorn, Japanische Kirsche, Olivenbaum, Palme, Kirschlorbeer. Für Parks, Alleen und Landschaftsprojekte.',
         intro: [
           'Zierbäume geben jeder Grünfläche Struktur und Schatten. PlantDGD liefert Zierbäume im Großhandel für Parks, Alleen, Schulhöfe, Wohnanlagen und Privatgärten.',
-          'Der Trompetenbaum (Catalpa bignonioides) ist ein Schattenbaum mit großen Blättern und weißen Sommerblüten. Magnolia grandiflora bleibt im Winter grün und hat große, duftende Blüten. Fächerahorn (Acer palmatum) und Japanische Kirsche (Prunus serrulata) sind attraktive Blickfänge, Olivenbaum und Palme bringen mediterranes Flair auf Terrassen. Kirschlorbeer und Photinia Red Robin bilden schnell dichten Sichtschutz.',
+          'Der Trompetenbaum (Catalpa bignonioides) ist ein Schattenbaum mit großen Blättern und weißen Sommerblüten. Magnolia grandiflora bleibt im Winter grün und hat große, duftende Blüten. Fächerahorn (Acer palmatum) und Japanische Kirsche (Prunus serrulata) sind attraktive Blickfänge, Olivenbaum und Palme bringen mediterranes Flair auf Terrassen. Kirschlorbeer und Photinia Red Robin bilden schnell dichten Sichtschutz. Für Alleen und Parks bieten wir außerdem Linden (Tilia cordata, Tilia platyphyllos, Tilia tomentosa), Roteiche, Spitzahorn \'Crimson King\', Tulpenbaum, Amberbaum (Liquidambar), Albizia und Magnolia soulangeana.',
           'Wir helfen Ihnen bei der Auswahl passender Arten und organisieren den Transport bis zu Ihrem Projektstandort.'
         ],
         faq: [

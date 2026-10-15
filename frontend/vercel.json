@@ -719,6 +719,186 @@
       "source": "/de/products/48",
       "destination": "/de/products/cycas-revoluta",
       "permanent": true
+    },
+    {
+      "source": "/products/49",
+      "destination": "/products/cires-japonez-royal-burgundy-prunus-serrulata",
+      "permanent": true
+    },
+    {
+      "source": "/products/50",
+      "destination": "/products/albizia-julibrissin",
+      "permanent": true
+    },
+    {
+      "source": "/products/51",
+      "destination": "/products/albizia-julibrissin-multitulpina",
+      "permanent": true
+    },
+    {
+      "source": "/products/52",
+      "destination": "/products/tei-cu-frunza-mare-tilia-platyphyllos",
+      "permanent": true
+    },
+    {
+      "source": "/products/53",
+      "destination": "/products/tei-pucios-tilia-cordata",
+      "permanent": true
+    },
+    {
+      "source": "/products/54",
+      "destination": "/products/tei-argintiu-tilia-tomentosa",
+      "permanent": true
+    },
+    {
+      "source": "/products/55",
+      "destination": "/products/pin-silvestru-pinus-sylvestris",
+      "permanent": true
+    },
+    {
+      "source": "/products/56",
+      "destination": "/products/stejar-rosu-quercus-rubra",
+      "permanent": true
+    },
+    {
+      "source": "/products/57",
+      "destination": "/products/liquidambar-styraciflua",
+      "permanent": true
+    },
+    {
+      "source": "/products/58",
+      "destination": "/products/arborele-lalea-liriodendron-tulipifera",
+      "permanent": true
+    },
+    {
+      "source": "/products/59",
+      "destination": "/products/artar-crimson-king-acer-platanoides",
+      "permanent": true
+    },
+    {
+      "source": "/products/60",
+      "destination": "/products/magnolia-soulangeana",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/49",
+      "destination": "/en/products/cires-japonez-royal-burgundy-prunus-serrulata",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/50",
+      "destination": "/en/products/albizia-julibrissin",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/51",
+      "destination": "/en/products/albizia-julibrissin-multitulpina",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/52",
+      "destination": "/en/products/tei-cu-frunza-mare-tilia-platyphyllos",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/53",
+      "destination": "/en/products/tei-pucios-tilia-cordata",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/54",
+      "destination": "/en/products/tei-argintiu-tilia-tomentosa",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/55",
+      "destination": "/en/products/pin-silvestru-pinus-sylvestris",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/56",
+      "destination": "/en/products/stejar-rosu-quercus-rubra",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/57",
+      "destination": "/en/products/liquidambar-styraciflua",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/58",
+      "destination": "/en/products/arborele-lalea-liriodendron-tulipifera",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/59",
+      "destination": "/en/products/artar-crimson-king-acer-platanoides",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/60",
+      "destination": "/en/products/magnolia-soulangeana",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/49",
+      "destination": "/de/products/cires-japonez-royal-burgundy-prunus-serrulata",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/50",
+      "destination": "/de/products/albizia-julibrissin",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/51",
+      "destination": "/de/products/albizia-julibrissin-multitulpina",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/52",
+      "destination": "/de/products/tei-cu-frunza-mare-tilia-platyphyllos",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/53",
+      "destination": "/de/products/tei-pucios-tilia-cordata",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/54",
+      "destination": "/de/products/tei-argintiu-tilia-tomentosa",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/55",
+      "destination": "/de/products/pin-silvestru-pinus-sylvestris",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/56",
+      "destination": "/de/products/stejar-rosu-quercus-rubra",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/57",
+      "destination": "/de/products/liquidambar-styraciflua",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/58",
+      "destination": "/de/products/arborele-lalea-liriodendron-tulipifera",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/59",
+      "destination": "/de/products/artar-crimson-king-acer-platanoides",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/60",
+      "destination": "/de/products/magnolia-soulangeana",
+      "permanent": true
     }
   ]
 }

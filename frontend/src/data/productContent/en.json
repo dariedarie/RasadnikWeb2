@@ -4,8 +4,14 @@
     "planting": "For a dense hedge, 2–3 plants per linear metre are usually planted (35–50 cm apart), depending on the height of the plants delivered. The planting hole should be twice as wide as the root ball; after planting, water thoroughly and mulch with bark. Container plants can be planted from spring to autumn, avoiding frost and heatwaves.",
     "care": "Thuja 'Smaragd' grows moderately (about 20–30 cm per year) and does not need frequent trimming – one light correction a year is enough. In the first two years after planting it needs regular watering, especially in summer; prolonged drought is the main cause of browning. A spring feed with conifer fertiliser keeps the colour intense.",
     "faq": [
-      { "q": "How tall does Thuja 'Smaragd' grow?", "a": "At maturity it usually reaches 4–5 m in height and 1–1.5 m in width, but it can be kept at the desired hedge height by trimming." },
-      { "q": "Which sizes of Thuja 'Smaragd' do you supply wholesale?", "a": "We have Thuja 'Smaragd' in several heights. Send us the height and quantity you need and we will confirm availability and price." }
+      {
+        "q": "How tall does Thuja 'Smaragd' grow?",
+        "a": "At maturity it usually reaches 4–5 m in height and 1–1.5 m in width, but it can be kept at the desired hedge height by trimming."
+      },
+      {
+        "q": "Which sizes of Thuja 'Smaragd' do you supply wholesale?",
+        "a": "We have Thuja 'Smaragd' in several heights. Send us the height and quantity you need and we will confirm availability and price."
+      }
     ]
   },
   "2": {
@@ -13,8 +19,14 @@
     "planting": "For hedges, 3–4 plants per linear metre are planted, depending on size. Yew prefers well-drained soils and does not tolerate waterlogging. Container plants can be planted almost all year round; water well after planting and mulch.",
     "care": "Growth is slow (about 15–20 cm per year), but yew has a rare advantage among conifers: it regenerates from old wood, so it can be cut back hard and reshaped. Trimming is done once or twice a year, usually in early summer. It is very long-lived and needs minimal maintenance once established.",
     "faq": [
-      { "q": "Is yew suitable for public spaces?", "a": "Yes, in parks and formal gardens, but avoid planting it next to children's playgrounds or areas with animals, as the leaves and seeds are toxic." },
-      { "q": "Does yew grow in shade?", "a": "Yes, yew is one of the most shade-tolerant conifers and grows well in both partial and full shade." }
+      {
+        "q": "Is yew suitable for public spaces?",
+        "a": "Yes, in parks and formal gardens, but avoid planting it next to children's playgrounds or areas with animals, as the leaves and seeds are toxic."
+      },
+      {
+        "q": "Does yew grow in shade?",
+        "a": "Yes, yew is one of the most shade-tolerant conifers and grows well in both partial and full shade."
+      }
     ]
   },
   "3": {
@@ -22,8 +34,14 @@
     "planting": "As a solitary tree it needs space – at maturity it exceeds 15–20 m. For shelterbelts it is planted in rows, 3–4 m apart. It prefers sunny sites and adapts to soils from sandy to clay, as long as they are not permanently waterlogged.",
     "care": "Once established, black pine needs very little care: watering only in the first years and during very dry periods after planting. It requires no pruning apart from removing dead branches or those obstructing paths and roads.",
     "faq": [
-      { "q": "Is black pine drought tolerant?", "a": "Yes, it is one of the most drought- and heat-tolerant pines, suitable for sunny sites and poor soils." },
-      { "q": "Is black pine suitable for shelterbelts?", "a": "Yes, its dense crown and wind resistance make it very good for shelterbelts and windbreaks." }
+      {
+        "q": "Is black pine drought tolerant?",
+        "a": "Yes, it is one of the most drought- and heat-tolerant pines, suitable for sunny sites and poor soils."
+      },
+      {
+        "q": "Is black pine suitable for shelterbelts?",
+        "a": "Yes, its dense crown and wind resistance make it very good for shelterbelts and windbreaks."
+      }
     ]
   },
   "4": {
@@ -31,8 +49,14 @@
     "planting": "For hedges, 2–3 plants per linear metre are planted. It prefers sunny sites and well-drained soils, including calcareous ones. Water well after planting and repeat during dry spells in the first year.",
     "care": "It tolerates drought better than Thuja occidentalis, but needs regular watering in the first years for good rooting. It can be lightly trimmed in spring or summer to keep its shape; hard cuts into old wood should be avoided.",
     "faq": [
-      { "q": "What is the difference between oriental thuja and Thuja 'Smaragd'?", "a": "Oriental thuja has vertical fan-shaped branches and tolerates drought and heat better, while Thuja 'Smaragd' has a narrower columnar shape and prefers moister soils." },
-      { "q": "Is oriental thuja suitable for dry areas?", "a": "Yes, it is one of the best conifers for hedges in hot, dry areas." }
+      {
+        "q": "What is the difference between oriental thuja and Thuja 'Smaragd'?",
+        "a": "Oriental thuja has vertical fan-shaped branches and tolerates drought and heat better, while Thuja 'Smaragd' has a narrower columnar shape and prefers moister soils."
+      },
+      {
+        "q": "Is oriental thuja suitable for dry areas?",
+        "a": "Yes, it is one of the best conifers for hedges in hot, dry areas."
+      }
     ]
   },
   "5": {
@@ -40,8 +64,14 @@
     "planting": "Blue spruce needs space: at maturity it reaches 10–15 m in height and 4–6 m in width, so it should be planted at least 4–5 m from buildings and other trees. It prefers sunny sites and slightly acidic, well-drained soils.",
     "care": "It is very frost-hardy and needs no pruning; only dead branches at the base may be removed. In the first years after planting, water regularly during dry spells. In very hot, dry summers it can be attacked by spider mites, so watering and periodic checks are recommended.",
     "faq": [
-      { "q": "How big does blue spruce grow?", "a": "In cultivation it usually reaches 10–15 m in height, with a broad conical crown 4–6 m wide." },
-      { "q": "Can blue spruce be used as a Christmas tree in public spaces?", "a": "Yes, thanks to its regular conical shape and striking colour it is very well suited as a living Christmas tree in squares and parks." }
+      {
+        "q": "How big does blue spruce grow?",
+        "a": "In cultivation it usually reaches 10–15 m in height, with a broad conical crown 4–6 m wide."
+      },
+      {
+        "q": "Can blue spruce be used as a Christmas tree in public spaces?",
+        "a": "Yes, thanks to its regular conical shape and striking colour it is very well suited as a living Christmas tree in squares and parks."
+      }
     ]
   },
   "6": {
@@ -49,8 +79,14 @@
     "planting": "Each plant eventually spreads 1.5–2.5 m. Depending on plant size and how quickly you want coverage, 1–3 plants per square metre are usually planted. Until the carpet closes, mulch the area with bark or use weed-control fabric.",
     "care": "Once established it tolerates drought, heat and poor soils very well. It needs no pruning apart from shoots growing over kerbs or paths. Wet soils where water stagnates should be avoided, as the roots can rot there.",
     "faq": [
-      { "q": "How many creeping juniper plants are needed per square metre?", "a": "Usually 1–3 plants per m², depending on the size of the plants and how quickly you want full coverage." },
-      { "q": "Is creeping juniper suitable for slopes?", "a": "Yes, its roots and dense carpet hold the soil on slopes and reduce erosion, which is why it is widely used on slopes and roundabouts." }
+      {
+        "q": "How many creeping juniper plants are needed per square metre?",
+        "a": "Usually 1–3 plants per m², depending on the size of the plants and how quickly you want full coverage."
+      },
+      {
+        "q": "Is creeping juniper suitable for slopes?",
+        "a": "Yes, its roots and dense carpet hold the soil on slopes and reduce erosion, which is why it is widely used on slopes and roundabouts."
+      }
     ]
   },
   "7": {
@@ -58,8 +94,14 @@
     "planting": "Catalpa reaches 10–15 m in height with an equally wide crown. In avenues it is planted 8–10 m apart. It prefers sunny sites and fertile soils but adapts to most soil types. For narrow streets, globe-shaped forms are often used – ask us about availability.",
     "care": "After planting, trees are staked and watered regularly for the first two years. Catalpa comes into leaf late, only in May, which is normal for this species. Formative pruning is done at the end of winter, and dead branches are removed periodically.",
     "faq": [
-      { "q": "Is catalpa suitable for street plantings?", "a": "Yes, catalpa is widely used for avenues and boulevards thanks to its broad crown and tolerance of urban conditions." },
-      { "q": "When does catalpa flower?", "a": "Catalpa flowers in June–July with large clusters of fragrant white flowers, followed by long decorative pods." }
+      {
+        "q": "Is catalpa suitable for street plantings?",
+        "a": "Yes, catalpa is widely used for avenues and boulevards thanks to its broad crown and tolerance of urban conditions."
+      },
+      {
+        "q": "When does catalpa flower?",
+        "a": "Catalpa flowers in June–July with large clusters of fragrant white flowers, followed by long decorative pods."
+      }
     ]
   },
   "8": {
@@ -67,8 +109,14 @@
     "planting": "Hardy to about -12°C, Magnolia grandiflora does best in regions with mild winters, in sites sheltered from cold winds, for example next to south-facing buildings. It prefers slightly acidic to neutral, rich, well-drained soils. Planting is done in spring so the plant can root before its first winter.",
     "care": "In the first years it needs regular watering and mulching to keep the soil moist. Young specimens are protected with horticultural fleece in severe winters. Pruning is limited to removing damaged branches.",
     "faq": [
-      { "q": "Can Magnolia grandiflora survive Romanian winters?", "a": "It is hardy to about -12°C. It suits regions with mild winters and sheltered sites; in colder areas winter protection is recommended." },
-      { "q": "Does Magnolia grandiflora keep its leaves in winter?", "a": "Yes, it is an evergreen magnolia and keeps its glossy leaves all year." }
+      {
+        "q": "Can Magnolia grandiflora survive Romanian winters?",
+        "a": "It is hardy to about -12°C. It suits regions with mild winters and sheltered sites; in colder areas winter protection is recommended."
+      },
+      {
+        "q": "Does Magnolia grandiflora keep its leaves in winter?",
+        "a": "Yes, it is an evergreen magnolia and keeps its glossy leaves all year."
+      }
     ]
   },
   "9": {
@@ -76,8 +124,14 @@
     "planting": "For hedges, 2–3 plants per linear metre are usually planted, depending on plant size. It adapts to most soils but does not tolerate waterlogging. Water thoroughly after planting and mulch.",
     "care": "Cherry laurel grows fast (about 30–50 cm per year), so the hedge is trimmed once or twice a year, usually after flowering and at the end of summer. It regenerates well after pruning. The fruit and leaves are toxic if ingested, which should be considered near playgrounds.",
     "faq": [
-      { "q": "How fast does cherry laurel grow?", "a": "Cherry laurel grows about 30–50 cm per year, making it one of the fastest evergreen hedge plants." },
-      { "q": "Does cherry laurel grow in shade?", "a": "Yes, it tolerates partial and even full shade well, so it suits courtyards and shaded areas." }
+      {
+        "q": "How fast does cherry laurel grow?",
+        "a": "Cherry laurel grows about 30–50 cm per year, making it one of the fastest evergreen hedge plants."
+      },
+      {
+        "q": "Does cherry laurel grow in shade?",
+        "a": "Yes, it tolerates partial and even full shade well, so it suits courtyards and shaded areas."
+      }
     ]
   },
   "10": {
@@ -85,8 +139,14 @@
     "planting": "For hedges, 2–3 plants per linear metre are planted. It prefers sunny or partly shaded sites and well-drained soils. In regions with harsh winters, plant it in sites sheltered from cold winds.",
     "care": "Trimming two or three times a year stimulates new red shoots. The plant is hardy to about -15°C; in very cold winters the tips may be damaged but recover in spring. In wet summers leaf spot may appear, so well-drained soil and enough spacing for air circulation are recommended.",
     "faq": [
-      { "q": "How do you keep the red colour of Photinia 'Red Robin'?", "a": "By regular trimming: after each trim the plant produces new red shoots, so 2–3 trims a year keep the colour intense." },
-      { "q": "How many Photinia plants are needed per metre of hedge?", "a": "Usually 2–3 plants per linear metre, depending on plant size." }
+      {
+        "q": "How do you keep the red colour of Photinia 'Red Robin'?",
+        "a": "By regular trimming: after each trim the plant produces new red shoots, so 2–3 trims a year keep the colour intense."
+      },
+      {
+        "q": "How many Photinia plants are needed per metre of hedge?",
+        "a": "Usually 2–3 plants per linear metre, depending on plant size."
+      }
     ]
   },
   "11": {
@@ -94,8 +154,14 @@
     "planting": "Depending on variety and size, 3–5 plants per square metre are planted. It prefers sunny sites and well-drained soils. Plant in spring or early autumn; in large groups it creates a very decorative mass effect.",
     "care": "Once established it tolerates drought well. Clumps are cut back close to the ground at the end of winter or in early spring, not in autumn, to keep their winter interest. Every few years large clumps can be divided.",
     "faq": [
-      { "q": "When should fountain grass be cut back?", "a": "At the end of winter or in early spring, before new growth starts, to 10–15 cm above the ground." },
-      { "q": "Is Pennisetum suitable for public spaces?", "a": "Yes, it is hardy, drought tolerant and needs only one cut a year, which is why it is widely used on roundabouts and in parks." }
+      {
+        "q": "When should fountain grass be cut back?",
+        "a": "At the end of winter or in early spring, before new growth starts, to 10–15 cm above the ground."
+      },
+      {
+        "q": "Is Pennisetum suitable for public spaces?",
+        "a": "Yes, it is hardy, drought tolerant and needs only one cut a year, which is why it is widely used on roundabouts and in parks."
+      }
     ]
   },
   "12": {
@@ -103,8 +169,14 @@
     "planting": "For screens, 1–2 plants per linear metre are usually planted, depending on size. There are two types of bamboo: running types (for example Phyllostachys), which spread and must be planted with a rhizome barrier, and clumping types (for example Fargesia), which do not spread. We will recommend the right type for your project.",
     "care": "Bamboo prefers rich, moist soils and needs regular watering, especially in planters and in the first years. Frost hardiness depends on the species, down to about -15°C. Old or dead canes are removed in spring.",
     "faq": [
-      { "q": "Does bamboo spread in the garden?", "a": "Running species spread and need a rhizome barrier; clumping species such as Fargesia do not spread." },
-      { "q": "Can bamboo be grown in planters on terraces?", "a": "Yes, bamboo is very well suited to large planters, provided it is watered regularly." }
+      {
+        "q": "Does bamboo spread in the garden?",
+        "a": "Running species spread and need a rhizome barrier; clumping species such as Fargesia do not spread."
+      },
+      {
+        "q": "Can bamboo be grown in planters on terraces?",
+        "a": "Yes, bamboo is very well suited to large planters, provided it is watered regularly."
+      }
     ]
   },
   "13": {
@@ -112,8 +184,14 @@
     "planting": "Plant 80–100 cm apart, in partly shaded sites protected from strong afternoon sun. It prefers humus-rich, moist, well-drained soils. In some varieties flower colour depends on soil pH – in acidic soils the flowers can turn blue.",
     "care": "Hydrangea needs frequent watering, especially in summer – wilting leaves are the first sign of water shortage. Mulching helps retain moisture. Pruning depends on the variety: some flower on the previous year's wood and are only lightly trimmed, others flower on new wood and can be cut back harder in spring.",
     "faq": [
-      { "q": "Should hydrangea be planted in sun or shade?", "a": "It does best in partial shade, protected from strong afternoon sun, in moist, rich soil." },
-      { "q": "Why does hydrangea change its flower colour?", "a": "In some varieties the colour depends on soil acidity: in acidic soils flowers tend towards blue, in neutral or alkaline soils towards pink." }
+      {
+        "q": "Should hydrangea be planted in sun or shade?",
+        "a": "It does best in partial shade, protected from strong afternoon sun, in moist, rich soil."
+      },
+      {
+        "q": "Why does hydrangea change its flower colour?",
+        "a": "In some varieties the colour depends on soil acidity: in acidic soils flowers tend towards blue, in neutral or alkaline soils towards pink."
+      }
     ]
   },
   "14": {
@@ -121,8 +199,14 @@
     "planting": "As ground cover, 4–6 plants per square metre are planted; for covering walls or fences, 2–3 plants per linear metre. It adapts to almost any soil and prefers partial or full shade.",
     "care": "Ivy climbs walls by itself using aerial roots. On walls with damaged render and on young trees it should be controlled by pruning so it does not harm them. It tolerates pruning at any time during the growing season. It needs regular watering in the first year, then becomes very tough.",
     "faq": [
-      { "q": "How many ivy plants are needed per square metre?", "a": "As ground cover, 4–6 plants per m² are planted, depending on plant size and how quickly you want coverage." },
-      { "q": "Does ivy grow in shade?", "a": "Yes, ivy is one of the best plants for deep shade, including under large trees." }
+      {
+        "q": "How many ivy plants are needed per square metre?",
+        "a": "As ground cover, 4–6 plants per m² are planted, depending on plant size and how quickly you want coverage."
+      },
+      {
+        "q": "Does ivy grow in shade?",
+        "a": "Yes, ivy is one of the best plants for deep shade, including under large trees."
+      }
     ]
   },
   "15": {
@@ -130,8 +214,14 @@
     "planting": "For borders and low hedges, 3–4 plants per linear metre are planted. It tolerates sun and partial shade and adapts to most soils. Planting can be done from spring to autumn.",
     "care": "It grows fast and tolerates repeated trimming very well – two or three times a year for crisply shaped borders. It is hardy to about -15°C. In the first year after planting, water regularly during dry spells.",
     "faq": [
-      { "q": "Can Lonicera nitida replace box?", "a": "Yes, it is one of the most popular alternatives to box for borders and low hedges, without the problems caused by the box tree moth." },
-      { "q": "How often is Lonicera nitida trimmed?", "a": "For precisely shaped borders it is trimmed 2–3 times a year during the growing season." }
+      {
+        "q": "Can Lonicera nitida replace box?",
+        "a": "Yes, it is one of the most popular alternatives to box for borders and low hedges, without the problems caused by the box tree moth."
+      },
+      {
+        "q": "How often is Lonicera nitida trimmed?",
+        "a": "For precisely shaped borders it is trimmed 2–3 times a year during the growing season."
+      }
     ]
   },
   "16": {
@@ -139,8 +229,14 @@
     "planting": "Plant 5–7 plants per square metre in partly shaded sites and rich, well-drained soils. The crown (base of the plant) should not be buried too deep.",
     "care": "Heuchera needs constant moisture but does not tolerate waterlogging, especially in winter. Every 3–4 years clumps can be divided in spring to rejuvenate them. Dead leaves are removed in spring. It is hardy to about -20°C.",
     "faq": [
-      { "q": "Does heuchera grow in sun?", "a": "Most varieties prefer partial shade; in strong sun the leaves can scorch, especially if the soil is dry." },
-      { "q": "Is heuchera decorative in winter?", "a": "Yes, in many varieties the leaves stay decorative through winter." }
+      {
+        "q": "Does heuchera grow in sun?",
+        "a": "Most varieties prefer partial shade; in strong sun the leaves can scorch, especially if the soil is dry."
+      },
+      {
+        "q": "Is heuchera decorative in winter?",
+        "a": "Yes, in many varieties the leaves stay decorative through winter."
+      }
     ]
   },
   "17": {
@@ -148,8 +244,14 @@
     "planting": "For a flowering hedge, 1–2 plants per linear metre are planted; as a solitary shrub leave 1.5–2 m between plants. It prefers sunny sites and fertile, well-drained soils.",
     "care": "Hibiscus comes into leaf late in spring, usually only in May – this is normal and does not mean the plant has been killed by frost. Pruning is done at the end of winter, as flowers appear on new wood. Regular watering in summer ensures abundant flowering.",
     "faq": [
-      { "q": "When does rose of Sharon flower?", "a": "It flowers from July to September with white, pink, purple or blue flowers, depending on the variety." },
-      { "q": "Why does hibiscus come into leaf so late?", "a": "It is a characteristic of the species: Hibiscus syriacus starts growing late, usually in May." }
+      {
+        "q": "When does rose of Sharon flower?",
+        "a": "It flowers from July to September with white, pink, purple or blue flowers, depending on the variety."
+      },
+      {
+        "q": "Why does hibiscus come into leaf so late?",
+        "a": "It is a characteristic of the species: Hibiscus syriacus starts growing late, usually in May."
+      }
     ]
   },
   "18": {
@@ -157,8 +259,14 @@
     "planting": "Compact species are planted at 3–5 plants per square metre for mass planting, or 2–3 plants per linear metre for borders. Spiraea tolerates sun and partial shade and adapts to most soils.",
     "care": "Summer-flowering species are pruned in early spring; spring-flowering species are pruned right after flowering. Spiraea is very frost-hardy (to about -25°C) and, once established, also tolerates dry periods.",
     "faq": [
-      { "q": "When should spiraea be pruned?", "a": "Summer-flowering species (for example Spiraea japonica) are pruned in early spring; spring-flowering species after flowering." },
-      { "q": "Is spiraea suitable for public spaces?", "a": "Yes, it is hardy, tolerates urban conditions and needs minimal maintenance." }
+      {
+        "q": "When should spiraea be pruned?",
+        "a": "Summer-flowering species (for example Spiraea japonica) are pruned in early spring; spring-flowering species after flowering."
+      },
+      {
+        "q": "Is spiraea suitable for public spaces?",
+        "a": "Yes, it is hardy, tolerates urban conditions and needs minimal maintenance."
+      }
     ]
   },
   "19": {
@@ -166,8 +274,14 @@
     "planting": "Plant in sunny sites in well-drained soils; it also tolerates poor or calcareous soils. In containers, use a free-draining substrate. After planting, support the stem with a stake for the first years.",
     "care": "To keep the crown compact, shorten the new shoots (the so-called 'candles') by a third to a half in spring. It is very frost- and drought-hardy, needing watering only in the first years and in containers.",
     "faq": [
-      { "q": "How do you keep the crown of a mugo pine standard compact?", "a": "By shortening the new shoots ('candles') in spring by a third to a half of their length." },
-      { "q": "Can a mugo pine on stem be grown in a container?", "a": "Yes, it is very well suited to large containers on terraces and roofs, with a well-drained substrate." }
+      {
+        "q": "How do you keep the crown of a mugo pine standard compact?",
+        "a": "By shortening the new shoots ('candles') in spring by a third to a half of their length."
+      },
+      {
+        "q": "Can a mugo pine on stem be grown in a container?",
+        "a": "Yes, it is very well suited to large containers on terraces and roofs, with a well-drained substrate."
+      }
     ]
   },
   "20": {
@@ -175,8 +289,14 @@
     "planting": "The ideal planting time is autumn (September–October), but container plants can also be planted in spring. The buds at the base must not be buried deeper than 3–5 cm – planting too deep is the main reason peonies fail to flower. Leave 60–90 cm between plants.",
     "care": "Peony prefers sunny sites and fertile, well-drained soils. It dislikes being moved, so choose the site from the start. Stems with large flowers may need supports. In autumn, after the foliage yellows, the stems are cut back to ground level.",
     "faq": [
-      { "q": "Why is my peony not flowering?", "a": "The most common cause is planting too deep; the buds should be no more than 3–5 cm below soil level. Deep shade can also be a cause." },
-      { "q": "When are peonies planted?", "a": "Ideally in autumn, in September–October; container plants can also be planted in spring." }
+      {
+        "q": "Why is my peony not flowering?",
+        "a": "The most common cause is planting too deep; the buds should be no more than 3–5 cm below soil level. Deep shade can also be a cause."
+      },
+      {
+        "q": "When are peonies planted?",
+        "a": "Ideally in autumn, in September–October; container plants can also be planted in spring."
+      }
     ]
   },
   "21": {
@@ -184,8 +304,14 @@
     "planting": "Plant 9–12 plants per square metre for quick coverage. It prefers partial or full shade and soils that stay slightly moist. It spreads by runners, filling the gaps between plants.",
     "care": "Ajuga needs very little maintenance. In dry periods it needs watering, especially in sunnier spots. After flowering, spent spikes can be cut off. If it spreads too much, runners are easily removed.",
     "faq": [
-      { "q": "How many Ajuga plants are needed per square metre?", "a": "Usually 9–12 plants per m² for full coverage within one season." },
-      { "q": "Can Ajuga replace lawn in shade?", "a": "Yes, it is one of the best lawn alternatives in shaded areas that are not walked on often." }
+      {
+        "q": "How many Ajuga plants are needed per square metre?",
+        "a": "Usually 9–12 plants per m² for full coverage within one season."
+      },
+      {
+        "q": "Can Ajuga replace lawn in shade?",
+        "a": "Yes, it is one of the best lawn alternatives in shaded areas that are not walked on often."
+      }
     ]
   },
   "22": {
@@ -193,8 +319,14 @@
     "planting": "Plant 5–7 plants per square metre in partial or full shade, in rich soils that stay moist. In strong sun and dry soil the leaf edges dry out.",
     "care": "Astilbe needs regular watering, especially in summer; mulching helps keep moisture in. The dry flower heads can be left over winter as they are decorative, and in spring the stems are cut to ground level. Every 3–4 years clumps can be divided.",
     "faq": [
-      { "q": "Does astilbe grow in sun?", "a": "Astilbe prefers partial or full shade; in sun it only grows if the soil stays permanently moist." },
-      { "q": "When does astilbe flower?", "a": "Astilbe flowers in summer, usually from June to August, depending on the variety." }
+      {
+        "q": "Does astilbe grow in sun?",
+        "a": "Astilbe prefers partial or full shade; in sun it only grows if the soil stays permanently moist."
+      },
+      {
+        "q": "When does astilbe flower?",
+        "a": "Astilbe flowers in summer, usually from June to August, depending on the variety."
+      }
     ]
   },
   "23": {
@@ -202,8 +334,14 @@
     "planting": "Plant 5–7 plants per square metre. It prefers partial or full shade and moist but well-drained soils. It spreads slowly by short rhizomes, forming a dense carpet over time.",
     "care": "It is a very low-maintenance plant. In spring, leaves damaged over winter are removed. In dry periods it needs watering. It is hardy to about -20°C.",
     "faq": [
-      { "q": "Does Carex 'Ice Dance' keep its leaves in winter?", "a": "Yes, it is an evergreen ornamental grass and stays decorative all year." },
-      { "q": "Where should Carex 'Ice Dance' be planted?", "a": "In partial or full shade, under trees, in borders and planters, in moist, well-drained soil." }
+      {
+        "q": "Does Carex 'Ice Dance' keep its leaves in winter?",
+        "a": "Yes, it is an evergreen ornamental grass and stays decorative all year."
+      },
+      {
+        "q": "Where should Carex 'Ice Dance' be planted?",
+        "a": "In partial or full shade, under trees, in borders and planters, in moist, well-drained soil."
+      }
     ]
   },
   "24": {
@@ -211,8 +349,14 @@
     "planting": "Plant 7–9 plants per square metre. It needs full sun and poor, dry, well-drained soils – in heavy, wet soils the tufts rot. The blue colour is most intense in sunny sites.",
     "care": "In spring, dead leaves are removed by combing the tuft by hand. Every 2–3 years, tufts that die out in the middle are divided and replanted. It needs no fertiliser and, once established, tolerates drought very well.",
     "faq": [
-      { "q": "Why does Festuca glauca die out in the middle?", "a": "It is a natural ageing process; tufts are rejuvenated by dividing them every 2–3 years." },
-      { "q": "Does Festuca glauca tolerate drought?", "a": "Yes, once established it tolerates drought very well and prefers dry, poor soils." }
+      {
+        "q": "Why does Festuca glauca die out in the middle?",
+        "a": "It is a natural ageing process; tufts are rejuvenated by dividing them every 2–3 years."
+      },
+      {
+        "q": "Does Festuca glauca tolerate drought?",
+        "a": "Yes, once established it tolerates drought very well and prefers dry, poor soils."
+      }
     ]
   },
   "25": {
@@ -220,8 +364,14 @@
     "planting": "Plant 4–6 plants per square metre. It prefers full sun or light partial shade and adapts to almost any soil. Planting can be done from spring to autumn.",
     "care": "Daylily needs very little care. Spent flower stems and dead leaves are cut back in autumn or spring. Every 4–5 years very dense clumps can be divided to keep flowering abundant.",
     "faq": [
-      { "q": "Is daylily suitable for slopes?", "a": "Yes, its dense roots hold the soil and the plant tolerates drought, so it is widely used on slopes and in public spaces." },
-      { "q": "How long does daylily flower?", "a": "Each flower lasts one day, but the clump flowers continuously for several weeks in summer; there are also repeat-flowering varieties." }
+      {
+        "q": "Is daylily suitable for slopes?",
+        "a": "Yes, its dense roots hold the soil and the plant tolerates drought, so it is widely used on slopes and in public spaces."
+      },
+      {
+        "q": "How long does daylily flower?",
+        "a": "Each flower lasts one day, but the clump flowers continuously for several weeks in summer; there are also repeat-flowering varieties."
+      }
     ]
   },
   "26": {
@@ -229,8 +379,14 @@
     "planting": "Depending on the size of the variety, 3–5 plants per square metre are planted. It prefers partial or full shade and rich, moist but well-drained soils.",
     "care": "Hosta needs regular watering in dry periods. The main pests are slugs and snails, which can hole the leaves in spring, so monitoring is recommended. In autumn the foliage dies back and the plant reshoots every spring. It is very frost-hardy, to about -30°C.",
     "faq": [
-      { "q": "Does hosta grow in deep shade?", "a": "Yes, hosta is one of the best perennials for shade; blue-leaved varieties especially prefer shade." },
-      { "q": "Does hosta stay green in winter?", "a": "No, hosta dies back in autumn and starts growing again in spring." }
+      {
+        "q": "Does hosta grow in deep shade?",
+        "a": "Yes, hosta is one of the best perennials for shade; blue-leaved varieties especially prefer shade."
+      },
+      {
+        "q": "Does hosta stay green in winter?",
+        "a": "No, hosta dies back in autumn and starts growing again in spring."
+      }
     ]
   },
   "27": {
@@ -238,8 +394,14 @@
     "planting": "Plant 6–9 plants per square metre. The rhizomes are planted at the surface, half exposed – planting too deep leads to rot and no flowers. It needs full sun and well-drained soil.",
     "care": "Once established, iris tolerates drought very well and should not be overwatered. Every 3–4 years, after flowering (July–August), dense clumps are divided and replanted. Dead leaves are removed in autumn.",
     "faq": [
-      { "q": "How deep should bearded iris be planted?", "a": "The rhizomes are planted at the surface, half exposed; planting too deep prevents flowering." },
-      { "q": "When are irises divided?", "a": "Every 3–4 years, after flowering, usually in July–August." }
+      {
+        "q": "How deep should bearded iris be planted?",
+        "a": "The rhizomes are planted at the surface, half exposed; planting too deep prevents flowering."
+      },
+      {
+        "q": "When are irises divided?",
+        "a": "Every 3–4 years, after flowering, usually in July–August."
+      }
     ]
   },
   "28": {
@@ -247,8 +409,14 @@
     "planting": "Plant 3–5 plants per square metre in full sun and well-drained soil. Drainage is essential especially in winter, when excess moisture can kill the plant.",
     "care": "It tolerates drought once established. Spent flower stems are cut after flowering. In regions with cold winters, the leaves can be tied together over the crown in autumn to protect it from wet, and the base mulched. Old leaves are cleaned up in spring.",
     "faq": [
-      { "q": "When does Kniphofia flower?", "a": "It flowers in summer, usually from June to September, depending on the variety." },
-      { "q": "How is Kniphofia protected in winter?", "a": "Provide well-drained soil, mulch the base and tie the leaves over the crown to keep it dry." }
+      {
+        "q": "When does Kniphofia flower?",
+        "a": "It flowers in summer, usually from June to September, depending on the variety."
+      },
+      {
+        "q": "How is Kniphofia protected in winter?",
+        "a": "Provide well-drained soil, mulch the base and tie the leaves over the crown to keep it dry."
+      }
     ]
   },
   "29": {
@@ -256,8 +424,14 @@
     "planting": "For full coverage, 9–16 plants per square metre are planted, as it spreads slowly. It prefers partial or full shade and moist, well-drained soils.",
     "care": "It needs no mowing or cutting; damaged leaves can be removed in spring. In dry periods it must be watered. It is hardy to about -15°C, so sheltered sites are recommended in cold regions.",
     "faq": [
-      { "q": "Can Ophiopogon replace lawn?", "a": "Yes, in shaded, lightly used areas it forms an evergreen carpet without mowing." },
-      { "q": "How many Ophiopogon plants are needed per square metre?", "a": "Between 9 and 16 plants per m², as the plant spreads slowly." }
+      {
+        "q": "Can Ophiopogon replace lawn?",
+        "a": "Yes, in shaded, lightly used areas it forms an evergreen carpet without mowing."
+      },
+      {
+        "q": "How many Ophiopogon plants are needed per square metre?",
+        "a": "Between 9 and 16 plants per m², as the plant spreads slowly."
+      }
     ]
   },
   "30": {
@@ -265,8 +439,14 @@
     "planting": "Plant 5–7 plants per square metre in sun or partial shade, in moist, fertile soils. It spreads by rhizomes and can become vigorous, so leave room or use an edging barrier.",
     "care": "It needs watering in dry periods. Stems are cut to ground level in autumn or spring. Every few years clumps are divided to control spreading.",
     "faq": [
-      { "q": "When does Physostegia flower?", "a": "It flowers in the second half of summer, from July to September." },
-      { "q": "Does Physostegia spread in the garden?", "a": "Yes, it spreads by rhizomes; periodic division or an edging barrier is recommended." }
+      {
+        "q": "When does Physostegia flower?",
+        "a": "It flowers in the second half of summer, from July to September."
+      },
+      {
+        "q": "Does Physostegia spread in the garden?",
+        "a": "Yes, it spreads by rhizomes; periodic division or an edging barrier is recommended."
+      }
     ]
   },
   "31": {
@@ -274,8 +454,14 @@
     "planting": "Plant 9–12 plants per square metre. It needs full sun and a poor, very well-drained substrate; on green roofs a special substrate is used.",
     "care": "Once established it tolerates extreme drought and needs no fertiliser. Standing water is the only thing that can kill it. Broken pieces root easily, which helps fill gaps quickly.",
     "faq": [
-      { "q": "Is Sedum 'Angelina' suitable for green roofs?", "a": "Yes, it is one of the key species for extensive green roofs thanks to its drought and heat tolerance." },
-      { "q": "How many Sedum plants are needed per square metre?", "a": "Usually 9–12 plants per m² for quick coverage." }
+      {
+        "q": "Is Sedum 'Angelina' suitable for green roofs?",
+        "a": "Yes, it is one of the key species for extensive green roofs thanks to its drought and heat tolerance."
+      },
+      {
+        "q": "How many Sedum plants are needed per square metre?",
+        "a": "Usually 9–12 plants per m² for quick coverage."
+      }
     ]
   },
   "32": {
@@ -283,8 +469,14 @@
     "planting": "Plant 9–12 plants per square metre in full sun on poor, well-drained soils. It also adapts to the thin substrates used on roofs.",
     "care": "It is extremely frost-hardy (to about -30°C) and drought tolerant. It needs no fertiliser or pruning; after flowering, spent flower heads can be trimmed for a tidy look.",
     "faq": [
-      { "q": "Is Sedum hybridum frost-hardy?", "a": "Yes, it is very frost-hardy, down to about -30°C." },
-      { "q": "Where is Sedum hybridum used?", "a": "On green roofs, slopes, rock gardens and sunny public spaces with limited irrigation." }
+      {
+        "q": "Is Sedum hybridum frost-hardy?",
+        "a": "Yes, it is very frost-hardy, down to about -30°C."
+      },
+      {
+        "q": "Where is Sedum hybridum used?",
+        "a": "On green roofs, slopes, rock gardens and sunny public spaces with limited irrigation."
+      }
     ]
   },
   "33": {
@@ -292,8 +484,14 @@
     "planting": "Plant 9–12 plants per square metre in full sun and dry, well-drained soil. Combined in bands or patches with other sedum species, it creates decorative patterns over large areas.",
     "care": "It needs minimal maintenance: no fertiliser and no watering after establishment, except during very long droughts. Wet, heavy soils should be avoided.",
     "faq": [
-      { "q": "What does Sedum rupestre 'Blue' combine well with?", "a": "It combines very well with golden Sedum 'Angelina' and other green succulents for colour contrast." },
-      { "q": "Does Sedum 'Blue' need watering?", "a": "Hardly at all once established; water only during very prolonged drought." }
+      {
+        "q": "What does Sedum rupestre 'Blue' combine well with?",
+        "a": "It combines very well with golden Sedum 'Angelina' and other green succulents for colour contrast."
+      },
+      {
+        "q": "Does Sedum 'Blue' need watering?",
+        "a": "Hardly at all once established; water only during very prolonged drought."
+      }
     ]
   },
   "34": {
@@ -301,8 +499,14 @@
     "planting": "Plant 9–12 plants per square metre in full sun on a poor, very well-drained substrate. In planters, use a succulent substrate.",
     "care": "It is a very low-maintenance, drought-tolerant plant. Standing water should be avoided, especially in winter. The pink tones are most intense in full sun.",
     "faq": [
-      { "q": "Where should Sedum 'Watson' be planted?", "a": "In full sun, in rock gardens, planters and on green roofs, on a well-drained substrate." },
-      { "q": "Why do the rosettes lose their pink colour?", "a": "In shade the colour becomes greener; the pink tones are only intense in full sun." }
+      {
+        "q": "Where should Sedum 'Watson' be planted?",
+        "a": "In full sun, in rock gardens, planters and on green roofs, on a well-drained substrate."
+      },
+      {
+        "q": "Why do the rosettes lose their pink colour?",
+        "a": "In shade the colour becomes greener; the pink tones are only intense in full sun."
+      }
     ]
   },
   "35": {
@@ -310,8 +514,14 @@
     "planting": "Plant 5–7 plants per square metre in full sun and well-drained soil. It does not need rich soil – in overly fertile soils the stems flop.",
     "care": "It is very drought tolerant. Dry flower heads can be left over winter as they are decorative, and in spring the stems are cut to ground level. It needs no fertiliser.",
     "faq": [
-      { "q": "When does Sedum spectabile flower?", "a": "From late summer to autumn, usually August–October." },
-      { "q": "Why do Sedum spectabile stems flop?", "a": "Most often because the soil is too rich or the site too shady; the plant prefers poor soils and full sun." }
+      {
+        "q": "When does Sedum spectabile flower?",
+        "a": "From late summer to autumn, usually August–October."
+      },
+      {
+        "q": "Why do Sedum spectabile stems flop?",
+        "a": "Most often because the soil is too rich or the site too shady; the plant prefers poor soils and full sun."
+      }
     ]
   },
   "36": {
@@ -319,8 +529,14 @@
     "planting": "Plant 6–9 plants per square metre in full sun and dry, well-drained soil. It spreads, forming a silver carpet over time.",
     "care": "It tolerates drought very well but dislikes excessive wet in winter. For a more compact leaf carpet, flower stems can be removed. Damaged leaves are cleaned up in spring.",
     "faq": [
-      { "q": "Where should lamb's ear be planted?", "a": "In full sun, in dry, well-drained soil, as edging or ground cover." },
-      { "q": "Is Stachys byzantina drought tolerant?", "a": "Yes, it is one of the most drought-tolerant perennials; the main problem is excessive moisture." }
+      {
+        "q": "Where should lamb's ear be planted?",
+        "a": "In full sun, in dry, well-drained soil, as edging or ground cover."
+      },
+      {
+        "q": "Is Stachys byzantina drought tolerant?",
+        "a": "Yes, it is one of the most drought-tolerant perennials; the main problem is excessive moisture."
+      }
     ]
   },
   "37": {
@@ -328,8 +544,14 @@
     "planting": "Olive trees only withstand short frosts down to about -10°C. In most of Romania they are grown in large pots or planters with a well-drained substrate; planting directly in the ground is only possible in regions with very mild winters, in sheltered sites.",
     "care": "In summer it needs full sun and moderate watering, without standing water in the pot. In winter, potted specimens are kept in a bright, cool place (about 5–10°C) or protected with fleece in sheltered spots. The crown can be shaped by pruning at the end of winter.",
     "faq": [
-      { "q": "Can an olive tree stay outdoors in winter in Romania?", "a": "Only in regions with mild winters and with protection; generally, growing it in a pot and overwintering it in a bright, cool place is recommended." },
-      { "q": "Are olive trees suitable for restaurant terraces?", "a": "Yes, in large pots they are among the most sought-after trees for terraces and Mediterranean-style hospitality venues." }
+      {
+        "q": "Can an olive tree stay outdoors in winter in Romania?",
+        "a": "Only in regions with mild winters and with protection; generally, growing it in a pot and overwintering it in a bright, cool place is recommended."
+      },
+      {
+        "q": "Are olive trees suitable for restaurant terraces?",
+        "a": "Yes, in large pots they are among the most sought-after trees for terraces and Mediterranean-style hospitality venues."
+      }
     ]
   },
   "38": {
@@ -337,8 +559,14 @@
     "planting": "Bonsai are grown in special shallow pots with bonsai substrate, which provides good drainage and aeration. Placement depends on the species: indoor species need plenty of light, while outdoor species must be kept outside and protected only from severe frost.",
     "care": "Watering is the most important factor: the substrate must not dry out completely, and in summer daily watering may be needed. The shape is maintained by pinching shoots and periodic pruning. Every 2–3 years the bonsai is repotted into fresh substrate.",
     "faq": [
-      { "q": "Should a bonsai be kept indoors or outdoors?", "a": "It depends on the species: some are indoor species, others must be kept outdoors all year. We will recommend the right species for your space." },
-      { "q": "How often should a bonsai be watered?", "a": "When the top layer of the substrate starts to dry; in summer daily watering may be needed." }
+      {
+        "q": "Should a bonsai be kept indoors or outdoors?",
+        "a": "It depends on the species: some are indoor species, others must be kept outdoors all year. We will recommend the right species for your space."
+      },
+      {
+        "q": "How often should a bonsai be watered?",
+        "a": "When the top layer of the substrate starts to dry; in summer daily watering may be needed."
+      }
     ]
   },
   "39": {
@@ -346,8 +574,14 @@
     "planting": "For hedges, 1.5–2 plants per linear metre are usually planted (50–70 cm apart), depending on plant size. It adapts to various soil types but does not tolerate waterlogging. After planting, tall plants are staked.",
     "care": "It grows very fast (60–100 cm per year), so the hedge is trimmed two or three times a year, from spring to late summer. Important: do not cut into old wood without needles, as it will not regrow from there. It is hardy to about -15°C.",
     "faq": [
-      { "q": "How fast does Leyland cypress grow?", "a": "It grows about 60–100 cm per year, making it one of the fastest conifers for tall hedges." },
-      { "q": "Can Leyland cypress be cut back hard?", "a": "No – cuts into old wood without needles do not regrow. The hedge should be trimmed regularly, 2–3 times a year, from the first year." }
+      {
+        "q": "How fast does Leyland cypress grow?",
+        "a": "It grows about 60–100 cm per year, making it one of the fastest conifers for tall hedges."
+      },
+      {
+        "q": "Can Leyland cypress be cut back hard?",
+        "a": "No – cuts into old wood without needles do not regrow. The hedge should be trimmed regularly, 2–3 times a year, from the first year."
+      }
     ]
   },
   "40": {
@@ -355,8 +589,14 @@
     "planting": "Plant 5–7 plants per square metre in full sun and well-drained soil. It has a deep taproot that helps it withstand drought but makes it hard to move once established.",
     "care": "It is very drought- and heat-tolerant and needs no fertiliser. Excess winter wet is the main risk, so drainage is essential. Stems are cut back in spring to 10–15 cm above the ground.",
     "faq": [
-      { "q": "How long does Gaura flower?", "a": "It flowers continuously from June until autumn, one of the longest flowering periods among perennials." },
-      { "q": "Is Gaura drought tolerant?", "a": "Yes, thanks to its deep taproot it tolerates drought and heat very well." }
+      {
+        "q": "How long does Gaura flower?",
+        "a": "It flowers continuously from June until autumn, one of the longest flowering periods among perennials."
+      },
+      {
+        "q": "Is Gaura drought tolerant?",
+        "a": "Yes, thanks to its deep taproot it tolerates drought and heat very well."
+      }
     ]
   },
   "41": {
@@ -364,8 +604,14 @@
     "planting": "Plant 7–9 plants per square metre in full sun and well-drained soil. It also tolerates calcareous soils.",
     "care": "After flowering, plants are lightly trimmed to stay compact and dense. In dry periods it needs moderate watering. It is hardy to about -20°C.",
     "faq": [
-      { "q": "When does Iberis flower?", "a": "Iberis sempervirens flowers in spring, usually in April–May." },
-      { "q": "Does Iberis keep its leaves in winter?", "a": "Yes, it is evergreen and stays green all year." }
+      {
+        "q": "When does Iberis flower?",
+        "a": "Iberis sempervirens flowers in spring, usually in April–May."
+      },
+      {
+        "q": "Does Iberis keep its leaves in winter?",
+        "a": "Yes, it is evergreen and stays green all year."
+      }
     ]
   },
   "42": {
@@ -373,8 +619,14 @@
     "planting": "As an informal hedge, plant one shrub every 1–1.5 m; as a solitary shrub leave 2–3 m of space. It prefers sunny sites – in shade it flowers poorly – and tolerates calcareous soils.",
     "care": "Pruning is done right after flowering, as next year's flower buds form in summer. Spent flower clusters are removed, and suckers from the base are cut periodically. Once established it needs very little care.",
     "faq": [
-      { "q": "When should lilac be pruned?", "a": "Right after flowering; pruning in autumn or winter removes the flower buds." },
-      { "q": "Why is my lilac not flowering?", "a": "The most common causes are deep shade and pruning at the wrong time." }
+      {
+        "q": "When should lilac be pruned?",
+        "a": "Right after flowering; pruning in autumn or winter removes the flower buds."
+      },
+      {
+        "q": "Why is my lilac not flowering?",
+        "a": "The most common causes are deep shade and pruning at the wrong time."
+      }
     ]
   },
   "43": {
@@ -382,8 +634,14 @@
     "planting": "Hardy to about -15°C, crape myrtle does best in regions with mild winters, in sunny, warm sites sheltered from cold winds. It prefers well-drained soils. Planting is done in spring.",
     "care": "It comes into leaf late, only at the end of spring. Flowers appear on new wood, so pruning is done at the end of winter. Young plants are protected in their first winters by mulching the base.",
     "faq": [
-      { "q": "Can Lagerstroemia survive Romanian winters?", "a": "It is hardy to about -15°C, so it suits mainly regions with mild winters and sheltered sites." },
-      { "q": "When does Lagerstroemia flower?", "a": "It flowers from July to September, on the current year's growth." }
+      {
+        "q": "Can Lagerstroemia survive Romanian winters?",
+        "a": "It is hardy to about -15°C, so it suits mainly regions with mild winters and sheltered sites."
+      },
+      {
+        "q": "When does Lagerstroemia flower?",
+        "a": "It flowers from July to September, on the current year's growth."
+      }
     ]
   },
   "44": {
@@ -391,8 +649,14 @@
     "planting": "Plant in rows 1–1.5 m apart for avenues and screens, or individually as a vertical accent. It prefers full sun, warmth and well-drained soils; heavy, wet soils should be avoided. Hardy to about -15°C, it is best suited to regions with mild winters and sheltered sites.",
     "care": "Once established it tolerates drought very well. In the first years water during dry spells and protect from cold winter winds. Its natural columnar shape needs no pruning.",
     "faq": [
-      { "q": "Can Italian cypress survive Romanian winters?", "a": "It is hardy to about -15°C; it suits regions with mild winters and sites sheltered from cold winds." },
-      { "q": "How far apart should Italian cypress be planted?", "a": "For avenues and rows, 1–1.5 m between plants." }
+      {
+        "q": "Can Italian cypress survive Romanian winters?",
+        "a": "It is hardy to about -15°C; it suits regions with mild winters and sites sheltered from cold winds."
+      },
+      {
+        "q": "How far apart should Italian cypress be planted?",
+        "a": "For avenues and rows, 1–1.5 m between plants."
+      }
     ]
   },
   "45": {
@@ -400,8 +664,14 @@
     "planting": "At maturity it reaches 6–8 m in height with a broad crown. In avenues it is planted 6–8 m apart. It prefers full sun and fertile, well-drained soils without standing water.",
     "care": "After planting, trees are staked and watered regularly for the first two years. Pruning is limited to removing dead or crossing branches and is done after flowering or in summer to reduce the risk of disease.",
     "faq": [
-      { "q": "When does Japanese cherry flower?", "a": "Japanese cherry flowers in April for about two weeks, depending on the variety and the weather." },
-      { "q": "Is Japanese cherry suitable for street plantings?", "a": "Yes, thanks to its medium size and spectacular flowering it is widely used in avenues and parks." }
+      {
+        "q": "When does Japanese cherry flower?",
+        "a": "Japanese cherry flowers in April for about two weeks, depending on the variety and the weather."
+      },
+      {
+        "q": "Is Japanese cherry suitable for street plantings?",
+        "a": "Yes, thanks to its medium size and spectacular flowering it is widely used in avenues and parks."
+      }
     ]
   },
   "46": {
@@ -409,8 +679,14 @@
     "planting": "It prefers partial shade and sites sheltered from wind and strong afternoon sun, which can scorch the leaves. It needs rich, well-drained, slightly acidic to neutral soils.",
     "care": "In hot summers it needs regular watering; mulching keeps moisture in and protects the shallow roots. It grows slowly and needs no pruning apart from removing dead branches, in late autumn or winter.",
     "faq": [
-      { "q": "Why do Japanese maple leaves scorch in summer?", "a": "Because of strong sun, wind or lack of water; Japanese maple prefers partial shade and consistently moist soil." },
-      { "q": "Can Japanese maple be grown in a container?", "a": "Yes, it is very well suited to large containers on terraces, with a well-drained substrate and regular watering." }
+      {
+        "q": "Why do Japanese maple leaves scorch in summer?",
+        "a": "Because of strong sun, wind or lack of water; Japanese maple prefers partial shade and consistently moist soil."
+      },
+      {
+        "q": "Can Japanese maple be grown in a container?",
+        "a": "Yes, it is very well suited to large containers on terraces, with a well-drained substrate and regular watering."
+      }
     ]
   },
   "47": {
@@ -418,8 +694,14 @@
     "planting": "It is hardy to about -12°C, and well-established mature specimens can tolerate short, harder frosts. Plant in sunny or partly shaded sites sheltered from cold winds, in well-drained soil. It is also suitable for large containers.",
     "care": "In summer it needs moderate watering. In severe winters, young specimens are protected: the leaves are tied upwards and the trunk and crown are wrapped in fleece. Old, dry leaves are cut off at the base.",
     "faq": [
-      { "q": "Can a Trachycarpus palm stay outdoors in winter?", "a": "Yes, in many regions, with protection in severe winters, especially for young specimens." },
-      { "q": "How is a palm protected in winter?", "a": "The leaves are tied upwards and the trunk and crown are wrapped in fleece during hard frosts." }
+      {
+        "q": "Can a Trachycarpus palm stay outdoors in winter?",
+        "a": "Yes, in many regions, with protection in severe winters, especially for young specimens."
+      },
+      {
+        "q": "How is a palm protected in winter?",
+        "a": "The leaves are tied upwards and the trunk and crown are wrapped in fleece during hard frosts."
+      }
     ]
   },
   "48": {
@@ -427,8 +709,194 @@
     "planting": "It only withstands light frosts down to about -8°C, so in Romania it is grown in pots with a very well-drained substrate. In summer it can stay outdoors in sun or partial shade; in winter it is moved to a bright, frost-free space.",
     "care": "It grows very slowly, usually producing just one new crown of leaves per year. Water moderately, letting the substrate dry between waterings; overwatering leads to rot. Note: all parts of the plant are toxic, so keep it away from children and pets.",
     "faq": [
-      { "q": "Can Cycas revoluta stay outdoors in winter?", "a": "Not in most of Romania; it is hardy only to about -8°C and should be overwintered in a bright, frost-free space." },
-      { "q": "Is Cycas revoluta toxic?", "a": "Yes, all parts of the plant are toxic if ingested, especially the seeds; it should be placed away from children and pets." }
+      {
+        "q": "Can Cycas revoluta stay outdoors in winter?",
+        "a": "Not in most of Romania; it is hardy only to about -8°C and should be overwintered in a bright, frost-free space."
+      },
+      {
+        "q": "Is Cycas revoluta toxic?",
+        "a": "Yes, all parts of the plant are toxic if ingested, especially the seeds; it should be placed away from children and pets."
+      }
+    ]
+  },
+  "49": {
+    "uses": "Japanese cherry 'Royal Burgundy' combines two rare qualities: dark purple foliage from spring to autumn and abundant double pink flowers in April. It is used in residential street plantings, parks, school yards, residential developments and private gardens, as a focal point or to contrast with green foliage.",
+    "planting": "At maturity it reaches about 6–8 m in height with a vase-shaped crown. In avenues it is planted 5–7 m apart. It prefers full sun and fertile, well-drained soils without standing water. Plant in autumn or spring and stake.",
+    "care": "In the first two years after planting it needs regular watering. Pruning is limited to dead or crossing branches and is done after flowering or in summer to reduce the risk of disease. It is hardy to about -25°C.",
+    "faq": [
+      {
+        "q": "When does Japanese cherry 'Royal Burgundy' flower?",
+        "a": "It flowers in April with double pink blossoms that contrast beautifully with the purple leaves."
+      },
+      {
+        "q": "How big does 'Royal Burgundy' grow?",
+        "a": "Usually 6–8 m tall with a vase-shaped crown, also suitable for medium-width streets."
+      }
+    ]
+  },
+  "50": {
+    "uses": "The silk tree (Albizia julibrissin) brings an exotic touch to gardens, hotel and restaurant terraces, courtyards and parks. Its fine, fern-like foliage gives light shade, and the fluffy pink flowers appear from June to August, when few trees are still in bloom.",
+    "planting": "It forms a broad, umbrella-shaped crown of 6–8 m. It prefers warm, sunny sites sheltered from cold winds and well-drained soils. Plant in spring so it can root before winter.",
+    "care": "Once established it tolerates drought and heat well. Young plants are protected in their first winters by mulching the base. It comes into leaf late, only at the end of spring – this is normal for the species. Prune at the end of winter.",
+    "faq": [
+      {
+        "q": "Can Albizia survive Romanian winters?",
+        "a": "Mature trees withstand frosts down to about -15°C; in cold regions sheltered sites and protection of young plants are recommended."
+      },
+      {
+        "q": "When does Albizia flower?",
+        "a": "From June to August, with fluffy pink powder-puff flowers."
+      }
+    ]
+  },
+  "51": {
+    "uses": "The multi-stem form of the silk tree has several trunks rising from the base and a broad, airy crown. It is a striking specimen for terraces, building entrances, courtyards, modern gardens and hospitality venues where a sculptural plant element is wanted.",
+    "planting": "Plant as a specimen with enough room for the broad crown. It prefers full sun, warmth and well-drained soils. Plant in spring in sites sheltered from cold winter winds.",
+    "care": "It tolerates drought once established and needs no formative pruning – only dead or crossing branches are removed. Protect the base of young plants in their first winters.",
+    "faq": [
+      {
+        "q": "What is the difference between single-stem and multi-stem Albizia?",
+        "a": "The multi-stem form has several trunks from the base and a wider, lower crown, and is used mainly as a decorative specimen."
+      },
+      {
+        "q": "Where does a multi-stem Albizia fit best?",
+        "a": "On terraces, at entrances, in courtyards and modern gardens, as a sculptural element."
+      }
+    ]
+  },
+  "52": {
+    "uses": "The large-leaved lime (Tilia platyphyllos) is a classic tree for wide avenues, parks, squares and churchyards. Its broad crown gives dense summer shade, and the June flowers fill the air with fragrance and are an important nectar source for bees.",
+    "planting": "At maturity it exceeds 25 m in height, so it needs space: in avenues it is planted 8–12 m apart. It prefers fertile, deep, moist soils and tolerates calcareous soils. Plant in autumn or spring and stake.",
+    "care": "In the first years water regularly and carry out formative pruning to raise the crown. It is very frost-hardy (to about -30°C) and long-lived. In very dry summers it may drop its leaves early.",
+    "faq": [
+      {
+        "q": "When does the large-leaved lime flower?",
+        "a": "It is the first lime to flower, usually in June, with fragrant blossoms valuable for bees."
+      },
+      {
+        "q": "How far apart are limes planted in avenues?",
+        "a": "Usually 8–12 m, as they form a very broad crown at maturity."
+      }
+    ]
+  },
+  "53": {
+    "uses": "The small-leaved lime (Tilia cordata) is one of the most widely used street trees in Europe. It tolerates compacted soils, pollution and urban conditions, responds well to pruning and forms a dense, regular crown. It suits avenues, parks, car parks and school yards.",
+    "planting": "It reaches 20–25 m in height. In avenues it is usually planted 8–10 m apart. It adapts to most soils, preferring fertile, moist ones. Plant in autumn or spring with staking and trunk protection.",
+    "care": "Water regularly in the first 2–3 years. Formative pruning raises the crown for pedestrians and vehicles. It is very frost-hardy (to about -30°C). The June–July flowers are excellent for bees.",
+    "faq": [
+      {
+        "q": "Why is small-leaved lime so common on streets?",
+        "a": "Because it tolerates urban conditions, responds well to pruning and forms a regular, dense crown."
+      },
+      {
+        "q": "Is small-leaved lime good for bees?",
+        "a": "Yes, its June–July flowers are a very good nectar source."
+      }
+    ]
+  },
+  "54": {
+    "uses": "The silver lime (Tilia tomentosa) stands out with leaves that are white-silver underneath and shimmer in the wind. It tolerates drought, heat and pollution better than other limes, which makes it a very good choice for avenues, parks and public spaces in ever hotter summers.",
+    "planting": "It reaches 20–30 m in height with a broad, regular crown. In avenues it is planted 8–12 m apart. It adapts to various soils, including drier ones. Plant in autumn or spring.",
+    "care": "Once established it tolerates drought well. In the first years water regularly and stake. Formative pruning is done in winter. It flowers later than other limes, usually in July.",
+    "faq": [
+      {
+        "q": "Is silver lime drought tolerant?",
+        "a": "Yes, it is one of the most drought- and heat-tolerant limes, well suited to cities."
+      },
+      {
+        "q": "When does silver lime flower?",
+        "a": "Later than other limes, usually in July."
+      }
+    ]
+  },
+  "55": {
+    "uses": "Scots pine (Pinus sylvestris) is a very hardy conifer, recognisable by the orange bark on the upper trunk. It is used in parks, shelterbelts, afforestation, on slopes and in low-maintenance green spaces, where it thrives on poor, sandy soils.",
+    "planting": "As a specimen it needs space, exceeding 20 m at maturity. For shelterbelts it is planted 3–4 m apart. It prefers sunny sites and well-drained soils and does not tolerate waterlogging.",
+    "care": "Once established it needs very little care and withstands frost and drought. Water only in the first years and during very dry periods. No pruning is needed except for dead branches.",
+    "faq": [
+      {
+        "q": "Which soils does Scots pine grow on?",
+        "a": "It tolerates poor and sandy soils very well, provided they are well drained."
+      },
+      {
+        "q": "Is Scots pine suitable for shelterbelts?",
+        "a": "Yes, it is resistant to wind, frost and drought and is often used in shelterbelts and afforestation."
+      }
+    ]
+  },
+  "56": {
+    "uses": "Red oak (Quercus rubra) grows faster than most oaks and has one of the most beautiful autumn colours, in shades of bright red. It is used in large parks, wide avenues, campuses and public green spaces.",
+    "planting": "At maturity it reaches 20–25 m with a broad crown. In avenues it is planted 10–12 m apart. It prefers acidic to neutral soils; on very calcareous soils the leaves can turn yellow. Plant in autumn or spring.",
+    "care": "In the first years water regularly and stake. Formative pruning is done in winter. It is very frost-hardy (to about -30°C) and tolerates urban conditions well.",
+    "faq": [
+      {
+        "q": "When does red oak change colour?",
+        "a": "In autumn, usually in October, the leaves turn bright red to reddish-brown."
+      },
+      {
+        "q": "Which soils does red oak need?",
+        "a": "It prefers acidic to neutral soils; on very calcareous soils the leaves may yellow."
+      }
+    ]
+  },
+  "57": {
+    "uses": "Sweetgum (Liquidambar styraciflua) is valued for its star-shaped leaves and spectacular autumn colour, which runs through yellow, orange, red and purple. It is used in parks, avenues, residential developments and as a specimen tree.",
+    "planting": "It has a regular pyramidal crown and usually reaches 15–20 m in cultivation. In avenues it is planted 8–10 m apart. It prefers moist, well-drained, slightly acidic to neutral soils. Plant in spring or autumn.",
+    "care": "In the first years it needs regular watering. The spiky round fruits drop in autumn and winter – worth considering next to pavements and car parks. Pruning is limited to dead branches.",
+    "faq": [
+      {
+        "q": "Why is sweetgum so popular?",
+        "a": "For its star-shaped leaves and spectacular red, purple and orange autumn colour."
+      },
+      {
+        "q": "Does sweetgum produce fruit?",
+        "a": "Yes, spiky round fruits that drop in autumn and winter; worth considering near paths and car parks."
+      }
+    ]
+  },
+  "58": {
+    "uses": "The tulip tree (Liriodendron tulipifera) is an imposing tree with unusually shaped leaves, 'cut off' at the tip, yellow-green and orange tulip-like flowers in June and golden-yellow autumn colour. It suits large parks, botanical gardens, campuses and wide avenues.",
+    "planting": "It grows fast and reaches 25–30 m, so it needs a lot of space: as a specimen or in avenues 10–12 m apart. It prefers fertile, deep, moist soils. Plant in spring.",
+    "care": "Water regularly in the first years, especially in dry summers. It is frost-hardy (to about -30°C). Pruning is limited to shaping the crown and removing dead branches.",
+    "faq": [
+      {
+        "q": "Why is it called the tulip tree?",
+        "a": "Because of its flowers, which resemble tulips, and its tulip-shaped leaves."
+      },
+      {
+        "q": "How big does the tulip tree grow?",
+        "a": "It is a large tree reaching 25–30 m, suited to parks and spacious sites."
+      }
+    ]
+  },
+  "59": {
+    "uses": "Norway maple 'Crimson King' (Acer platanoides) keeps its deep crimson-purple leaves from spring to autumn, giving strong contrast with green-leaved trees. It is widely used in avenues, parks, residential developments and commercial sites.",
+    "planting": "It reaches 10–15 m in height with a dense, rounded crown. In avenues it is planted 8–10 m apart. It adapts to most soils and tolerates urban conditions. Plant in autumn or spring.",
+    "care": "In the first years water regularly and stake. Formative pruning is done in late summer or winter, avoiding spring, when maples 'bleed' sap. It is very frost-hardy.",
+    "faq": [
+      {
+        "q": "Does 'Crimson King' keep its colour all summer?",
+        "a": "Yes, the leaves stay deep crimson-purple from spring to autumn."
+      },
+      {
+        "q": "Is 'Crimson King' suitable for streets?",
+        "a": "Yes, it tolerates urban conditions and forms a dense, rounded crown suited to avenues."
+      }
+    ]
+  },
+  "60": {
+    "uses": "Saucer magnolia (Magnolia × soulangeana) is one of the most spectacular spring-flowering plants: in April, before the leaves appear, it is covered with large, cup-shaped white-and-pink flowers. It is an ideal specimen for gardens, building entrances, parks and prestige spaces.",
+    "planting": "It usually reaches 4–8 m in height and width. It prefers sunny or partly shaded sites sheltered from cold winds and rich, slightly acidic to neutral soils. Plant in spring.",
+    "care": "It needs regular watering in the first years and mulching, as its roots are shallow. Late spring frosts can damage the flowers but not the plant. Keep pruning to a minimum, after flowering.",
+    "faq": [
+      {
+        "q": "When does saucer magnolia flower?",
+        "a": "In April, before the leaves appear, with large white-and-pink flowers."
+      },
+      {
+        "q": "What happens if magnolia flowers are hit by frost?",
+        "a": "Late frosts can brown that year's flowers, but the plant itself is not harmed and flowers normally the next year."
+      }
     ]
   }
 }

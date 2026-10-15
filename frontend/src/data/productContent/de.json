@@ -988,5 +988,425 @@
         "a": "Nur leicht, im Spätsommer oder Herbst; im Frühjahr blutet die Birke beim Schnitt stark."
       }
     ]
+  },
+  "67": {
+    "uses": "Der Feuerdorn 'Red Column' bildet dichte, dornige, schwer durchdringbare Hecken und wird daher zur Abgrenzung von Grundstücken, Technikbereichen und Parkplätzen verwendet. Er lässt sich auch an Wänden oder Zäunen ziehen. Die weißen Blüten im Mai–Juni locken Bienen an, die roten Beeren bleiben bis in den Winter dekorativ und dienen Vögeln als Futter.",
+    "planting": "Für Hecken pflanzt man 2–3 Pflanzen pro laufendem Meter. Er bevorzugt Sonne bis Halbschatten und durchlässige Böden. Ungeschnitten wird er 2–3 m hoch.",
+    "care": "Schnitt nach der Blüte und leicht am Ende des Sommers, wobei genügend fruchttragende Triebe bleiben sollten. Winterhart bis etwa -20°C. Wegen der Dornen bei der Arbeit Schutzhandschuhe tragen.",
+    "faq": [
+      {
+        "q": "Eignet sich Feuerdorn als Hecke?",
+        "a": "Ja, er bildet dichte, dornige Hecken, sehr gut für Schutz und Abgrenzung."
+      },
+      {
+        "q": "Wann trägt 'Red Column' Beeren?",
+        "a": "Im Herbst; die roten Beeren bleiben bis in den Winter an der Pflanze."
+      }
+    ]
+  },
+  "68": {
+    "uses": "Lavendel gehört zu den beliebtesten Pflanzen für sonnige, pflegeleichte Grünflächen. Er wird für Wegeinfassungen, Beete, Böschungen, Kreisverkehre und mediterrane Gärten verwendet. Die duftenden Blüten locken Bienen und Schmetterlinge an, das silbrige Laub bleibt ganzjährig dekorativ.",
+    "planting": "Mit 30–40 cm Abstand pflanzen, etwa 5–7 Pflanzen pro Quadratmeter oder 3 Pflanzen pro laufendem Meter für Einfassungen. Er braucht volle Sonne und magere, trockene, durchlässige Böden; Kalk wird vertragen.",
+    "care": "Nach der Blüte die Blütenstiele kürzen und im Frühjahr leicht in Form schneiden, ohne ins alte, unbelaubte Holz zu schneiden. Er braucht keinen Dünger und verträgt Trockenheit sehr gut. Winternässe ist das Hauptrisiko.",
+    "faq": [
+      {
+        "q": "Wie viele Lavendelpflanzen braucht man pro Quadratmeter?",
+        "a": "Meist 5–7 Pflanzen pro m² mit 30–40 cm Abstand."
+      },
+      {
+        "q": "Wann schneidet man Lavendel?",
+        "a": "Nach der Blüte die Blüten kürzen und im Frühjahr leicht schneiden, nicht ins alte Holz."
+      }
+    ]
+  },
+  "69": {
+    "uses": "Der Fingerstrauch ist ein 50–100 cm hoher Strauch, der wegen seiner langen Blüte und geringen Pflege viel in öffentlichen Grünflächen verwendet wird. Er wird in Einfassungen, Beeten, an Böschungen, auf Parkplätzen und in Wohngärten gepflanzt, allein oder mit Ziergräsern und niedrigen Koniferen.",
+    "planting": "Für Flächen 3–4 Pflanzen pro Quadratmeter, für niedrige Einfassungen 2–3 pro laufendem Meter pflanzen. Er bevorzugt Sonne, wo er am reichsten blüht, und passt sich den meisten durchlässigen Böden an.",
+    "care": "Er ist extrem frosthart (bis etwa -30°C) und nach dem Anwachsen trockenheitsverträglich. Am Ende des Winters um ein Drittel zurückschneiden, damit er kompakt bleibt und reich blüht.",
+    "faq": [
+      {
+        "q": "Wie lange blüht der Fingerstrauch?",
+        "a": "Von Juni bis in den Herbst, fast ununterbrochen."
+      },
+      {
+        "q": "Eignet sich der Fingerstrauch für öffentliche Flächen?",
+        "a": "Ja, er ist sehr robust, blüht monatelang und braucht nur einen Schnitt pro Jahr."
+      }
+    ]
+  },
+  "70": {
+    "uses": "Stiefmütterchen sind die Basis für Herbst- und Frühjahrsbepflanzungen: Beete in Parks und auf Plätzen, Straßenkübel, Töpfe an Eingängen und auf Terrassen. Sie vertragen Kälte und blühen, wenn die meisten Pflanzen ruhen.",
+    "planting": "Im Herbst (September–Oktober) pflanzen für Blüte im Herbst und erneut im Frühjahr, oder im zeitigen Frühjahr. In Beeten pflanzt man meist 25–35 Pflanzen pro Quadratmeter. Sie bevorzugen Sonne bis Halbschatten und nährstoffreichen, durchlässigen Boden.",
+    "care": "Regelmäßig gießen, ohne Staunässe. Das Entfernen verblühter Blüten verlängert die Blüte. Sie überstehen mäßigen Frost, besonders unter Schnee; bei Sommerhitze werden sie meist durch Sommerblumen ersetzt.",
+    "faq": [
+      {
+        "q": "Wann pflanzt man Stiefmütterchen?",
+        "a": "Im Herbst, September–Oktober, oder im zeitigen Frühjahr."
+      },
+      {
+        "q": "Wie viele Stiefmütterchen braucht man pro Quadratmeter?",
+        "a": "Meist 25–35 Pflanzen pro m² für ein dichtes Beet."
+      }
+    ]
+  },
+  "71": {
+    "uses": "Geranien gehören zu den meistverwendeten Sommerblumen in Städten, Hotels, Restaurants und an Häusern: Blumenkästen an Fenstern und Brücken, Terrassentöpfe und Parkbeete. Sie vertragen Hitze und blühen den ganzen Sommer.",
+    "planting": "Nach den letzten Frösten pflanzen, meist ab Mitte Mai. In Kästen 4–5 Pflanzen pro laufendem Meter, in Beeten 9–12 Pflanzen pro Quadratmeter. Sie brauchen volle Sonne und nährstoffreiches, durchlässiges Substrat.",
+    "care": "Regelmäßig gießen, ohne Staunässe, und regelmäßig düngen für reiche Blüte. Verblühtes entfernen. Nicht frosthart: hell und kühl (5–10°C) überwintern oder jährlich neu pflanzen.",
+    "faq": [
+      {
+        "q": "Wann dürfen Geranien nach draußen?",
+        "a": "Nach den letzten Frösten, meist ab Mitte Mai."
+      },
+      {
+        "q": "Überstehen Geranien den Winter draußen?",
+        "a": "Nein; hell und kühl drinnen überwintern oder jedes Jahr neu pflanzen."
+      }
+    ]
+  },
+  "72": {
+    "uses": "Rosen gehören zu Parks, Plätzen und repräsentativen Gärten: sortenreine Beete für Flächenwirkung, Wegeinfassungen, Rosengärten und Privatgärten. Öfterblühende Sorten blühen in Schüben von Mai bis Herbst.",
+    "planting": "Wurzelnackte Rosen pflanzt man im Herbst oder zeitigen Frühjahr, Containerrosen fast die ganze Saison. In Beeten meist 4–6 Pflanzen pro Quadratmeter. Sie brauchen mindestens 6 Stunden Sonne täglich und nährstoffreichen, durchlässigen Boden.",
+    "care": "Im März die Triebe auf 3–5 Knospen zurückschneiden. Am Fuß gießen, nicht über die Blätter, und im Frühjahr und Frühsommer düngen. Verblühtes entfernen für die Nachblüte. Blattkrankheiten beugt man durch Luftzirkulation und resistente Sorten vor.",
+    "faq": [
+      {
+        "q": "Wie viele Rosen braucht man pro Quadratmeter?",
+        "a": "Für Beete meist 4–6 Pflanzen pro m², je nach Sorte."
+      },
+      {
+        "q": "Wann schneidet man Rosen?",
+        "a": "Der Hauptschnitt erfolgt im Frühjahr, im März, wenn die Knospen schwellen."
+      }
+    ]
+  },
+  "73": {
+    "uses": "Stammrosen werden in Reihen entlang von Wegen, an Eingängen, in der Mitte von Beeten, in formalen Gärten und in großen Terrassenkübeln verwendet. Die erhöhte Krone lässt darunter Platz für Bodendecker oder niedrige Rosen.",
+    "planting": "In Reihen mit 1–1,5 m Abstand pflanzen. Jede Pflanze wird dauerhaft an einem stabilen Pfahl direkt unter der Krone befestigt. Sie brauchen volle Sonne und nährstoffreichen, durchlässigen Boden; im Kübel ein reichhaltiges Substrat.",
+    "care": "Die Krone im Frühjahr, im März, auf 3–5 Knospen pro Trieb schneiden. Triebe am Stamm oder aus der Basis entfernen. In Regionen mit strengen Wintern die Veredelungsstelle in der Krone mit Vlies schützen.",
+    "faq": [
+      {
+        "q": "Wie hoch ist eine Stammrose?",
+        "a": "Der Stamm ist meist 80–120 cm hoch, darüber sitzt die Blütenkrone."
+      },
+      {
+        "q": "Braucht eine Stammrose einen Pfahl?",
+        "a": "Ja, sie wird dauerhaft an einem stabilen Pfahl befestigt, da die Krone schwer ist."
+      }
+    ]
+  },
+  "74": {
+    "uses": "Die Blumenesche ist in Südosteuropa heimisch und an heiße, trockene Sommer angepasst. Sie wird in mittelbreiten Straßen, Parks, auf Schulhöfen und öffentlichen Flächen verwendet und bedeckt sich im Mai mit duftenden weißen Blütenrispen.",
+    "planting": "Sie wird 8–15 m hoch mit rundlicher Krone. In Alleen pflanzt man mit 6–8 m Abstand. Sie passt sich mageren, kalkhaltigen und trockenen Böden an und bevorzugt sonnige Standorte. Pflanzung im Herbst oder Frühjahr.",
+    "care": "Nach dem Anwachsen verträgt sie Trockenheit und Hitze sehr gut. In den ersten Jahren regelmäßig gießen und verankern. Erziehungsschnitt im Winter. Winterhart bis etwa -25°C.",
+    "faq": [
+      {
+        "q": "Wann blüht die Blumenesche?",
+        "a": "Im Mai mit großen, duftenden, cremeweißen Blütenrispen."
+      },
+      {
+        "q": "Ist die Blumenesche trockenheitsverträglich?",
+        "a": "Ja, sie gehört zu den trockenheits- und hitzeverträglichsten Arten und eignet sich gut für Städte."
+      }
+    ]
+  },
+  "75": {
+    "uses": "Die Säulen-Hainbuche ist einer der meistverwendeten Bäume für enge Räume: Straßen, Parkplätze, Innenhöfe und entlang von Gebäuden. In Reihe gepflanzt bildet sie auch hohe grüne Sichtschutzwände. Das Laub färbt sich im Herbst gelb, ein Teil bleibt trocken über den Winter haften.",
+    "planting": "Ausgewachsen wird sie 10–15 m hoch und 4–6 m breit. In Alleen pflanzt man mit 5–8 m Abstand, als Sichtschutz mit 2–3 m. Sie verträgt Sonne und Halbschatten und passt sich fast jedem Boden an.",
+    "care": "Sie ist sehr frosthart (bis etwa -30°C), stadtklimafest und schnittverträglich, kann also schmal gehalten werden. In den ersten Jahren regelmäßig gießen. Schnitt im Spätsommer oder Winter.",
+    "faq": [
+      {
+        "q": "Wie breit wird die Säulen-Hainbuche?",
+        "a": "Ausgewachsen meist 4–6 m, deutlich schmaler als die gewöhnliche Hainbuche."
+      },
+      {
+        "q": "Eignet sich die Säulen-Hainbuche als Sichtschutz?",
+        "a": "Ja, in Reihe mit 2–3 m Abstand bildet sie eine hohe grüne Wand."
+      }
+    ]
+  },
+  "76": {
+    "uses": "Der Silber-Ahorn wird gewählt, wenn schnell Schatten gewünscht ist: Er wächst deutlich schneller als die meisten Parkbäume. Er wird in großen Parks, Erholungsflächen, an Gewässern und auf weiten Grünflächen verwendet, wo seine breite Krone und das silbrige Laub hell wirken.",
+    "planting": "Er wird 20–25 m hoch mit breiter Krone. Als Solitär oder in Gruppen pflanzen, mindestens 10 m von Gebäuden entfernt. Er verträgt auch feuchte, zeitweise überflutete Böden und bevorzugt Sonne.",
+    "care": "Das Holz ist brüchiger als bei anderen Ahornen, daher nicht neben Gebäuden, Parkplätzen oder Spielplätzen pflanzen, wo bei Sturm Äste brechen können. Erziehungsschnitt in der Jugend stärkt die Kronenstruktur. Sehr frosthart.",
+    "faq": [
+      {
+        "q": "Wie schnell wächst der Silber-Ahorn?",
+        "a": "Sehr schnell – einer der schnellsten Parkbäume, geeignet, wenn in wenigen Jahren Schatten gewünscht ist."
+      },
+      {
+        "q": "Wo ist der Silber-Ahorn nicht zu empfehlen?",
+        "a": "Neben Gebäuden, Parkplätzen und Spielplätzen, da das Holz bei Sturm relativ brüchig ist."
+      }
+    ]
+  },
+  "77": {
+    "uses": "Die Fichte ist die klassische Konifere der Hügel- und Bergregionen. In der Landschaftsgestaltung wird sie in Parks, Wind- und Schneeschutzstreifen, Koniferengruppen und als lebender Weihnachtsbaum auf Plätzen und Höfen verwendet. Die dichte Kegelkrone bleibt ganzjährig grün.",
+    "planting": "Sie wird über 25–30 m hoch und braucht daher Platz: als Solitär mindestens 5–6 m von Gebäuden, in Windschutzstreifen mit 2,5–4 m Abstand. Sie bevorzugt kühles Klima und saure bis neutrale, frische, durchlässige Böden.",
+    "care": "In Tieflagen mit heißen, trockenen Sommern braucht sie regelmäßiges Gießen und Mulch, besonders in den ersten Jahren. Ein Schnitt ist nicht nötig. Sehr frosthart.",
+    "faq": [
+      {
+        "q": "Eignet sich die Fichte für Tieflagen?",
+        "a": "Ja, aber in heißen Sommern braucht sie regelmäßiges Gießen; am besten gedeiht sie in kühlem Klima auf frischen Böden."
+      },
+      {
+        "q": "Kann man die Fichte als lebenden Weihnachtsbaum nutzen?",
+        "a": "Ja, ihre regelmäßige Kegelkrone eignet sich sehr gut für Plätze und Höfe."
+      }
+    ]
+  },
+  "78": {
+    "uses": "Der Judasbaum gehört zu den spektakulärsten Frühjahrsblühern: Die Blüten erscheinen direkt an Zweigen und Stamm vor dem Laub. Er wird als Solitär in Gärten, an Eingängen, in Parks und Höfen sowie in Wohnstraßen verwendet.",
+    "planting": "Er wird 6–10 m hoch, oft mehrstämmig mit breiter Krone. Er bevorzugt warme, sonnige Standorte und durchlässige Böden, auch kalkhaltige. Größere Exemplare werden mit Ballen gepflanzt, da die tiefen Wurzeln ein Verpflanzen schlecht vertragen.",
+    "care": "Nach dem Anwachsen verträgt er Trockenheit und Hitze gut. Schnitt auf ein Minimum beschränken, nach der Blüte. Winterhart bis etwa -20°C; in kälteren Regionen geschützt pflanzen.",
+    "faq": [
+      {
+        "q": "Wann blüht der Judasbaum?",
+        "a": "Im April vor dem Laubaustrieb mit rosa-violetten Blüten an Zweigen und Stamm."
+      },
+      {
+        "q": "Ist der Judasbaum trockenheitsverträglich?",
+        "a": "Ja, nach dem Anwachsen verträgt er Trockenheit und Kalkböden gut."
+      }
+    ]
+  },
+  "79": {
+    "uses": "Der Spitzahorn ist einer der meistverwendeten Bäume in mittel- und osteuropäischen Städten: Alleen, Boulevards, Parks, Schulhöfe und Parkplätze. Die dichte, runde Krone spendet guten Schatten, die gelben Blüten erscheinen vor dem Laub im zeitigen Frühjahr.",
+    "planting": "Er wird 20–25 m hoch. In Alleen pflanzt man mit 8–12 m Abstand. Er passt sich den meisten Böden an, auch kalkhaltigen, und verträgt Luftverschmutzung und Hitze. Pflanzung im Herbst oder Frühjahr mit Verankerung.",
+    "care": "In den ersten Jahren regelmäßig gießen. Erziehungsschnitt im Spätsommer oder Winter, nicht im Frühjahr, wenn Ahorne bluten. Sehr frosthart (bis etwa -30°C).",
+    "faq": [
+      {
+        "q": "Warum wird der Spitzahorn an Straßen verwendet?",
+        "a": "Weil er Stadtbedingungen verträgt, relativ schnell wächst und eine dichte, schattige Krone bildet."
+      },
+      {
+        "q": "Wann schneidet man den Spitzahorn?",
+        "a": "Im Spätsommer oder Winter; im Frühjahr bluten Ahorne beim Schnitt stark."
+      }
+    ]
+  },
+  "80": {
+    "uses": "Der Vielblütige Zierapfel ist einer der blühfreudigsten kleinen Bäume. Er wird in Wohnstraßen, Parks, auf Schulhöfen, in Wohnanlagen und Gärten verwendet. Die kleinen gelb-roten Früchte bleiben im Herbst an den Zweigen und dienen Vögeln als Futter.",
+    "planting": "Er wird 4–6 m hoch mit breiter, runder Krone. In Alleen pflanzt man mit 5–6 m Abstand. Er bevorzugt volle Sonne und nährstoffreiche, durchlässige Böden. Pflanzung im Herbst oder Frühjahr.",
+    "care": "In den ersten Jahren regelmäßig gießen. Schnitt auf abgestorbene oder sich kreuzende Äste beschränken, nach der Blüte. Sehr frosthart (bis etwa -30°C).",
+    "faq": [
+      {
+        "q": "Wann blüht der Zierapfel?",
+        "a": "Im April mit rosa Knospen und einer Fülle weiß-rosa Blüten."
+      },
+      {
+        "q": "Tragen Zieräpfel Früchte?",
+        "a": "Ja, kleine Zierfrüchte, die im Herbst an den Zweigen bleiben und Vögeln als Futter dienen."
+      }
+    ]
+  },
+  "81": {
+    "uses": "Der Essigbaum wird für seine Herbstfärbung geschätzt, eine der intensivsten aller Sträucher, und für die exotisch wirkenden gefiederten Blätter. Er wird an Böschungen, in modernen Gärten, auf öffentlichen Flächen mit mageren Böden und als Solitär verwendet. Die roten, samtigen Fruchtstände bleiben über den Winter.",
+    "planting": "Er wird 3–5 m hoch und breit. Er bevorzugt volle Sonne und passt sich fast jedem Boden an, auch sandigen oder mageren. Er bildet Wurzelausläufer und breitet sich aus, daher neben Wegen und Beeten eine Wurzelsperre einbauen.",
+    "care": "Er verträgt Trockenheit und Hitze sehr gut und braucht keine besondere Pflege. Unerwünschte Ausläufer regelmäßig entfernen. Sehr frosthart.",
+    "faq": [
+      {
+        "q": "Breitet sich der Essigbaum aus?",
+        "a": "Ja, er bildet Wurzelausläufer; neben Wegen und Beeten ist eine Wurzelsperre empfehlenswert."
+      },
+      {
+        "q": "Wann ist der Essigbaum am schönsten?",
+        "a": "Im Herbst, wenn sich das Laub intensiv rot-orange färbt."
+      }
+    ]
+  },
+  "82": {
+    "uses": "Die Bartblume blüht am Ende des Sommers, wenn kaum noch Sträucher blühen, und bringt ein seltenes Blau in die Bepflanzung. Sie wird in Einfassungen, sonnigen Beeten, Kiesgärten, Bienengärten und in Kombination mit Ziergräsern und Lavendel verwendet.",
+    "planting": "Sie wird 60–100 cm hoch. 3–4 Pflanzen pro Quadratmeter pflanzen. Sie braucht volle Sonne und durchlässigen, gern trockenen Boden; Staunässe verträgt sie nicht.",
+    "care": "Im Frühjahr beim Austrieb auf 15–20 cm über dem Boden zurückschneiden – sie blüht am neuen Holz. In sehr kalten Wintern können die Triebe zurückfrieren, die Pflanze treibt aber aus der Basis wieder aus. Trockenheit verträgt sie gut.",
+    "faq": [
+      {
+        "q": "Wann blüht die Bartblume?",
+        "a": "Am Ende des Sommers, meist im August–September."
+      },
+      {
+        "q": "Wie schneidet man die Bartblume?",
+        "a": "Im Frühjahr auf 15–20 cm über dem Boden, da die Blüten an den neuen Trieben erscheinen."
+      }
+    ]
+  },
+  "83": {
+    "uses": "Der Ranunkelstrauch ist einer der wenigen Blütensträucher, die im Halbschatten und Schatten gut gedeihen. Er wird in Einfassungen, unter Bäumen, an der Nordseite von Gebäuden, in Wohngärten und Parks verwendet. Die grünen, überhängenden Zweige sind auch im Winter dekorativ.",
+    "planting": "Er wird 1,5–2 m hoch. 1–2 Pflanzen pro Quadratmeter oder 2 pro laufendem Meter für freiwachsende Einfassungen pflanzen. Er passt sich den meisten Böden an und verträgt Sonne, Halbschatten und Schatten.",
+    "care": "Nach der Blüte die ältesten Triebe bodennah entfernen, um zu verjüngen. Er breitet sich über Ausläufer aus, daher bei Bedarf begrenzen. Winterhart bis etwa -25°C.",
+    "faq": [
+      {
+        "q": "Wächst der Ranunkelstrauch im Schatten?",
+        "a": "Ja, er ist einer der wenigen Blütensträucher, die Halbschatten und Schatten gut vertragen."
+      },
+      {
+        "q": "Wann blüht der Ranunkelstrauch?",
+        "a": "Im April–Mai mit goldgelben, oft gefüllten Blüten."
+      }
+    ]
+  },
+  "84": {
+    "uses": "Die Forsythie ist der Frühlingsbote: Sie blüht als einer der ersten Sträucher, wenn die Gärten noch kahl sind. Sie wird in freiwachsenden Hecken, Parkgruppen, an Böschungen, auf öffentlichen Flächen und in Wohngärten verwendet, oft kombiniert mit später blühenden Sträuchern.",
+    "planting": "Sie wird 2–3 m hoch. Für freiwachsende Hecken 1–2 Pflanzen pro laufendem Meter, in Gruppen mit 1–1,5 m Abstand pflanzen. Sie passt sich fast jedem Boden an und bevorzugt Sonne, wo sie am reichsten blüht.",
+    "care": "Direkt nach der Blüte schneiden und einen Teil der alten Triebe bodennah entfernen; Schnitt im Herbst oder Winter entfernt die Blütenknospen. Sehr robust und pflegeleicht.",
+    "faq": [
+      {
+        "q": "Wann schneidet man Forsythien?",
+        "a": "Direkt nach der Blüte; Schnitt im Herbst oder Winter entfernt die Blütenknospen."
+      },
+      {
+        "q": "Kann man aus Forsythien eine Hecke pflanzen?",
+        "a": "Ja, vor allem freiwachsende Blütenhecken mit 1–2 Pflanzen pro Meter."
+      }
+    ]
+  },
+  "85": {
+    "uses": "Die Schneebeere ist eine sichere Wahl für öffentliche Grünflächen: Einfassungen, niedrige Hecken, Böschungen, schattige Bereiche unter Bäumen und Parks. Die dekorativen weißen Beeren bleiben einen Großteil des Winters an den Zweigen. Sie sind nicht essbar und können Unwohlsein verursachen.",
+    "planting": "Sie wird 1–2 m hoch. Für niedrige Hecken 2–3 Pflanzen pro laufendem Meter, für Flächen 1–2 pro Quadratmeter pflanzen. Sie passt sich fast jedem Boden an, auch mageren, und verträgt Sonne und Schatten.",
+    "care": "Sie ist extrem frosthart und stadtklimafest. Im Frühjahr schneiden und alte Triebe regelmäßig entfernen. Sie breitet sich über Ausläufer aus und eignet sich daher gut zur Böschungsbefestigung.",
+    "faq": [
+      {
+        "q": "Sind Schneebeeren essbar?",
+        "a": "Nein; die weißen Beeren sind dekorativ, aber nicht essbar und können Unwohlsein verursachen."
+      },
+      {
+        "q": "Wächst die Schneebeere im Schatten?",
+        "a": "Ja, sie verträgt Schatten gut, auch unter Bäumen."
+      }
+    ]
+  },
+  "86": {
+    "uses": "Das Heiligenkraut wird wegen seines ganzjährig dekorativen silbrigen Laubs gepflanzt, das mit grünen oder violetten Pflanzen kontrastiert. Es eignet sich für niedrige, geschnittene oder freie Einfassungen, Stein- und Kiesgärten, sonnige Böschungen und zusammen mit Lavendel und Ziergräsern.",
+    "planting": "Es wird 30–50 cm hoch. 5–7 Pflanzen pro Quadratmeter oder 3–4 pro laufendem Meter für Einfassungen pflanzen. Es braucht volle Sonne und mageren, trockenen, sehr durchlässigen Boden.",
+    "care": "Nach der Blüte in Form schneiden, damit es kompakt bleibt; im Frühjahr leicht schneiden. Trockenheit verträgt es sehr gut, Winternässe nicht. Winterhart bis etwa -15°C.",
+    "faq": [
+      {
+        "q": "Wo pflanzt man Heiligenkraut?",
+        "a": "An sonnigen Standorten auf trockenem, durchlässigem Boden, in Einfassungen, Kies- und mediterranen Gärten."
+      },
+      {
+        "q": "Kann man Heiligenkraut als Einfassung schneiden?",
+        "a": "Ja, es ist schnittverträglich und bildet niedrige, silbrige Einfassungen."
+      }
+    ]
+  },
+  "87": {
+    "uses": "Die Lärche ist eine Konifere, die im Winter ihre Nadeln verliert – für diese Art völlig normal. Sie wird in Parks, Gruppen, großen Grünflächen, Windschutzstreifen und Bergregionen verwendet, wo ihre goldene Herbstfärbung beeindruckt.",
+    "planting": "Sie wird 25–35 m hoch mit luftiger Kegelkrone. Als Solitär oder in Gruppen mit 4–6 m Abstand pflanzen. Sie bevorzugt volle Sonne und frische, durchlässige Böden; Staunässe verträgt sie nicht.",
+    "care": "Sehr frosthart. In den ersten Jahren regelmäßig gießen, besonders in trockenen Sommern. Kein Schnitt nötig. Im Winter ohne Nadeln ist der Baum nicht abgestorben – im Frühjahr treibt er wieder aus.",
+    "faq": [
+      {
+        "q": "Ist es normal, dass die Lärche im Winter ihre Nadeln verliert?",
+        "a": "Ja, die Lärche ist eine sommergrüne Konifere; die Nadeln fallen im Herbst und wachsen im Frühjahr nach."
+      },
+      {
+        "q": "Wo pflanzt man die Lärche?",
+        "a": "An sonnigen Standorten mit frischem, durchlässigem Boden, in Parks und großen Grünflächen."
+      }
+    ]
+  },
+  "88": {
+    "uses": "Die Stechpalme wird für ihr glänzendes, ganzjährig grünes Laub und die roten Beeren geschätzt, die in der kalten Jahreszeit schmücken. Sie wird für dichte, schwer durchdringbare Hecken, schattige Bereiche, an Eingängen, als Solitär oder in Formschnitt verwendet. Beeren tragen nur weibliche Pflanzen, wenn eine männliche in der Nähe steht; sie sind nicht essbar.",
+    "planting": "Für Hecken 2–3 Pflanzen pro laufendem Meter pflanzen. Sie verträgt Sonne und Schatten und bevorzugt saure bis neutrale, frische, durchlässige Böden. Vor kalten, austrocknenden Winterwinden schützen.",
+    "care": "Sie wächst langsam und wird im Sommer geschnitten. In den ersten Jahren bei Trockenheit regelmäßig gießen. Winterhart bis etwa -20°C. Wegen der stacheligen Blätter Handschuhe tragen.",
+    "faq": [
+      {
+        "q": "Warum trägt meine Stechpalme keine Beeren?",
+        "a": "Beeren bilden nur weibliche Pflanzen, und nur wenn eine männliche Pflanze zur Bestäubung in der Nähe ist."
+      },
+      {
+        "q": "Wächst die Stechpalme im Schatten?",
+        "a": "Ja, sie verträgt Schatten und Halbschatten gut."
+      }
+    ]
+  },
+  "89": {
+    "uses": "Die Tränenkiefer fällt durch bis zu 15–20 cm lange Nadeln in Fünferbündeln auf, die der Krone ein weiches, fast flauschiges Aussehen geben. Sie wird als Solitär in Parks, großen Gärten, an Firmensitzen und in Wohnanlagen verwendet und bildet einen schönen Kontrast zu kurznadeligen Koniferen.",
+    "planting": "In Kultur wird sie meist 15–20 m hoch mit breiter Kegelkrone. Als Solitär mit viel Platz pflanzen. Sie bevorzugt sonnige, vor kalten, austrocknenden Winden geschützte Standorte und durchlässige Böden.",
+    "care": "In den ersten Jahren regelmäßig gießen, besonders im Sommer. Kein Schnitt nötig. Winterhart bis etwa -25°C; kalte Winterwinde können an exponierten Bäumen die Nadelspitzen bräunen.",
+    "faq": [
+      {
+        "q": "Was macht die Tränenkiefer besonders?",
+        "a": "Ihre sehr langen, weichen, blaugrünen, leicht hängenden Nadeln und die langen Zapfen."
+      },
+      {
+        "q": "Wo pflanzt man die Tränenkiefer?",
+        "a": "Als Solitär in der Sonne, geschützt vor kalten Winden, auf durchlässigem Boden."
+      }
+    ]
+  },
+  "90": {
+    "uses": "Die Bergkiefer wächst natürlich in der alpinen Zone und gehört zu den robustesten Koniferen für die Landschaftsgestaltung. Sie wird in Steingärten, an Böschungen, in Kreisverkehren, auf intensiven Dachbegrünungen, in Kübeln und an Straßenrändern verwendet und verträgt Wind und sogar Salz.",
+    "planting": "Je nach Sorte wird sie 1–3 m hoch und breit. Für kompakte Gruppen mit 1–1,5 m Abstand pflanzen. Sie bevorzugt volle Sonne und durchlässige Böden, auch magere oder kalkhaltige.",
+    "care": "Im Frühjahr können die neuen Triebe („Kerzen“) um ein Drittel bis zur Hälfte gekürzt werden. Nach dem Anwachsen verträgt sie Trockenheit und Frost sehr gut. Sonst keine Pflege nötig.",
+    "faq": [
+      {
+        "q": "Wie groß wird die Bergkiefer?",
+        "a": "Je nach Sorte meist 1–3 m hoch und breit."
+      },
+      {
+        "q": "Wie hält man die Bergkiefer kompakt?",
+        "a": "Durch Kürzen der neuen Triebe im Frühjahr um ein Drittel bis zur Hälfte."
+      }
+    ]
+  },
+  "91": {
+    "uses": "Die Sorte 'Brepo' (auch als 'Pierrick Bregeon' gehandelt) hat die Robustheit der Schwarzkiefer in kompakter, runder Form. Sie wird in Terrassenkübeln, Stein- und Kiesgärten, auf Dachbegrünungen, in Zwergkoniferen-Pflanzungen und an Eingängen als geometrischer Akzent verwendet.",
+    "planting": "Sie wächst sehr langsam und erreicht meist etwa 60–100 cm in zehn Jahren. In Gruppen mit 70–100 cm Abstand pflanzen. Sie bevorzugt volle Sonne und durchlässige Böden; im Kübel gut drainierendes Substrat verwenden.",
+    "care": "Sehr frost-, wind- und trockenheitsverträglich und ohne Schnitt – die Kugelform ist natürlich. Im Kübel im Sommer regelmäßig gießen, ohne Staunässe.",
+    "faq": [
+      {
+        "q": "Wie groß wird die Schwarzkiefer 'Brepo'?",
+        "a": "Sie wächst sehr langsam, meist etwa 60–100 cm in zehn Jahren, und bleibt rund."
+      },
+      {
+        "q": "Kann man 'Brepo' im Kübel halten?",
+        "a": "Ja, sie eignet sich sehr gut für Kübel und Pflanzgefäße mit durchlässigem Substrat."
+      }
+    ]
+  },
+  "92": {
+    "uses": "Die Pyramidenpappel ist eine der schnellsten Lösungen für hohen Wind-, Staub- und Sichtschutz rund um Höfe, Lagerhallen, Industriegebiete und große Grundstücke. Sie wird auch in Reihen entlang von Straßen und Kanälen als vertikaler Akzent verwendet.",
+    "planting": "Sie wird 25–30 m hoch, bleibt aber schmal. Für Windschutz mit 2–4 m, in Reihen mit 4–6 m Abstand pflanzen. Sie passt sich den meisten Böden an und verträgt feuchte Böden. Die Wurzeln sind kräftig und weitreichend, daher mit großem Abstand zu Gebäuden, Leitungen und Fundamenten pflanzen.",
+    "care": "Sie wächst in den ersten Jahren sehr schnell und braucht wenig Pflege. Sehr frosthart. Sie ist kurzlebiger als andere Parkbäume; abgestorbene Äste regelmäßig entfernen.",
+    "faq": [
+      {
+        "q": "Wie schnell wächst die Pyramidenpappel?",
+        "a": "Sehr schnell – einer der schnellsten Bäume für Windschutzstreifen."
+      },
+      {
+        "q": "Welcher Abstand zu Gebäuden ist nötig?",
+        "a": "Ein großer Abstand zu Gebäuden, Leitungen und Fundamenten, da die Wurzeln kräftig und weitreichend sind."
+      }
+    ]
+  },
+  "93": {
+    "uses": "Der Storchschnabel gehört zu den zuverlässigsten Bodendecker-Stauden für öffentliche und private Grünflächen: unter Bäumen, in Einfassungen, an Böschungen, in Schattengärten und mit Rosen und Sträuchern. Manche Arten wie Geranium macrorrhizum haben aromatische Blätter und bleiben im Winter fast grün.",
+    "planting": "6–8 Pflanzen pro Quadratmeter pflanzen. Er verträgt Sonne, Halbschatten und Schatten und passt sich den meisten Böden an, auch trockenen. Er bildet schnell einen dichten Teppich, der Unkraut unterdrückt.",
+    "care": "Nach der ersten Blüte kann zurückgeschnitten werden für eine Nachblüte und kompaktes Laub. Nach dem Anwachsen weder Dünger noch regelmäßiges Gießen nötig. Winterhart bis etwa -25°C.",
+    "faq": [
+      {
+        "q": "Ist der Storchschnabel dasselbe wie die Balkongeranie?",
+        "a": "Nein; der Storchschnabel ist eine winterharte Gartenstaude, die Balkongeranie (Pelargonium) übersteht den Winter draußen nicht."
+      },
+      {
+        "q": "Wächst der Storchschnabel im Schatten?",
+        "a": "Ja, viele Arten vertragen Halbschatten und Schatten gut, auch unter Bäumen."
+      }
+    ]
+  },
+  "94": {
+    "uses": "Das Japanische Blutgras bringt eine seltene Farbe in die Bepflanzung: Die aufrechten Blätter färben sich vom Frühjahr bis zum Herbst zunehmend rot und scheinen im Gegenlicht zu leuchten. Es wird in Einfassungen, Flächenpflanzungen, modernen und japanischen Gärten, Kübeln und mit blauen oder grünen Gräsern verwendet.",
+    "planting": "Es wird 30–50 cm hoch. Für Flächen 7–9 Pflanzen pro Quadratmeter pflanzen. Es bevorzugt Sonne bis Halbschatten – in der Sonne ist die Farbe intensiver – und frische, durchlässige Böden.",
+    "care": "Im Spätherbst oder am Ende des Winters die trockenen Blätter bodennah abschneiden. In Regionen mit strengen Wintern die Basis mulchen. Die Sorte 'Red Baron' breitet sich langsam aus, anders als die Wildart. Winterhart bis etwa -20°C.",
+    "faq": [
+      {
+        "q": "Wann färbt sich das Blutgras rot?",
+        "a": "Die Blätter färben sich ab dem Frühjahr zunehmend rot, am intensivsten im Herbst."
+      },
+      {
+        "q": "Breitet sich 'Red Baron' aus?",
+        "a": "Sehr langsam; 'Red Baron' wuchert nicht wie die Wildart."
+      }
+    ]
   }
 }

@@ -1197,12 +1197,12 @@ export const products = [
     category: 'liscari',
     categories: ['liscari'],
     price: 0,
-    image: '/images/prun-rosu-prunus-cerasifera-nigra.jpg',
+    image: '/images/prun-rosu-prunus-cerasifera-pissardii.jpg',
     images: [
-      '/images/prun-rosu-prunus-cerasifera-nigra.jpg',
-      '/images/prun-rosu-prunus-cerasifera-nigra-2.jpg'
+      '/images/prun-rosu-prunus-cerasifera-pissardii.jpg',
+      '/images/prun-rosu-prunus-cerasifera-pissardii-2.jpg'
     ],
-    description: 'Ukrasna crvena šljiva (Prunus cerasifera \'Nigra\') ima tamnocrveno-ljubičasto lišće i ružičaste cvetove rano u proleće. Za drvorede, parkove i dvorišta.',
+    description: 'Ukrasna crvena šljiva (Prunus cerasifera \'Pissardii\') ima tamnocrveno-ljubičasto lišće i ružičaste cvetove rano u proleće. Za drvorede, parkove i dvorišta.',
     inStock: true,
     details: {
       height: 'Dostupne sve visine',
@@ -1315,6 +1315,594 @@ export const products = [
       watering: 'Umereno zalivanje',
       soil: 'Dobro drenirana zemlja',
       hardiness: 'Veoma otporna na mraz'
+    }
+  },
+  {
+    id: 67,
+    name: 'Pirakanta Red Column',
+    category: 'siblje',
+    categories: ['siblje', 'ziva-ograda'],
+    price: 0,
+    image: '/images/pyracantha-red-column.jpg',
+    images: [
+      '/images/pyracantha-red-column.jpg',
+      '/images/pyracantha-red-column-2.jpg'
+    ],
+    description: 'Pirakanta \'Red Column\' je zimzeleni trnoviti žbun uspravnog rasta, sa belim cvetovima u proleće i crvenim bobicama u jesen i zimu.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -20°C'
+    }
+  },
+  {
+    id: 68,
+    name: 'Lavanda',
+    category: 'perene',
+    categories: ['perene'],
+    price: 0,
+    image: '/images/lavanda-lavandula-angustifolia.jpg',
+    images: [
+      '/images/lavanda-lavandula-angustifolia.jpg',
+      '/images/lavanda-lavandula-angustifolia-2.jpg'
+    ],
+    description: 'Lavanda (Lavandula angustifolia) je aromatični polužbun sa ljubičastim cvetovima leti. Medonosna, otporna na sušu, za bordure i mediteranske vrtove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Suva, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -20°C'
+    }
+  },
+  {
+    id: 69,
+    name: 'Potentila',
+    category: 'siblje',
+    categories: ['siblje'],
+    price: 0,
+    image: '/images/potentilla-fruticosa.jpg',
+    images: [
+      '/images/potentilla-fruticosa.jpg',
+      '/images/potentilla-fruticosa-2.jpg'
+    ],
+    description: 'Potentila (Potentilla fruticosa) je kompaktan, veoma otporan žbun koji cveta od juna do jeseni. Za bordure i masovnu sadnju.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 70,
+    name: 'Viola',
+    category: 'perene',
+    categories: ['perene'],
+    price: 0,
+    image: '/images/viola-panseluta.jpg',
+    images: [
+      '/images/viola-panseluta.jpg',
+      '/images/viola-panseluta-2.jpg'
+    ],
+    description: 'Viola (maćuhica) je sezonsko cveće za jesenju i prolećnu sadnju, za leje, žardinjere i gradske cvetne aranžmane.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Redovno zalivanje',
+      soil: 'Plodna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -15°C'
+    }
+  },
+  {
+    id: 71,
+    name: 'Muškatla',
+    category: 'perene',
+    categories: ['perene'],
+    price: 0,
+    image: '/images/muscata-pelargonium.jpg',
+    images: [
+      '/images/muscata-pelargonium.jpg',
+      '/images/muscata-pelargonium-2.jpg'
+    ],
+    description: 'Muškatla (Pelargonium) je klasično letnje cveće za balkone, žardinjere i gradske aranžmane. Cveta od proleća do mraza.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Redovno zalivanje',
+      soil: 'Plodna, dobro drenirana zemlja',
+      hardiness: 'Osetljiva na mraz'
+    }
+  },
+  {
+    id: 72,
+    name: 'Ruža',
+    category: 'siblje',
+    categories: ['siblje'],
+    price: 0,
+    image: '/images/trandafir-rosa.jpg',
+    images: [
+      '/images/trandafir-rosa.jpg',
+      '/images/trandafir-rosa-2.jpg'
+    ],
+    description: 'Baštenske ruže (Rosa sp.) za leje, bordure i parkove, u kontejneru i sa golim korenom.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Redovno zalivanje',
+      soil: 'Plodna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -20°C'
+    }
+  },
+  {
+    id: 73,
+    name: 'Ruža stablašica',
+    category: 'siblje',
+    categories: ['siblje'],
+    price: 0,
+    image: '/images/trandafir-pe-tulpina-rosa.jpg',
+    images: [
+      '/images/trandafir-pe-tulpina-rosa.jpg',
+      '/images/trandafir-pe-tulpina-rosa-2.jpg'
+    ],
+    description: 'Ruža stablašica je ruža kalemljena na stablo, za akcente uz staze, ulaze i u parkovima.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Redovno zalivanje',
+      soil: 'Plodna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -20°C'
+    }
+  },
+  {
+    id: 74,
+    name: 'Cvetajući jasen',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/frasin-cu-flori-fraxinus-ornus.jpg',
+    images: [
+      '/images/frasin-cu-flori-fraxinus-ornus.jpg',
+      '/images/frasin-cu-flori-fraxinus-ornus-2.jpg'
+    ],
+    description: 'Cvetajući jasen (Fraxinus ornus) je drvo srednje veličine sa mirisnim belim cvetovima u maju, otporno na sušu. Za ulice i parkove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 75,
+    name: 'Stubasti grab',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/carpen-columnar-carpinus-betulus-fastigiata.jpg',
+    images: [
+      '/images/carpen-columnar-carpinus-betulus-fastigiata.jpg',
+      '/images/carpen-columnar-carpinus-betulus-fastigiata-2.jpg'
+    ],
+    description: 'Stubasti grab (Carpinus betulus \'Fastigiata\') ima uspravnu, uzanu krunu, idealan za uske ulice i zelene paravane.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Sunce do senka',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 76,
+    name: 'Javor šećerac',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/artar-argintiu-acer-saccharinum.jpg',
+    images: [
+      '/images/artar-argintiu-acer-saccharinum.jpg',
+      '/images/artar-argintiu-acer-saccharinum-2.jpg'
+    ],
+    description: 'Javor šećerac (Acer saccharinum) je brzorastuće drvo sa duboko urezanim lišćem srebrnastim sa naličja i žutom jesenjom bojom.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 77,
+    name: 'Zelena smrča',
+    category: 'cetinari',
+    categories: ['cetinari'],
+    price: 0,
+    image: '/images/molid-picea-abies.jpg',
+    images: [
+      '/images/molid-picea-abies.jpg',
+      '/images/molid-picea-abies-2.jpg'
+    ],
+    description: 'Zelena smrča (Picea abies) je veliki četinar kupaste krune, za parkove, vetrozaštitne pojaseve i novogodišnje jelke.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Redovno zalivanje',
+      soil: 'Kisela do neutralna zemlja',
+      hardiness: 'Veoma otporna na mraz'
+    }
+  },
+  {
+    id: 78,
+    name: 'Judino drvo',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/arborele-iudei-cercis-siliquastrum.jpg',
+    images: [
+      '/images/arborele-iudei-cercis-siliquastrum.jpg',
+      '/images/arborele-iudei-cercis-siliquastrum-2.jpg'
+    ],
+    description: 'Judino drvo (Cercis siliquastrum) u aprilu cveta ljubičasto-ružičastim cvetovima direktno na granama i stablu, pre listanja.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -20°C'
+    }
+  },
+  {
+    id: 79,
+    name: 'Javor mleč',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/artar-acer-platanoides.jpg',
+    images: [
+      '/images/artar-acer-platanoides.jpg',
+      '/images/artar-acer-platanoides-2.jpg'
+    ],
+    description: 'Javor mleč (Acer platanoides) je otporno drvo za drvorede i parkove, sa žutim cvetovima u rano proleće i žuto-narandžastom jesenjom bojom.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 80,
+    name: 'Japanska jabuka',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/mar-decorativ-malus-floribunda.jpg',
+    images: [
+      '/images/mar-decorativ-malus-floribunda.jpg',
+      '/images/mar-decorativ-malus-floribunda-2.jpg'
+    ],
+    description: 'Japanska ukrasna jabuka (Malus floribunda) obilno cveta u aprilu ružičasto-belim cvetovima, a u jesen nosi sitne ukrasne plodove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Plodna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 81,
+    name: 'Kiseli ruj',
+    category: 'siblje',
+    categories: ['siblje'],
+    price: 0,
+    image: '/images/otetar-rhus-typhina.jpg',
+    images: [
+      '/images/otetar-rhus-typhina.jpg',
+      '/images/otetar-rhus-typhina-2.jpg'
+    ],
+    description: 'Kiseli ruj (Rhus typhina) je žbun ili manje drvo sa baršunastim granama i spektakularnom crveno-narandžastom jesenjom bojom.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 82,
+    name: 'Kariopteris',
+    category: 'siblje',
+    categories: ['siblje'],
+    price: 0,
+    image: '/images/caryopteris-clandonensis.jpg',
+    images: [
+      '/images/caryopteris-clandonensis.jpg',
+      '/images/caryopteris-clandonensis-2.jpg'
+    ],
+    description: 'Kariopteris (Caryopteris × clandonensis) je nizak žbun sa plavim cvetovima krajem leta, aromatičnim lišćem, privlači pčele.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Suva, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -20°C'
+    }
+  },
+  {
+    id: 83,
+    name: 'Kerija',
+    category: 'siblje',
+    categories: ['siblje'],
+    price: 0,
+    image: '/images/kerria-japonica.jpg',
+    images: [
+      '/images/kerria-japonica.jpg',
+      '/images/kerria-japonica-2.jpg'
+    ],
+    description: 'Kerija (Kerria japonica) je žbun sa žutim punim cvetovima u aprilu–maju i zelenim granama zimi. Podnosi senku.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Sunce do senka',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 84,
+    name: 'Forzicija',
+    category: 'siblje',
+    categories: ['siblje', 'ziva-ograda'],
+    price: 0,
+    image: '/images/forsythia-intermedia.jpg',
+    images: [
+      '/images/forsythia-intermedia.jpg',
+      '/images/forsythia-intermedia-2.jpg'
+    ],
+    description: 'Forzicija (Forsythia × intermedia) prva cveta u proleće, žutim cvetovima pre listanja. Za slobodne žive ograde i grupe.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 85,
+    name: 'Biserak',
+    category: 'siblje',
+    categories: ['siblje', 'ziva-ograda'],
+    price: 0,
+    image: '/images/symphoricarpos-albus.jpg',
+    images: [
+      '/images/symphoricarpos-albus.jpg',
+      '/images/symphoricarpos-albus-2.jpg'
+    ],
+    description: 'Biserak (Symphoricarpos albus) je otporan žbun sa belim bobicama u jesen i zimu, podnosi senku i siromašna zemljišta.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Sunce do senka',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 86,
+    name: 'Santolina',
+    category: 'perene',
+    categories: ['perene'],
+    price: 0,
+    image: '/images/santolina-chamaecyparissus.jpg',
+    images: [
+      '/images/santolina-chamaecyparissus.jpg',
+      '/images/santolina-chamaecyparissus-2.jpg'
+    ],
+    description: 'Santolina (Santolina chamaecyparissus) je nizak aromatičan polužbun srebrnastog lišća i žutih cvetova leti. Za bordure i suve vrtove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Suva, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -15°C'
+    }
+  },
+  {
+    id: 87,
+    name: 'Ariš',
+    category: 'cetinari',
+    categories: ['cetinari'],
+    price: 0,
+    image: '/images/larice-larix-decidua.jpg',
+    images: [
+      '/images/larice-larix-decidua.jpg',
+      '/images/larice-larix-decidua-2.jpg'
+    ],
+    description: 'Ariš (Larix decidua) je listopadni četinar sa svetlozelenim iglicama u proleće i zlatnožutom bojom u jesen.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Veoma otporna na mraz'
+    }
+  },
+  {
+    id: 88,
+    name: 'Ilex',
+    category: 'siblje',
+    categories: ['siblje', 'ziva-ograda'],
+    price: 0,
+    image: '/images/ilex-aquifolium.jpg',
+    images: [
+      '/images/ilex-aquifolium.jpg',
+      '/images/ilex-aquifolium-2.jpg'
+    ],
+    description: 'Ilex (Ilex aquifolium) je zimzeleni žbun sa sjajnim bodljikavim listovima i crvenim bobicama zimi. Za žive ograde i senovita mesta.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Sunce do senka',
+      watering: 'Umereno zalivanje',
+      soil: 'Kisela do neutralna zemlja',
+      hardiness: 'Otporna na mraz do -20°C'
+    }
+  },
+  {
+    id: 89,
+    name: 'Himalajski bor',
+    category: 'cetinari',
+    categories: ['cetinari'],
+    price: 0,
+    image: '/images/pin-de-himalaya-pinus-wallichiana.jpg',
+    images: [
+      '/images/pin-de-himalaya-pinus-wallichiana.jpg',
+      '/images/pin-de-himalaya-pinus-wallichiana-2.jpg'
+    ],
+    description: 'Himalajski bor (Pinus wallichiana) ima duge, meke, viseće plavozelene iglice i duge šišarke. Dekorativan soliter za parkove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 90,
+    name: 'Bor krivulj (Pinus mugo)',
+    category: 'cetinari',
+    categories: ['cetinari'],
+    price: 0,
+    image: '/images/pin-mugo-pinus-mugo.jpg',
+    images: [
+      '/images/pin-mugo-pinus-mugo.jpg',
+      '/images/pin-mugo-pinus-mugo-2.jpg'
+    ],
+    description: 'Bor krivulj (Pinus mugo) je nizak, žbunast, izuzetno otporan četinar za kamenjare, kosine, krovove i saksije.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Veoma otporna na mraz'
+    }
+  },
+  {
+    id: 91,
+    name: 'Crni bor Brepo',
+    category: 'cetinari',
+    categories: ['cetinari'],
+    price: 0,
+    image: '/images/pin-negru-brepo-pinus-nigra.jpg',
+    images: [
+      '/images/pin-negru-brepo-pinus-nigra.jpg',
+      '/images/pin-negru-brepo-pinus-nigra-2.jpg'
+    ],
+    description: 'Crni bor \'Brepo\' je patuljasta, loptasta sorta crnog bora sa gustim tamnozelenim iglicama. Za saksije, kamenjare i male vrtove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Veoma otporna na mraz'
+    }
+  },
+  {
+    id: 92,
+    name: 'Jablan',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/plop-piramidal-populus-nigra-italica.jpg',
+    images: [
+      '/images/plop-piramidal-populus-nigra-italica.jpg',
+      '/images/plop-piramidal-populus-nigra-italica-2.jpg'
+    ],
+    description: 'Jablan (Populus nigra \'Italica\') je veoma brzorastuće drvo uske, stubaste krune, za vetrozaštitne pojaseve i vertikalne akcente.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Veoma otporna na mraz'
+    }
+  },
+  {
+    id: 93,
+    name: 'Geranium',
+    category: 'perene',
+    categories: ['perene'],
+    price: 0,
+    image: '/images/geranium-pelinarita.jpg',
+    images: [
+      '/images/geranium-pelinarita.jpg',
+      '/images/geranium-pelinarita-2.jpg'
+    ],
+    description: 'Geranium (višegodišnja zdravčika) je pokrivač tla sa ružičastim, ljubičastim ili plavim cvetovima, podnosi senku i sušu.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Sunce do senka',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 94,
+    name: 'Imperata Red Baron',
+    category: 'perene',
+    categories: ['perene'],
+    price: 0,
+    image: '/images/imperata-cylindrica-red-baron.jpg',
+    images: [
+      '/images/imperata-cylindrica-red-baron.jpg',
+      '/images/imperata-cylindrica-red-baron-2.jpg'
+    ],
+    description: 'Imperata \'Red Baron\' je ukrasna trava čiji listovi crvene od vrha, sa intenzivno crvenom bojom u jesen. Za bordure i saksije.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Vlažna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -20°C'
     }
   }
 ];

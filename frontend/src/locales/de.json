@@ -828,8 +828,8 @@
       }
     },
     "61": {
-      "name": "Blutpflaume (Prunus cerasifera 'Nigra')",
-      "description": "Die Blutpflaume (Prunus cerasifera 'Nigra') hat die ganze Saison tiefrot-purpurnes Laub und zarte rosa Blüten im zeitigen Frühjahr. Ein kleiner, robuster Baum für Alleen, Parks, Gärten und freiwachsende Hecken.",
+      "name": "Blutpflaume (Prunus cerasifera 'Pissardii')",
+      "description": "Die Blutpflaume (Prunus cerasifera 'Pissardii') hat die ganze Saison tiefrot-purpurnes Laub und zarte rosa Blüten im zeitigen Frühjahr. Ein kleiner, robuster Baum für Alleen, Parks, Gärten und freiwachsende Hecken.",
       "details": {
         "height": "Alle Größen verfügbar",
         "sunlight": "Volle Sonne",
@@ -891,6 +891,314 @@
         "watering": "Mäßiges Gießen",
         "soil": "Gut durchlässiger Boden",
         "hardiness": "Sehr winterhart"
+      }
+    },
+    "67": {
+      "name": "Feuerdorn 'Red Column' (Pyracantha coccinea)",
+      "description": "Der Feuerdorn 'Red Column' ist ein aufrechter, dorniger immergrüner Strauch mit weißen Frühjahrsblüten und dekorativen roten Beeren im Herbst und Winter. Ideal für Schutzhecken und zur Wandbegrünung.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -20°C"
+      }
+    },
+    "68": {
+      "name": "Lavendel (Lavandula angustifolia)",
+      "description": "Lavendel (Lavandula angustifolia) ist ein aromatischer Halbstrauch mit violetten Blüten im Juni–Juli, bienenfreundlich und trockenheitsverträglich. Geeignet für Einfassungen, sonnige Beete, Kreisverkehre und mediterrane Gärten.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Trockener, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -20°C"
+      }
+    },
+    "69": {
+      "name": "Fingerstrauch (Potentilla fruticosa)",
+      "description": "Der Fingerstrauch (Potentilla fruticosa) ist ein kompakter, sehr robuster Strauch, der von Juni bis Herbst durchgehend gelb, weiß oder orange blüht. Ideal für Einfassungen, Flächenpflanzungen und öffentliche Grünflächen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "70": {
+      "name": "Stiefmütterchen und Hornveilchen (Viola sp.)",
+      "description": "Stiefmütterchen und Hornveilchen (Viola sp.) sind Saisonpflanzen, die im Herbst und erneut im Frühjahr in vielen Farben blühen. Ideal für Beete, Pflanzkübel und Blumenschmuck in Parks und Städten.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Regelmäßiges Gießen",
+        "soil": "Fruchtbarer, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -15°C"
+      }
+    },
+    "71": {
+      "name": "Geranie (Pelargonium)",
+      "description": "Die Geranie (Pelargonium) ist die klassische Sommerblume für Balkone, Blumenkästen, Töpfe und Straßenbepflanzungen. Sie blüht von Mai bis zum ersten Frost üppig in Rot, Rosa, Weiß oder Violett.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Regelmäßiges Gießen",
+        "soil": "Fruchtbarer, gut durchlässiger Boden",
+        "hardiness": "Frostempfindlich (frostfrei überwintern)"
+      }
+    },
+    "72": {
+      "name": "Gartenrosen (Rosa sp.)",
+      "description": "Gartenrosen (Rosa sp.) bringen Farbe und Duft in Beete, Einfassungen, Parks und Gärten und blühen von Mai bis Herbst. Erhältlich im Container und wurzelnackt, in verschiedenen Sorten und Farben.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Regelmäßiges Gießen",
+        "soil": "Fruchtbarer, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -20°C"
+      }
+    },
+    "73": {
+      "name": "Stammrose (Rosa sp.)",
+      "description": "Die Stammrose ist eine auf einen geraden Stamm veredelte Rose mit einer Blütenkrone auf Augenhöhe. Ein eleganter Akzent für Wege, Eingänge, formale Gärten und große Kübel.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Regelmäßiges Gießen",
+        "soil": "Fruchtbarer, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -20°C"
+      }
+    },
+    "74": {
+      "name": "Blumenesche (Fraxinus ornus)",
+      "description": "Die Blumenesche (Fraxinus ornus) ist ein mittelgroßer Baum mit duftenden, cremeweißen Blüten im Mai. Sie verträgt Trockenheit, Hitze und kalkhaltige Böden sehr gut und eignet sich für Straßen und Parks.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "75": {
+      "name": "Säulen-Hainbuche (Carpinus betulus 'Fastigiata')",
+      "description": "Die Säulen-Hainbuche (Carpinus betulus 'Fastigiata') hat eine schmale, aufrechte Krone, die mit dem Alter oval-kegelförmig wird. Ideal für schmale Straßen, Parkplätze, grüne Sichtschutzwände und Stadträume mit wenig Platz.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Sonne bis Schatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "76": {
+      "name": "Silber-Ahorn (Acer saccharinum)",
+      "description": "Der Silber-Ahorn (Acer saccharinum) ist ein sehr schnellwachsender Baum mit tief gelappten, unterseits silbrigen Blättern, die im Wind schimmern, und gelber Herbstfärbung. Geeignet für Parks und große Grünflächen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "77": {
+      "name": "Fichte (Picea abies)",
+      "description": "Die Fichte (Picea abies) ist eine große Konifere mit regelmäßiger Kegelkrone und dunkelgrünen Nadeln. Sie wird in Parks, Windschutzstreifen, großen Grünflächen und als lebender Weihnachtsbaum verwendet.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Regelmäßiges Gießen",
+        "soil": "Saurer bis neutraler Boden",
+        "hardiness": "Sehr winterhart"
+      }
+    },
+    "78": {
+      "name": "Judasbaum (Cercis siliquastrum)",
+      "description": "Der Judasbaum (Cercis siliquastrum) blüht im April vor dem Laubaustrieb mit rosa-violetten Blüten, die Zweige und sogar den Stamm bedecken. Runde, herzförmige Blätter; trockenheitsverträglich.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -20°C"
+      }
+    },
+    "79": {
+      "name": "Spitzahorn (Acer platanoides)",
+      "description": "Der Spitzahorn (Acer platanoides) ist ein robuster Baum für Alleen und Parks mit gelbgrünen Blüten im zeitigen Frühjahr und gelb-oranger Herbstfärbung. Er verträgt Stadtbedingungen sehr gut.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "80": {
+      "name": "Vielblütiger Zierapfel (Malus floribunda)",
+      "description": "Der Vielblütige Zierapfel (Malus floribunda) bedeckt sich im April mit rosa Knospen, die sich zu weiß-rosa Blüten öffnen, gefolgt von kleinen Zierfrüchten im Herbst. Ein kleiner, spektakulärer Baum für Straßen, Parks und Gärten.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Fruchtbarer, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "81": {
+      "name": "Essigbaum (Rhus typhina)",
+      "description": "Der Essigbaum (Rhus typhina) ist ein großer Strauch oder kleiner Baum mit samtigen Zweigen, gefiederten Blättern und spektakulär rot-oranger Herbstfärbung. Sehr trockenheitsverträglich und anspruchslos.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "82": {
+      "name": "Bartblume (Caryopteris × clandonensis)",
+      "description": "Die Bartblume (Caryopteris × clandonensis) ist ein kleiner Strauch mit aromatischen graugrünen Blättern und blauen Blüten im August–September, sehr beliebt bei Bienen. Trockenheitsverträglich.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Trockener, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -20°C"
+      }
+    },
+    "83": {
+      "name": "Ranunkelstrauch (Kerria japonica)",
+      "description": "Der Ranunkelstrauch (Kerria japonica) ist ein Strauch mit goldgelben, meist gefüllten, pomponartigen Blüten im April–Mai und dekorativen grünen Zweigen im Winter. Schattenverträglich und sehr pflegeleicht.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Sonne bis Schatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "84": {
+      "name": "Forsythie (Forsythia × intermedia)",
+      "description": "Die Forsythie (Forsythia × intermedia) bedeckt sich im März–April vor dem Laubaustrieb mit leuchtend gelben Blüten. Ein robuster Strauch für freiwachsende Hecken, Gruppen und öffentliche Flächen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "85": {
+      "name": "Schneebeere (Symphoricarpos albus)",
+      "description": "Die Schneebeere (Symphoricarpos albus) ist ein sehr robuster Strauch mit weißen, perlenartigen Beeren, die im Herbst und Winter an den Zweigen bleiben. Sie verträgt Schatten, magere Böden und Stadtbedingungen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Sonne bis Schatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "86": {
+      "name": "Heiligenkraut (Santolina chamaecyparissus)",
+      "description": "Das Heiligenkraut (Santolina chamaecyparissus) ist ein aromatischer Halbstrauch mit feinem, silbrigem Laub und gelben, knopfartigen Blüten im Sommer. Ideal für niedrige Einfassungen, Kiesgärten und mediterrane Gärten.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Trockener, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -15°C"
+      }
+    },
+    "87": {
+      "name": "Europäische Lärche (Larix decidua)",
+      "description": "Die Europäische Lärche (Larix decidua) ist eine sommergrüne Konifere: frischgrüne Nadeln im Frühjahr, goldgelb im Herbst, im Winter kahl. Ein lichter, schnellwachsender Baum für Parks und große Grünflächen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Gut durchlässiger Boden",
+        "hardiness": "Sehr winterhart"
+      }
+    },
+    "88": {
+      "name": "Stechpalme (Ilex aquifolium)",
+      "description": "Die Stechpalme (Ilex aquifolium) ist ein immergrüner Strauch mit glänzenden, stacheligen Blättern und dekorativen roten Winterbeeren. Sie verträgt Schatten und bildet dichte Schutzhecken.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Sonne bis Schatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Saurer bis neutraler Boden",
+        "hardiness": "Winterhart bis -20°C"
+      }
+    },
+    "89": {
+      "name": "Tränenkiefer (Pinus wallichiana)",
+      "description": "Die Tränenkiefer (Pinus wallichiana) hat sehr lange, weiche, blaugrüne, leicht hängende Nadeln und lange, dekorative Zapfen. Eine elegante, auffällige Konifere für Parks und große Gärten.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "90": {
+      "name": "Bergkiefer (Pinus mugo)",
+      "description": "Die Bergkiefer (Pinus mugo) ist eine kompakte, strauchförmige Konifere, extrem frost-, wind- und trockenheitsverträglich. Ideal für Steingärten, Böschungen, Dachbegrünungen, Pflanzkübel und öffentliche Flächen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Gut durchlässiger Boden",
+        "hardiness": "Sehr winterhart"
+      }
+    },
+    "91": {
+      "name": "Zwerg-Schwarzkiefer 'Brepo' (Pinus nigra)",
+      "description": "Die Schwarzkiefer 'Brepo' ist eine dichte, kugelförmige Zwergsorte mit dunkelgrünen Nadeln. Sie wächst sehr langsam und eignet sich für Kübel, Steingärten, Dachbegrünungen und kleine Gärten.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Gut durchlässiger Boden",
+        "hardiness": "Sehr winterhart"
+      }
+    },
+    "92": {
+      "name": "Pyramidenpappel (Populus nigra 'Italica')",
+      "description": "Die Pyramidenpappel (Populus nigra 'Italica') hat eine sehr schmale, säulenförmige Krone und extrem schnellen Wuchs. Ideal für Windschutzstreifen, Straßenreihen und vertikale Akzente.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Sehr winterhart"
+      }
+    },
+    "93": {
+      "name": "Storchschnabel (Geranium sp.)",
+      "description": "Der Storchschnabel (Geranium sp.) ist eine bodendeckende Staude mit rosa, violetten oder blauen Blüten im späten Frühjahr und Sommer. Sehr robust, schatten- und trockenheitsverträglich und pflegeleicht.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Sonne bis Schatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "94": {
+      "name": "Japanisches Blutgras (Imperata cylindrica 'Red Baron')",
+      "description": "Imperata cylindrica 'Red Baron' ist ein niedriges Ziergras, dessen grüne Blätter sich von der Spitze her leuchtend rot färben, mit intensiver Farbe im Herbst. Ideal für Einfassungen, Flächenpflanzungen und Kübel.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Feuchter, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -20°C"
       }
     }
   }

@@ -902,7 +902,7 @@
     },
     {
       "source": "/products/61",
-      "destination": "/products/prun-rosu-prunus-cerasifera-nigra",
+      "destination": "/products/prun-rosu-prunus-cerasifera-pissardii",
       "permanent": true
     },
     {
@@ -932,7 +932,7 @@
     },
     {
       "source": "/en/products/61",
-      "destination": "/en/products/prun-rosu-prunus-cerasifera-nigra",
+      "destination": "/en/products/prun-rosu-prunus-cerasifera-pissardii",
       "permanent": true
     },
     {
@@ -962,7 +962,7 @@
     },
     {
       "source": "/de/products/61",
-      "destination": "/de/products/prun-rosu-prunus-cerasifera-nigra",
+      "destination": "/de/products/prun-rosu-prunus-cerasifera-pissardii",
       "permanent": true
     },
     {
@@ -988,6 +988,441 @@
     {
       "source": "/de/products/66",
       "destination": "/de/products/mesteacan-betula-pendula",
+      "permanent": true
+    },
+    {
+      "source": "/products/prun-rosu-prunus-cerasifera-nigra",
+      "destination": "/products/prun-rosu-prunus-cerasifera-pissardii",
+      "permanent": true
+    },
+    {
+      "source": "/products/67",
+      "destination": "/products/pyracantha-red-column",
+      "permanent": true
+    },
+    {
+      "source": "/products/68",
+      "destination": "/products/lavanda-lavandula-angustifolia",
+      "permanent": true
+    },
+    {
+      "source": "/products/69",
+      "destination": "/products/potentilla-fruticosa",
+      "permanent": true
+    },
+    {
+      "source": "/products/70",
+      "destination": "/products/viola-panseluta",
+      "permanent": true
+    },
+    {
+      "source": "/products/71",
+      "destination": "/products/muscata-pelargonium",
+      "permanent": true
+    },
+    {
+      "source": "/products/72",
+      "destination": "/products/trandafir-rosa",
+      "permanent": true
+    },
+    {
+      "source": "/products/73",
+      "destination": "/products/trandafir-pe-tulpina-rosa",
+      "permanent": true
+    },
+    {
+      "source": "/products/74",
+      "destination": "/products/frasin-cu-flori-fraxinus-ornus",
+      "permanent": true
+    },
+    {
+      "source": "/products/75",
+      "destination": "/products/carpen-columnar-carpinus-betulus-fastigiata",
+      "permanent": true
+    },
+    {
+      "source": "/products/76",
+      "destination": "/products/artar-argintiu-acer-saccharinum",
+      "permanent": true
+    },
+    {
+      "source": "/products/77",
+      "destination": "/products/molid-picea-abies",
+      "permanent": true
+    },
+    {
+      "source": "/products/78",
+      "destination": "/products/arborele-iudei-cercis-siliquastrum",
+      "permanent": true
+    },
+    {
+      "source": "/products/79",
+      "destination": "/products/artar-acer-platanoides",
+      "permanent": true
+    },
+    {
+      "source": "/products/80",
+      "destination": "/products/mar-decorativ-malus-floribunda",
+      "permanent": true
+    },
+    {
+      "source": "/products/81",
+      "destination": "/products/otetar-rhus-typhina",
+      "permanent": true
+    },
+    {
+      "source": "/products/82",
+      "destination": "/products/caryopteris-clandonensis",
+      "permanent": true
+    },
+    {
+      "source": "/products/83",
+      "destination": "/products/kerria-japonica",
+      "permanent": true
+    },
+    {
+      "source": "/products/84",
+      "destination": "/products/forsythia-intermedia",
+      "permanent": true
+    },
+    {
+      "source": "/products/85",
+      "destination": "/products/symphoricarpos-albus",
+      "permanent": true
+    },
+    {
+      "source": "/products/86",
+      "destination": "/products/santolina-chamaecyparissus",
+      "permanent": true
+    },
+    {
+      "source": "/products/87",
+      "destination": "/products/larice-larix-decidua",
+      "permanent": true
+    },
+    {
+      "source": "/products/88",
+      "destination": "/products/ilex-aquifolium",
+      "permanent": true
+    },
+    {
+      "source": "/products/89",
+      "destination": "/products/pin-de-himalaya-pinus-wallichiana",
+      "permanent": true
+    },
+    {
+      "source": "/products/90",
+      "destination": "/products/pin-mugo-pinus-mugo",
+      "permanent": true
+    },
+    {
+      "source": "/products/91",
+      "destination": "/products/pin-negru-brepo-pinus-nigra",
+      "permanent": true
+    },
+    {
+      "source": "/products/92",
+      "destination": "/products/plop-piramidal-populus-nigra-italica",
+      "permanent": true
+    },
+    {
+      "source": "/products/93",
+      "destination": "/products/geranium-pelinarita",
+      "permanent": true
+    },
+    {
+      "source": "/products/94",
+      "destination": "/products/imperata-cylindrica-red-baron",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/prun-rosu-prunus-cerasifera-nigra",
+      "destination": "/en/products/prun-rosu-prunus-cerasifera-pissardii",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/67",
+      "destination": "/en/products/pyracantha-red-column",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/68",
+      "destination": "/en/products/lavanda-lavandula-angustifolia",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/69",
+      "destination": "/en/products/potentilla-fruticosa",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/70",
+      "destination": "/en/products/viola-panseluta",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/71",
+      "destination": "/en/products/muscata-pelargonium",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/72",
+      "destination": "/en/products/trandafir-rosa",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/73",
+      "destination": "/en/products/trandafir-pe-tulpina-rosa",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/74",
+      "destination": "/en/products/frasin-cu-flori-fraxinus-ornus",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/75",
+      "destination": "/en/products/carpen-columnar-carpinus-betulus-fastigiata",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/76",
+      "destination": "/en/products/artar-argintiu-acer-saccharinum",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/77",
+      "destination": "/en/products/molid-picea-abies",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/78",
+      "destination": "/en/products/arborele-iudei-cercis-siliquastrum",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/79",
+      "destination": "/en/products/artar-acer-platanoides",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/80",
+      "destination": "/en/products/mar-decorativ-malus-floribunda",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/81",
+      "destination": "/en/products/otetar-rhus-typhina",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/82",
+      "destination": "/en/products/caryopteris-clandonensis",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/83",
+      "destination": "/en/products/kerria-japonica",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/84",
+      "destination": "/en/products/forsythia-intermedia",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/85",
+      "destination": "/en/products/symphoricarpos-albus",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/86",
+      "destination": "/en/products/santolina-chamaecyparissus",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/87",
+      "destination": "/en/products/larice-larix-decidua",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/88",
+      "destination": "/en/products/ilex-aquifolium",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/89",
+      "destination": "/en/products/pin-de-himalaya-pinus-wallichiana",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/90",
+      "destination": "/en/products/pin-mugo-pinus-mugo",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/91",
+      "destination": "/en/products/pin-negru-brepo-pinus-nigra",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/92",
+      "destination": "/en/products/plop-piramidal-populus-nigra-italica",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/93",
+      "destination": "/en/products/geranium-pelinarita",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/94",
+      "destination": "/en/products/imperata-cylindrica-red-baron",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/prun-rosu-prunus-cerasifera-nigra",
+      "destination": "/de/products/prun-rosu-prunus-cerasifera-pissardii",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/67",
+      "destination": "/de/products/pyracantha-red-column",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/68",
+      "destination": "/de/products/lavanda-lavandula-angustifolia",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/69",
+      "destination": "/de/products/potentilla-fruticosa",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/70",
+      "destination": "/de/products/viola-panseluta",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/71",
+      "destination": "/de/products/muscata-pelargonium",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/72",
+      "destination": "/de/products/trandafir-rosa",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/73",
+      "destination": "/de/products/trandafir-pe-tulpina-rosa",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/74",
+      "destination": "/de/products/frasin-cu-flori-fraxinus-ornus",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/75",
+      "destination": "/de/products/carpen-columnar-carpinus-betulus-fastigiata",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/76",
+      "destination": "/de/products/artar-argintiu-acer-saccharinum",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/77",
+      "destination": "/de/products/molid-picea-abies",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/78",
+      "destination": "/de/products/arborele-iudei-cercis-siliquastrum",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/79",
+      "destination": "/de/products/artar-acer-platanoides",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/80",
+      "destination": "/de/products/mar-decorativ-malus-floribunda",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/81",
+      "destination": "/de/products/otetar-rhus-typhina",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/82",
+      "destination": "/de/products/caryopteris-clandonensis",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/83",
+      "destination": "/de/products/kerria-japonica",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/84",
+      "destination": "/de/products/forsythia-intermedia",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/85",
+      "destination": "/de/products/symphoricarpos-albus",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/86",
+      "destination": "/de/products/santolina-chamaecyparissus",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/87",
+      "destination": "/de/products/larice-larix-decidua",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/88",
+      "destination": "/de/products/ilex-aquifolium",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/89",
+      "destination": "/de/products/pin-de-himalaya-pinus-wallichiana",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/90",
+      "destination": "/de/products/pin-mugo-pinus-mugo",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/91",
+      "destination": "/de/products/pin-negru-brepo-pinus-nigra",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/92",
+      "destination": "/de/products/plop-piramidal-populus-nigra-italica",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/93",
+      "destination": "/de/products/geranium-pelinarita",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/94",
+      "destination": "/de/products/imperata-cylindrica-red-baron",
       "permanent": true
     }
   ]

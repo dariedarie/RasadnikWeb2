@@ -824,8 +824,8 @@
       }
     },
     "61": {
-      "name": "Purple-leaf Cherry Plum (Prunus cerasifera 'Nigra')",
-      "description": "The purple-leaf cherry plum (Prunus cerasifera 'Nigra') has deep red-purple foliage all season and delicate pink flowers in early spring. A small, tough tree for avenues, parks, gardens and informal hedges.",
+      "name": "Purple-leaf Cherry Plum (Prunus cerasifera 'Pissardii')",
+      "description": "The purple-leaf cherry plum (Prunus cerasifera 'Pissardii') has deep red-purple foliage all season and delicate pink flowers in early spring. A small, tough tree for avenues, parks, gardens and informal hedges.",
       "details": {
         "height": "All sizes available",
         "sunlight": "Full sun",
@@ -887,6 +887,314 @@
         "watering": "Moderate watering",
         "soil": "Well-drained soil",
         "hardiness": "Very frost hardy"
+      }
+    },
+    "67": {
+      "name": "Firethorn 'Red Column' (Pyracantha coccinea)",
+      "description": "Firethorn 'Red Column' is an upright, thorny evergreen shrub with white spring flowers and decorative red berries in autumn and winter. Ideal for protective hedges and for training against walls.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -20°C"
+      }
+    },
+    "68": {
+      "name": "Lavender (Lavandula angustifolia)",
+      "description": "Lavender (Lavandula angustifolia) is an aromatic subshrub with purple flowers in June–July, excellent for bees and drought-tolerant. Suited to borders, sunny beds, roundabouts and Mediterranean gardens.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Dry, well-drained soil",
+        "hardiness": "Hardy to -20°C"
+      }
+    },
+    "69": {
+      "name": "Shrubby Cinquefoil (Potentilla fruticosa)",
+      "description": "Shrubby cinquefoil (Potentilla fruticosa) is a compact, very hardy shrub that flowers continuously from June to autumn in yellow, white or orange. Ideal for borders, mass planting and public spaces.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "70": {
+      "name": "Pansies and Violas (Viola sp.)",
+      "description": "Pansies and violas (Viola sp.) are seasonal bedding plants that flower in autumn and again in spring, in many colours. Ideal for beds, planters and floral displays in parks and towns.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Regular watering",
+        "soil": "Fertile, well-drained soil",
+        "hardiness": "Hardy to -15°C"
+      }
+    },
+    "71": {
+      "name": "Geranium (Pelargonium)",
+      "description": "Geranium (Pelargonium) is the classic summer flower for balconies, window boxes, pots and street floral displays. It flowers profusely from May to the first frost in red, pink, white or purple.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Regular watering",
+        "soil": "Fertile, well-drained soil",
+        "hardiness": "Frost-tender (overwinter indoors)"
+      }
+    },
+    "72": {
+      "name": "Garden Roses (Rosa sp.)",
+      "description": "Garden roses (Rosa sp.) bring colour and fragrance to beds, borders, parks and gardens, flowering from May to autumn. Available in containers and bare-root, in various varieties and colours.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Regular watering",
+        "soil": "Fertile, well-drained soil",
+        "hardiness": "Hardy to -20°C"
+      }
+    },
+    "73": {
+      "name": "Standard Rose (Rosa sp.)",
+      "description": "A standard rose is a rose grafted onto a straight stem, with a crown of flowers at eye level. An elegant accent for paths, entrances, formal gardens and large pots.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Regular watering",
+        "soil": "Fertile, well-drained soil",
+        "hardiness": "Hardy to -20°C"
+      }
+    },
+    "74": {
+      "name": "Manna Ash (Fraxinus ornus)",
+      "description": "Manna ash (Fraxinus ornus) is a medium-sized tree with fragrant, creamy-white flowers in May. It tolerates drought, heat and calcareous soils very well, making it suitable for streets and parks.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "75": {
+      "name": "Columnar Hornbeam (Carpinus betulus 'Fastigiata')",
+      "description": "Columnar hornbeam (Carpinus betulus 'Fastigiata') has a narrow, upright crown that becomes oval-pyramidal with age. Ideal for narrow streets, car parks, green screens and urban spaces with limited room.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Sun to full shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "76": {
+      "name": "Silver Maple (Acer saccharinum)",
+      "description": "Silver maple (Acer saccharinum) is a very fast-growing tree with deeply lobed leaves, silvery underneath, that shimmer in the wind, and yellow autumn colour. Suited to parks and large green spaces.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "77": {
+      "name": "Norway Spruce (Picea abies)",
+      "description": "Norway spruce (Picea abies) is a large conifer with a regular conical crown and dark green needles. It is used in parks, shelterbelts, large green spaces and as a living Christmas tree.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Regular watering",
+        "soil": "Acidic to neutral soil",
+        "hardiness": "Very frost hardy"
+      }
+    },
+    "78": {
+      "name": "Judas Tree (Cercis siliquastrum)",
+      "description": "The Judas tree (Cercis siliquastrum) flowers in April, before the leaves, with pink-purple blossoms covering the branches and even the trunk. Round, heart-shaped leaves; drought-tolerant.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -20°C"
+      }
+    },
+    "79": {
+      "name": "Norway Maple (Acer platanoides)",
+      "description": "Norway maple (Acer platanoides) is a robust tree for avenues and parks, with yellow-green flowers in early spring and yellow-orange autumn colour. It tolerates urban conditions very well.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "80": {
+      "name": "Japanese Crab Apple (Malus floribunda)",
+      "description": "Japanese crab apple (Malus floribunda) is covered in April with pink buds opening to white-pink flowers, followed by small decorative fruits in autumn. A small, spectacular tree for streets, parks and gardens.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Fertile, well-drained soil",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "81": {
+      "name": "Staghorn Sumac (Rhus typhina)",
+      "description": "Staghorn sumac (Rhus typhina) is a large shrub or small tree with velvety branches, pinnate leaves and spectacular red-orange autumn colour. Very tolerant of drought and poor soils.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "82": {
+      "name": "Bluebeard (Caryopteris × clandonensis)",
+      "description": "Bluebeard (Caryopteris × clandonensis) is a small shrub with aromatic grey-green leaves and blue flowers in August–September, very attractive to bees. Drought-tolerant.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Dry, well-drained soil",
+        "hardiness": "Hardy to -20°C"
+      }
+    },
+    "83": {
+      "name": "Japanese Kerria (Kerria japonica)",
+      "description": "Japanese kerria (Kerria japonica) is a shrub with golden-yellow, usually double, pompom-like flowers in April–May and decorative green stems in winter. Shade-tolerant and very easy to maintain.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Sun to full shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "84": {
+      "name": "Forsythia (Forsythia × intermedia)",
+      "description": "Forsythia (Forsythia × intermedia) is covered in March–April, before the leaves, with bright yellow flowers. A robust shrub for informal hedges, groups and public spaces.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "85": {
+      "name": "Snowberry (Symphoricarpos albus)",
+      "description": "Snowberry (Symphoricarpos albus) is a very tough shrub with white, pearl-like berries that stay on the branches in autumn and winter. It tolerates shade, poor soils and urban conditions.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Sun to full shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "86": {
+      "name": "Cotton Lavender (Santolina chamaecyparissus)",
+      "description": "Cotton lavender (Santolina chamaecyparissus) is an aromatic subshrub with fine silver foliage and yellow button flowers in summer. Ideal for low edging, gravel gardens and Mediterranean gardens.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Dry, well-drained soil",
+        "hardiness": "Hardy to -15°C"
+      }
+    },
+    "87": {
+      "name": "European Larch (Larix decidua)",
+      "description": "European larch (Larix decidua) is a deciduous conifer: fresh green needles in spring, golden-yellow in autumn, then bare in winter. A light, fast-growing tree for parks and large green spaces.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Very frost hardy"
+      }
+    },
+    "88": {
+      "name": "Holly (Ilex aquifolium)",
+      "description": "Holly (Ilex aquifolium) is an evergreen shrub with glossy, spiny leaves and decorative red winter berries. It tolerates shade and forms dense, protective hedges.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Sun to full shade",
+        "watering": "Moderate watering",
+        "soil": "Acidic to neutral soil",
+        "hardiness": "Hardy to -20°C"
+      }
+    },
+    "89": {
+      "name": "Himalayan Pine (Pinus wallichiana)",
+      "description": "Himalayan pine (Pinus wallichiana) has very long, soft, blue-green, slightly drooping needles and long decorative cones. An elegant, striking conifer for parks and large gardens.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "90": {
+      "name": "Mountain Pine (Pinus mugo)",
+      "description": "Mountain pine (Pinus mugo) is a compact, shrubby conifer, extremely tolerant of frost, wind and drought. Ideal for rock gardens, slopes, green roofs, planters and public spaces.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Very frost hardy"
+      }
+    },
+    "91": {
+      "name": "Dwarf Black Pine 'Brepo' (Pinus nigra)",
+      "description": "Black pine 'Brepo' is a dwarf, dense, globe-shaped variety with dark green needles. It grows very slowly and suits pots, rock gardens, green roofs and small gardens.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Very frost hardy"
+      }
+    },
+    "92": {
+      "name": "Lombardy Poplar (Populus nigra 'Italica')",
+      "description": "Lombardy poplar (Populus nigra 'Italica') has a very narrow, columnar crown and extremely fast growth. Ideal for windbreaks, roadside rows and vertical accents.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Very frost hardy"
+      }
+    },
+    "93": {
+      "name": "Hardy Geranium, Cranesbill (Geranium sp.)",
+      "description": "Hardy geranium (Geranium sp.) is a ground-cover perennial with pink, purple or blue flowers in late spring and summer. Very tough, tolerant of shade and drought, with minimal maintenance.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Sun to full shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "94": {
+      "name": "Japanese Blood Grass (Imperata cylindrica 'Red Baron')",
+      "description": "Imperata cylindrica 'Red Baron' is a low ornamental grass whose green leaves turn bright red from the tips, with intense colour in autumn. Ideal for borders, mass planting and pots.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Moist, well-drained soil",
+        "hardiness": "Hardy to -20°C"
       }
     }
   }

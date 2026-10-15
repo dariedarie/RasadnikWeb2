@@ -77,7 +77,13 @@ export const productSlugs = {
   57: 'liquidambar-styraciflua',
   58: 'arborele-lalea-liriodendron-tulipifera',
   59: 'artar-crimson-king-acer-platanoides',
-  60: 'magnolia-soulangeana'
+  60: 'magnolia-soulangeana',
+  61: 'prun-rosu-prunus-cerasifera-nigra',
+  62: 'cimisir-buxus-sempervirens',
+  63: 'artar-rosu-acer-rubrum',
+  64: 'platan-platanus-acerifolia',
+  65: 'salcam-globular-robinia-umbraculifera',
+  66: 'mesteacan-betula-pendula'
 };
 
 // Neutralna putanja proizvoda (bez jezickog prefiksa): '/products/tuia-smaragd'

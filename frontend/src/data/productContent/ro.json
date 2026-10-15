@@ -898,5 +898,95 @@
         "a": "Înghețurile târzii pot brunifica florile din acel an, dar planta nu este afectată și înflorește normal în anul următor."
       }
     ]
+  },
+  "61": {
+    "uses": "Prunul roșu decorativ este unul dintre cei mai folosiți arbori mici cu frunziș colorat. Frunzele roșu-purpuriu creează contrast cu vegetația verde, iar în martie–aprilie arborele se acoperă cu flori roz. Se folosește în aliniamente pe străzi înguste, în parcuri, curți de școli, ansambluri rezidențiale și ca gard viu liber sau tuns.",
+    "planting": "Ajunge la 5–7 m înălțime, cu o coroană rotunjită. În aliniamente se plantează la 5–6 m distanță, iar pentru garduri vii la 50–70 cm. Se adaptează la majoritatea solurilor, inclusiv calcaroase, și tolerează condițiile urbane. Culoarea frunzelor este cea mai intensă la soare plin.",
+    "care": "Este o specie robustă, rezistentă la ger și la secetă după înrădăcinare. În primii ani se udă regulat. Tăierile de formare se fac după înflorire; ca gard viu se poate tunde de 1–2 ori pe an.",
+    "faq": [
+      {
+        "q": "Când înflorește prunul roșu decorativ?",
+        "a": "La începutul primăverii, de regulă în martie–aprilie, cu flori roz deschis."
+      },
+      {
+        "q": "Se poate folosi prunul roșu ca gard viu?",
+        "a": "Da, suportă bine tunderea și poate forma garduri vii libere sau tunse, cu frunziș roșu."
+      }
+    ]
+  },
+  "62": {
+    "uses": "Cimișirul este planta tradițională a grădinilor formale: borduri de alei, parteruri, garduri vii joase și forme topiare (sfere, conuri, spirale). Rămâne verde tot anul și se folosește la intrări în clădiri, în grădini istorice, curți de hoteluri și în ghivece decorative pe terase.",
+    "planting": "Pentru borduri joase se plantează 5–8 plante pe metru liniar, iar pentru garduri vii mai înalte 3–4 plante pe metru, în funcție de mărime. Tolerează soarele și umbra și solurile calcaroase, dar are nevoie de drenaj bun.",
+    "care": "Crește lent și se tunde de 1–2 ori pe an, de obicei la începutul verii. Cimișirul poate fi atacat de molia cimișirului și de unele boli fungice, de aceea plantațiile trebuie verificate periodic și tratate la nevoie. Udarea regulată în perioadele secetoase menține frunzișul des.",
+    "faq": [
+      {
+        "q": "Câte plante de cimișir trebuie pe metru de bordură?",
+        "a": "Pentru borduri joase, de regulă 5–8 plante pe metru liniar, în funcție de mărimea plantelor."
+      },
+      {
+        "q": "Cum se protejează cimișirul de molia cimișirului?",
+        "a": "Prin verificarea periodică a plantelor primăvara și vara și prin tratamente specifice la primele semne de atac."
+      }
+    ]
+  },
+  "63": {
+    "uses": "Arțarul roșu este apreciat pentru culoarea pe tot parcursul anului: flori roșii mici înainte de înfrunzire, frunziș verde vara și o colorație de toamnă roșu aprins. Se folosește în aliniamente, parcuri, campusuri, ansambluri rezidențiale și ca exemplar solitar.",
+    "planting": "Ajunge la 15–20 m înălțime, cu o coroană ovală. În aliniamente se plantează la 8–10 m distanță. Preferă solurile acide până la neutre, umede; pe solurile foarte calcaroase frunzele se pot îngălbeni (cloroză). Se plantează toamna sau primăvara.",
+    "care": "În primii ani se udă regulat, mai ales vara. Tăierile de formare se fac la sfârșitul verii sau iarna, nu primăvara. Este foarte rezistent la ger (până la aproximativ -30°C).",
+    "faq": [
+      {
+        "q": "Când se colorează arțarul roșu?",
+        "a": "Toamna, de regulă în octombrie, frunzele devin roșu aprins."
+      },
+      {
+        "q": "Pe ce soluri crește arțarul roșu?",
+        "a": "Preferă soluri acide până la neutre, reavene; pe solurile foarte calcaroase poate apărea îngălbenirea frunzelor."
+      }
+    ]
+  },
+  "64": {
+    "uses": "Platanul este unul dintre cei mai rezistenți arbori pentru orașe: tolerează poluarea, solurile compactate, căldura și tăierile, inclusiv formarea în coroană „acoperiș” sau tăierile în cap. Se folosește pe bulevarde, în piețe, parcuri, curți de școli și parcări, unde oferă umbră densă.",
+    "planting": "Este un arbore mare, care ajunge la 25–35 m, cu o coroană largă. În aliniamente se plantează la 10–15 m distanță; pentru forme conduse (tăiate) distanța poate fi mai mică. Se adaptează la majoritatea solurilor. Se plantează toamna sau primăvara, cu ancorare.",
+    "care": "În primii ani se udă regulat. Suportă foarte bine tăierile de formare și de întreținere, făcute iarna. În primăverile umede poate pierde o parte din frunze din cauza unei boli fungice, dar își revine în cursul verii.",
+    "faq": [
+      {
+        "q": "De ce se folosește platanul pe bulevarde?",
+        "a": "Pentru că tolerează foarte bine poluarea, căldura, solurile compactate și tăierile și oferă umbră densă."
+      },
+      {
+        "q": "Cât de mare devine platanul?",
+        "a": "Este un arbore mare, de 25–35 m, cu o coroană largă; în aliniamente se plantează la 10–15 m distanță."
+      }
+    ]
+  },
+  "65": {
+    "uses": "Salcâmul globular este unul dintre cei mai folosiți arbori pentru spații urbane mici: coroana sferică, compactă, nu depășește de regulă 4–6 m în diametru, așa că se potrivește pe străzi înguste, trotuare, piețe, parcări și în curțile clădirilor. Are aspect geometric, ordonat, și tolerează excelent seceta, căldura și solurile sărace.",
+    "planting": "Se plantează în aliniamente la 4–6 m distanță sau în grupuri regulate. Se adaptează la aproape orice sol bine drenat, inclusiv sărac sau nisipos, și preferă soarele plin. Se plantează toamna sau primăvara, cu tutori.",
+    "care": "După înrădăcinare necesită foarte puțină îngrijire. Coroana se rărește și se scurtează la câțiva ani, iarna, pentru a-și păstra forma sferică și a reduce riscul ruperii ramurilor de vânt. Înflorește rar sau deloc, spre deosebire de salcâmul obișnuit.",
+    "faq": [
+      {
+        "q": "Cât de mare devine coroana salcâmului globular?",
+        "a": "De regulă 4–6 m în diametru, ceea ce îl face potrivit pentru străzi înguste și spații mici."
+      },
+      {
+        "q": "Înflorește salcâmul globular?",
+        "a": "Foarte rar; forma 'Umbraculifera' este cultivată pentru coroana sferică, nu pentru flori."
+      }
+    ]
+  },
+  "66": {
+    "uses": "Mesteacănul este apreciat pentru scoarța albă, decorativă tot anul, și pentru coroana aerisită, care lasă lumina să treacă. Se folosește în parcuri, în grupuri de 3–5 exemplare, în grădini naturaliste, ansambluri rezidențiale și zone de agrement, unde creează un peisaj luminos.",
+    "planting": "Ajunge la 15–25 m înălțime, cu o coroană relativ îngustă. Arată cel mai bine plantat în grupuri, la 2–4 m între exemplare. Preferă soarele plin și solurile ușoare, bine drenate. Fiind o specie cu polen alergen, merită ales cu atenție amplasamentul lângă clădiri rezidențiale.",
+    "care": "Are rădăcini superficiale, de aceea în primii ani și în verile secetoase are nevoie de udare regulată și de mulcire. Nu suportă tăierile severe; tăierile ușoare se fac la sfârșitul verii sau toamna, nu primăvara. Este foarte rezistent la ger.",
+    "faq": [
+      {
+        "q": "De ce se plantează mesteacănul în grupuri?",
+        "a": "Pentru că trunchiurile albe și coroanele aerisite au cel mai mare efect decorativ în grupuri de 3–5 exemplare."
+      },
+      {
+        "q": "Când se taie mesteacănul?",
+        "a": "Doar ușor, la sfârșitul verii sau toamna; primăvara mesteacănul pierde multă sevă la tăiere."
+      }
+    ]
   }
 }

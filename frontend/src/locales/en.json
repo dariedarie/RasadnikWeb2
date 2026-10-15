@@ -822,6 +822,72 @@
         "soil": "Slightly acidic, rich soil",
         "hardiness": "Hardy to -25°C"
       }
+    },
+    "61": {
+      "name": "Purple-leaf Cherry Plum (Prunus cerasifera 'Nigra')",
+      "description": "The purple-leaf cherry plum (Prunus cerasifera 'Nigra') has deep red-purple foliage all season and delicate pink flowers in early spring. A small, tough tree for avenues, parks, gardens and informal hedges.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "62": {
+      "name": "Common Box (Buxus sempervirens)",
+      "description": "Common box (Buxus sempervirens) is the classic evergreen shrub for edging, low hedges and topiary – balls, cones and cubes. Small, dense leaves that stay green all year, ideal for formal gardens and entrances.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Sun to full shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -20°C"
+      }
+    },
+    "63": {
+      "name": "Red Maple (Acer rubrum)",
+      "description": "Red maple (Acer rubrum) has red flowers in early spring and one of the most spectacular bright red autumn colours. An elegant tree for avenues, parks and residential developments.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Acidic to neutral soil",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "64": {
+      "name": "London Plane (Platanus × acerifolia)",
+      "description": "The London plane (Platanus × acerifolia) is the classic boulevard tree, with mottled, peeling bark and large palmate leaves. It tolerates pollution, pruning and urban conditions very well.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "65": {
+      "name": "Mop-head Acacia (Robinia pseudoacacia 'Umbraculifera')",
+      "description": "The mop-head acacia (Robinia pseudoacacia 'Umbraculifera') has a dense, spherical crown on a straight, thornless trunk. Ideal for narrow streets, squares, car parks and courtyards, it is very tolerant of drought and urban conditions.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Various soil types",
+        "hardiness": "Very frost hardy"
+      }
+    },
+    "66": {
+      "name": "Silver Birch (Betula pendula)",
+      "description": "Silver birch (Betula pendula) has white bark, fine, slightly weeping branches and golden-yellow autumn colour. A fast-growing, very frost-hardy tree for parks, groups and gardens.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Very frost hardy"
+      }
     }
   }
 }

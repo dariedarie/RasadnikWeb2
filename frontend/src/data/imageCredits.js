@@ -145,6 +145,78 @@ const imageCredits = {
     "license": "CC BY 1.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/1.0",
     "source": "https://commons.wikimedia.org/wiki/File:Magnolia_%C3%97_soulangeana_blossom.jpg"
+  },
+  "/images/prun-rosu-prunus-cerasifera-nigra.jpg": {
+    "author": "Rasbak",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prunus_cerasifera_Nigra_tree.jpg"
+  },
+  "/images/prun-rosu-prunus-cerasifera-nigra-2.jpg": {
+    "author": "Rasbak",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prunus_cerasifera_%27Nigra%27_watersprouts_(01).jpg"
+  },
+  "/images/cimisir-buxus-sempervirens.jpg": {
+    "author": "Burkhard Mücke",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Buxus_sempervirens,_Buchskugeln.jpg"
+  },
+  "/images/cimisir-buxus-sempervirens-2.jpg": {
+    "author": "Juan de Vojníkov",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vrtbovsk%C3%A1_zahrada,_buxus_prvn%C3%ADho_parteru.JPG"
+  },
+  "/images/artar-rosu-acer-rubrum.jpg": {
+    "author": "Willow",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Acer_rubrum_001.jpg"
+  },
+  "/images/artar-rosu-acer-rubrum-2.jpg": {
+    "author": "Lambique",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Red_maple_(Acer_rubrum)_Broad_View.jpg"
+  },
+  "/images/platan-platanus-acerifolia.jpg": {
+    "author": "Arnoldius",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Herne_Allee_platanus_%C3%97_hispanica.jpg"
+  },
+  "/images/platan-platanus-acerifolia-2.jpg": {
+    "author": "Fanghong",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Platanus_acerifolia_leaves_(2).jpg"
+  },
+  "/images/salcam-globular-robinia-umbraculifera.jpg": {
+    "author": "P.poschadel",
+    "license": "CC BY-SA 2.0 fr",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Vineuil-Saint-Firmin_(60),_rond-point_de_la_place_Joyalle.jpg"
+  },
+  "/images/salcam-globular-robinia-umbraculifera-2.jpg": {
+    "author": "Athantor",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Podlaskie_-_Suprasl_-_Kopna_Gora_-_Arboretum_-_Robinia_pseudoacacia_%27Umbraculifera%27_-_plant.JPG"
+  },
+  "/images/mesteacan-betula-pendula.jpg": {
+    "author": "Юрий Д.К.",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Efremov_-_2025_-_Betula_pendula_at_Kurgan.jpg"
+  },
+  "/images/mesteacan-betula-pendula-2.jpg": {
+    "author": "W.carter",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Part_of_birch_trunk_in_Norrkila.jpg"
   }
 };
 

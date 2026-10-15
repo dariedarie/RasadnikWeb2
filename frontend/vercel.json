@@ -899,6 +899,96 @@
       "source": "/de/products/60",
       "destination": "/de/products/magnolia-soulangeana",
       "permanent": true
+    },
+    {
+      "source": "/products/61",
+      "destination": "/products/prun-rosu-prunus-cerasifera-nigra",
+      "permanent": true
+    },
+    {
+      "source": "/products/62",
+      "destination": "/products/cimisir-buxus-sempervirens",
+      "permanent": true
+    },
+    {
+      "source": "/products/63",
+      "destination": "/products/artar-rosu-acer-rubrum",
+      "permanent": true
+    },
+    {
+      "source": "/products/64",
+      "destination": "/products/platan-platanus-acerifolia",
+      "permanent": true
+    },
+    {
+      "source": "/products/65",
+      "destination": "/products/salcam-globular-robinia-umbraculifera",
+      "permanent": true
+    },
+    {
+      "source": "/products/66",
+      "destination": "/products/mesteacan-betula-pendula",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/61",
+      "destination": "/en/products/prun-rosu-prunus-cerasifera-nigra",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/62",
+      "destination": "/en/products/cimisir-buxus-sempervirens",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/63",
+      "destination": "/en/products/artar-rosu-acer-rubrum",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/64",
+      "destination": "/en/products/platan-platanus-acerifolia",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/65",
+      "destination": "/en/products/salcam-globular-robinia-umbraculifera",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/66",
+      "destination": "/en/products/mesteacan-betula-pendula",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/61",
+      "destination": "/de/products/prun-rosu-prunus-cerasifera-nigra",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/62",
+      "destination": "/de/products/cimisir-buxus-sempervirens",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/63",
+      "destination": "/de/products/artar-rosu-acer-rubrum",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/64",
+      "destination": "/de/products/platan-platanus-acerifolia",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/65",
+      "destination": "/de/products/salcam-globular-robinia-umbraculifera",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/66",
+      "destination": "/de/products/mesteacan-betula-pendula",
+      "permanent": true
     }
   ]
 }

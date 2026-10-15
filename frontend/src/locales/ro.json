@@ -826,6 +826,72 @@
         "soil": "Sol ușor acid, bogat",
         "hardiness": "Rezistentă la ger până la -25°C"
       }
+    },
+    "61": {
+      "name": "Prun roșu decorativ (Prunus cerasifera 'Nigra')",
+      "description": "Prunul roșu decorativ (Prunus cerasifera 'Nigra') are frunze roșu-purpuriu închis tot sezonul și flori roz delicate la începutul primăverii. Un arbore mic, rezistent, pentru aliniamente, parcuri, curți și garduri vii libere.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "62": {
+      "name": "Cimișir (Buxus sempervirens)",
+      "description": "Cimișirul (Buxus sempervirens) este arbustul sempervirescent clasic pentru borduri, garduri vii joase și forme topiare – sfere, conuri, cuburi. Frunze mici, dese, verzi tot anul, ideal pentru grădini formale și intrări.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare până la umbră",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -20°C"
+      }
+    },
+    "63": {
+      "name": "Arțar roșu (Acer rubrum)",
+      "description": "Arțarul roșu (Acer rubrum) are flori roșii la începutul primăverii și una dintre cele mai spectaculoase colorații de toamnă, în roșu aprins. Un arbore elegant pentru aliniamente, parcuri și ansambluri rezidențiale.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol acid până la neutru",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "64": {
+      "name": "Platan (Platanus × acerifolia)",
+      "description": "Platanul (Platanus × acerifolia) este arborele clasic al bulevardelor, cu scoarță pestriță care se exfoliază și frunze mari, palmate. Tolerează foarte bine poluarea, tăierile și condițiile urbane.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "65": {
+      "name": "Salcâm globular (Robinia pseudoacacia 'Umbraculifera')",
+      "description": "Salcâmul globular (Robinia pseudoacacia 'Umbraculifera') are o coroană sferică, densă, pe trunchi drept, fără ghimpi. Este ideal pentru străzi înguste, piețe, parcări și curți, fiind foarte rezistent la secetă și la condițiile urbane.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Foarte rezistentă la ger"
+      }
+    },
+    "66": {
+      "name": "Mesteacăn (Betula pendula)",
+      "description": "Mesteacănul (Betula pendula) are scoarță albă, ramuri fine, ușor pendente, și o colorație de toamnă galben-aurie. Un arbore cu creștere rapidă, foarte rezistent la ger, pentru parcuri, grupuri și grădini.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Sol bine drenat",
+        "hardiness": "Foarte rezistentă la ger"
+      }
     }
   }
 }

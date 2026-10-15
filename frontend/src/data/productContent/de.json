@@ -898,5 +898,95 @@
         "a": "Spätfröste können die Blüten des Jahres bräunen, die Pflanze selbst nimmt keinen Schaden und blüht im nächsten Jahr normal."
       }
     ]
+  },
+  "61": {
+    "uses": "Die Blutpflaume ist einer der meistverwendeten kleinen Bäume mit farbigem Laub. Ihre rot-purpurnen Blätter bilden einen Kontrast zu grüner Bepflanzung, und im März–April bedeckt sich der Baum mit rosa Blüten. Sie wird in schmalen Straßen, Parks, auf Schulhöfen, in Wohnanlagen und als freiwachsende oder geschnittene Hecke verwendet.",
+    "planting": "Sie wird 5–7 m hoch mit rundlicher Krone. In Alleen pflanzt man mit 5–6 m Abstand, als Hecke mit 50–70 cm. Sie passt sich den meisten Böden an, auch kalkhaltigen, und verträgt Stadtbedingungen. Die Laubfarbe ist in voller Sonne am intensivsten.",
+    "care": "Eine robuste Art, nach dem Anwachsen frost- und trockenheitsverträglich. In den ersten Jahren regelmäßig gießen. Erziehungsschnitt nach der Blüte; als Hecke ein- bis zweimal jährlich schneiden.",
+    "faq": [
+      {
+        "q": "Wann blüht die Blutpflaume?",
+        "a": "Im zeitigen Frühjahr, meist im März–April, mit zartrosa Blüten."
+      },
+      {
+        "q": "Eignet sich die Blutpflaume als Hecke?",
+        "a": "Ja, sie ist schnittverträglich und bildet freiwachsende oder geschnittene Hecken mit rotem Laub."
+      }
+    ]
+  },
+  "62": {
+    "uses": "Der Buchsbaum ist die traditionelle Pflanze formaler Gärten: Wegeinfassungen, Parterres, niedrige Hecken und Formschnitt (Kugeln, Kegel, Spiralen). Er bleibt ganzjährig grün und wird an Gebäudeeingängen, in historischen Gärten, Hotelhöfen und dekorativen Kübeln auf Terrassen verwendet.",
+    "planting": "Für niedrige Einfassungen pflanzt man 5–8 Pflanzen pro laufendem Meter, für höhere Hecken 3–4 pro Meter, je nach Größe. Er verträgt Sonne und Schatten sowie kalkhaltige Böden, braucht aber gute Drainage.",
+    "care": "Er wächst langsam und wird ein- bis zweimal jährlich geschnitten, meist im Frühsommer. Buchsbaum kann vom Buchsbaumzünsler und einigen Pilzkrankheiten befallen werden, daher sollten Pflanzungen regelmäßig kontrolliert und bei Bedarf behandelt werden. Regelmäßiges Gießen bei Trockenheit hält das Laub dicht.",
+    "faq": [
+      {
+        "q": "Wie viele Buchsbäume braucht man pro Meter Einfassung?",
+        "a": "Für niedrige Einfassungen meist 5–8 Pflanzen pro laufendem Meter, je nach Pflanzengröße."
+      },
+      {
+        "q": "Wie schützt man Buchsbaum vor dem Buchsbaumzünsler?",
+        "a": "Durch regelmäßige Kontrolle im Frühjahr und Sommer und gezielte Behandlung bei den ersten Anzeichen eines Befalls."
+      }
+    ]
+  },
+  "63": {
+    "uses": "Der Rotahorn wird für seine ganzjährige Farbe geschätzt: kleine rote Blüten vor dem Laubaustrieb, grünes Laub im Sommer und leuchtend rote Herbstfärbung. Er wird in Alleen, Parks, auf Campusgeländen, in Wohnanlagen und als Solitär verwendet.",
+    "planting": "Er wird 15–20 m hoch mit ovaler Krone. In Alleen pflanzt man mit 8–10 m Abstand. Er bevorzugt saure bis neutrale, frische Böden; auf sehr kalkhaltigen Böden können die Blätter vergilben (Chlorose). Pflanzung im Herbst oder Frühjahr.",
+    "care": "In den ersten Jahren regelmäßig gießen, besonders im Sommer. Erziehungsschnitt im Spätsommer oder Winter, nicht im Frühjahr. Sehr frosthart (bis etwa -30°C).",
+    "faq": [
+      {
+        "q": "Wann färbt sich der Rotahorn?",
+        "a": "Im Herbst, meist im Oktober, werden die Blätter leuchtend rot."
+      },
+      {
+        "q": "Welche Böden braucht der Rotahorn?",
+        "a": "Er bevorzugt saure bis neutrale, frische Böden; auf sehr kalkhaltigen Böden können die Blätter vergilben."
+      }
+    ]
+  },
+  "64": {
+    "uses": "Die Platane ist einer der robustesten Stadtbäume: Sie verträgt Luftverschmutzung, verdichtete Böden, Hitze und Schnitt, einschließlich Dach- und Kopfbaumformen. Sie wird an Boulevards, auf Plätzen, in Parks, auf Schulhöfen und Parkplätzen verwendet und spendet dichten Schatten.",
+    "planting": "Ein großer Baum von 25–35 m mit breiter Krone. In Alleen pflanzt man mit 10–15 m Abstand; bei geschnittenen Formen kann der Abstand geringer sein. Sie passt sich den meisten Böden an. Pflanzung im Herbst oder Frühjahr mit Verankerung.",
+    "care": "In den ersten Jahren regelmäßig gießen. Sie verträgt Erziehungs- und Pflegeschnitt im Winter sehr gut. In nassen Frühjahren kann sie durch eine Pilzkrankheit einen Teil des Laubs verlieren, erholt sich aber im Laufe des Sommers.",
+    "faq": [
+      {
+        "q": "Warum wird die Platane an Boulevards verwendet?",
+        "a": "Weil sie Luftverschmutzung, Hitze, verdichtete Böden und Schnitt sehr gut verträgt und dichten Schatten spendet."
+      },
+      {
+        "q": "Wie groß wird die Platane?",
+        "a": "Ein großer Baum von 25–35 m mit breiter Krone; in Alleen pflanzt man mit 10–15 m Abstand."
+      }
+    ]
+  },
+  "65": {
+    "uses": "Die Kugelrobinie ist einer der meistverwendeten Bäume für kleine Stadträume: Ihre kompakte, kugelförmige Krone bleibt meist bei 4–6 m Durchmesser und passt daher in schmale Straßen, auf Gehwege, Plätze, Parkplätze und in Innenhöfe. Sie wirkt geordnet und geometrisch und verträgt Trockenheit, Hitze und magere Böden hervorragend.",
+    "planting": "In Alleen mit 4–6 m Abstand oder in regelmäßigen Gruppen pflanzen. Sie passt sich fast jedem durchlässigen Boden an, auch mageren oder sandigen, und bevorzugt volle Sonne. Pflanzung im Herbst oder Frühjahr mit Pfählen.",
+    "care": "Nach dem Anwachsen braucht sie sehr wenig Pflege. Die Krone wird alle paar Jahre im Winter ausgelichtet und eingekürzt, um die Kugelform zu erhalten und Windbruch vorzubeugen. Anders als die gewöhnliche Robinie blüht sie selten oder gar nicht.",
+    "faq": [
+      {
+        "q": "Wie breit wird die Krone der Kugelrobinie?",
+        "a": "Meist 4–6 m im Durchmesser, daher gut geeignet für schmale Straßen und kleine Flächen."
+      },
+      {
+        "q": "Blüht die Kugelrobinie?",
+        "a": "Sehr selten; die Sorte 'Umbraculifera' wird wegen ihrer Kugelkrone und nicht wegen der Blüte gepflanzt."
+      }
+    ]
+  },
+  "66": {
+    "uses": "Die Hängebirke wird für ihre weiße, ganzjährig dekorative Rinde und die luftige Krone geschätzt, die Licht durchlässt. Sie wird in Parks, in Gruppen von 3–5 Bäumen, in naturnahen Gärten, Wohnanlagen und Erholungsflächen verwendet und schafft ein helles Landschaftsbild.",
+    "planting": "Sie wird 15–25 m hoch mit relativ schmaler Krone. Am schönsten wirkt sie in Gruppen mit 2–4 m Abstand. Sie bevorzugt volle Sonne und leichte, durchlässige Böden. Da ihr Pollen allergen ist, sollte der Standort nahe Wohngebäuden sorgfältig gewählt werden.",
+    "care": "Sie hat flache Wurzeln und braucht daher in den ersten Jahren und in trockenen Sommern regelmäßiges Gießen und Mulch. Starken Rückschnitt verträgt sie nicht; leichter Schnitt erfolgt im Spätsommer oder Herbst, nicht im Frühjahr. Sehr frosthart.",
+    "faq": [
+      {
+        "q": "Warum pflanzt man Birken in Gruppen?",
+        "a": "Weil die weißen Stämme und luftigen Kronen in Gruppen von 3–5 Bäumen am dekorativsten wirken."
+      },
+      {
+        "q": "Wann schneidet man Birken?",
+        "a": "Nur leicht, im Spätsommer oder Herbst; im Frühjahr blutet die Birke beim Schnitt stark."
+      }
+    ]
   }
 }

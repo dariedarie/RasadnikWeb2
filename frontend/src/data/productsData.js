@@ -1190,6 +1190,132 @@ export const products = [
       soil: 'Blago kisela, bogata zemlja',
       hardiness: 'Otporna na mraz do -25°C'
     }
+  },
+  {
+    id: 61,
+    name: 'Crvena šljiva',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/prun-rosu-prunus-cerasifera-nigra.jpg',
+    images: [
+      '/images/prun-rosu-prunus-cerasifera-nigra.jpg',
+      '/images/prun-rosu-prunus-cerasifera-nigra-2.jpg'
+    ],
+    description: 'Ukrasna crvena šljiva (Prunus cerasifera \'Nigra\') ima tamnocrveno-ljubičasto lišće i ružičaste cvetove rano u proleće. Za drvorede, parkove i dvorišta.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 62,
+    name: 'Šimšir',
+    category: 'siblje',
+    categories: ['siblje', 'ziva-ograda'],
+    price: 0,
+    image: '/images/cimisir-buxus-sempervirens.jpg',
+    images: [
+      '/images/cimisir-buxus-sempervirens.jpg',
+      '/images/cimisir-buxus-sempervirens-2.jpg'
+    ],
+    description: 'Šimšir (Buxus sempervirens) je zimzeleni žbun sitnih listova, idealan za niske žive ograde, bordure i oblikovanje u kugle i druge forme.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Sunce do senka',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -20°C'
+    }
+  },
+  {
+    id: 63,
+    name: 'Crveni javor',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/artar-rosu-acer-rubrum.jpg',
+    images: [
+      '/images/artar-rosu-acer-rubrum.jpg',
+      '/images/artar-rosu-acer-rubrum-2.jpg'
+    ],
+    description: 'Crveni javor (Acer rubrum) ima crvene cvetove u rano proleće i spektakularnu crvenu jesenju boju. Za drvorede i parkove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Kisela do neutralna zemlja',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 64,
+    name: 'Platan',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/platan-platanus-acerifolia.jpg',
+    images: [
+      '/images/platan-platanus-acerifolia.jpg',
+      '/images/platan-platanus-acerifolia-2.jpg'
+    ],
+    description: 'Platan (Platanus × acerifolia) je klasično drvo za drvorede i bulevare, sa šarenom korom koja se ljušti i krupnim lišćem. Odlično podnosi gradske uslove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 65,
+    name: 'Kuglasti bagrem',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/salcam-globular-robinia-umbraculifera.jpg',
+    images: [
+      '/images/salcam-globular-robinia-umbraculifera.jpg',
+      '/images/salcam-globular-robinia-umbraculifera-2.jpg'
+    ],
+    description: 'Kuglasti bagrem (Robinia pseudoacacia Umbraculifera) ima gustu loptastu krunu na stablu. Idealan za uske ulice, trgove i parkinge, veoma otporan na sušu.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Veoma otporna na mraz'
+    }
+  },
+  {
+    id: 66,
+    name: 'Breza',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/mesteacan-betula-pendula.jpg',
+    images: [
+      '/images/mesteacan-betula-pendula.jpg',
+      '/images/mesteacan-betula-pendula-2.jpg'
+    ],
+    description: 'Breza (Betula pendula) ima belu koru, viseće grane i zlatnu jesenju boju. Brzorastuće i veoma otporno drvo za parkove i grupe.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Veoma otporna na mraz'
+    }
   }
 ];
 

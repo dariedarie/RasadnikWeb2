@@ -826,6 +826,72 @@
         "soil": "Leicht saurer, nährstoffreicher Boden",
         "hardiness": "Winterhart bis -25°C"
       }
+    },
+    "61": {
+      "name": "Blutpflaume (Prunus cerasifera 'Nigra')",
+      "description": "Die Blutpflaume (Prunus cerasifera 'Nigra') hat die ganze Saison tiefrot-purpurnes Laub und zarte rosa Blüten im zeitigen Frühjahr. Ein kleiner, robuster Baum für Alleen, Parks, Gärten und freiwachsende Hecken.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "62": {
+      "name": "Buchsbaum (Buxus sempervirens)",
+      "description": "Der Buchsbaum (Buxus sempervirens) ist der klassische immergrüne Strauch für Einfassungen, niedrige Hecken und Formschnitt – Kugeln, Kegel und Würfel. Kleine, dichte Blätter, ganzjährig grün, ideal für formale Gärten und Eingänge.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Sonne bis Schatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -20°C"
+      }
+    },
+    "63": {
+      "name": "Rotahorn (Acer rubrum)",
+      "description": "Der Rotahorn (Acer rubrum) hat rote Blüten im zeitigen Frühjahr und eine der spektakulärsten leuchtend roten Herbstfärbungen. Ein eleganter Baum für Alleen, Parks und Wohnanlagen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Saurer bis neutraler Boden",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "64": {
+      "name": "Platane (Platanus × acerifolia)",
+      "description": "Die Platane (Platanus × acerifolia) ist der klassische Boulevardbaum mit gescheckter, abblätternder Rinde und großen, handförmigen Blättern. Sie verträgt Luftverschmutzung, Schnitt und Stadtbedingungen sehr gut.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "65": {
+      "name": "Kugelrobinie (Robinia pseudoacacia 'Umbraculifera')",
+      "description": "Die Kugelrobinie (Robinia pseudoacacia 'Umbraculifera') hat eine dichte, kugelförmige Krone auf geradem, dornenlosem Stamm. Ideal für schmale Straßen, Plätze, Parkplätze und Höfe, sehr trockenheits- und stadtklimaverträglich.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Sehr winterhart"
+      }
+    },
+    "66": {
+      "name": "Hängebirke (Betula pendula)",
+      "description": "Die Hängebirke (Betula pendula) hat eine weiße Rinde, feine, leicht überhängende Zweige und eine goldgelbe Herbstfärbung. Ein schnellwachsender, sehr frostharter Baum für Parks, Gruppen und Gärten.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Gut durchlässiger Boden",
+        "hardiness": "Sehr winterhart"
+      }
     }
   }
 }

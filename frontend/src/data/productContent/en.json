@@ -898,5 +898,95 @@
         "a": "Late frosts can brown that year's flowers, but the plant itself is not harmed and flowers normally the next year."
       }
     ]
+  },
+  "61": {
+    "uses": "The purple-leaf cherry plum is one of the most widely used small trees with coloured foliage. Its red-purple leaves contrast with green planting, and in March–April the tree is covered with pink flowers. It is used in narrow streets, parks, school yards, residential developments and as an informal or clipped hedge.",
+    "planting": "It reaches 5–7 m in height with a rounded crown. In avenues it is planted 5–6 m apart, and 50–70 cm apart for hedges. It adapts to most soils, including calcareous ones, and tolerates urban conditions. Leaf colour is most intense in full sun.",
+    "care": "A robust species, frost- and drought-tolerant once established. Water regularly in the first years. Formative pruning is done after flowering; as a hedge it can be trimmed once or twice a year.",
+    "faq": [
+      {
+        "q": "When does the purple-leaf cherry plum flower?",
+        "a": "In early spring, usually March–April, with pale pink flowers."
+      },
+      {
+        "q": "Can it be used as a hedge?",
+        "a": "Yes, it tolerates trimming well and can form informal or clipped hedges with red foliage."
+      }
+    ]
+  },
+  "62": {
+    "uses": "Box is the traditional plant of formal gardens: path edging, parterres, low hedges and topiary (balls, cones, spirals). It stays green all year and is used at building entrances, in historic gardens, hotel courtyards and decorative pots on terraces.",
+    "planting": "For low edging plant 5–8 plants per linear metre, and 3–4 per metre for taller hedges, depending on size. It tolerates sun and shade and calcareous soils but needs good drainage.",
+    "care": "It grows slowly and is trimmed once or twice a year, usually in early summer. Box can be attacked by the box tree moth and some fungal diseases, so plantings should be checked regularly and treated when needed. Regular watering in dry spells keeps the foliage dense.",
+    "faq": [
+      {
+        "q": "How many box plants per metre of edging?",
+        "a": "For low edging, usually 5–8 plants per linear metre, depending on plant size."
+      },
+      {
+        "q": "How do you protect box from the box tree moth?",
+        "a": "By checking plants regularly in spring and summer and applying specific treatments at the first signs of attack."
+      }
+    ]
+  },
+  "63": {
+    "uses": "Red maple is valued for year-round colour: small red flowers before the leaves, green foliage in summer and bright red autumn colour. It is used in avenues, parks, campuses, residential developments and as a specimen tree.",
+    "planting": "It reaches 15–20 m with an oval crown. In avenues it is planted 8–10 m apart. It prefers acidic to neutral, moist soils; on very calcareous soils the leaves can yellow (chlorosis). Plant in autumn or spring.",
+    "care": "Water regularly in the first years, especially in summer. Formative pruning is done in late summer or winter, not in spring. It is very frost-hardy (to about -30°C).",
+    "faq": [
+      {
+        "q": "When does red maple change colour?",
+        "a": "In autumn, usually in October, the leaves turn bright red."
+      },
+      {
+        "q": "Which soils does red maple need?",
+        "a": "It prefers acidic to neutral, moist soils; on very calcareous soils the leaves may yellow."
+      }
+    ]
+  },
+  "64": {
+    "uses": "The London plane is one of the toughest trees for cities: it tolerates pollution, compacted soils, heat and pruning, including roof-trained and pollarded forms. It is used on boulevards, squares, parks, school yards and car parks, where it gives dense shade.",
+    "planting": "A large tree reaching 25–35 m with a broad crown. In avenues it is planted 10–15 m apart; for trained (pruned) forms the spacing can be smaller. It adapts to most soils. Plant in autumn or spring and stake.",
+    "care": "Water regularly in the first years. It responds very well to formative and maintenance pruning, done in winter. In wet springs it can lose some leaves to a fungal disease but recovers during the summer.",
+    "faq": [
+      {
+        "q": "Why is the London plane used on boulevards?",
+        "a": "Because it tolerates pollution, heat, compacted soils and pruning very well and gives dense shade."
+      },
+      {
+        "q": "How big does the London plane grow?",
+        "a": "It is a large tree of 25–35 m with a broad crown; in avenues it is planted 10–15 m apart."
+      }
+    ]
+  },
+  "65": {
+    "uses": "The mop-head acacia is one of the most widely used trees for small urban spaces: its compact, spherical crown usually stays within 4–6 m in diameter, so it fits narrow streets, pavements, squares, car parks and building courtyards. It has a neat, geometric look and tolerates drought, heat and poor soils exceptionally well.",
+    "planting": "Plant in avenues 4–6 m apart or in regular groups. It adapts to almost any well-drained soil, including poor or sandy ones, and prefers full sun. Plant in autumn or spring with stakes.",
+    "care": "Once established it needs very little care. The crown is thinned and shortened every few years in winter to keep its spherical shape and reduce the risk of wind breakage. Unlike the common black locust it rarely or never flowers.",
+    "faq": [
+      {
+        "q": "How wide does the mop-head acacia crown grow?",
+        "a": "Usually 4–6 m in diameter, which makes it suitable for narrow streets and small spaces."
+      },
+      {
+        "q": "Does the mop-head acacia flower?",
+        "a": "Very rarely; the 'Umbraculifera' form is grown for its spherical crown, not for flowers."
+      }
+    ]
+  },
+  "66": {
+    "uses": "Silver birch is valued for its white bark, decorative all year, and its airy crown that lets light through. It is used in parks, in groups of 3–5 trees, in naturalistic gardens, residential developments and recreation areas, where it creates a bright landscape.",
+    "planting": "It reaches 15–25 m with a relatively narrow crown. It looks best planted in groups, 2–4 m apart. It prefers full sun and light, well-drained soils. As its pollen is allergenic, the site near residential buildings should be chosen carefully.",
+    "care": "It has shallow roots, so it needs regular watering and mulching in the first years and in dry summers. It does not tolerate hard pruning; light pruning is done in late summer or autumn, not spring. It is very frost-hardy.",
+    "faq": [
+      {
+        "q": "Why is silver birch planted in groups?",
+        "a": "Because the white trunks and airy crowns are most decorative in groups of 3–5 trees."
+      },
+      {
+        "q": "When should silver birch be pruned?",
+        "a": "Only lightly, in late summer or autumn; in spring birch bleeds a lot of sap when cut."
+      }
+    ]
   }
 }

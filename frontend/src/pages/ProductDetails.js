@@ -92,29 +92,8 @@ const ProductDetails = () => {
     .filter(p => p.id !== product.id && productInCategory(p, product.category))
     .slice(0, 4);
 
-  const productSchema = {
-    '@context': 'https://schema.org',
-    '@type': 'Product',
-    name: translatedName,
-    description: translatedDescription,
-    image: `https://www.plantdgd.ro${product.image}`,
-    sku: String(product.id),
-    category: categoryName,
-    brand: {
-      '@type': 'Brand',
-      name: 'PlantDGD'
-    },
-    url: canonicalUrl,
-    offers: {
-      '@type': 'Offer',
-      url: canonicalUrl,
-      availability: product.inStock ? 'https://schema.org/InStock' : 'https://schema.org/OutOfStock',
-      seller: {
-        '@type': 'Organization',
-        name: 'PlantDGD'
-      }
-    }
-  };
+  // Namerno BEZ Product schema: Google za Product snippets / Merchant listings traži cenu,
+  // a mi je ne objavljujemo ("Preț la cerere") - oznaka bi bila stalno "invalid".
 
   return (
     <>
@@ -126,7 +105,6 @@ const ProductDetails = () => {
       <meta property="og:description" content={meta.description} />
       <meta property="og:image" content={`https://www.plantdgd.ro${encodeURI(product.image)}`} />
       <meta property="og:url" content={canonicalUrl} />
-      <script type="application/ld+json">{JSON.stringify(productSchema)}</script>
       <script type="application/ld+json">{JSON.stringify(breadcrumbJsonLd(breadcrumbs))}</script>
       {extra && <script type="application/ld+json">{JSON.stringify(faqJsonLd(extra.faq))}</script>}
     </Helmet>

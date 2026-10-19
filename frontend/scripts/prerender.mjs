@@ -119,21 +119,8 @@ for (const p of products) {
       const name = pName(p, L);
       const desc = loc.productDescriptions?.[p.id]?.description || p.description;
       const meta = productMeta(name, desc, L);
-      const cat = categories.find(c => c.id === p.category);
-      const categoryName = cat ? get(loc, cat.nameKey) || p.category : p.category;
       const catPage = getCategoryPageByCategoryId(p.category);
-      const url = SITE_URL + P(productPath(p.id));
-      // Isti Product schema kao u ProductDetails.js
-      const productSchema = {
-        '@context': 'https://schema.org', '@type': 'Product', name, description: desc,
-        image: `${SITE_URL}${p.image}`, sku: String(p.id), category: categoryName,
-        brand: { '@type': 'Brand', name: 'PlantDGD' }, url,
-        offers: {
-          '@type': 'Offer', url,
-          availability: p.inStock ? 'https://schema.org/InStock' : 'https://schema.org/OutOfStock',
-          seller: { '@type': 'Organization', name: 'PlantDGD' }
-        }
-      };
+      // Bez Product schema (kao u ProductDetails.js): Google traži cenu, a cena je na upit
       const crumbs = [
         { name: loc.nav.home, path: P('/') },
         { name: loc.nav.products, path: P('/products') },
@@ -148,7 +135,7 @@ for (const p of products) {
       const extraHtml = ['uses', 'planting', 'care'].map(k => `<h2>${esc(labels[L][k])}</h2><p>${esc(extra[k])}</p>`).join('') +
         `<h2>${esc(labels[L].faqTitle)}</h2>${extra.faq.map(f => `<h3>${esc(f.q)}</h3><p>${esc(f.a)}</p>`).join('')}`;
       return {
-        ...meta, jsonLd: [productSchema, breadcrumbJsonLd(crumbs), faqJsonLd(extra.faq)],
+        ...meta, jsonLd: [breadcrumbJsonLd(crumbs), faqJsonLd(extra.faq)],
         body: `<h1>${esc(name)}</h1><img src="${encodeURI(p.image)}" alt="${esc(name)}"><p>${esc(desc)}</p>
 <p>${esc(loc.products.priceOnRequest || '')} – <a href="${P('/contact')}">${esc(loc.productDetails.contactUs)}</a></p>
 ${specs ? `<h2>${esc(loc.productDetails.specifications)}</h2><ul>${specs}</ul>` : ''}

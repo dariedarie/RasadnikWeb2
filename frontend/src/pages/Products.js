@@ -330,6 +330,23 @@ const Products = () => {
           </div>
         )}
       </section>
+
+      {/* Kompletna A–Z lista svih biljaka - obicni linkovi, da pretrazivaci vide ceo katalog odjednom */}
+      <section className="section" style={{background: '#fff', borderRadius: 18, boxShadow: '0 8px 32px rgba(44,62,80,0.08)', maxWidth: 1200, margin: '32px auto 0', padding: '28px 32px'}}>
+        <h2 style={{color: '#2e7d32', fontWeight: 700, fontSize: '1.35rem', marginBottom: 16}}>
+          {pickLang({ ro: 'Toate plantele din catalog (A–Z)', en: 'All plants in the catalogue (A–Z)', de: 'Alle Pflanzen im Katalog (A–Z)' }, i18n.language)}
+        </h2>
+        <ul style={{columns: '260px', columnGap: 32, listStyle: 'none', padding: 0, margin: 0, lineHeight: 1.9}}>
+          {[...products]
+            .map(p => ({ id: p.id, name: t(`productDescriptions.${p.id}.name`, { defaultValue: p.name }) }))
+            .sort((a, b) => a.name.localeCompare(b.name, i18n.language))
+            .map(p => (
+              <li key={p.id} style={{breakInside: 'avoid'}}>
+                <Link to={`${prefix}${productPath(p.id)}`} style={{color: '#234d20'}}>{p.name}</Link>
+              </li>
+            ))}
+        </ul>
+      </section>
     </div>
     </>
   );

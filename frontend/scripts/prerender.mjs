@@ -3,6 +3,7 @@
 // (za botove koji ne izvrsavaju JavaScript), i generise build/sitemap.xml.
 // Pokrece se automatski posle `react-scripts build` (vidi package.json).
 import fs from 'node:fs';
+import crypto from 'node:crypto';
 import os from 'node:os';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
@@ -265,6 +266,7 @@ const navHtml = (L, loc, P) => `<nav><a href="${P('/')}">${esc(loc.nav.home)}</a
 } | <a href="${P('/about')}">${esc(loc.nav.about)}</a> | <a href="${P('/contact')}">${esc(loc.nav.contact)}</a> | <a href="${P('/gallery')}">${esc(loc.nav.gallery)}</a> | <a href="${P(GUIDES_PATH)}">${esc(guideLabelsFor(L).nav)}</a></nav>`;
 
 let count = 0;
+const pageHash = {}; // lokalna putanja -> hash sadrzaja (za tacan <lastmod> u sitemap-u)
 for (const page of pages) {
   for (const L of page.langs || SUPPORTED_LANGS) {
     const loc = locales[L];
@@ -292,6 +294,8 @@ for (const page of pages) {
     // Sadrzaj u <noscript> vide samo botovi bez JavaScript-a; posetioci ga ne vide (nema "blica" pre React-a)
     html = html.replace('<div id="root"></div>', `<noscript>${navHtml(L, loc, P)}<main>${r.body}</main>${footer}</noscript><div id="root"></div>`);
 
+    pageHash[localPath] = crypto.createHash('sha1').update(JSON.stringify([r.title, r.description, r.body, r.jsonLd])).digest('hex');
+
     const out = localPath === '/' ? path.join(buildDir, 'index.html') : path.join(buildDir, localPath, 'index.html');
     fs.mkdirSync(path.dirname(out), { recursive: true });
     fs.writeFileSync(out, html);
@@ -299,11 +303,23 @@ for (const page of pages) {
   }
 }
 
-// ---------- sitemap.xml (hreflang alternative + slike proizvoda) ----------
+// ---------- sitemap (hreflang alternative + slike proizvoda) ----------
+// <lastmod> = datum poslednje STVARNE izmene stranice (ne datum build-a), da bi mu Google verovao.
+// scripts/sitemap-lastmod.json pamti hash i datum po stranici; datum se menja samo kad se sadrzaj promeni.
+// Posle izmene sadrzaja pokrenite build lokalno i commit-ujte azuriran sitemap-lastmod.json.
 const today = new Date().toISOString().slice(0, 10);
+const lastmodFile = path.join(root, 'scripts', 'sitemap-lastmod.json');
+const lastmodDb = fs.existsSync(lastmodFile) ? JSON.parse(fs.readFileSync(lastmodFile, 'utf8')) : {};
+const lastmodOf = (localPath) => {
+  const prev = lastmodDb[localPath];
+  if (prev && prev.hash === pageHash[localPath]) return prev.date;
+  lastmodDb[localPath] = { hash: pageHash[localPath], date: today };
+  return today;
+};
 const priority = (p) => (p === '/' ? '1.0' : p.startsWith(GUIDES_PATH) ? '0.7' : p === '/products' || categoryPages.some(c => `/${c.slug}` === p) ? '0.9' : p.startsWith('/products/') ? '0.7' : '0.6');
 const xmlEsc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const entries = [];
+const byLang = Object.fromEntries(SUPPORTED_LANGS.map(l => [l, []]));
 for (const page of pages) {
   const langs = page.langs || SUPPORTED_LANGS;
   const alternates = langs.length === 1 ? '    <!-- doar ro -->' : SUPPORTED_LANGS.map(l =>
@@ -311,18 +327,37 @@ for (const page of pages) {
     `\n    <xhtml:link rel="alternate" hreflang="x-default" href="${SITE_URL}${buildLocalizedPath(page.path, 'ro')}" />`;
   const images = (page.images || []).map(img => `\n    <image:image><image:loc>${xmlEsc(absUrl(img))}</image:loc></image:image>`).join('');
   for (const L of langs) {
-    entries.push(`  <url>
-    <loc>${SITE_URL}${buildLocalizedPath(page.path, L)}</loc>
-    <lastmod>${today}</lastmod>
+    const localPath = buildLocalizedPath(page.path, L);
+    const lastmod = lastmodOf(localPath);
+    const entry = `  <url>
+    <loc>${SITE_URL}${localPath}</loc>
+    <lastmod>${lastmod}</lastmod>
     <priority>${priority(page.path)}</priority>
 ${alternates}${L === 'ro' ? images : ''}
-  </url>`);
+  </url>`;
+    entries.push(entry);
+    byLang[L].push({ entry, lastmod });
   }
 }
-fs.writeFileSync(path.join(buildDir, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-${entries.join('\n')}
-</urlset>
-`);
 
-console.log(`prerender: ${count} stranica + sitemap.xml (${entries.length} URL-ova) generisano`);
+// Jedan sitemap po jeziku + sitemap.xml kao indeks (Search Console tada pokazuje indeksiranje po jeziku)
+const urlset = (list) => `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+${list.join('\n')}
+</urlset>
+`;
+const indexEntries = [];
+for (const L of SUPPORTED_LANGS) {
+  const file = `sitemap-${L}.xml`;
+  fs.writeFileSync(path.join(buildDir, file), urlset(byLang[L].map(x => x.entry)));
+  const newest = byLang[L].map(x => x.lastmod).sort().pop();
+  indexEntries.push(`  <sitemap>\n    <loc>${SITE_URL}/${file}</loc>\n    <lastmod>${newest}</lastmod>\n  </sitemap>`);
+}
+fs.writeFileSync(path.join(buildDir, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${indexEntries.join('\n')}
+</sitemapindex>
+`);
+fs.writeFileSync(lastmodFile, JSON.stringify(Object.fromEntries(Object.entries(lastmodDb).sort()), null, 1) + '\n');
+
+console.log(`prerender: ${count} stranica + sitemap.xml (indeks) + sitemap-{${SUPPORTED_LANGS.join(',')}}.xml (${entries.length} URL-ova) generisano`);

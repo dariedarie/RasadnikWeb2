@@ -2,8 +2,5 @@
 User-agent: *
 Allow: /
 
-# Sitemap location
+# Sitemap (indeks: sitemap-ro.xml, sitemap-en.xml, sitemap-de.xml)
 Sitemap: https://www.plantdgd.ro/sitemap.xml
-
-# Crawl-delay (optional, be nice to Google)
-Crawl-delay: 1

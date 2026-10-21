@@ -11,8 +11,6 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 import Gallery from './pages/Gallery';
 import CategoryPage from './pages/CategoryPage';
-import RegionPage from './pages/RegionPage';
-import regionData from './data/regionPages.json';
 import GuidesIndex from './pages/GuidesIndex';
 import GuideArticle from './pages/GuideArticle';
 import { GUIDES_PATH } from './data/guides';
@@ -45,9 +43,7 @@ const PAGES = [
   { path: '/contact', Component: Contact },
   { path: '/gallery', Component: Gallery },
   // Landing stranice kategorija (/gard-viu-en-gros, /en/gard-viu-en-gros, ...)
-  ...categoryPages.map(page => ({ path: `/${page.slug}`, Component: CategoryPage, props: { page } })),
-  // Regionalne stranice (/plante-ornamentale-en-gros-cluj, /en/..., /de/...)
-  ...regionData.pages.map(page => ({ path: `/${page.slug}`, Component: RegionPage, props: { page } }))
+  ...categoryPages.map(page => ({ path: `/${page.slug}`, Component: CategoryPage, props: { page } }))
 ];
 
 function App() {

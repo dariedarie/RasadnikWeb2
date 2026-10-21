@@ -111,37 +111,6 @@ for (const page of categoryPages) {
   });
 }
 
-// Regionalne stranice (src/data/regionPages.json), isto kao RegionPage.js
-const regionData = JSON.parse(fs.readFileSync(path.join(dataDir, 'regionPages.json'), 'utf8'));
-for (const page of regionData.pages) {
-  const list = page.products.map(id => products.find(p => p.id === id));
-  if (list.some(p => !p)) throw new Error(`prerender: regija ${page.slug} ima nepostojeći proizvod`);
-  for (const lang of SUPPORTED_LANGS) {
-    if (!page.content[lang]) throw new Error(`prerender: regija ${page.slug} nema tekst za jezik ${lang}`);
-  }
-  pages.push({
-    path: `/${page.slug}`, image: page.image,
-    build: (L, loc, P) => {
-      const c = page.content[L];
-      const rl = regionData.labels[L];
-      const city = (s) => s.replace('{city}', c.name);
-      return {
-        title: c.title, description: c.description,
-        jsonLd: [
-          breadcrumbJsonLd([{ name: loc.nav.home, path: P('/') }, { name: c.h1, path: P(`/${page.slug}`) }]),
-          itemListJsonLd(list.map(p => ({ name: pName(p, L), path: P(productPath(p.id)) }))),
-          faqJsonLd(c.faq)
-        ],
-        body: `<h1>${esc(c.h1)}</h1>${c.intro.map(p => `<p>${esc(p)}</p>`).join('')}
-<h2>${esc(city(rl.climateTitle))}</h2>${c.climate.map(p => `<p>${esc(p)}</p>`).join('')}
-<h2>${esc(city(rl.recommendedTitle))}</h2>${productLinks(list, L, P)}
-<h2>${esc(labels[L].faqTitle)}</h2>${c.faq.map(f => `<h3>${esc(f.q)}</h3><p>${esc(f.a)}</p>`).join('')}
-<h2>${esc(rl.otherRegions)}</h2><ul>${regionData.pages.filter(r => r.slug !== page.slug).map(r => `<li><a href="${P(`/${r.slug}`)}">${esc(r.content[L].name)}</a></li>`).join('')}</ul>`
-      };
-    }
-  });
-}
-
 for (const p of products) {
   pages.push({
     path: productPath(p.id), image: p.image,
@@ -313,8 +282,7 @@ for (const page of pages) {
     const langNav = (page.langs || SUPPORTED_LANGS).length > 1
       ? `<nav>${SUPPORTED_LANGS.map(l => `<a href="${buildLocalizedPath(page.path, l)}" hreflang="${l}" lang="${l}">${langNames[l]}</a>`).join(' · ')}</nav>`
       : '';
-    const regionNav = `<p>${esc(regionData.labels[L].footerTitle)}: ${regionData.pages.map(r => `<a href="${P(`/${r.slug}`)}">${esc(r.content[L].name)}</a>`).join(' · ')}</p>`;
-    const footer = `<footer>${regionNav}<p>PlantDGD S.R.L. – ${esc(loc.contact.address)}, ${esc(loc.contact.addressCity)} – Tel: +40 729 048 545 – office@plantdgd.ro</p>${langNav}</footer>`;
+    const footer = `<footer><p>PlantDGD S.R.L. – ${esc(loc.contact.address)}, ${esc(loc.contact.addressCity)} – Tel: +40 729 048 545 – office@plantdgd.ro</p>${langNav}</footer>`;
     // Sadrzaj u <noscript> vide samo botovi bez JavaScript-a; posetioci ga ne vide (nema "blica" pre React-a)
     html = html.replace('<div id="root"></div>', `<noscript>${navHtml(L, loc, P)}<main>${r.body}</main>${footer}</noscript><div id="root"></div>`);
 
@@ -340,7 +308,7 @@ const lastmodOf = (localPath) => {
   lastmodDb[localPath] = { hash: pageHash[localPath], date: today };
   return today;
 };
-const priority = (p) => (p === '/' ? '1.0' : p.startsWith(GUIDES_PATH) ? '0.7' : p === '/products' || categoryPages.some(c => `/${c.slug}` === p) ? '0.9' : regionData.pages.some(r => `/${r.slug}` === p) ? '0.8' : p.startsWith('/products/') ? '0.7' : '0.6');
+const priority = (p) => (p === '/' ? '1.0' : p.startsWith(GUIDES_PATH) ? '0.7' : p === '/products' || categoryPages.some(c => `/${c.slug}` === p) ? '0.9' : p.startsWith('/products/') ? '0.7' : '0.6');
 const xmlEsc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const entries = [];
 const byLang = Object.fromEntries(SUPPORTED_LANGS.map(l => [l, []]));

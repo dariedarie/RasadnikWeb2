@@ -1424,6 +1424,156 @@
       "source": "/de/products/94",
       "destination": "/de/products/imperata-cylindrica-red-baron",
       "permanent": true
+    },
+    {
+      "source": "/plante-ornamentale-en-gros-timisoara",
+      "destination": "/products",
+      "permanent": true
+    },
+    {
+      "source": "/en/plante-ornamentale-en-gros-timisoara",
+      "destination": "/en/products",
+      "permanent": true
+    },
+    {
+      "source": "/de/plante-ornamentale-en-gros-timisoara",
+      "destination": "/de/products",
+      "permanent": true
+    },
+    {
+      "source": "/plante-ornamentale-en-gros-arad",
+      "destination": "/products",
+      "permanent": true
+    },
+    {
+      "source": "/en/plante-ornamentale-en-gros-arad",
+      "destination": "/en/products",
+      "permanent": true
+    },
+    {
+      "source": "/de/plante-ornamentale-en-gros-arad",
+      "destination": "/de/products",
+      "permanent": true
+    },
+    {
+      "source": "/plante-ornamentale-en-gros-oradea",
+      "destination": "/products",
+      "permanent": true
+    },
+    {
+      "source": "/en/plante-ornamentale-en-gros-oradea",
+      "destination": "/en/products",
+      "permanent": true
+    },
+    {
+      "source": "/de/plante-ornamentale-en-gros-oradea",
+      "destination": "/de/products",
+      "permanent": true
+    },
+    {
+      "source": "/plante-ornamentale-en-gros-cluj",
+      "destination": "/products",
+      "permanent": true
+    },
+    {
+      "source": "/en/plante-ornamentale-en-gros-cluj",
+      "destination": "/en/products",
+      "permanent": true
+    },
+    {
+      "source": "/de/plante-ornamentale-en-gros-cluj",
+      "destination": "/de/products",
+      "permanent": true
+    },
+    {
+      "source": "/plante-ornamentale-en-gros-sibiu",
+      "destination": "/products",
+      "permanent": true
+    },
+    {
+      "source": "/en/plante-ornamentale-en-gros-sibiu",
+      "destination": "/en/products",
+      "permanent": true
+    },
+    {
+      "source": "/de/plante-ornamentale-en-gros-sibiu",
+      "destination": "/de/products",
+      "permanent": true
+    },
+    {
+      "source": "/plante-ornamentale-en-gros-brasov",
+      "destination": "/products",
+      "permanent": true
+    },
+    {
+      "source": "/en/plante-ornamentale-en-gros-brasov",
+      "destination": "/en/products",
+      "permanent": true
+    },
+    {
+      "source": "/de/plante-ornamentale-en-gros-brasov",
+      "destination": "/de/products",
+      "permanent": true
+    },
+    {
+      "source": "/plante-ornamentale-en-gros-bucuresti",
+      "destination": "/products",
+      "permanent": true
+    },
+    {
+      "source": "/en/plante-ornamentale-en-gros-bucuresti",
+      "destination": "/en/products",
+      "permanent": true
+    },
+    {
+      "source": "/de/plante-ornamentale-en-gros-bucuresti",
+      "destination": "/de/products",
+      "permanent": true
+    },
+    {
+      "source": "/plante-ornamentale-en-gros-craiova",
+      "destination": "/products",
+      "permanent": true
+    },
+    {
+      "source": "/en/plante-ornamentale-en-gros-craiova",
+      "destination": "/en/products",
+      "permanent": true
+    },
+    {
+      "source": "/de/plante-ornamentale-en-gros-craiova",
+      "destination": "/de/products",
+      "permanent": true
+    },
+    {
+      "source": "/plante-ornamentale-en-gros-iasi",
+      "destination": "/products",
+      "permanent": true
+    },
+    {
+      "source": "/en/plante-ornamentale-en-gros-iasi",
+      "destination": "/en/products",
+      "permanent": true
+    },
+    {
+      "source": "/de/plante-ornamentale-en-gros-iasi",
+      "destination": "/de/products",
+      "permanent": true
+    },
+    {
+      "source": "/plante-ornamentale-en-gros-constanta",
+      "destination": "/products",
+      "permanent": true
+    },
+    {
+      "source": "/en/plante-ornamentale-en-gros-constanta",
+      "destination": "/en/products",
+      "permanent": true
+    },
+    {
+      "source": "/de/plante-ornamentale-en-gros-constanta",
+      "destination": "/de/products",
+      "permanent": true
     }
   ]
 }

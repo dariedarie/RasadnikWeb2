@@ -422,14 +422,14 @@ export const productInCategory = (product, categoryId) => (product.categories ||
 // Stranica o izvozu u Evropu - ista putanja na svim jezicima: /export-plante-europa, /en/..., /de/...
 export const exportPage = {
   slug: "export-plante-europa",
-  images: ["/images/plantdgd-arbori-ornamentali-cu-balot-transport.jpg", "/images/plantdgd-conifere-cu-balot-pregatite-pentru-livrare.jpg"],
+  images: ["/images/plantdgd-arbori-ornamentali-cu-balot-transport.jpg", "/images/chiparos-leyland.jpg"],
   content: {
     ro: {
       name: "Export în Europa",
       h1: "Export de plante ornamentale en gros în toată Europa",
       title: "Export Plante Ornamentale En Gros în Europa | PlantDGD",
       description: "PlantDGD exportă plante ornamentale en gros în toată Europa: conifere, gard viu, arbori și arbuști cu balot sau în container. Pașaport fitosanitar UE, transport cu camionul, ofertă în RO/EN/DE.",
-      imageAlt: ["Arbori ornamentali cu balot pregătiți pentru transport", "Conifere cu balot pregătite pentru livrare en gros"],
+      imageAlt: ["Arbori ornamentali cu balot pregătiți pentru transport", "Chiparos Leyland în container (ghiveci), pregătit pentru livrare en gros"],
       intro: [
         "PlantDGD S.R.L. este o firmă din Timișoara, România, specializată în vânzarea en gros de plante ornamentale pentru clienți din toată Europa: firme de peisagistică, centre de grădinărit, dezvoltatori imobiliari, antreprenori de spații verzi și administrații publice.",
         "Livrăm conifere, plante pentru gard viu, arbori de aliniament, arbuști și plante perene în cantități mari, cu transport cu camionul direct la adresa dumneavoastră. Comunicăm în română, engleză și germană."
@@ -464,7 +464,7 @@ export const exportPage = {
       h1: "Wholesale ornamental plants – export across Europe",
       title: "Wholesale Plant Export Across Europe | PlantDGD",
       description: "PlantDGD exports wholesale ornamental plants across Europe: conifers, hedge plants, root-balled and container trees and shrubs. EU plant passport, truck transport, quotes in EN/DE/RO.",
-      imageAlt: ["Root-balled ornamental trees ready for transport", "Root-balled conifers ready for wholesale delivery"],
+      imageAlt: ["Root-balled ornamental trees ready for transport", "Leyland cypress in containers (pots), ready for wholesale delivery"],
       intro: [
         "PlantDGD S.R.L. is a company based in Timișoara, Romania, specialising in wholesale ornamental plants for customers across Europe: landscaping companies, garden centres, property developers, green-space contractors and public authorities.",
         "We supply conifers, hedge plants, avenue trees, shrubs and perennials in large quantities, delivered by truck directly to your address. We communicate in English, German and Romanian."
@@ -499,7 +499,7 @@ export const exportPage = {
       h1: "Zierpflanzen im Großhandel – Export in ganz Europa",
       title: "Pflanzen-Export im Großhandel – ganz Europa | PlantDGD",
       description: "PlantDGD exportiert Zierpflanzen im Großhandel in ganz Europa: Koniferen, Heckenpflanzen, Bäume und Sträucher mit Ballen oder im Container. EU-Pflanzenpass, Lkw-Transport, Angebot auf Deutsch.",
-      imageAlt: ["Zierbäume mit Ballen, bereit für den Transport", "Koniferen mit Ballen, bereit für die Großhandelslieferung"],
+      imageAlt: ["Zierbäume mit Ballen, bereit für den Transport", "Leylandzypressen im Container (Topf), bereit für die Großhandelslieferung"],
       intro: [
         "PlantDGD S.R.L. ist ein Unternehmen mit Sitz in Timișoara (Rumänien), spezialisiert auf den Großhandel mit Zierpflanzen für Kunden in ganz Europa: Garten- und Landschaftsbaufirmen, Gartencenter, Bauträger, Grünflächenunternehmen und öffentliche Auftraggeber.",
         "Wir liefern Koniferen, Heckenpflanzen, Alleebäume, Sträucher und Stauden in großen Mengen per Lkw direkt an Ihre Adresse. Wir kommunizieren auf Deutsch, Englisch und Rumänisch."

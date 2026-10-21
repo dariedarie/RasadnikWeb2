@@ -1,14 +1,17 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
-import { getLangPrefix } from '../utils/i18nRoutes';
+import { getLangPrefix, parseLocalizedPath, buildLocalizedPath, SUPPORTED_LANGS } from '../utils/i18nRoutes';
 import { categoryPages, pickLang, labels } from '../data/seoPages';
 import { GUIDES_PATH, guideLabelsFor } from '../data/guides';
 import './Footer.css';
 
+const LANG_NAMES = { ro: 'Română', en: 'English', de: 'Deutsch' };
+
 const Footer = () => {
   const { t, i18n } = useTranslation();
   const prefix = getLangPrefix(i18n.language);
+  const { path } = parseLocalizedPath(useLocation().pathname);
   return (
     <footer className="footer">
       <div className="container">
@@ -61,8 +64,17 @@ const Footer = () => {
               </li>
             </ul>
           </div>
-          
+
         </div>
+        {/* Pravi linkovi ka istoj stranici na drugim jezicima - Google preko njih otkriva /en i /de verzije */}
+        <nav className="footer-bottom footer-langs" aria-label="Language">
+          {SUPPORTED_LANGS.map((l, i) => (
+            <React.Fragment key={l}>
+              {i > 0 && ' · '}
+              <Link to={buildLocalizedPath(path, l)} hrefLang={l} lang={l} aria-current={l === i18n.language ? 'page' : undefined} onClick={() => window.scrollTo(0,0)}>{LANG_NAMES[l]}</Link>
+            </React.Fragment>
+          ))}
+        </nav>
       </div>
     </footer>
   );

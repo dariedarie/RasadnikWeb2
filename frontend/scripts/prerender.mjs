@@ -277,7 +277,12 @@ for (const page of pages) {
     const ld = r.jsonLd.map(d => `<script type="application/ld+json" data-rh="true">${JSON.stringify(d).replace(/</g, '\\u003c')}</script>`).join('');
     html = html.replace('</head>', `${hreflangLinks(page.path, L, page.langs)}${ld}</head>`);
     if (!html.includes('<div id="root"></div>')) throw new Error('prerender: <div id="root"></div> nije pronadjen');
-    const footer = `<footer><p>PlantDGD S.R.L. – ${esc(loc.contact.address)}, ${esc(loc.contact.addressCity)} – Tel: +40 729 048 545 – office@plantdgd.ro</p></footer>`;
+    // Pravi linkovi ka istoj stranici na ostalim jezicima - Google preko njih otkriva /en i /de verzije
+    const langNames = { ro: 'Română', en: 'English', de: 'Deutsch' };
+    const langNav = (page.langs || SUPPORTED_LANGS).length > 1
+      ? `<nav>${SUPPORTED_LANGS.map(l => `<a href="${buildLocalizedPath(page.path, l)}" hreflang="${l}" lang="${l}">${langNames[l]}</a>`).join(' · ')}</nav>`
+      : '';
+    const footer = `<footer><p>PlantDGD S.R.L. – ${esc(loc.contact.address)}, ${esc(loc.contact.addressCity)} – Tel: +40 729 048 545 – office@plantdgd.ro</p>${langNav}</footer>`;
     // Sadrzaj u <noscript> vide samo botovi bez JavaScript-a; posetioci ga ne vide (nema "blica" pre React-a)
     html = html.replace('<div id="root"></div>', `<noscript>${navHtml(L, loc, P)}<main>${r.body}</main>${footer}</noscript><div id="root"></div>`);
 

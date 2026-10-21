@@ -4,6 +4,7 @@ import { useTranslation } from 'react-i18next';
 import { getLangPrefix, parseLocalizedPath, buildLocalizedPath, SUPPORTED_LANGS } from '../utils/i18nRoutes';
 import { categoryPages, pickLang, labels } from '../data/seoPages';
 import { GUIDES_PATH, guideLabelsFor } from '../data/guides';
+import regionData from '../data/regionPages.json';
 import './Footer.css';
 
 const LANG_NAMES = { ro: 'Română', en: 'English', de: 'Deutsch' };
@@ -41,6 +42,15 @@ const Footer = () => {
             <ul>
               {categoryPages.map(c => (
                 <li key={c.slug}><Link to={`${prefix}/${c.slug}`} onClick={() => window.scrollTo(0,0)}>{pickLang(c.content, i18n.language).name}</Link></li>
+              ))}
+            </ul>
+          </div>
+
+          <div className="footer-section">
+            <h4>{pickLang(regionData.labels, i18n.language).footerTitle}</h4>
+            <ul>
+              {regionData.pages.map(r => (
+                <li key={r.slug}><Link to={`${prefix}/${r.slug}`} onClick={() => window.scrollTo(0,0)}>{pickLang(r.content, i18n.language).name}</Link></li>
               ))}
             </ul>
           </div>

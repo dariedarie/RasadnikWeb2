@@ -11,10 +11,11 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 import Gallery from './pages/Gallery';
 import CategoryPage from './pages/CategoryPage';
+import ExportPage from './pages/ExportPage';
 import GuidesIndex from './pages/GuidesIndex';
 import GuideArticle from './pages/GuideArticle';
 import { GUIDES_PATH } from './data/guides';
-import { categoryPages } from './data/seoPages';
+import { categoryPages, exportPage } from './data/seoPages';
 import Footer from './components/Footer';
 import { SUPPORTED_LANGS, getLangPrefix } from './utils/i18nRoutes';
 
@@ -42,6 +43,7 @@ const PAGES = [
   { path: '/about', Component: About },
   { path: '/contact', Component: Contact },
   { path: '/gallery', Component: Gallery },
+  { path: `/${exportPage.slug}`, Component: ExportPage },
   // Landing stranice kategorija (/gard-viu-en-gros, /en/gard-viu-en-gros, ...)
   ...categoryPages.map(page => ({ path: `/${page.slug}`, Component: CategoryPage, props: { page } }))
 ];

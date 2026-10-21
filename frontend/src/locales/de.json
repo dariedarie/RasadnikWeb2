@@ -8,13 +8,13 @@
   },
   "home": {
     "title": "PlantDGD – Pflanzen Großhandel",
-    "subtitle": "Ihr zuverlässiger Partner für Zierpflanzen im Großhandel. Erstklassige Qualität, wettbewerbsfähige Preise, Lieferung in Rumänien und ganz Europa.",
+    "subtitle": "Ihr zuverlässiger Partner für Zierpflanzen im Großhandel. Erstklassige Qualität, wettbewerbsfähige Preise, Lieferung in ganz Europa.",
     "viewProducts": "Katalog ansehen",
     "whyChooseUs": "Warum PlantDGD wählen",
     "provenQuality": "Bewährte Qualität",
     "provenQualityDesc": "Langjährige Erfahrung in der Produktion und Lieferung hochwertiger Zierpflanzen in ganz Europa.",
     "fastDelivery": "Schnelle Lieferung",
-    "fastDeliveryDesc": "Spezialtransport in Rumänien und ganz Europa. Professionell verpackte Pflanzen für optimale Ankunft.",
+    "fastDeliveryDesc": "Spezialtransport in ganz Europa. Professionell verpackte Pflanzen für optimale Ankunft.",
     "wholesalePartner": "Großhandelspartner",
     "wholesalePartnerDesc": "Wir beliefern Landschaftsgärtner, Gartencenter, Gemeinden und Bauträger mit Großmengen zu günstigen Preisen.",
     "popularProducts": "Top-Produkte",
@@ -31,7 +31,7 @@
     "leyland": "Leyland-Zypresse",
     "leylandDesc": "Schnellwachsender immergrüner Nadelbaum, ideal für hohe Hecken und Windschutz. Im Großhandel erhältlich.",
     "ctaTitle": "Benötigen Sie Pflanzen im Großhandel?",
-    "ctaSubtitle": "Kontaktieren Sie uns für ein maßgeschneidertes Angebot. Lieferung in Rumänien und ganz Europa.",
+    "ctaSubtitle": "Kontaktieren Sie uns für ein maßgeschneidertes Angebot. Lieferung in ganz Europa.",
     "ctaBtn": "Angebot anfordern",
     "badgeInStock": "Verfügbar",
     "badgeFeatured": "Meistgefragt",
@@ -40,10 +40,10 @@
   },
   "about": {
     "title": "Über PlantDGD",
-    "subtitle": "Ihr zuverlässiger Partner für Zierpflanzen im Großhandel in Rumänien und Europa",
+    "subtitle": "Ihr zuverlässiger Partner für Zierpflanzen im Großhandel in ganz Europa",
     "ourStory": "Unsere Geschichte",
-    "story1": "PlantDGD S.R.L. ist ein auf den Großhandel mit Zierpflanzen spezialisiertes Unternehmen. Wir beliefern professionelle Landschaftsgärtner, Gartencenter, Gemeinden und Privatunternehmen in Rumänien mit hochwertigen Pflanzen zu wettbewerbsfähigen Preisen.",
-    "story2": "Wir produzieren und liefern Nadelbäume, Zierbäume, Sträucher, Stauden und Heckenpflanzen im kommerziellen Maßstab. Wir arbeiten mit Kunden aus ganz Rumänien und Europa zusammen und bieten umfassende Dienstleistungen.",
+    "story1": "PlantDGD S.R.L. ist ein auf den Großhandel mit Zierpflanzen spezialisiertes Unternehmen. Wir beliefern professionelle Landschaftsgärtner, Gartencenter, Gemeinden und Privatunternehmen in ganz Europa mit hochwertigen Pflanzen zu wettbewerbsfähigen Preisen.",
+    "story2": "Wir produzieren und liefern Nadelbäume, Zierbäume, Sträucher, Stauden und Heckenpflanzen im kommerziellen Maßstab. Wir arbeiten mit Kunden aus ganz Europa zusammen und bieten umfassende Dienstleistungen.",
     "ourValues": "Unsere Werte",
     "natural": "Natürlichkeit",
     "naturalDesc": "Alle unsere Pflanzen werden natürlich ohne schädliche Chemikalien angebaut.",
@@ -62,7 +62,7 @@
     "landscapers": "Landschaftsgärtner",
     "landscapersDesc": "Großhandelslieferung für Landschaftsprojekte jeder Größenordnung.",
     "gardenCenters": "Gartencenter",
-    "gardenCentersDesc": "Vorteilhafte Partnerschaften für Gartencenter in Rumänien und ganz Europa.",
+    "gardenCentersDesc": "Vorteilhafte Partnerschaften für Gartencenter in ganz Europa.",
     "municipalities": "Gemeinden und Institutionen",
     "municipalitiesDesc": "Pflanzen für öffentliche Räume, Parks und städtische Gestaltung zu Sonderpreisen.",
     "developers": "Bauträger",
@@ -87,8 +87,8 @@
     "messageRequired": "Das Nachrichtenfeld ist erforderlich",
     "success": "Nachricht erfolgreich gesendet! Wir werden Sie so schnell wie möglich kontaktieren.",
     "error": "Beim Senden der Nachricht ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.",
-    "location": "Lieferung in Rumänien & Europa",
-    "locationDesc": "PlantDGD liefert Zierpflanzen im Großhandel in ganz Rumänien und Europa. Der Transport wird mit Spezialfahrzeugen durchgeführt, um sicherzustellen, dass die Pflanzen in einwandfreiem Zustand ankommen."
+    "location": "Lieferung in ganz Europa",
+    "locationDesc": "PlantDGD liefert Zierpflanzen im Großhandel in ganz Europa. Der Transport wird mit Spezialfahrzeugen durchgeführt, um sicherzustellen, dass die Pflanzen in einwandfreiem Zustand ankommen."
   },
   "products": {
     "title": "Großhandels-Produktkatalog",
@@ -147,7 +147,7 @@
     "photos": "Fotos"
   },
   "footer": {
-    "description": "Ihr Großhandelslieferant für Zierpflanzen. Erstklassige Qualität, wettbewerbsfähige Preise, Lieferung in Rumänien und Europa.",
+    "description": "Ihr Großhandelslieferant für Zierpflanzen. Erstklassige Qualität, wettbewerbsfähige Preise, Lieferung in ganz Europa.",
     "quickLinks": "Schnelllinks",
     "contactInfo": "Kontaktinformationen",
     "rights": "Alle Rechte vorbehalten.",
@@ -155,16 +155,16 @@
     "b2b": "B2B-Partnerschaften"
   },
   "seo": {
-    "homeTitle": "PlantDGD – Zierpflanzen Großhandel | Großhandelsverkauf Rumänien",
-    "homeDescription": "PlantDGD - Großhandelslieferant für Zierpflanzen in Rumänien. Thuja, Nadelbäume, Sträucher, Hecken, Zierbäume im Großhandel. Wettbewerbsfähige Preise für Landschaftsgärtner und Gartencenter. Lieferung in ganz Rumänien.",
-    "aboutTitle": "Über PlantDGD – Zierpflanzen-Großhändler Rumänien",
-    "aboutDescription": "PlantDGD - Großhandelslieferant für Zierpflanzen mit über 15 Jahren Erfahrung. Wir beliefern Landschaftsgärtner, Gartencenter, Gemeinden und Unternehmen in ganz Rumänien mit hochwertigen Pflanzen.",
-    "contactTitle": "Kontakt PlantDGD – Großhandelsangebot Zierpflanzen Rumänien",
-    "contactDescription": "Kontaktieren Sie PlantDGD für ein Großhandelsangebot für Zierpflanzen. Telefon: +40 729 048 545. Lieferung in ganz Rumänien. Wettbewerbsfähige Preise für Landschaftsgärtner und Gartencenter.",
+    "homeTitle": "PlantDGD – Zierpflanzen Großhandel | Export in ganz Europa",
+    "homeDescription": "PlantDGD - Großhandelslieferant für Zierpflanzen mit Sitz in Rumänien, Export in ganz Europa. Thuja, Nadelbäume, Sträucher, Hecken, Zierbäume im Großhandel. Wettbewerbsfähige Preise für Landschaftsgärtner und Gartencenter. Lieferung in ganz Europa.",
+    "aboutTitle": "Über PlantDGD – Zierpflanzen-Großhändler für Europa",
+    "aboutDescription": "PlantDGD - Großhandelslieferant für Zierpflanzen mit über 15 Jahren Erfahrung. Wir beliefern Landschaftsgärtner, Gartencenter, Gemeinden und Unternehmen in ganz Europa mit hochwertigen Pflanzen.",
+    "contactTitle": "Kontakt PlantDGD – Großhandelsangebot Zierpflanzen für Europa",
+    "contactDescription": "Kontaktieren Sie PlantDGD für ein Großhandelsangebot für Zierpflanzen. Telefon: +40 729 048 545. Lieferung in ganz Europa. Wettbewerbsfähige Preise für Landschaftsgärtner und Gartencenter.",
     "galleryTitle": "PlantDGD Galerie – Fotos von Zierpflanzen im Großhandel",
     "galleryDescription": "PlantDGD Galerie - Fotos von Zierpflanzen im Großhandel erhältlich: Nadelbäume, Sträucher, Hecken, Zierbäume. Hochwertige Qualität für Landschaftsgärtner und Gartencenter.",
-    "productsTitle": "Produktkatalog – PlantDGD | Zierpflanzen Großhandel Rumänien",
-    "productsDescription": "Vollständiger Katalog an Zierpflanzen im Großhandel: Nadelbäume, Sträucher, Hecken, Laubbäume, Stauden. Wettbewerbsfähige Preise für Landschaftsgärtner, Gartencenter und Gemeinden. Lieferung in ganz Rumänien."
+    "productsTitle": "Produktkatalog – PlantDGD | Zierpflanzen Großhandel Europa",
+    "productsDescription": "Vollständiger Katalog an Zierpflanzen im Großhandel: Nadelbäume, Sträucher, Hecken, Laubbäume, Stauden. Wettbewerbsfähige Preise für Landschaftsgärtner, Gartencenter und Gemeinden. Lieferung in ganz Europa."
   },
   "productDescriptions": {
     "1": {

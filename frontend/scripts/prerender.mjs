@@ -25,7 +25,7 @@ const { products, categories } = await load('productsData');
 const { guides, guidesIndexFor, guideMeta, guideLabelsFor, guidePath, guidesForProduct, guidesForCategory, parseInlineLinks, GUIDES_PATH } = await load('guides');
 fs.rmSync(tmpDir, { recursive: true, force: true });
 
-const { SITE_URL, SUPPORTED_LANGS, buildLocalizedPath, categoryPages, homeContent, labels, productInCategory,
+const { SITE_URL, SUPPORTED_LANGS, buildLocalizedPath, categoryPages, exportPage, homeContent, labels, productInCategory,
   getCategoryPageByCategoryId, productMeta, productPath, breadcrumbJsonLd, faqJsonLd, itemListJsonLd, articleJsonLd } = seo;
 
 // Provera: svaki proizvod mora imati slug (seoPages.productSlugs) i 301 preusmerenje sa starog URL-a (vercel.json)
@@ -110,6 +110,22 @@ for (const page of categoryPages) {
     }
   });
 }
+
+pages.push({
+  path: `/${exportPage.slug}`, image: exportPage.images[0],
+  build: (L, loc, P) => {
+    const c = exportPage.content[L];
+    return {
+      title: c.title, description: c.description,
+      jsonLd: [breadcrumbJsonLd([{ name: loc.nav.home, path: P('/') }, { name: c.name, path: P(`/${exportPage.slug}`) }]), faqJsonLd(c.faq)],
+      body: `<h1>${esc(c.h1)}</h1>${c.intro.map(p => `<p>${esc(p)}</p>`).join('')}${c.sections.map(s => `<h2>${esc(s.h2)}</h2>${
+        (s.p || []).map(p => `<p>${esc(p)}</p>`).join('')}${s.ul ? `<ul>${s.ul.map(li => `<li>${esc(li)}</li>`).join('')}</ul>` : ''}${
+        s.ol ? `<ol>${s.ol.map(li => `<li>${esc(li)}</li>`).join('')}</ol>` : ''}`).join('')}
+<h2>${esc(labels[L].faqTitle)}</h2>${c.faq.map(f => `<h3>${esc(f.q)}</h3><p>${esc(f.a)}</p>`).join('')}
+<p><a href="${P('/products')}">${esc(loc.nav.products)}</a> · <a href="${P('/contact')}">${esc(loc.nav.contact)}</a></p>`
+    };
+  }
+});
 
 for (const p of products) {
   pages.push({
@@ -250,7 +266,7 @@ const hreflangLinks = (neutralPath, lang, langs = SUPPORTED_LANGS) => {
 
 const navHtml = (L, loc, P) => `<nav><a href="${P('/')}">${esc(loc.nav.home)}</a> | <a href="${P('/products')}">${esc(loc.nav.products)}</a> | ${
   categoryPages.map(c => `<a href="${P(`/${c.slug}`)}">${esc(c.content[L].name)}</a>`).join(' | ')
-} | <a href="${P('/about')}">${esc(loc.nav.about)}</a> | <a href="${P('/contact')}">${esc(loc.nav.contact)}</a> | <a href="${P('/gallery')}">${esc(loc.nav.gallery)}</a> | <a href="${P(GUIDES_PATH)}">${esc(guideLabelsFor(L).nav)}</a></nav>`;
+} | <a href="${P('/about')}">${esc(loc.nav.about)}</a> | <a href="${P('/contact')}">${esc(loc.nav.contact)}</a> | <a href="${P('/gallery')}">${esc(loc.nav.gallery)}</a> | <a href="${P(`/${exportPage.slug}`)}">${esc(exportPage.content[L].name)}</a> | <a href="${P(GUIDES_PATH)}">${esc(guideLabelsFor(L).nav)}</a></nav>`;
 
 let count = 0;
 const pageHash = {}; // lokalna putanja -> hash sadrzaja (za tacan <lastmod> u sitemap-u)
@@ -308,7 +324,7 @@ const lastmodOf = (localPath) => {
   lastmodDb[localPath] = { hash: pageHash[localPath], date: today };
   return today;
 };
-const priority = (p) => (p === '/' ? '1.0' : p.startsWith(GUIDES_PATH) ? '0.7' : p === '/products' || categoryPages.some(c => `/${c.slug}` === p) ? '0.9' : p.startsWith('/products/') ? '0.7' : '0.6');
+const priority = (p) => (p === '/' ? '1.0' : p.startsWith(GUIDES_PATH) ? '0.7' : p === '/products' || p === `/${exportPage.slug}` || categoryPages.some(c => `/${c.slug}` === p) ? '0.9' : p.startsWith('/products/') ? '0.7' : '0.6');
 const xmlEsc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const entries = [];
 const byLang = Object.fromEntries(SUPPORTED_LANGS.map(l => [l, []]));

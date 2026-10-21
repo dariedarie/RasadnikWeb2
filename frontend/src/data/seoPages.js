@@ -147,9 +147,9 @@ export const categoryPages = [
         name: 'Gard viu en gros',
         h1: 'Plante pentru gard viu en gros',
         title: 'Gard Viu En Gros – Tuia, Laurocerasus, Photinia | PlantDGD',
-        description: 'Plante pentru gard viu en gros: tuia Smaragd, laurocerasus, Photinia Red Robin, chiparos Leyland, tisă. Cantități mari pentru peisagiști și dezvoltatori. Livrare în toată România.',
+        description: 'Plante pentru gard viu en gros: tuia Smaragd, laurocerasus, Photinia Red Robin, chiparos Leyland, tisă. Cantități mari pentru peisagiști și dezvoltatori. Livrare în România și în toată Europa.',
         intro: [
-          'PlantDGD furnizează plante pentru gard viu en gros pentru peisagiști, dezvoltatori imobiliari, centre de grădinărit și primării din toată România. Livrăm cantități mari, din loturi uniforme ca înălțime și densitate, astfel încât gardul viu să arate omogen încă de la plantare.',
+          'PlantDGD furnizează plante pentru gard viu en gros pentru peisagiști, dezvoltatori imobiliari, centre de grădinărit și primării din România și din toată Europa. Livrăm cantități mari, din loturi uniforme ca înălțime și densitate, astfel încât gardul viu să arate omogen încă de la plantare.',
           'Cele mai cerute specii pentru garduri vii sunt tuia Smaragd (Thuja occidentalis), cu formă columnară îngustă și culoare verde tot anul, laurocerasul (Prunus laurocerasus), cu frunze lucioase și creștere densă, Photinia Red Robin, apreciată pentru lăstarii roșii, chiparosul Leyland, ideal pentru paravânturi înalte, și tisa (Taxus baccata), potrivită pentru garduri vii tunse și zone umbrite.',
           'Pentru fiecare proiect vă recomandăm specia potrivită în funcție de expunere, sol și înălțimea dorită și vă trimitem o ofertă de preț pentru cantitatea exactă de care aveți nevoie.'
         ],
@@ -163,9 +163,9 @@ export const categoryPages = [
         name: 'Wholesale hedge plants',
         h1: 'Wholesale hedge plants',
         title: 'Wholesale Hedge Plants – Thuja, Cherry Laurel, Photinia | PlantDGD',
-        description: 'Wholesale hedge plants: Thuja Smaragd, cherry laurel, Photinia Red Robin, Leyland cypress, yew. Large quantities for landscapers and developers. Delivery across Romania and Europe.',
+        description: 'Wholesale hedge plants: Thuja Smaragd, cherry laurel, Photinia Red Robin, Leyland cypress, yew. Large quantities for landscapers and developers. Delivery across Europe.',
         intro: [
-          'PlantDGD supplies wholesale hedge plants to landscapers, property developers, garden centres and municipalities across Romania and Europe. We deliver large quantities from batches that are uniform in height and density, so the hedge looks even from the day it is planted.',
+          'PlantDGD supplies wholesale hedge plants to landscapers, property developers, garden centres and municipalities across Europe. We deliver large quantities from batches that are uniform in height and density, so the hedge looks even from the day it is planted.',
           'The most requested hedge species are Thuja Smaragd, with a narrow columnar shape and green colour all year round, cherry laurel (Prunus laurocerasus) with glossy leaves and dense growth, Photinia Red Robin with its red young shoots, Leyland cypress for tall windbreaks, and yew (Taxus baccata) for clipped hedges and shaded areas.',
           'We recommend the right species for each project based on exposure, soil and desired height, and send you a quote for the exact quantity you need.'
         ],
@@ -179,9 +179,9 @@ export const categoryPages = [
         name: 'Heckenpflanzen im Großhandel',
         h1: 'Heckenpflanzen im Großhandel',
         title: 'Heckenpflanzen Großhandel – Thuja, Kirschlorbeer, Photinia | PlantDGD',
-        description: 'Heckenpflanzen im Großhandel: Thuja Smaragd, Kirschlorbeer, Photinia Red Robin, Leylandzypresse, Eibe. Große Mengen für Landschaftsgärtner. Lieferung in Rumänien und Europa.',
+        description: 'Heckenpflanzen im Großhandel: Thuja Smaragd, Kirschlorbeer, Photinia Red Robin, Leylandzypresse, Eibe. Große Mengen für Landschaftsgärtner. Lieferung in ganz Europa.',
         intro: [
-          'PlantDGD liefert Heckenpflanzen im Großhandel an Landschaftsgärtner, Bauträger, Gartencenter und Gemeinden in Rumänien und Europa. Wir liefern große Mengen aus Partien mit einheitlicher Höhe und Dichte, damit die Hecke vom ersten Tag an gleichmäßig wirkt.',
+          'PlantDGD liefert Heckenpflanzen im Großhandel an Landschaftsgärtner, Bauträger, Gartencenter und Gemeinden in ganz Europa. Wir liefern große Mengen aus Partien mit einheitlicher Höhe und Dichte, damit die Hecke vom ersten Tag an gleichmäßig wirkt.',
           'Die gefragtesten Heckenpflanzen sind Thuja Smaragd mit schmaler Säulenform und ganzjährig grüner Farbe, Kirschlorbeer (Prunus laurocerasus) mit glänzendem Laub und dichtem Wuchs, Photinia Red Robin mit roten Austrieben, Leylandzypresse für hohe Windschutzhecken sowie Eibe (Taxus baccata) für Formhecken und schattige Lagen.',
           'Wir empfehlen für jedes Projekt die passende Art je nach Lage, Boden und gewünschter Höhe und senden Ihnen ein Angebot für genau die benötigte Menge.'
         ],
@@ -202,7 +202,7 @@ export const categoryPages = [
         name: 'Conifere en gros',
         h1: 'Conifere en gros',
         title: 'Conifere En Gros – Tuia, Pin, Molid, Tisă | PlantDGD',
-        description: 'Conifere en gros pentru peisagistică: tuia Smaragd, tuia orientală, pin negru, molid albastru, tisă, ienupăr, chiparos Leyland și italian. Prețuri angro și livrare în toată România.',
+        description: 'Conifere en gros pentru peisagistică: tuia Smaragd, tuia orientală, pin negru, molid albastru, tisă, ienupăr, chiparos Leyland și italian. Prețuri angro, livrare în România și export în Europa.',
         intro: [
           'Coniferele sunt baza oricărui proiect peisagistic: rămân verzi tot anul, sunt rezistente și necesită puțină întreținere. PlantDGD livrează conifere en gros pentru amenajarea parcurilor, ansamblurilor rezidențiale, spațiilor comerciale și grădinilor private.',
           'În oferta noastră găsiți tuia Smaragd și tuia orientală pentru garduri vii, pin negru (Pinus nigra) și molid albastru (Picea pungens \'Glauca\') ca arbori solitari, chiparos italian (Cupressus sempervirens) pentru aliniamente în stil mediteranean, pin mugo pe tulpină pentru accente decorative, tisă (Taxus baccata) pentru forme tunse și ienupăr târâtor (Juniperus horizontalis) pentru acoperirea solului, a taluzurilor și a grădinilor cu pietre.',
@@ -211,14 +211,14 @@ export const categoryPages = [
         faq: [
           { q: 'Ce conifere sunt potrivite pentru garduri vii?', a: 'Tuia Smaragd, tuia orientală, chiparosul Leyland și tisa sunt cele mai folosite conifere pentru garduri vii. Alegerea depinde de înălțimea dorită, de expunere și de bugetul proiectului.' },
           { q: 'Ce conifere rezistă la secetă?', a: 'Pinul negru și ienupărul târâtor tolerează bine seceta și solurile sărace, de aceea sunt potrivite pentru spații publice și taluzuri cu întreținere redusă.' },
-          { q: 'Livrați conifere în cantități mari?', a: 'Da. Livrăm conifere en gros în toată România, cu transport adaptat plantelor vii. Cantitatea minimă diferă în funcție de specie și dimensiune – cereți o ofertă.' }
+          { q: 'Livrați conifere în cantități mari?', a: 'Da. Livrăm conifere en gros în România și în toată Europa, cu transport adaptat plantelor vii. Cantitatea minimă diferă în funcție de specie și dimensiune – cereți o ofertă.' }
         ]
       },
       en: {
         name: 'Wholesale conifers',
         h1: 'Wholesale conifers',
         title: 'Wholesale Conifers – Thuja, Pine, Spruce, Yew | PlantDGD',
-        description: 'Wholesale conifers for landscaping: Thuja Smaragd, oriental thuja, black pine, blue spruce, yew, juniper, Leyland and Italian cypress. Wholesale prices, delivery across Romania.',
+        description: 'Wholesale conifers for landscaping: Thuja Smaragd, oriental thuja, black pine, blue spruce, yew, juniper, Leyland and Italian cypress. Wholesale prices, delivery across Europe.',
         intro: [
           'Conifers are the backbone of every landscaping project: they stay green all year, are hardy and need little maintenance. PlantDGD supplies wholesale conifers for parks, residential developments, commercial areas and private gardens.',
           'Our range includes Thuja Smaragd and oriental thuja for hedges, black pine (Pinus nigra) and blue spruce (Picea pungens \'Glauca\') as solitary trees, Italian cypress (Cupressus sempervirens) for Mediterranean-style rows, mugo pine on stem for decorative accents, yew (Taxus baccata) for topiary and creeping juniper (Juniperus horizontalis) as ground cover for slopes and rock gardens.',
@@ -227,14 +227,14 @@ export const categoryPages = [
         faq: [
           { q: 'Which conifers are suitable for hedges?', a: 'Thuja Smaragd, oriental thuja, Leyland cypress and yew are the most used conifers for hedges. The choice depends on desired height, exposure and budget.' },
           { q: 'Which conifers tolerate drought?', a: 'Black pine and creeping juniper tolerate drought and poor soils well, which makes them ideal for low-maintenance public areas and slopes.' },
-          { q: 'Do you deliver conifers in large quantities?', a: 'Yes. We deliver wholesale conifers throughout Romania and Europe with transport suited to live plants. Minimum quantities depend on species and size – ask for a quote.' }
+          { q: 'Do you deliver conifers in large quantities?', a: 'Yes. We deliver wholesale conifers throughout Europe with transport suited to live plants. Minimum quantities depend on species and size – ask for a quote.' }
         ]
       },
       de: {
         name: 'Koniferen im Großhandel',
         h1: 'Koniferen im Großhandel',
         title: 'Koniferen Großhandel – Thuja, Kiefer, Fichte, Eibe | PlantDGD',
-        description: 'Koniferen im Großhandel: Thuja Smaragd, Schwarzkiefer, Blaufichte, Eibe, Wacholder, Leyland- und Säulenzypresse. Großhandelspreise, Lieferung in Rumänien und Europa.',
+        description: 'Koniferen im Großhandel: Thuja Smaragd, Schwarzkiefer, Blaufichte, Eibe, Wacholder, Leyland- und Säulenzypresse. Großhandelspreise, Lieferung in ganz Europa.',
         intro: [
           'Koniferen sind das Grundgerüst jedes Landschaftsprojekts: ganzjährig grün, robust und pflegeleicht. PlantDGD liefert Koniferen im Großhandel für Parks, Wohnanlagen, Gewerbeflächen und Privatgärten.',
           'Unser Sortiment umfasst Thuja Smaragd und Morgenländischen Lebensbaum für Hecken, Schwarzkiefer (Pinus nigra) und Blaufichte (Picea pungens \'Glauca\') als Solitärbäume, Säulenzypresse (Cupressus sempervirens) für mediterrane Reihen, Bergkiefer auf Stamm als Blickfang, Eibe (Taxus baccata) für Formschnitt und Kriechwacholder (Juniperus horizontalis) als Bodendecker für Böschungen und Steingärten.',
@@ -243,7 +243,7 @@ export const categoryPages = [
         faq: [
           { q: 'Welche Koniferen eignen sich für Hecken?', a: 'Thuja Smaragd, Morgenländischer Lebensbaum, Leylandzypresse und Eibe sind die gängigsten Heckenkoniferen.' },
           { q: 'Welche Koniferen vertragen Trockenheit?', a: 'Schwarzkiefer und Kriechwacholder vertragen Trockenheit und magere Böden gut.' },
-          { q: 'Liefern Sie Koniferen in großen Mengen?', a: 'Ja, wir liefern Koniferen im Großhandel in ganz Rumänien und Europa. Mindestmengen hängen von Art und Größe ab – fragen Sie ein Angebot an.' }
+          { q: 'Liefern Sie Koniferen in großen Mengen?', a: 'Ja, wir liefern Koniferen im Großhandel in ganz Europa. Mindestmengen hängen von Art und Größe ab – fragen Sie ein Angebot an.' }
         ]
       }
     }
@@ -266,7 +266,7 @@ export const categoryPages = [
         faq: [
           { q: 'Ce arbori ornamentali sunt potriviți pentru aliniamente stradale?', a: 'Catalpa este des folosită pentru bulevarde și parcuri datorită coroanei largi și a toleranței la condițiile urbane. Pentru alte specii, cereți-ne o recomandare pentru proiectul dvs.' },
           { q: 'Măslinul rezistă iarna în România?', a: 'Măslinul rezistă la temperaturi de până la aproximativ -10°C. În zonele cu ierni aspre se recomandă cultivarea în ghiveci mare și protecția pe timpul iernii.' },
-          { q: 'Livrați arbori până la locația proiectului?', a: 'Da, organizăm transportul plantelor până la locația proiectului, oriunde în România.' }
+          { q: 'Livrați arbori până la locația proiectului?', a: 'Da, organizăm transportul plantelor până la locația proiectului, oriunde în România sau în Europa.' }
         ]
       },
       en: {
@@ -282,7 +282,7 @@ export const categoryPages = [
         faq: [
           { q: 'Which ornamental trees suit street plantings?', a: 'Catalpa is widely used for boulevards and parks thanks to its broad crown and tolerance of urban conditions.' },
           { q: 'Can olive trees survive Romanian winters?', a: 'Olive trees tolerate temperatures down to about -10°C. In regions with harsh winters, large containers and winter protection are recommended.' },
-          { q: 'Do you deliver trees to the project site?', a: 'Yes, we arrange transport of plants to your project site anywhere in Romania.' }
+          { q: 'Do you deliver trees to the project site?', a: 'Yes, we arrange transport of plants to your project site anywhere in Europe.' }
         ]
       },
       de: {
@@ -298,7 +298,7 @@ export const categoryPages = [
         faq: [
           { q: 'Welche Zierbäume eignen sich für Straßenpflanzungen?', a: 'Der Trompetenbaum wird dank seiner breiten Krone und Stadtklimatoleranz häufig für Alleen und Parks verwendet.' },
           { q: 'Übersteht der Olivenbaum rumänische Winter?', a: 'Olivenbäume vertragen Temperaturen bis etwa -10°C. In Regionen mit strengen Wintern empfehlen sich große Kübel und Winterschutz.' },
-          { q: 'Liefern Sie bis zur Baustelle?', a: 'Ja, wir organisieren den Transport bis zu Ihrem Projektstandort in ganz Rumänien.' }
+          { q: 'Liefern Sie bis zur Baustelle?', a: 'Ja, wir organisieren den Transport bis zu Ihrem Projektstandort in ganz Europa.' }
         ]
       }
     }
@@ -321,7 +321,7 @@ export const categoryPages = [
         faq: [
           { q: 'Ce arbuști ornamentali sunt potriviți pentru zone umbrite?', a: 'Heuchera, iedera (Hedera helix) și hortensia se dezvoltă bine la semiumbră. Pentru umbră deasă recomandăm iedera și plante perene precum hosta.' },
           { q: 'Ce arbuști pot folosi pentru borduri joase?', a: 'Lonicera nitida și spireea sunt ideale pentru borduri și garduri vii joase, deoarece suportă bine tunderea și au creștere compactă.' },
-          { q: 'Vindeți arbuști și către centre de grădinărit?', a: 'Da, colaborăm cu centre de grădinărit și magazine de profil din România, cu prețuri angro pentru comenzi recurente.' }
+          { q: 'Vindeți arbuști și către centre de grădinărit?', a: 'Da, colaborăm cu centre de grădinărit și magazine de profil din România și din Europa, cu prețuri angro pentru comenzi recurente.' }
         ]
       },
       en: {
@@ -367,11 +367,11 @@ export const categoryPages = [
         name: 'Plante perene en gros',
         h1: 'Plante perene en gros',
         title: 'Plante Perene En Gros – Sedum, Hosta, Astilbe | PlantDGD',
-        description: 'Plante perene en gros: sedum, hosta, astilbe, crin de zi, iris, gaura, iberis, Festuca glauca, Carex, ajuga. Pentru peisagiști și centre de grădinărit din România.',
+        description: 'Plante perene en gros: sedum, hosta, astilbe, crin de zi, iris, gaura, iberis, Festuca glauca, Carex, ajuga. Pentru peisagiști și centre de grădinărit din România și Europa.',
         intro: [
           'Plantele perene revin în fiecare an și reduc costurile de întreținere ale unei amenajări. PlantDGD oferă plante perene en gros pentru rabate, grădini cu pietre, acoperiri verzi, spații publice și grădini private.',
           'Pentru zone însorite și uscate recomandăm speciile de sedum (iarbă grasă), păiușul albastru (Festuca glauca), urechea mielului (Stachys byzantina), torța de foc (Kniphofia uvaria) și gaura. Pentru semiumbră și umbră sunt potrivite hosta, astilbe, ajuga și Ophiopogon japonicus. Crinul de zi (Hemerocallis), stânjenelul (Iris germanica) și iberisul sunt specii robuste, cu înflorire bogată.',
-          'Livrăm perenele în cantități mari, pregătite pentru plantare, cu transport în toată România.'
+          'Livrăm perenele în cantități mari, pregătite pentru plantare, cu transport în România și în toată Europa.'
         ],
         faq: [
           { q: 'Ce plante perene sunt potrivite pentru acoperirea solului?', a: 'Sedum, ajuga (Ajuga reptans), iberis și Ophiopogon japonicus acoperă rapid solul și reduc apariția buruienilor.' },
@@ -387,7 +387,7 @@ export const categoryPages = [
         intro: [
           'Perennials come back every year and reduce maintenance costs. PlantDGD offers wholesale perennials for borders, rock gardens, green roofs, public spaces and private gardens.',
           'For sunny, dry areas we recommend sedum, blue fescue (Festuca glauca), lamb\'s ear (Stachys byzantina), red hot poker (Kniphofia uvaria) and gaura. For partial and full shade, hosta, astilbe, ajuga and Ophiopogon japonicus are ideal. Daylily (Hemerocallis), bearded iris (Iris germanica) and iberis are robust, free-flowering species.',
-          'We deliver perennials in large quantities, ready for planting, throughout Romania.'
+          'We deliver perennials in large quantities, ready for planting, throughout Europe.'
         ],
         faq: [
           { q: 'Which perennials work as ground cover?', a: 'Sedum, ajuga, iberis and Ophiopogon japonicus cover the ground quickly and suppress weeds.' },
@@ -403,7 +403,7 @@ export const categoryPages = [
         intro: [
           'Stauden kommen jedes Jahr wieder und senken die Pflegekosten. PlantDGD bietet Stauden im Großhandel für Beete, Steingärten, Dachbegrünungen, öffentliche Flächen und Privatgärten.',
           'Für sonnige, trockene Lagen empfehlen wir Sedum, Blauschwingel (Festuca glauca), Woll-Ziest (Stachys byzantina), Fackellilie (Kniphofia uvaria) und Gaura. Für Halbschatten und Schatten eignen sich Hosta, Astilbe, Günsel und Ophiopogon japonicus. Taglilie (Hemerocallis), Bart-Iris (Iris germanica) und Schleifenblume (Iberis) sind robust und blühfreudig.',
-          'Wir liefern Stauden in großen Mengen, pflanzfertig, in ganz Rumänien.'
+          'Wir liefern Stauden in großen Mengen, pflanzfertig, in ganz Europa.'
         ],
         faq: [
           { q: 'Welche Stauden eignen sich als Bodendecker?', a: 'Sedum, Günsel (Ajuga reptans), Schleifenblume und Ophiopogon japonicus decken den Boden schnell ab.' },
@@ -419,17 +419,130 @@ export const getCategoryPageByCategoryId = (categoryId) => categoryPages.find(c 
 export const productInCategory = (product, categoryId) => (product.categories || [product.category]).includes(categoryId);
 
 // Tekstualni SEO sadrzaj i FAQ za pocetnu stranu (vidljiv na stranici + FAQPage schema)
+// Stranica o izvozu u Evropu - ista putanja na svim jezicima: /export-plante-europa, /en/..., /de/...
+export const exportPage = {
+  slug: "export-plante-europa",
+  images: ["/images/plantdgd-arbori-ornamentali-cu-balot-transport.jpg", "/images/plantdgd-conifere-cu-balot-pregatite-pentru-livrare.jpg"],
+  content: {
+    ro: {
+      name: "Export în Europa",
+      h1: "Export de plante ornamentale en gros în toată Europa",
+      title: "Export Plante Ornamentale En Gros în Europa | PlantDGD",
+      description: "PlantDGD exportă plante ornamentale en gros în toată Europa: conifere, gard viu, arbori și arbuști cu balot sau în container. Pașaport fitosanitar UE, transport cu camionul, ofertă în RO/EN/DE.",
+      imageAlt: ["Arbori ornamentali cu balot pregătiți pentru transport", "Conifere cu balot pregătite pentru livrare en gros"],
+      intro: [
+        "PlantDGD S.R.L. este o firmă din Timișoara, România, specializată în vânzarea en gros de plante ornamentale pentru clienți din toată Europa: firme de peisagistică, centre de grădinărit, dezvoltatori imobiliari, antreprenori de spații verzi și administrații publice.",
+        "Livrăm conifere, plante pentru gard viu, arbori de aliniament, arbuști și plante perene în cantități mari, cu transport cu camionul direct la adresa dumneavoastră. Comunicăm în română, engleză și germană."
+      ],
+      sections: [
+        { h2: "Cum funcționează o comandă de export", ol: [
+          "Ne trimiteți lista de plante: specia, înălțimea sau circumferința trunchiului, tipul (balot sau container), cantitatea și țara/orașul de livrare.",
+          "Vă trimitem oferta cu disponibilitatea plantelor și costul transportului până la destinație.",
+          "După confirmarea comenzii stabilim împreună data încărcării și a livrării.",
+          "Plantele sunt pregătite, încărcate și protejate pentru transportul pe distanțe lungi și ajung la dumneavoastră însoțite de documentele necesare."
+        ] },
+        { h2: "Documente și transport", ul: [
+          "Pașaport fitosanitar UE pentru plantele livrate în țările Uniunii Europene, conform cerințelor legale.",
+          "Documente de transport internațional (CMR) și factură pentru fiecare livrare.",
+          "Pentru țările din afara Uniunii Europene vă informăm din timp despre documentele fitosanitare și vamale necesare pentru destinația dumneavoastră.",
+          "Transport cu camionul; pentru export, cea mai avantajoasă variantă este un camion complet, în care puteți combina mai multe specii și dimensiuni."
+        ] },
+        { h2: "Ce plante exportăm", p: [
+          "Cele mai cerute la export sunt plantele pentru gard viu (tuia Smaragd, laurocerasus, Photinia, chiparos Leyland), coniferele (pin negru, molid, tisă, ienupăr), arborii de aliniament cu balot (tei, arțar, platan, carpen) și arbuștii ornamentali. Vedeți catalogul complet și categoriile de mai jos.",
+          "Perioadele optime pentru livrarea plantelor cu balot sunt toamna și primăvara. Plantele în container pot fi livrate aproape tot anul, cu excepția perioadelor de îngheț puternic și de caniculă."
+        ] }
+      ],
+      faq: [
+        { q: "În ce țări livrați plante?", a: "Livrăm plante ornamentale en gros în țările Uniunii Europene, precum și în alte țări din Europa, în funcție de cerințele fitosanitare și vamale ale țării de destinație. Spuneți-ne unde trebuie livrate plantele și vă trimitem oferta cu transport inclus." },
+        { q: "Care este cantitatea minimă pentru export?", a: "Vindem doar en gros. Pentru livrările în străinătate, cel mai eficient este un camion complet sau o comandă combinată din mai multe specii; vă spunem ce cantitate este rentabilă pentru destinația dumneavoastră." },
+        { q: "Plantele sunt însoțite de pașaport fitosanitar?", a: "Da. Plantele livrate în Uniunea Europeană sunt însoțite de pașaportul fitosanitar UE, iar pentru destinațiile din afara UE vă informăm despre documentele suplimentare necesare." },
+        { q: "În ce limbă pot comunica și primi oferta?", a: "Puteți comunica cu noi și primi oferta în română, engleză sau germană." }
+      ]
+    },
+    en: {
+      name: "Export to Europe",
+      h1: "Wholesale ornamental plants – export across Europe",
+      title: "Wholesale Plant Export Across Europe | PlantDGD",
+      description: "PlantDGD exports wholesale ornamental plants across Europe: conifers, hedge plants, root-balled and container trees and shrubs. EU plant passport, truck transport, quotes in EN/DE/RO.",
+      imageAlt: ["Root-balled ornamental trees ready for transport", "Root-balled conifers ready for wholesale delivery"],
+      intro: [
+        "PlantDGD S.R.L. is a company based in Timișoara, Romania, specialising in wholesale ornamental plants for customers across Europe: landscaping companies, garden centres, property developers, green-space contractors and public authorities.",
+        "We supply conifers, hedge plants, avenue trees, shrubs and perennials in large quantities, delivered by truck directly to your address. We communicate in English, German and Romanian."
+      ],
+      sections: [
+        { h2: "How an export order works", ol: [
+          "Send us your plant list: species, height or trunk girth, type (root ball or container), quantity and delivery country/city.",
+          "We send you a quote with plant availability and the cost of transport to your destination.",
+          "Once the order is confirmed, we agree the loading and delivery date together.",
+          "The plants are prepared, loaded and protected for long-distance transport and arrive with the required documents."
+        ] },
+        { h2: "Documents and transport", ul: [
+          "EU plant passport for plants delivered within the European Union, as required by law.",
+          "International transport documents (CMR) and an invoice for every delivery.",
+          "For countries outside the European Union we inform you in advance about the phytosanitary and customs documents required for your destination.",
+          "Transport by truck; for export, a full truckload is the most cost-effective option, and you can combine several species and sizes in it."
+        ] },
+        { h2: "Which plants we export", p: [
+          "The most requested export plants are hedge plants (Thuja Smaragd, cherry laurel, Photinia, Leyland cypress), conifers (black pine, spruce, yew, juniper), root-balled avenue trees (lime, maple, plane, hornbeam) and ornamental shrubs. See the full catalogue and the categories below.",
+          "The best periods for delivering root-balled plants are autumn and spring. Container plants can be delivered almost all year round, except during hard frost and heatwaves."
+        ] }
+      ],
+      faq: [
+        { q: "Which countries do you deliver to?", a: "We deliver wholesale ornamental plants to European Union countries and to other European countries, depending on the phytosanitary and customs requirements of the destination. Tell us where the plants need to go and we will send you a quote including transport." },
+        { q: "What is the minimum quantity for export?", a: "We sell wholesale only. For deliveries abroad a full truckload or a combined order of several species is the most efficient; we will tell you what quantity is cost-effective for your destination." },
+        { q: "Do the plants come with a plant passport?", a: "Yes. Plants delivered within the European Union come with the EU plant passport, and for destinations outside the EU we inform you about any additional documents required." },
+        { q: "In which language can I communicate and receive the quote?", a: "You can communicate with us and receive your quote in English, German or Romanian." }
+      ]
+    },
+    de: {
+      name: "Export nach Europa",
+      h1: "Zierpflanzen im Großhandel – Export in ganz Europa",
+      title: "Pflanzen-Export im Großhandel – ganz Europa | PlantDGD",
+      description: "PlantDGD exportiert Zierpflanzen im Großhandel in ganz Europa: Koniferen, Heckenpflanzen, Bäume und Sträucher mit Ballen oder im Container. EU-Pflanzenpass, Lkw-Transport, Angebot auf Deutsch.",
+      imageAlt: ["Zierbäume mit Ballen, bereit für den Transport", "Koniferen mit Ballen, bereit für die Großhandelslieferung"],
+      intro: [
+        "PlantDGD S.R.L. ist ein Unternehmen mit Sitz in Timișoara (Rumänien), spezialisiert auf den Großhandel mit Zierpflanzen für Kunden in ganz Europa: Garten- und Landschaftsbaufirmen, Gartencenter, Bauträger, Grünflächenunternehmen und öffentliche Auftraggeber.",
+        "Wir liefern Koniferen, Heckenpflanzen, Alleebäume, Sträucher und Stauden in großen Mengen per Lkw direkt an Ihre Adresse. Wir kommunizieren auf Deutsch, Englisch und Rumänisch."
+      ],
+      sections: [
+        { h2: "So läuft ein Exportauftrag ab", ol: [
+          "Senden Sie uns Ihre Pflanzenliste: Art, Höhe oder Stammumfang, Ware (Ballen oder Container), Menge sowie Lieferland/-ort.",
+          "Wir senden Ihnen ein Angebot mit Verfügbarkeit und den Transportkosten bis zu Ihrem Bestimmungsort.",
+          "Nach der Auftragsbestätigung vereinbaren wir gemeinsam den Verlade- und Liefertermin.",
+          "Die Pflanzen werden vorbereitet, verladen und für den Langstreckentransport geschützt und kommen mit den erforderlichen Dokumenten bei Ihnen an."
+        ] },
+        { h2: "Dokumente und Transport", ul: [
+          "EU-Pflanzenpass für Pflanzen, die innerhalb der Europäischen Union geliefert werden, gemäß den gesetzlichen Vorgaben.",
+          "Internationale Frachtpapiere (CMR) und Rechnung für jede Lieferung.",
+          "Für Länder außerhalb der Europäischen Union informieren wir Sie rechtzeitig über die für Ihr Bestimmungsland erforderlichen Pflanzengesundheits- und Zolldokumente.",
+          "Transport per Lkw; für den Export ist eine komplette Lkw-Ladung am günstigsten, in der Sie mehrere Arten und Größen kombinieren können."
+        ] },
+        { h2: "Welche Pflanzen wir exportieren", p: [
+          "Am gefragtesten im Export sind Heckenpflanzen (Thuja Smaragd, Kirschlorbeer, Photinia, Leylandzypresse), Koniferen (Schwarzkiefer, Fichte, Eibe, Wacholder), Alleebäume mit Ballen (Linde, Ahorn, Platane, Hainbuche) und Ziersträucher. Den vollständigen Katalog und die Kategorien finden Sie unten.",
+          "Die besten Zeiträume für die Lieferung von Ballenware sind Herbst und Frühjahr. Containerpflanzen können fast das ganze Jahr geliefert werden, außer bei starkem Frost und Hitzewellen."
+        ] }
+      ],
+      faq: [
+        { q: "In welche Länder liefern Sie?", a: "Wir liefern Zierpflanzen im Großhandel in die Länder der Europäischen Union sowie in weitere europäische Länder, abhängig von den Pflanzengesundheits- und Zollvorschriften des Bestimmungslandes. Nennen Sie uns den Lieferort, und wir senden Ihnen ein Angebot inklusive Transport." },
+        { q: "Gibt es eine Mindestmenge für den Export?", a: "Wir verkaufen ausschließlich im Großhandel. Für Lieferungen ins Ausland ist eine komplette Lkw-Ladung oder ein kombinierter Auftrag aus mehreren Arten am effizientesten; wir sagen Ihnen, welche Menge sich für Ihren Bestimmungsort lohnt." },
+        { q: "Werden die Pflanzen mit Pflanzenpass geliefert?", a: "Ja. Pflanzen, die innerhalb der Europäischen Union geliefert werden, erhalten den EU-Pflanzenpass; für Ziele außerhalb der EU informieren wir Sie über zusätzlich erforderliche Dokumente." },
+        { q: "In welcher Sprache kann ich kommunizieren und das Angebot erhalten?", a: "Sie können mit uns auf Deutsch, Englisch oder Rumänisch kommunizieren und Ihr Angebot in diesen Sprachen erhalten." }
+      ]
+    }
+  }
+};
+
 export const homeContent = {
   ro: {
     introTitle: 'Pepinieră angro pentru plante ornamentale',
     intro: [
-      'PlantDGD este furnizor de plante ornamentale en gros în România, cu sediul în Timișoara. Lucrăm cu clienți business: firme de peisagistică, centre de grădinărit, primării, dezvoltatori imobiliari și antreprenori de spații verzi.',
-      'În catalogul nostru găsiți conifere, plante pentru gard viu, arbori și arbuști ornamentali și plante perene, disponibile în cantități mari și la prețuri angro. Livrăm în toată România și în Europa, cu transport adaptat plantelor vii.'
+      'PlantDGD este furnizor de plante ornamentale en gros cu sediul în Timișoara, România, și livrează în toată Europa. Lucrăm cu clienți business: firme de peisagistică, centre de grădinărit, primării, dezvoltatori imobiliari și antreprenori de spații verzi.',
+      'În catalogul nostru găsiți conifere, plante pentru gard viu, arbori și arbuști ornamentali și plante perene, disponibile în cantități mari și la prețuri angro. Livrăm în România și în toată Europa, cu transport adaptat plantelor vii.'
     ],
     categoriesTitle: 'Categorii de plante en gros',
     faq: [
       { q: 'Ce cantitate minimă pot comanda?', a: 'PlantDGD vinde en gros, iar cantitățile minime variază în funcție de specie și dimensiune. Contactați-ne cu lista de plante dorită pentru o ofertă exactă.' },
-      { q: 'Livrați în toată România?', a: 'Da, livrăm plante ornamentale en gros în toată România, precum și în Europa, cu vehicule adaptate care asigură transportul plantelor în condiții optime.' },
+      { q: 'Livrați și în alte țări din Europa?', a: 'Da, livrăm plante ornamentale en gros atât în România, cât și în alte țări din Europa, cu vehicule adaptate care asigură transportul plantelor în condiții optime.' },
       { q: 'Ce tipuri de plante oferiți en gros?', a: 'Oferim conifere (tuia, pin, molid, tisă, ienupăr), plante pentru gard viu (tuia Smaragd, laurocerasus, Photinia, chiparos Leyland), arbori și arbuști ornamentali și plante perene.' },
       { q: 'Cum pot solicita o ofertă de preț?', a: 'Trimiteți-ne lista de plante, cantitățile și locația de livrare prin formularul de contact, telefonic la +40 729 048 545 sau pe WhatsApp, iar noi vă răspundem cu o ofertă personalizată.' }
     ]
@@ -437,13 +550,13 @@ export const homeContent = {
   en: {
     introTitle: 'Wholesale nursery for ornamental plants',
     intro: [
-      'PlantDGD is a wholesale supplier of ornamental plants in Romania, based in Timișoara. We work with business customers: landscaping companies, garden centres, municipalities, property developers and green-space contractors.',
-      'Our catalogue includes conifers, hedge plants, ornamental trees and shrubs and perennials, available in large quantities at wholesale prices. We deliver throughout Romania and Europe with transport suited to live plants.'
+      'PlantDGD is a wholesale supplier of ornamental plants based in Timișoara, Romania, delivering across Europe. We work with business customers: landscaping companies, garden centres, municipalities, property developers and green-space contractors.',
+      'Our catalogue includes conifers, hedge plants, ornamental trees and shrubs and perennials, available in large quantities at wholesale prices. We deliver throughout Europe with transport suited to live plants.'
     ],
     categoriesTitle: 'Wholesale plant categories',
     faq: [
       { q: 'What is the minimum order quantity?', a: 'PlantDGD sells wholesale and minimum quantities depend on species and size. Send us your plant list for an exact quote.' },
-      { q: 'Do you deliver throughout Romania?', a: 'Yes, we deliver wholesale ornamental plants throughout Romania and Europe with vehicles suited to live plants.' },
+      { q: 'Do you deliver to other European countries?', a: 'Yes, we deliver wholesale ornamental plants to Romania and other European countries with vehicles suited to live plants.' },
       { q: 'Which plants do you offer wholesale?', a: 'Conifers (thuja, pine, spruce, yew, juniper), hedge plants (Thuja Smaragd, cherry laurel, Photinia, Leyland cypress), ornamental trees and shrubs, and perennials.' },
       { q: 'How can I request a quote?', a: 'Send us your plant list, quantities and delivery location via the contact form, by phone at +40 729 048 545 or on WhatsApp, and we will reply with a tailored quote.' }
     ]
@@ -451,13 +564,13 @@ export const homeContent = {
   de: {
     introTitle: 'Großhandelsbaumschule für Zierpflanzen',
     intro: [
-      'PlantDGD ist ein Großhändler für Zierpflanzen in Rumänien mit Sitz in Timișoara. Wir arbeiten mit Geschäftskunden: Landschaftsgärtnern, Gartencentern, Gemeinden, Bauträgern und Grünflächenunternehmen.',
-      'Unser Katalog umfasst Koniferen, Heckenpflanzen, Zierbäume und -sträucher sowie Stauden in großen Mengen zu Großhandelspreisen. Wir liefern in ganz Rumänien und Europa.'
+      'PlantDGD ist ein Großhändler für Zierpflanzen mit Sitz in Timișoara (Rumänien) und liefert in ganz Europa. Wir arbeiten mit Geschäftskunden: Landschaftsgärtnern, Gartencentern, Gemeinden, Bauträgern und Grünflächenunternehmen.',
+      'Unser Katalog umfasst Koniferen, Heckenpflanzen, Zierbäume und -sträucher sowie Stauden in großen Mengen zu Großhandelspreisen. Wir liefern in ganz Europa.'
     ],
     categoriesTitle: 'Pflanzenkategorien im Großhandel',
     faq: [
       { q: 'Gibt es eine Mindestbestellmenge?', a: 'PlantDGD verkauft im Großhandel; Mindestmengen hängen von Art und Größe ab. Senden Sie uns Ihre Pflanzenliste für ein genaues Angebot.' },
-      { q: 'Liefern Sie in ganz Rumänien?', a: 'Ja, wir liefern Zierpflanzen im Großhandel in ganz Rumänien und Europa mit pflanzengerechten Fahrzeugen.' },
+      { q: 'Liefern Sie auch in andere europäische Länder?', a: 'Ja, wir liefern Zierpflanzen im Großhandel in ganz Europa mit pflanzengerechten Fahrzeugen.' },
       { q: 'Welche Pflanzen bieten Sie an?', a: 'Koniferen (Thuja, Kiefer, Fichte, Eibe, Wacholder), Heckenpflanzen (Thuja Smaragd, Kirschlorbeer, Photinia, Leylandzypresse), Zierbäume, Ziersträucher und Stauden.' },
       { q: 'Wie fordere ich ein Angebot an?', a: 'Senden Sie uns Pflanzenliste, Mengen und Lieferort über das Kontaktformular, telefonisch unter +40 729 048 545 oder per WhatsApp.' }
     ]
@@ -467,8 +580,8 @@ export const homeContent = {
 // Meta podaci za stranicu proizvoda (isti u React-u i u prerender skripti)
 const productSuffix = {
   ro: { title: 'En Gros', desc: 'Vânzare en gros, livrare în toată România.' },
-  en: { title: 'Wholesale', desc: 'Wholesale supply, delivery across Romania and Europe.' },
-  de: { title: 'Großhandel', desc: 'Großhandel, Lieferung in ganz Rumänien und Europa.' }
+  en: { title: 'Wholesale', desc: 'Wholesale supply, delivery across Europe.' },
+  de: { title: 'Großhandel', desc: 'Großhandel, Lieferung in ganz Europa.' }
 };
 
 export const productMeta = (name, description, lang) => {

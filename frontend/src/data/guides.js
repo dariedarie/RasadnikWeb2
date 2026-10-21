@@ -15,7 +15,7 @@ export const guideLabels = {
     nav: 'Ghiduri', home: 'Acasă', guides: 'Ghiduri', faq: 'Întrebări frecvente', useful: 'Ghiduri utile',
     productsTitle: 'Plante din acest ghid, disponibile en gros', other: 'Alte ghiduri', all: 'Toate ghidurile',
     ctaTitle: 'Aveți un proiect? Cereți o ofertă en gros',
-    ctaText: 'Trimiteți-ne lista de plante și cantitățile, iar noi vă răspundem cu o ofertă personalizată. Livrăm în toată România.',
+    ctaText: 'Trimiteți-ne lista de plante și cantitățile, iar noi vă răspundem cu o ofertă personalizată. Livrăm în România și în toată Europa.',
     ctaButton: 'Cere ofertă', locale: 'ro-RO',
     calc: {
       length: 'Lungimea gardului (m)', plant: 'Plantă', rows: 'Rânduri', single: 'Rând simplu', double: 'Rând dublu (zig-zag)',
@@ -28,7 +28,7 @@ export const guideLabels = {
     nav: 'Guides', home: 'Home', guides: 'Guides', faq: 'Frequently asked questions', useful: 'Useful guides',
     productsTitle: 'Plants from this guide, available wholesale', other: 'More guides', all: 'All guides',
     ctaTitle: 'Have a project? Request a wholesale quote',
-    ctaText: 'Send us your plant list and quantities and we will reply with a tailored quote. We deliver throughout Romania and Europe.',
+    ctaText: 'Send us your plant list and quantities and we will reply with a tailored quote. We deliver throughout Europe.',
     ctaButton: 'Request a quote', locale: 'en-GB',
     calc: {
       length: 'Hedge length (m)', plant: 'Plant', rows: 'Rows', single: 'Single row', double: 'Double row (staggered)',
@@ -41,7 +41,7 @@ export const guideLabels = {
     nav: 'Ratgeber', home: 'Startseite', guides: 'Ratgeber', faq: 'Häufige Fragen', useful: 'Nützliche Ratgeber',
     productsTitle: 'Pflanzen aus diesem Ratgeber, im Großhandel erhältlich', other: 'Weitere Ratgeber', all: 'Alle Ratgeber',
     ctaTitle: 'Haben Sie ein Projekt? Fordern Sie ein Großhandelsangebot an',
-    ctaText: 'Senden Sie uns Ihre Pflanzenliste und Mengen, wir antworten mit einem individuellen Angebot. Lieferung in ganz Rumänien und Europa.',
+    ctaText: 'Senden Sie uns Ihre Pflanzenliste und Mengen, wir antworten mit einem individuellen Angebot. Lieferung in ganz Europa.',
     ctaButton: 'Angebot anfordern', locale: 'de-DE',
     calc: {
       length: 'Heckenlänge (m)', plant: 'Pflanze', rows: 'Reihen', single: 'Einreihig', double: 'Zweireihig (versetzt)',

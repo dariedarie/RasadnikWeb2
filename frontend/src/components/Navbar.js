@@ -4,6 +4,7 @@ import { useTranslation } from 'react-i18next';
 import LanguageSwitcher from './LanguageSwitcher';
 import { getLangPrefix } from '../utils/i18nRoutes';
 import { GUIDES_PATH, guideLabelsFor } from '../data/guides';
+import { exportPage } from '../data/seoPages';
 import './Navbar.css';
 
 const Navbar = () => {
@@ -29,6 +30,9 @@ const Navbar = () => {
           </Link>
           <Link to={`${prefix}/products`} className="nav-link" onClick={() => setIsOpen(false)}>
             {t('nav.products')}
+          </Link>
+          <Link to={`${prefix}/${exportPage.slug}`} className="nav-link" onClick={() => setIsOpen(false)}>
+            Export
           </Link>
           <Link to={`${prefix}/about`} className="nav-link" onClick={() => setIsOpen(false)}>
             {t('nav.about')}

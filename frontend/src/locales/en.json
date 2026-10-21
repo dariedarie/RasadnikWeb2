@@ -8,13 +8,13 @@
   },
   "home": {
     "title": "PlantDGD – Wholesale Ornamental Plants",
-    "subtitle": "Your trusted wholesale supplier of ornamental plants. Premium quality, competitive prices, delivery throughout Romania and Europe.",
+    "subtitle": "Your trusted wholesale supplier of ornamental plants. Premium quality, competitive prices, delivery throughout Europe.",
     "viewProducts": "View Catalog",
     "whyChooseUs": "Why Choose PlantDGD",
     "provenQuality": "Proven Quality",
     "provenQualityDesc": "Many years of experience in producing and delivering premium ornamental plants across Europe.",
     "fastDelivery": "Fast Delivery",
-    "fastDeliveryDesc": "Specialized transport throughout Romania and Europe. Plants professionally packaged to arrive in perfect condition.",
+    "fastDeliveryDesc": "Specialized transport throughout Europe. Plants professionally packaged to arrive in perfect condition.",
     "wholesalePartner": "Wholesale Partner",
     "wholesalePartnerDesc": "We supply landscapers, garden centers, municipalities and developers with bulk quantities at competitive prices.",
     "popularProducts": "Top Products",
@@ -31,7 +31,7 @@
     "leyland": "Leyland Cypress",
     "leylandDesc": "Fast-growing evergreen conifer, ideal for tall hedges and windbreaks. Available wholesale.",
     "ctaTitle": "Need plants wholesale?",
-    "ctaSubtitle": "Contact us for a customized offer. Delivery throughout Romania and Europe.",
+    "ctaSubtitle": "Contact us for a customized offer. Delivery throughout Europe.",
     "ctaBtn": "Request Quote",
     "badgeInStock": "Available",
     "badgeFeatured": "Most Popular",
@@ -40,10 +40,10 @@
   },
   "about": {
     "title": "About PlantDGD",
-    "subtitle": "Your trusted wholesale partner for ornamental plants in Romania and Europe",
+    "subtitle": "Your trusted wholesale partner for ornamental plants across Europe",
     "ourStory": "Our Story",
-    "story1": "PlantDGD S.R.L. is a company specialized in wholesale ornamental plants. We supply professional landscapers, garden centers, municipalities and private companies in Romania with premium quality plants at competitive prices.",
-    "story2": "We produce and deliver conifers, ornamental trees, shrubs, perennials and hedge plants on a commercial scale. We work with clients from all over Romania and Europe, offering comprehensive services from species selection consulting to specialized transport.",
+    "story1": "PlantDGD S.R.L. is a company specialized in wholesale ornamental plants. We supply professional landscapers, garden centers, municipalities and private companies across Europe with premium quality plants at competitive prices.",
+    "story2": "We produce and deliver conifers, ornamental trees, shrubs, perennials and hedge plants on a commercial scale. We work with clients from all over Europe, offering comprehensive services from species selection consulting to specialized transport.",
     "ourValues": "Our Values",
     "natural": "Naturalness",
     "naturalDesc": "All our plants are naturally grown without harmful chemicals. We respect the environment.",
@@ -62,7 +62,7 @@
     "landscapers": "Landscapers",
     "landscapersDesc": "Wholesale plant delivery for landscaping projects of any scale.",
     "gardenCenters": "Garden Centers",
-    "gardenCentersDesc": "Advantageous partnerships for garden centers throughout Romania and Europe.",
+    "gardenCentersDesc": "Advantageous partnerships for garden centers throughout Europe.",
     "municipalities": "Municipalities & Institutions",
     "municipalitiesDesc": "Plants for public spaces, parks and urban planning at special prices.",
     "developers": "Real Estate Developers",
@@ -86,8 +86,8 @@
     "success": "Message sent successfully! We will contact you as soon as possible.",
     "error": "An error occurred while sending the message. Please try again.",
     "sending": "Sending...",
-    "location": "Romania & European Delivery",
-    "locationDesc": "PlantDGD delivers ornamental plants wholesale throughout Romania and Europe. Transport is provided with specialized vehicles to ensure plants arrive in perfect condition. Contact us for delivery details and pricing."
+    "location": "Delivery Across Europe",
+    "locationDesc": "PlantDGD delivers ornamental plants wholesale throughout Europe. Transport is provided with specialized vehicles to ensure plants arrive in perfect condition. Contact us for delivery details and pricing."
   },
   "products": {
     "title": "Wholesale Product Catalog",
@@ -143,7 +143,7 @@
     "photos": "photos"
   },
   "footer": {
-    "description": "Your wholesale supplier of ornamental plants. Premium quality, competitive prices, delivery throughout Romania and Europe.",
+    "description": "Your wholesale supplier of ornamental plants. Premium quality, competitive prices, delivery throughout Europe.",
     "quickLinks": "Quick Links",
     "contactInfo": "Contact Information",
     "rights": "All rights reserved.",
@@ -151,16 +151,16 @@
     "b2b": "B2B Partnerships"
   },
   "seo": {
-    "homeTitle": "PlantDGD – Wholesale Ornamental Plants | Bulk Sales Romania",
-    "homeDescription": "PlantDGD - wholesale ornamental plant supplier in Romania. Thuja, conifers, shrubs, hedges, ornamental trees in bulk. Competitive prices for landscapers and garden centers. Delivery throughout Romania.",
-    "aboutTitle": "About PlantDGD – Wholesale Ornamental Plant Supplier Romania",
-    "aboutDescription": "PlantDGD - wholesale ornamental plant supplier with 15+ years of experience. We supply landscapers, garden centers, municipalities and companies throughout Romania with premium quality plants.",
-    "contactTitle": "Contact PlantDGD – Wholesale Ornamental Plants Quote Romania",
-    "contactDescription": "Contact PlantDGD for a wholesale ornamental plants quote. Phone: +40 729 048 545. Delivery throughout Romania. Competitive prices for landscapers and garden centers.",
+    "homeTitle": "PlantDGD – Wholesale Ornamental Plants | Export Across Europe",
+    "homeDescription": "PlantDGD - wholesale ornamental plant supplier based in Romania, exporting across Europe. Thuja, conifers, shrubs, hedges, ornamental trees in bulk. Competitive prices for landscapers and garden centers. Delivery throughout Europe.",
+    "aboutTitle": "About PlantDGD – Wholesale Ornamental Plant Supplier for Europe",
+    "aboutDescription": "PlantDGD - wholesale ornamental plant supplier with 15+ years of experience. We supply landscapers, garden centers, municipalities and companies throughout Europe with premium quality plants.",
+    "contactTitle": "Contact PlantDGD – Wholesale Ornamental Plants Quote for Europe",
+    "contactDescription": "Contact PlantDGD for a wholesale ornamental plants quote. Phone: +40 729 048 545. Delivery throughout Europe. Competitive prices for landscapers and garden centers.",
     "galleryTitle": "PlantDGD Gallery – Wholesale Ornamental Plant Photos",
     "galleryDescription": "PlantDGD gallery - photos of ornamental plants available wholesale: conifers, shrubs, hedges, ornamental trees. Premium quality for landscapers and garden centers.",
-    "productsTitle": "Product Catalog – PlantDGD | Wholesale Ornamental Plants Romania",
-    "productsDescription": "Complete catalog of wholesale ornamental plants: conifers, shrubs, hedges, deciduous trees, perennials. Competitive prices for landscapers, garden centers and municipalities. Delivery throughout Romania."
+    "productsTitle": "Product Catalog – PlantDGD | Wholesale Ornamental Plants Europe",
+    "productsDescription": "Complete catalog of wholesale ornamental plants: conifers, shrubs, hedges, deciduous trees, perennials. Competitive prices for landscapers, garden centers and municipalities. Delivery throughout Europe."
   },
   "productDescriptions": {
     "1": {

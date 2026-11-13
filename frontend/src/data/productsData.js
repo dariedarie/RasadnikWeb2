@@ -1904,6 +1904,1454 @@ export const products = [
       soil: 'Vlažna, dobro drenirana zemlja',
       hardiness: 'Otporna na mraz do -20°C'
     }
+  },
+
+  // ==================== DRVEĆE IZ PONUDE YOUNGTREES 13.11.2026 (ID: 95-163) ====================
+  {
+    id: 95,
+    name: 'Trozubi javor',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/artar-trilobat-acer-buergerianum.jpg',
+    images: [
+      '/images/artar-trilobat-acer-buergerianum.jpg',
+      '/images/artar-trilobat-acer-buergerianum-2.jpg'
+    ],
+    description: 'Trozubi javor (Acer buergerianum) je mali do srednji javor sa trokrakim lišćem i narandžasto-crvenom jesenjom bojom. Za ulice, trgove i manja dvorišta.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -20°C'
+    }
+  },
+  {
+    id: 96,
+    name: 'Klen (Acer campestre)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/jugastru-acer-campestre.jpg',
+    images: [
+      '/images/jugastru-acer-campestre.jpg',
+      '/images/jugastru-acer-campestre-2.jpg'
+    ],
+    description: 'Klen (Acer campestre) je domaći, veoma otporan javor za drvorede, parkove i žive ograde. Podnosi sušu, krečna zemljišta i gradske uslove; u jesen se boji žuto.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Malo zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 97,
+    name: 'Javor Freemanii (Acer × freemanii)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/artar-freeman-acer-freemanii.jpg',
+    images: [
+      '/images/artar-freeman-acer-freemanii.jpg'
+    ],
+    description: 'Javor Freemanii (Acer × freemanii) je hibrid crvenog i srebrnog javora: brzo raste, otporan je i ima spektakularnu narandžasto-crvenu jesenju boju. Sorte \'Autumn Blaze\', \'Armstrong\' i \'Celebration\'.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 98,
+    name: 'Negundovac Flamingo (Acer negundo \'Flamingo\')',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/artar-negundo-flamingo.jpg',
+    images: [
+      '/images/artar-negundo-flamingo.jpg',
+      '/images/artar-negundo-flamingo-2.jpg'
+    ],
+    description: 'Negundovac \'Flamingo\' ima šareno lišće belo-zeleno sa ružičastim mladim izdancima u proleće. Malo dekorativno drvo za dvorišta, parkove i kontrastne sadnje.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 99,
+    name: 'Javor Pacific Sunset i Norwegian Sunset (Acer truncatum × platanoides)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/artar-pacific-sunset-norwegian-sunset.jpg',
+    images: [
+      '/images/artar-pacific-sunset-norwegian-sunset.jpg',
+      '/images/artar-pacific-sunset-norwegian-sunset-2.jpg'
+    ],
+    description: 'Hibridi javora \'Pacific Sunset\' (\'Warrenred\') i \'Norwegian Sunset\' (\'Keithsform\') kombinuju otpornost mleča sa narandžasto-crvenom jesenjom bojom. Kompaktna krona, idealni za drvorede.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 100,
+    name: 'Gorski javor (Acer pseudoplatanus)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/paltin-de-munte-acer-pseudoplatanus.jpg',
+    images: [
+      '/images/paltin-de-munte-acer-pseudoplatanus.jpg',
+      '/images/paltin-de-munte-acer-pseudoplatanus-2.jpg'
+    ],
+    description: 'Gorski javor (Acer pseudoplatanus) je krupno, dugovečno drvo široke krune, otporno na vetar i mraz. Za parkove, drvorede i velike zelene površine; sorte \'Atropurpureum\' i \'Bruchem\'.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 101,
+    name: 'Ginala javor (Acer tataricum subsp. ginnala)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/artar-ginnala-acer-tataricum.jpg',
+    images: [
+      '/images/artar-ginnala-acer-tataricum.jpg',
+      '/images/artar-ginnala-acer-tataricum-2.jpg'
+    ],
+    description: 'Ginala javor je mali, veoma otporan javor sa sjajnim lišćem i jarko crvenom jesenjom bojom. Za mala dvorišta, žive ograde i sadnju u grupama.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Malo zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -35°C'
+    }
+  },
+  {
+    id: 102,
+    name: 'Javor Annae (Acer × zoeschense \'Annae\')',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/artar-acer-zoeschense-annae.jpg',
+    images: [
+      '/images/artar-acer-zoeschense-annae.jpg',
+      '/images/artar-acer-zoeschense-annae-2.jpg'
+    ],
+    description: 'Javor \'Annae\' ima tamno, crveno-ljubičasto mlado lišće i purpurne izdanke, a kasnije tamnozeleno lišće. Srednje drvo kompaktne krune za parkove i drvorede.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 103,
+    name: 'Italijanska jova (Alnus cordata)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/arin-italian-alnus-cordata.jpg',
+    images: [
+      '/images/arin-italian-alnus-cordata.jpg',
+      '/images/arin-italian-alnus-cordata-2.jpg'
+    ],
+    description: 'Italijanska jova (Alnus cordata) je brzorastuće drvo kupaste krune sa sjajnim srcastim lišćem. Podnosi i suva i vlažna zemljišta – odlična za drvorede i gradske uslove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -20°C'
+    }
+  },
+  {
+    id: 104,
+    name: 'Crna jova (Alnus glutinosa)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/arin-negru-alnus-glutinosa.jpg',
+    images: [
+      '/images/arin-negru-alnus-glutinosa.jpg',
+      '/images/arin-negru-alnus-glutinosa-2.jpg'
+    ],
+    description: 'Crna jova (Alnus glutinosa) je domaće drvo vlažnih staništa, idealno za obale reka i jezera i vlažne parkove. Sorte \'Imperialis\' i \'Laciniata\' imaju dekorativno usečeno lišće.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Često zalivanje',
+      soil: 'Vlažna, plodna zemlja',
+      hardiness: 'Otporna na mraz do -35°C'
+    }
+  },
+  {
+    id: 105,
+    name: 'Jova Spaethii (Alnus × spaethii)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/arin-alnus-spaethii.jpg',
+    images: [
+      '/images/arin-alnus-spaethii.jpg',
+      '/images/arin-alnus-spaethii-2.jpg'
+    ],
+    description: 'Jova Spaethii (Alnus × spaethii) je brzorastući hibrid sa krupnim, sjajnim lišćem i ljubičastim mladim izdancima. Veoma otporna na gradske uslove – za drvorede i parkove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 106,
+    name: 'Amelanšir na stablu (Amelanchier)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/amelanchier-arbore.jpg',
+    images: [
+      '/images/amelanchier-arbore.jpg',
+      '/images/amelanchier-arbore-2.jpg'
+    ],
+    description: 'Amelanšir je malo drvo sa belim cvetovima u proleće, jestivim tamnim plodovima leti i narandžasto-crvenom jesenjom bojom. Sorte \'Robin Hill\', \'Snowflakes\' i A. lamarckii, kao visokostablo.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 107,
+    name: 'Kineska breza Fascination (Betula albosinensis \'Fascination\')',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/mesteacan-chinezesc-betula-albosinensis-fascination.jpg',
+    images: [
+      '/images/mesteacan-chinezesc-betula-albosinensis-fascination.jpg',
+      '/images/mesteacan-chinezesc-betula-albosinensis-fascination-2.jpg'
+    ],
+    description: 'Kineska breza \'Fascination\' ima upečatljivu narandžasto-bakarnu koru koja se ljušti, sa ružičastim i krem tonovima. Dekorativni soliter za parkove i vrtove tokom cele godine.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Vlažna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 108,
+    name: 'Rečna breza (Betula nigra)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/mesteacan-de-rau-betula-nigra.jpg',
+    images: [
+      '/images/mesteacan-de-rau-betula-nigra.jpg'
+    ],
+    description: 'Rečna breza (Betula nigra) ima dekorativnu koru boje cimeta koja se ljušti u slojevima. Podnosi vlažna zemljišta i vrućinu – za parkove, obale i vlažne lokacije.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Često zalivanje',
+      soil: 'Vlažna, plodna zemlja',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 109,
+    name: 'Maljava breza (Betula pubescens)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/mesteacan-pufos-betula-pubescens.jpg',
+    images: [
+      '/images/mesteacan-pufos-betula-pubescens.jpg',
+      '/images/mesteacan-pufos-betula-pubescens-2.jpg'
+    ],
+    description: 'Maljava breza (Betula pubescens) je domaća breza bele kore, otporna na hladnoću i vlažna zemljišta. Za parkove, pošumljavanje i prirodne zelene površine.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Redovno zalivanje',
+      soil: 'Vlažna, plodna zemlja',
+      hardiness: 'Otporna na mraz do -35°C'
+    }
+  },
+  {
+    id: 110,
+    name: 'Himalajska breza Doorenbos (Betula utilis \'Doorenbos\')',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/mesteacan-himalaya-betula-utilis-doorenbos.jpg',
+    images: [
+      '/images/mesteacan-himalaya-betula-utilis-doorenbos.jpg',
+      '/images/mesteacan-himalaya-betula-utilis-doorenbos-2.jpg'
+    ],
+    description: 'Himalajska breza \'Doorenbos\' ima najbelju koru od svih breza, upečatljivu tokom cele godine. Jedno od najtraženijih dekorativnih stabala za moderne vrtove i javne prostore.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Redovno zalivanje',
+      soil: 'Vlažna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 111,
+    name: 'Grab (Carpinus betulus)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/carpen-carpinus-betulus.jpg',
+    images: [
+      '/images/carpen-carpinus-betulus.jpg',
+      '/images/carpen-carpinus-betulus-2.jpg'
+    ],
+    description: 'Grab (Carpinus betulus) je domaće, veoma otporno drvo guste krune koje odlično podnosi orezivanje. Za drvorede, parkove, zelene zidove i oblikovana stabla; dostupan kao visokostablo i višestruko presađivan.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 112,
+    name: 'Japanski grab (Carpinus japonica)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/carpen-japonez-carpinus-japonica.jpg',
+    images: [
+      '/images/carpen-japonez-carpinus-japonica.jpg',
+      '/images/carpen-japonez-carpinus-japonica-2.jpg'
+    ],
+    description: 'Japanski grab (Carpinus japonica) je malo, elegantno drvo sa izraženo nervaturnim lišćem i dekorativnim plodovima nalik hmelju. Za vrtove, parkove i japanske vrtove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Plodna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 113,
+    name: 'Pitomi kesten (Castanea sativa)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/castan-comestibil-castanea-sativa.jpg',
+    images: [
+      '/images/castan-comestibil-castanea-sativa.jpg',
+      '/images/castan-comestibil-castanea-sativa-2.jpg'
+    ],
+    description: 'Pitomi kesten (Castanea sativa) je krupno, dugovečno drvo sa sjajnim nazubljenim lišćem i jestivim plodovima. Za parkove, velike vrtove i voćnjake na kiselim zemljištima.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Kisela do neutralna zemlja',
+      hardiness: 'Otporna na mraz do -20°C'
+    }
+  },
+  {
+    id: 114,
+    name: 'Koprivić (Celtis australis, Celtis occidentalis)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/sambovina-celtis.jpg',
+    images: [
+      '/images/sambovina-celtis.jpg',
+      '/images/sambovina-celtis-2.jpg'
+    ],
+    description: 'Koprivić je veoma otporno drvo za drvorede i trgove: podnosi sušu, vrućinu i zbijena zemljišta. Dostupan južni (C. australis) i američki koprivić (C. occidentalis).',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 115,
+    name: 'Kacura (Cercidiphyllum japonicum)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/cercidiphyllum-japonicum.jpg',
+    images: [
+      '/images/cercidiphyllum-japonicum.jpg',
+      '/images/cercidiphyllum-japonicum-2.jpg'
+    ],
+    description: 'Kacura (Cercidiphyllum japonicum) ima srcolike listove i spektakularnu jesenju boju, a otpalo lišće miriše na karamel i medenjake. Dekorativni soliter za parkove i vrtove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Redovno zalivanje',
+      soil: 'Vlažna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 116,
+    name: 'Kanadsko Judino drvo (Cercis canadensis)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/cercis-canadensis.jpg',
+    images: [
+      '/images/cercis-canadensis.jpg',
+      '/images/cercis-canadensis-2.jpg'
+    ],
+    description: 'Kanadsko Judino drvo (Cercis canadensis) u rano proleće cveta ružičasto-ljubičastim cvetovima direktno na granama, pre listanja. Ima srcolike listove i žutu jesenju boju.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 117,
+    name: 'Mečja leska (Corylus colurna)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/alun-turcesc-corylus-colurna.jpg',
+    images: [
+      '/images/alun-turcesc-corylus-colurna.jpg',
+      '/images/alun-turcesc-corylus-colurna-2.jpg'
+    ],
+    description: 'Mečja leska (Corylus colurna) je pravilno, kupasto drvo izuzetno otporno na sušu i gradske uslove. Jedno od najboljih stabala za drvorede, trgove i parkinge.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 118,
+    name: 'Ukrasni glog (Crataegus)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/paducel-decorativ-crataegus.jpg',
+    images: [
+      '/images/paducel-decorativ-crataegus.jpg',
+      '/images/paducel-decorativ-crataegus-2.jpg'
+    ],
+    description: 'Ukrasni glog je malo, veoma otporno drvo sa obilnim cvetanjem u maju i crvenim plodovima u jesen. Sorte \'Paul\'s Scarlet\' (punjeni crveni cvetovi), \'Carrierei\', \'Splendens\' i domaći C. monogyna.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 119,
+    name: 'Drvo maramica (Davidia involucrata)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/arborele-batista-davidia-involucrata.jpg',
+    images: [
+      '/images/arborele-batista-davidia-involucrata.jpg',
+      '/images/arborele-batista-davidia-involucrata-2.jpg'
+    ],
+    description: 'Drvo maramica (Davidia involucrata) u maju razvija upečatljive bele brakteje koje vise sa grana kao maramice. Retko i veoma dekorativno soliterno drvo za parkove i botaničke kolekcije.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Redovno zalivanje',
+      soil: 'Plodna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -20°C'
+    }
+  },
+  {
+    id: 120,
+    name: 'Bukva (Fagus sylvatica)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/fag-fagus-sylvatica.jpg',
+    images: [
+      '/images/fag-fagus-sylvatica.jpg',
+      '/images/fag-fagus-sylvatica-2.jpg'
+    ],
+    description: 'Bukva (Fagus sylvatica) je veličanstveno parkovsko drvo glatke sive kore. Pored zelene, dostupne su crvenolisna \'Atropunicea\', stubaste \'Dawyck\' i \'Dawyck Purple\' i žalosna \'Purpurea Pendula\'.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Plodna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 121,
+    name: 'Američki jasen (Fraxinus americana)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/frasin-american-fraxinus-americana.jpg',
+    images: [
+      '/images/frasin-american-fraxinus-americana.jpg',
+      '/images/frasin-american-fraxinus-americana-2.jpg'
+    ],
+    description: 'Američki jasen (Fraxinus americana) je brzorastuće drvo pravilne krune sa ljubičasto-crvenom jesenjom bojom. Sorte \'Autumn Purple\', \'Autumn Applause\' i \'Skyline\' za drvorede i parkove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 122,
+    name: 'Uskolisni jasen Raywood (Fraxinus angustifolia \'Raywood\')',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/frasin-raywood-fraxinus-angustifolia.jpg',
+    images: [
+      '/images/frasin-raywood-fraxinus-angustifolia.jpg',
+      '/images/frasin-raywood-fraxinus-angustifolia-2.jpg'
+    ],
+    description: 'Jasen \'Raywood\' ima fino, usko lišće i bordo-ljubičastu jesenju boju. Otporan na sušu i vrućinu – za drvorede i parkove u toplijim krajevima.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 123,
+    name: 'Beli jasen (Fraxinus excelsior)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/frasin-comun-fraxinus-excelsior.jpg',
+    images: [
+      '/images/frasin-comun-fraxinus-excelsior.jpg',
+      '/images/frasin-comun-fraxinus-excelsior-2.jpg'
+    ],
+    description: 'Beli jasen (Fraxinus excelsior) je krupno domaće drvo prozračne krune. Sorte \'Altena\' i \'Atlas\' imaju pravilnu krunu za drvorede, a \'Jaspidea\' zlatne grane i žutu jesenju boju.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Plodna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 124,
+    name: 'Pensilvanski jasen Summit (Fraxinus pennsylvanica \'Summit\')',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/frasin-pennsylvanica-summit.jpg',
+    images: [
+      '/images/frasin-pennsylvanica-summit.jpg',
+      '/images/frasin-pennsylvanica-summit-2.jpg'
+    ],
+    description: 'Jasen \'Summit\' ima pravilnu, uspravnu krunu i zlatno-žutu jesenju boju. Veoma otporan na mraz, sušu i gradske uslove – za drvorede.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -35°C'
+    }
+  },
+  {
+    id: 125,
+    name: 'Ginko (Ginkgo biloba)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/ginkgo-biloba.jpg',
+    images: [
+      '/images/ginkgo-biloba.jpg',
+      '/images/ginkgo-biloba-2.jpg'
+    ],
+    description: 'Ginko (Ginkgo biloba) je drevno drvo lepezastog lišća sa zlatno-žutom jesenjom bojom. Izuzetno otporno na zagađenje i gradske uslove – za drvorede, trgove i parkove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 126,
+    name: 'Gledičija (Gleditsia triacanthos)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/gladita-gleditsia-triacanthos.jpg',
+    images: [
+      '/images/gladita-gleditsia-triacanthos.jpg',
+      '/images/gladita-gleditsia-triacanthos-2.jpg'
+    ],
+    description: 'Gledičija (Gleditsia triacanthos) ima fino, perasto lišće koje daje laganu senku. Sorte bez trnja: inermis, \'Rubylace\' sa bordo mladim lišćem i \'Speczam\'. Veoma otporna na sušu i grad.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 127,
+    name: 'Crni orah (Juglans nigra)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/nuc-negru-juglans-nigra.jpg',
+    images: [
+      '/images/nuc-negru-juglans-nigra.jpg',
+      '/images/nuc-negru-juglans-nigra-2.jpg'
+    ],
+    description: 'Crni orah (Juglans nigra) je krupno, brzorastuće drvo sa dugim perastim lišćem i vrednim drvetom. Za parkove, velike površine i plantaže drveta.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Plodna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 128,
+    name: 'Orah (Juglans regia)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/nuc-juglans-regia.jpg',
+    images: [
+      '/images/nuc-juglans-regia.jpg',
+      '/images/nuc-juglans-regia-2.jpg'
+    ],
+    description: 'Orah (Juglans regia) je krupno, dugovečno drvo široke krune i jestivih plodova. Za voćnjake, dvorišta, parkove i velike zelene površine.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Plodna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 129,
+    name: 'Kelreuterija (Koelreuteria paniculata)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/koelreuteria-paniculata.jpg',
+    images: [
+      '/images/koelreuteria-paniculata.jpg',
+      '/images/koelreuteria-paniculata-2.jpg'
+    ],
+    description: 'Kelreuterija (Koelreuteria paniculata) leti cveta krupnim žutim cvastima, a zatim razvija dekorativne čaure nalik lampionima. Otporna na sušu i vrućinu – za trgove, ulice i vrtove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 130,
+    name: 'Japanski ariš (Larix kaempferi)',
+    category: 'cetinari',
+    categories: ['cetinari'],
+    price: 0,
+    image: '/images/larice-japonez-larix-kaempferi.jpg',
+    images: [
+      '/images/larice-japonez-larix-kaempferi.jpg',
+      '/images/larice-japonez-larix-kaempferi-2.jpg'
+    ],
+    description: 'Japanski ariš (Larix kaempferi) je listopadni četinar plavkasto-zelenih iglica koje u jesen postaju zlatno-narandžaste. Brzo raste – za parkove, pošumljavanje i velike vrtove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Vlažna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -35°C'
+    }
+  },
+  {
+    id: 131,
+    name: 'Magnolija Kobus (Magnolia kobus)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/magnolia-kobus.jpg',
+    images: [
+      '/images/magnolia-kobus.jpg',
+      '/images/magnolia-kobus-2.jpg'
+    ],
+    description: 'Magnolija kobus u aprilu obilno cveta belim mirisnim cvetovima pre listanja. Otporna i robusna magnolija za parkove i vrtove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Plodna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 132,
+    name: 'Magnolija Susan (Magnolia \'Susan\')',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/magnolia-susan.jpg',
+    images: [
+      '/images/magnolia-susan.jpg',
+      '/images/magnolia-susan-2.jpg'
+    ],
+    description: 'Magnolija \'Susan\' cveta kasnije od drugih magnolija, krupnim purpurno-ružičastim cvetovima, pa izbegava kasne mrazeve. Kompaktna, za manje vrtove i dvorišta.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Plodna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 133,
+    name: 'Jabuka – voćna stabla (Malus domestica)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/mar-pom-fructifer-malus-domestica.jpg',
+    images: [
+      '/images/mar-pom-fructifer-malus-domestica.jpg',
+      '/images/mar-pom-fructifer-malus-domestica-2.jpg'
+    ],
+    description: 'Voćna stabla jabuke na visokom stablu: sorte \'Elstar\', \'Glorie van Holland\' i \'Gravensteiner\'. Za voćnjake, dvorišta, školske i javne vrtove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Plodna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 134,
+    name: 'Metasekvoja (Metasequoia glyptostroboides)',
+    category: 'cetinari',
+    categories: ['cetinari'],
+    price: 0,
+    image: '/images/metasequoia-glyptostroboides.jpg',
+    images: [
+      '/images/metasequoia-glyptostroboides.jpg',
+      '/images/metasequoia-glyptostroboides-2.jpg'
+    ],
+    description: 'Metasekvoja je brzorastući listopadni četinar mekih svetlozelenih iglica koje u jesen postaju bakarno-narandžaste. Podnosi vlažna zemljišta – za parkove i obale.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Redovno zalivanje',
+      soil: 'Vlažna, plodna zemlja',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 135,
+    name: 'Beli dud (Morus alba)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/dud-alb-morus-alba.jpg',
+    images: [
+      '/images/dud-alb-morus-alba.jpg',
+      '/images/dud-alb-morus-alba-2.jpg'
+    ],
+    description: 'Beli dud (Morus alba) je otporno drvo široke krune koje daje gustu senku i podnosi sušu i vrućinu. Sorta \'Fruitless\' ne daje plodove – idealna za trgove i parkinge.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 136,
+    name: 'Crni grab (Ostrya carpinifolia)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/carpen-negru-ostrya-carpinifolia.jpg',
+    images: [
+      '/images/carpen-negru-ostrya-carpinifolia.jpg',
+      '/images/carpen-negru-ostrya-carpinifolia-2.jpg'
+    ],
+    description: 'Crni grab (Ostrya carpinifolia) je otporno drvo sa plodovima nalik hmelju i žutom jesenjom bojom. Podnosi sušu i krečna zemljišta – za drvorede i parkove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Malo zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 137,
+    name: 'Perzijsko gvozdeno drvo (Parrotia persica)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/parrotia-persica.jpg',
+    images: [
+      '/images/parrotia-persica.jpg',
+      '/images/parrotia-persica-2.jpg'
+    ],
+    description: 'Parrotia persica ima jednu od najlepših jesenjih boja – žutu, narandžastu i crvenu – i dekorativnu koru koja se ljušti. Sorta \'Vanessa\' ima uspravnu krunu.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 138,
+    name: 'Amurski plutnjak (Phellodendron amurense)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/phellodendron-amurense.jpg',
+    images: [
+      '/images/phellodendron-amurense.jpg',
+      '/images/phellodendron-amurense-2.jpg'
+    ],
+    description: 'Amurski plutnjak ima mekanu, plutastu koru, perasto lišće i žutu jesenju boju. Veoma otporan na mraz, sušu i gradske uslove – za parkove i drvorede.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -35°C'
+    }
+  },
+  {
+    id: 139,
+    name: 'Kanadska topola Robusta (Populus × canadensis \'Robusta\')',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/plop-canadian-robusta.jpg',
+    images: [
+      '/images/plop-canadian-robusta.jpg',
+      '/images/plop-canadian-robusta-2.jpg'
+    ],
+    description: 'Topola \'Robusta\' je veoma brzorastuće drvo uspravne krune i bronzanih mladih listova. Za vetrozaštitne pojaseve, drvorede uz puteve i brzo ozelenjavanje.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -35°C'
+    }
+  },
+  {
+    id: 140,
+    name: 'Jasika (Populus tremula)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/plop-tremurator-populus-tremula.jpg',
+    images: [
+      '/images/plop-tremurator-populus-tremula.jpg',
+      '/images/plop-tremurator-populus-tremula-2.jpg'
+    ],
+    description: 'Jasika (Populus tremula) je domaća topola čiji okrugli listovi trepere na vetru, sa žutom jesenjom bojom. Sorta \'Erecta\' ima usku, stubastu krunu.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -40°C'
+    }
+  },
+  {
+    id: 141,
+    name: 'Trešnja (Prunus avium)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/cires-prunus-avium.jpg',
+    images: [
+      '/images/cires-prunus-avium.jpg',
+      '/images/cires-prunus-avium-2.jpg'
+    ],
+    description: 'Trešnja na visokom stablu: voćne sorte \'Kordia\', \'Lapins\', \'Regina\', \'Stella\', \'Van\', \'Hedelfinger\' i ukrasna \'Plena\' sa punjenim belim cvetovima bez plodova.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Plodna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 142,
+    name: 'Šljiva – voćna stabla (Prunus domestica)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/prun-prunus-domestica.jpg',
+    images: [
+      '/images/prun-prunus-domestica.jpg',
+      '/images/prun-prunus-domestica-2.jpg'
+    ],
+    description: 'Šljiva na visokom stablu: sorte \'Opal\' (rana, slatka) i \'Victoria\' (krupni crveni plodovi). Za voćnjake, dvorišta i zajedničke vrtove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Plodna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 143,
+    name: 'Sremza (Prunus padus)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/malin-prunus-padus.jpg',
+    images: [
+      '/images/malin-prunus-padus.jpg',
+      '/images/malin-prunus-padus-2.jpg'
+    ],
+    description: 'Sremza (Prunus padus) u maju cveta dugim, mirisnim belim grozdovima. Otporno domaće drvo za parkove, vlažna staništa i drvorede; sorte \'Watereri\' i \'Tiefurt\'.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Vlažna, plodna zemlja',
+      hardiness: 'Otporna na mraz do -35°C'
+    }
+  },
+  {
+    id: 144,
+    name: 'Virginijska sremza Canada Red (Prunus virginiana \'Canada Red\')',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/prunus-virginiana-canada-red.jpg',
+    images: [
+      '/images/prunus-virginiana-canada-red.jpg',
+      '/images/prunus-virginiana-canada-red-2.jpg'
+    ],
+    description: 'Sremza \'Canada Red\' ima zeleno mlado lišće koje leti postaje tamno purpurno-crveno, i bele cvetne grozdove u maju. Malo, otporno drvo za ulice i vrtove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -35°C'
+    }
+  },
+  {
+    id: 145,
+    name: 'Kavkaski krilati orah (Pterocarya fraxinifolia)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/pterocarya-fraxinifolia.jpg',
+    images: [
+      '/images/pterocarya-fraxinifolia.jpg',
+      '/images/pterocarya-fraxinifolia-2.jpg'
+    ],
+    description: 'Pterocarya fraxinifolia je brzorastuće drvo široke krune sa dugim perastim lišćem i dugim visećim resama plodova. Za velike parkove i obale voda.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Često zalivanje',
+      soil: 'Vlažna, plodna zemlja',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 146,
+    name: 'Kruška – voćna stabla (Pyrus communis)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/par-pyrus-communis.jpg',
+    images: [
+      '/images/par-pyrus-communis.jpg'
+    ],
+    description: 'Kruška na visokom stablu: sorte \'Conference\', \'Saint Rémy\', \'Zoete Brederode\' i vrsta P. communis. Za voćnjake, dvorišta i javne vrtove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Plodna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 147,
+    name: 'Ukrasna kruška Chanticleer (Pyrus calleryana \'Chanticleer\')',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/par-decorativ-pyrus-calleryana-chanticleer.jpg',
+    images: [
+      '/images/par-decorativ-pyrus-calleryana-chanticleer.jpg',
+      '/images/par-decorativ-pyrus-calleryana-chanticleer-2.jpg'
+    ],
+    description: 'Ukrasna kruška \'Chanticleer\' ima usku, pravilnu krunu, obilno belo cvetanje u aprilu i crveno-narandžastu jesenju boju. Jedno od najboljih stabala za uske ulice.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 148,
+    name: 'Vrbolisna kruška (Pyrus salicifolia \'Pendula\')',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/par-pyrus-salicifolia-pendula.jpg',
+    images: [
+      '/images/par-pyrus-salicifolia-pendula.jpg',
+      '/images/par-pyrus-salicifolia-pendula-2.jpg'
+    ],
+    description: 'Vrbolisna kruška \'Pendula\' ima srebrnasto, usko lišće i viseće grane. Elegantno malo drvo na stablu za vrtove, dvorišta i mediteranske sadnje.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 149,
+    name: 'Cer (Quercus cerris)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/cer-quercus-cerris.jpg',
+    images: [
+      '/images/cer-quercus-cerris.jpg',
+      '/images/cer-quercus-cerris-2.jpg'
+    ],
+    description: 'Cer (Quercus cerris) je brzorastući hrast široke krune, veoma otporan na sušu i vrućinu. Za parkove, drvorede i velike zelene površine.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 150,
+    name: 'Krupnoplodni hrast (Quercus macrocarpa)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/stejar-quercus-macrocarpa.jpg',
+    images: [
+      '/images/stejar-quercus-macrocarpa.jpg',
+      '/images/stejar-quercus-macrocarpa-2.jpg'
+    ],
+    description: 'Krupnoplodni hrast (Quercus macrocarpa) je izuzetno otporan hrast krupnog lišća i krupnih žireva sa resastom kapicom. Podnosi sušu, mraz i gradske uslove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -35°C'
+    }
+  },
+  {
+    id: 151,
+    name: 'Močvarni hrast (Quercus palustris)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/stejar-de-mlastina-quercus-palustris.jpg',
+    images: [
+      '/images/stejar-de-mlastina-quercus-palustris.jpg',
+      '/images/stejar-de-mlastina-quercus-palustris-2.jpg'
+    ],
+    description: 'Močvarni hrast (Quercus palustris) ima pravilnu kupastu krunu, duboko usečeno lišće i jarko crvenu jesenju boju. Za drvorede i parkove na kiselim do neutralnim zemljištima.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Kisela do neutralna zemlja',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 152,
+    name: 'Kitnjak (Quercus petraea)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/gorun-quercus-petraea.jpg',
+    images: [
+      '/images/gorun-quercus-petraea.jpg',
+      '/images/gorun-quercus-petraea-2.jpg'
+    ],
+    description: 'Kitnjak (Quercus petraea) je domaći, dugovečni hrast otporan na sušu i plitka zemljišta. Za parkove, pošumljavanje i velike zelene površine.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Malo zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 153,
+    name: 'Lužnjak (Quercus robur)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/stejar-quercus-robur.jpg',
+    images: [
+      '/images/stejar-quercus-robur.jpg',
+      '/images/stejar-quercus-robur-2.jpg'
+    ],
+    description: 'Lužnjak (Quercus robur) je simbol dugovečnosti – veličanstveno drvo za parkove i velike prostore. Stubasta sorta \'Fastigiata Koster\' pogodna je za ulice i uske prostore.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -35°C'
+    }
+  },
+  {
+    id: 154,
+    name: 'Bagrem – ukrasne sorte (Robinia pseudoacacia)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/salcam-robinia-pseudoacacia.jpg',
+    images: [
+      '/images/salcam-robinia-pseudoacacia.jpg',
+      '/images/salcam-robinia-pseudoacacia-2.jpg'
+    ],
+    description: 'Ukrasne sorte bagrema: \'Frisia\' sa zlatno-žutim lišćem, \'Bessoniana\' i \'Unifoliola\' bez trnja, i \'Nyírségi\'. Veoma otporne na sušu i siromašna zemljišta.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 155,
+    name: 'Bela vrba Belders (Salix alba \'Belders\')',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/salcie-alba-salix-alba.jpg',
+    images: [
+      '/images/salcie-alba-salix-alba.jpg',
+      '/images/salcie-alba-salix-alba-2.jpg'
+    ],
+    description: 'Bela vrba \'Belders\' je brzorastuća vrba uspravne krune i srebrnasto-zelenog lišća. Za obale, vlažne parkove i vetrozaštitne pojaseve.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Često zalivanje',
+      soil: 'Vlažna, plodna zemlja',
+      hardiness: 'Otporna na mraz do -35°C'
+    }
+  },
+  {
+    id: 156,
+    name: 'Lovorolisna vrba (Salix pentandra)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/salcie-salix-pentandra.jpg',
+    images: [
+      '/images/salcie-salix-pentandra.jpg',
+      '/images/salcie-salix-pentandra-2.jpg'
+    ],
+    description: 'Lovorolisna vrba (Salix pentandra) ima sjajno, tamnozeleno lišće nalik lovoru i mirisne žute rese u kasno proleće. Za vlažne parkove i obale.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Često zalivanje',
+      soil: 'Vlažna, plodna zemlja',
+      hardiness: 'Otporna na mraz do -35°C'
+    }
+  },
+  {
+    id: 157,
+    name: 'Žalosna vrba (Salix × sepulcralis \'Chrysocoma\')',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/salcie-pletoasa-salix-chrysocoma.jpg',
+    images: [
+      '/images/salcie-pletoasa-salix-chrysocoma.jpg',
+      '/images/salcie-pletoasa-salix-chrysocoma-2.jpg'
+    ],
+    description: 'Žalosna vrba \'Chrysocoma\' ima duge, zlatno-žute viseće grane do zemlje. Klasično drvo za obale jezera, reka i velike parkove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Često zalivanje',
+      soil: 'Vlažna, plodna zemlja',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 158,
+    name: 'Japanska sofora (Styphnolobium japonicum)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/salcam-japonez-styphnolobium-japonicum.jpg',
+    images: [
+      '/images/salcam-japonez-styphnolobium-japonicum.jpg',
+      '/images/salcam-japonez-styphnolobium-japonicum-2.jpg'
+    ],
+    description: 'Japanska sofora (Styphnolobium / Sophora japonica) leti cveta krem-belim cvastima koje privlače pčele. Veoma otporna na sušu, vrućinu i gradske uslove; sorta \'Regent\' ima pravilnu krunu.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Malo zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 159,
+    name: 'Jarebika (Sorbus)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/scorus-sorbus.jpg',
+    images: [
+      '/images/scorus-sorbus.jpg',
+      '/images/scorus-sorbus-2.jpg'
+    ],
+    description: 'Jarebika je otporno malo drvo sa belim cvetovima u maju i dekorativnim crvenim i narandžastim plodovima u jesen. Sorte S. aucuparia, \'Edulis\', \'Cardinal Royal\', \'Autumn Spire\', \'Dodong\', S. aria \'Magnifica\', S. intermedia i S. incana.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -35°C'
+    }
+  },
+  {
+    id: 160,
+    name: 'Pčelinje drvo (Tetradium daniellii)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/tetradium-daniellii.jpg',
+    images: [
+      '/images/tetradium-daniellii.jpg',
+      '/images/tetradium-daniellii-2.jpg'
+    ],
+    description: 'Pčelinje drvo (Tetradium daniellii) cveta u avgustu belim cvastima bogatim nektarom, kada malo drugih biljaka cveta. Malo do srednje drvo za parkove i vrtove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
+  },
+  {
+    id: 161,
+    name: 'Holandska lipa (Tilia × europaea)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/tei-olandez-tilia-europaea.jpg',
+    images: [
+      '/images/tei-olandez-tilia-europaea.jpg',
+      '/images/tei-olandez-tilia-europaea-2.jpg'
+    ],
+    description: 'Holandska lipa je klasično drvo za drvorede i parkove, sa mirisnim cvetanjem u junu. Sorte \'Pallida\' i \'Euchlora\' (bez lepljivih vaši, sjajno lišće) i Tilia × flavescens \'Glenleven\'.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce do polusenka',
+      watering: 'Umereno zalivanje',
+      soil: 'Plodna, dobro drenirana zemlja',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 162,
+    name: 'Brest (Ulmus)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/ulm-ulmus.jpg',
+    images: [
+      '/images/ulm-ulmus.jpg',
+      '/images/ulm-ulmus-2.jpg'
+    ],
+    description: 'Brestovi otporni na holandsku bolest bresta: \'Lutèce\', \'Vada\', \'Columella\', \'Clusius\', \'Pioneer\', domaći U. laevis i U. minor, i žalosni \'Camperdownii\' i \'Pendula\'. Za drvorede i parkove.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -30°C'
+    }
+  },
+  {
+    id: 163,
+    name: 'Zelkova (Zelkova serrata)',
+    category: 'liscari',
+    categories: ['liscari'],
+    price: 0,
+    image: '/images/zelkova-serrata.jpg',
+    images: [
+      '/images/zelkova-serrata.jpg',
+      '/images/zelkova-serrata-2.jpg'
+    ],
+    description: 'Japanska zelkova (Zelkova serrata) ima elegantnu vazastu krunu i narandžasto-crvenu jesenju boju. Otporna na gradske uslove; sorte \'Green Vase\' i stubasta \'Fastigiata\'.',
+    inStock: true,
+    details: {
+      height: 'Dostupne sve visine',
+      sunlight: 'Puno sunce',
+      watering: 'Umereno zalivanje',
+      soil: 'Različiti tipovi zemljišta',
+      hardiness: 'Otporna na mraz do -25°C'
+    }
   }
 ];
 

@@ -1200,6 +1200,765 @@
         "soil": "Sol umed, bine drenat",
         "hardiness": "Rezistentă la ger până la -20°C"
       }
+    },
+    "95": {
+      "name": "Arțar trilobat (Acer buergerianum)",
+      "description": "Arțarul trilobat (Acer buergerianum) este un arbore mic până la mijlociu, cu frunze cu trei lobi și colorit de toamnă portocaliu-roșu. Potrivit pentru străzi, piețe și curți mai mici.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Sol bine drenat",
+        "hardiness": "Rezistentă la ger până la -20°C"
+      }
+    },
+    "96": {
+      "name": "Jugastru (Acer campestre)",
+      "description": "Jugastrul (Acer campestre) este un arțar european foarte rezistent, potrivit pentru aliniamente, parcuri și garduri vii. Tolerează seceta, solurile calcaroase și condițiile urbane; toamna se colorează în galben.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare redusă",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "97": {
+      "name": "Arțar Freeman (Acer × freemanii)",
+      "description": "Arțarul Freeman (Acer × freemanii) este un hibrid între arțarul roșu și cel argintiu: crește repede, este rezistent și are un colorit de toamnă spectaculos, portocaliu-roșu. Soiuri 'Autumn Blaze', 'Armstrong' și 'Celebration'.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "98": {
+      "name": "Arțar negundo Flamingo (Acer negundo 'Flamingo')",
+      "description": "Arțarul negundo 'Flamingo' are frunze panașate alb-verzi, cu lăstari tineri roz primăvara. Un arbore decorativ mic pentru grădini, parcuri și plantări de contrast.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "99": {
+      "name": "Arțar Pacific Sunset și Norwegian Sunset (Acer truncatum × platanoides)",
+      "description": "Hibrizii de arțar 'Pacific Sunset' ('Warrenred') și 'Norwegian Sunset' ('Keithsform') combină robustețea arțarului comun cu un colorit de toamnă portocaliu-roșu. Coroană compactă, ideali pentru aliniamente.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "100": {
+      "name": "Paltin de munte (Acer pseudoplatanus)",
+      "description": "Paltinul de munte (Acer pseudoplatanus) este un arbore mare, longeviv, cu coroană largă, rezistent la vânt și ger. Pentru parcuri, aliniamente și spații verzi mari; soiuri 'Atropurpureum' și 'Bruchem'.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "101": {
+      "name": "Arțar ginnala (Acer tataricum subsp. ginnala)",
+      "description": "Arțarul ginnala este un arțar mic, foarte rezistent, cu frunze lucioase și colorit de toamnă roșu aprins. Pentru grădini mici, garduri vii și plantări în grup.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare redusă",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -35°C"
+      }
+    },
+    "102": {
+      "name": "Arțar Annae (Acer × zoeschense 'Annae')",
+      "description": "Arțarul 'Annae' are lăstari purpurii și frunze tinere roșu-violet, care devin apoi verde închis. Un arbore mijlociu, cu coroană compactă, pentru parcuri și aliniamente.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "103": {
+      "name": "Arin italian (Alnus cordata)",
+      "description": "Arinul italian (Alnus cordata) este un arbore cu creștere rapidă, coroană conică și frunze lucioase, în formă de inimă. Tolerează atât solurile uscate, cât și cele umede – excelent pentru aliniamente și condiții urbane.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -20°C"
+      }
+    },
+    "104": {
+      "name": "Arin negru (Alnus glutinosa)",
+      "description": "Arinul negru (Alnus glutinosa) este un arbore european al zonelor umede, ideal pentru malurile râurilor și lacurilor și pentru parcuri umede. Soiurile 'Imperialis' și 'Laciniata' au frunze decorative, adânc crestate.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare frecventă",
+        "soil": "Sol umed, fertil",
+        "hardiness": "Rezistentă la ger până la -35°C"
+      }
+    },
+    "105": {
+      "name": "Arin Spaeth (Alnus × spaethii)",
+      "description": "Arinul Spaeth (Alnus × spaethii) este un hibrid cu creștere rapidă, frunze mari și lucioase și lăstari tineri violacei. Foarte rezistent la condițiile urbane – pentru aliniamente și parcuri.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "106": {
+      "name": "Amelanchier pe tulpină (Amelanchier)",
+      "description": "Amelanchier este un arbore mic cu flori albe primăvara, fructe comestibile închise la culoare vara și colorit de toamnă portocaliu-roșu. Soiuri 'Robin Hill', 'Snowflakes' și A. lamarckii, pe tulpină.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol bine drenat",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "107": {
+      "name": "Mesteacăn chinezesc Fascination (Betula albosinensis 'Fascination')",
+      "description": "Mesteacănul chinezesc 'Fascination' are o scoarță spectaculoasă, portocaliu-arămie, care se exfoliază în nuanțe de roz și crem. Un arbore solitar decorativ pentru parcuri și grădini în tot cursul anului.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol umed, bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "108": {
+      "name": "Mesteacăn de râu (Betula nigra)",
+      "description": "Mesteacănul de râu (Betula nigra) are o scoarță decorativă, de culoarea scorțișoarei, care se exfoliază în straturi. Tolerează solurile umede și căldura – pentru parcuri, maluri și locuri umede.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare frecventă",
+        "soil": "Sol umed, fertil",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "109": {
+      "name": "Mesteacăn pufos (Betula pubescens)",
+      "description": "Mesteacănul pufos (Betula pubescens) este un mesteacăn european cu scoarță albă, rezistent la frig și la solurile umede. Pentru parcuri, împăduriri și spații verzi naturale.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare regulată",
+        "soil": "Sol umed, fertil",
+        "hardiness": "Rezistentă la ger până la -35°C"
+      }
+    },
+    "110": {
+      "name": "Mesteacăn de Himalaya Doorenbos (Betula utilis 'Doorenbos')",
+      "description": "Mesteacănul de Himalaya 'Doorenbos' are cea mai albă scoarță dintre toți mestecenii, spectaculoasă în tot cursul anului. Unul dintre cei mai căutați arbori decorativi pentru grădini moderne și spații publice.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare regulată",
+        "soil": "Sol umed, bine drenat",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "111": {
+      "name": "Carpen (Carpinus betulus)",
+      "description": "Carpenul (Carpinus betulus) este un arbore european foarte rezistent, cu coroană deasă, care suportă excelent tăierile. Pentru aliniamente, parcuri, pereți verzi și arbori formați; disponibil pe tulpină înaltă și transplantat de mai multe ori.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "112": {
+      "name": "Carpen japonez (Carpinus japonica)",
+      "description": "Carpenul japonez (Carpinus japonica) este un arbore mic, elegant, cu frunze cu nervuri pronunțate și fructe decorative asemănătoare hameiului. Pentru grădini, parcuri și grădini japoneze.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol fertil, bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "113": {
+      "name": "Castan comestibil (Castanea sativa)",
+      "description": "Castanul comestibil (Castanea sativa) este un arbore mare, longeviv, cu frunze lucioase, dințate, și fructe comestibile. Pentru parcuri, grădini mari și livezi pe soluri acide.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Sol acid până la neutru",
+        "hardiness": "Rezistentă la ger până la -20°C"
+      }
+    },
+    "114": {
+      "name": "Sâmbovină (Celtis australis, Celtis occidentalis)",
+      "description": "Sâmbovina este un arbore foarte rezistent pentru aliniamente și piețe: tolerează seceta, căldura și solurile compactate. Disponibile sâmbovina mediteraneeană (C. australis) și cea americană (C. occidentalis).",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "115": {
+      "name": "Arborele de turtă dulce (Cercidiphyllum japonicum)",
+      "description": "Arborele de turtă dulce (Cercidiphyllum japonicum) are frunze în formă de inimă și un colorit de toamnă spectaculos, iar frunzele căzute miros a caramel. Un arbore solitar decorativ pentru parcuri și grădini.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare regulată",
+        "soil": "Sol umed, bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "116": {
+      "name": "Arborele iudei canadian (Cercis canadensis)",
+      "description": "Arborele iudei canadian (Cercis canadensis) înflorește la începutul primăverii cu flori roz-violet direct pe ramuri, înainte de frunze. Are frunze în formă de inimă și colorit galben toamna.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "117": {
+      "name": "Alun turcesc (Corylus colurna)",
+      "description": "Alunul turcesc (Corylus colurna) este un arbore regulat, cu coroană conică, extrem de rezistent la secetă și la condițiile urbane. Unul dintre cei mai buni arbori pentru aliniamente, piețe și parcări.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "118": {
+      "name": "Păducel decorativ (Crataegus)",
+      "description": "Păducelul decorativ este un arbore mic, foarte rezistent, cu înflorire abundentă în mai și fructe roșii toamna. Soiuri 'Paul's Scarlet' (flori batute roșii), 'Carrierei', 'Splendens' și specia C. monogyna.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "119": {
+      "name": "Arborele batistă (Davidia involucrata)",
+      "description": "Arborele batistă (Davidia involucrata) dezvoltă în mai bractee albe spectaculoase, care atârnă de ramuri ca niște batiste. Un arbore solitar rar și foarte decorativ pentru parcuri și colecții botanice.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare regulată",
+        "soil": "Sol fertil, bine drenat",
+        "hardiness": "Rezistentă la ger până la -20°C"
+      }
+    },
+    "120": {
+      "name": "Fag (Fagus sylvatica)",
+      "description": "Fagul (Fagus sylvatica) este un arbore de parc maiestuos, cu scoarță netedă, cenușie. Pe lângă forma verde sunt disponibile fagul roșu 'Atropunicea', columnarii 'Dawyck' și 'Dawyck Purple' și pletosul 'Purpurea Pendula'.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol fertil, bine drenat",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "121": {
+      "name": "Frasin american (Fraxinus americana)",
+      "description": "Frasinul american (Fraxinus americana) este un arbore cu creștere rapidă și coroană regulată, cu colorit de toamnă violet-roșu. Soiuri 'Autumn Purple', 'Autumn Applause' și 'Skyline' pentru aliniamente și parcuri.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "122": {
+      "name": "Frasin Raywood (Fraxinus angustifolia 'Raywood')",
+      "description": "Frasinul 'Raywood' are frunziș fin, cu foliole înguste, și colorit de toamnă vișiniu-violet. Rezistent la secetă și căldură – pentru aliniamente și parcuri în zone mai calde.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "123": {
+      "name": "Frasin comun (Fraxinus excelsior)",
+      "description": "Frasinul comun (Fraxinus excelsior) este un arbore european mare, cu coroană aerisită. Soiurile 'Altena' și 'Atlas' au coroană regulată pentru aliniamente, iar 'Jaspidea' are ramuri aurii și colorit galben toamna.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol fertil, bine drenat",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "124": {
+      "name": "Frasin de Pennsylvania Summit (Fraxinus pennsylvanica 'Summit')",
+      "description": "Frasinul 'Summit' are o coroană regulată, erectă, și colorit de toamnă galben-auriu. Foarte rezistent la ger, secetă și condițiile urbane – pentru aliniamente.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -35°C"
+      }
+    },
+    "125": {
+      "name": "Ginkgo (Ginkgo biloba)",
+      "description": "Ginkgo (Ginkgo biloba) este un arbore străvechi, cu frunze în formă de evantai și colorit de toamnă galben-auriu. Extrem de rezistent la poluare și la condițiile urbane – pentru aliniamente, piețe și parcuri.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "126": {
+      "name": "Glădiță (Gleditsia triacanthos)",
+      "description": "Glădița (Gleditsia triacanthos) are frunziș fin, penat, care oferă o umbră ușoară. Forme fără spini: inermis, 'Rubylace' cu frunze tinere vișinii și 'Speczam'. Foarte rezistentă la secetă și la condițiile urbane.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "127": {
+      "name": "Nuc negru (Juglans nigra)",
+      "description": "Nucul negru (Juglans nigra) este un arbore mare, cu creștere rapidă, frunze lungi, penate, și lemn valoros. Pentru parcuri, spații mari și plantații pentru lemn.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Sol fertil, bine drenat",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "128": {
+      "name": "Nuc (Juglans regia)",
+      "description": "Nucul (Juglans regia) este un arbore mare, longeviv, cu coroană largă și fructe comestibile. Pentru livezi, curți, parcuri și spații verzi mari.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Sol fertil, bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "129": {
+      "name": "Arborele lampion (Koelreuteria paniculata)",
+      "description": "Koelreuteria (Koelreuteria paniculata) înflorește vara cu panicule mari, galbene, urmate de capsule decorative, asemănătoare unor lampioane. Rezistentă la secetă și căldură – pentru piețe, străzi și grădini.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "130": {
+      "name": "Larice japonez (Larix kaempferi)",
+      "description": "Laricele japonez (Larix kaempferi) este un conifer cu ace căzătoare, verzi-albăstrui, care toamna devin auriu-portocalii. Crește repede – pentru parcuri, împăduriri și grădini mari.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Sol umed, bine drenat",
+        "hardiness": "Rezistentă la ger până la -35°C"
+      }
+    },
+    "131": {
+      "name": "Magnolia kobus",
+      "description": "Magnolia kobus înflorește abundent în aprilie, cu flori albe, parfumate, înainte de apariția frunzelor. O magnolie robustă și rezistentă pentru parcuri și grădini.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol fertil, bine drenat",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "132": {
+      "name": "Magnolia Susan (Magnolia 'Susan')",
+      "description": "Magnolia 'Susan' înflorește mai târziu decât alte magnolii, cu flori mari, purpuriu-roz, evitând astfel înghețurile târzii. Compactă, pentru grădini și curți mai mici.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol fertil, bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "133": {
+      "name": "Măr pom fructifer (Malus domestica)",
+      "description": "Meri fructiferi pe tulpină înaltă: soiurile 'Elstar', 'Glorie van Holland' și 'Gravensteiner'. Pentru livezi, curți, grădini școlare și grădini publice.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Sol fertil, bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "134": {
+      "name": "Metasequoia (Metasequoia glyptostroboides)",
+      "description": "Metasequoia este un conifer cu creștere rapidă și ace căzătoare, moi, verde deschis, care toamna devin arămiu-portocalii. Tolerează solurile umede – pentru parcuri și maluri.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare regulată",
+        "soil": "Sol umed, fertil",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "135": {
+      "name": "Dud alb (Morus alba)",
+      "description": "Dudul alb (Morus alba) este un arbore rezistent, cu coroană largă, care oferă umbră deasă și tolerează seceta și căldura. Soiul 'Fruitless' nu face fructe – ideal pentru piețe și parcări.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "136": {
+      "name": "Carpen negru (Ostrya carpinifolia)",
+      "description": "Carpenul negru (Ostrya carpinifolia) este un arbore rezistent, cu fructe asemănătoare hameiului și colorit galben toamna. Tolerează seceta și solurile calcaroase – pentru aliniamente și parcuri.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare redusă",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "137": {
+      "name": "Arborele de fier persan (Parrotia persica)",
+      "description": "Parrotia persica are unul dintre cele mai frumoase colorituri de toamnă – galben, portocaliu și roșu – și o scoarță decorativă care se exfoliază. Soiul 'Vanessa' are coroană erectă.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "138": {
+      "name": "Arborele de plută de Amur (Phellodendron amurense)",
+      "description": "Arborele de plută de Amur are o scoarță moale, asemănătoare plutei, frunze penate și colorit galben toamna. Foarte rezistent la ger, secetă și condițiile urbane – pentru parcuri și aliniamente.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -35°C"
+      }
+    },
+    "139": {
+      "name": "Plop canadian Robusta (Populus × canadensis 'Robusta')",
+      "description": "Plopul 'Robusta' este un arbore cu creștere foarte rapidă, coroană erectă și frunze tinere bronzate. Pentru perdele de protecție, aliniamente rurale și înverziri rapide.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -35°C"
+      }
+    },
+    "140": {
+      "name": "Plop tremurător (Populus tremula)",
+      "description": "Plopul tremurător (Populus tremula) este un plop european ale cărui frunze rotunde tremură în vânt, cu colorit galben toamna. Soiul 'Erecta' are o coroană îngustă, columnară.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -40°C"
+      }
+    },
+    "141": {
+      "name": "Cireș (Prunus avium)",
+      "description": "Cireși pe tulpină înaltă: soiurile fructifere 'Kordia', 'Lapins', 'Regina', 'Stella', 'Van', 'Hedelfinger' și soiul decorativ 'Plena', cu flori albe batute, fără fructe.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Sol fertil, bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "142": {
+      "name": "Prun (Prunus domestica)",
+      "description": "Pruni pe tulpină înaltă: soiurile 'Opal' (timpuriu, dulce) și 'Victoria' (fructe mari, roșii). Pentru livezi, curți și grădini comunitare.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Sol fertil, bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "143": {
+      "name": "Mălin (Prunus padus)",
+      "description": "Mălinul (Prunus padus) înflorește în mai cu ciorchini lungi de flori albe, parfumate. Un arbore european rezistent pentru parcuri, zone umede și aliniamente; soiuri 'Watereri' și 'Tiefurt'.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol umed, fertil",
+        "hardiness": "Rezistentă la ger până la -35°C"
+      }
+    },
+    "144": {
+      "name": "Mălin american Canada Red (Prunus virginiana 'Canada Red')",
+      "description": "Mălinul 'Canada Red' are frunze tinere verzi care vara devin purpuriu-roșu închis și ciorchini de flori albe în mai. Un arbore mic, rezistent, pentru străzi și grădini.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -35°C"
+      }
+    },
+    "145": {
+      "name": "Nuc caucazian cu aripi (Pterocarya fraxinifolia)",
+      "description": "Pterocarya fraxinifolia este un arbore cu creștere rapidă, coroană largă, frunze lungi penate și ciorchini lungi, pendenți, de fructe înaripate. Pentru parcuri mari și malurile apelor.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare frecventă",
+        "soil": "Sol umed, fertil",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "146": {
+      "name": "Păr (Pyrus communis)",
+      "description": "Peri pe tulpină înaltă: soiurile 'Conference', 'Saint Rémy', 'Zoete Brederode' și specia P. communis. Pentru livezi, curți și grădini publice.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Sol fertil, bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "147": {
+      "name": "Păr decorativ Chanticleer (Pyrus calleryana 'Chanticleer')",
+      "description": "Părul decorativ 'Chanticleer' are o coroană îngustă, regulată, înflorire albă abundentă în aprilie și colorit de toamnă roșu-portocaliu. Unul dintre cei mai buni arbori pentru străzi înguste.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "148": {
+      "name": "Păr cu frunze de salcie (Pyrus salicifolia 'Pendula')",
+      "description": "Părul cu frunze de salcie 'Pendula' are frunze înguste, argintii, și ramuri pletoase. Un arbore mic, elegant, pe tulpină, pentru grădini, curți și plantări mediteraneene.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Sol bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "149": {
+      "name": "Cer (Quercus cerris)",
+      "description": "Cerul (Quercus cerris) este un stejar cu creștere rapidă și coroană largă, foarte rezistent la secetă și căldură. Pentru parcuri, aliniamente și spații verzi mari.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "150": {
+      "name": "Stejar cu ghindă mare (Quercus macrocarpa)",
+      "description": "Stejarul cu ghindă mare (Quercus macrocarpa) este un stejar extrem de rezistent, cu frunze mari și ghinde mari, cu cupă franjurată. Tolerează seceta, gerul și condițiile urbane.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -35°C"
+      }
+    },
+    "151": {
+      "name": "Stejar de mlaștină (Quercus palustris)",
+      "description": "Stejarul de mlaștină (Quercus palustris) are o coroană conică regulată, frunze adânc lobate și colorit de toamnă roșu aprins. Pentru aliniamente și parcuri pe soluri acide până la neutre.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Sol acid până la neutru",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "152": {
+      "name": "Gorun (Quercus petraea)",
+      "description": "Gorunul (Quercus petraea) este un stejar european longeviv, rezistent la secetă și la solurile mai superficiale. Pentru parcuri, împăduriri și spații verzi mari.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare redusă",
+        "soil": "Sol bine drenat",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "153": {
+      "name": "Stejar (Quercus robur)",
+      "description": "Stejarul (Quercus robur) este simbolul longevității – un arbore maiestuos pentru parcuri și spații mari. Soiul columnar 'Fastigiata Koster' este potrivit pentru străzi și spații înguste.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -35°C"
+      }
+    },
+    "154": {
+      "name": "Salcâm – soiuri decorative (Robinia pseudoacacia)",
+      "description": "Soiuri decorative de salcâm: 'Frisia' cu frunze galben-aurii, 'Bessoniana' și 'Unifoliola' fără spini, și 'Nyírségi'. Foarte rezistente la secetă și la solurile sărace.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "155": {
+      "name": "Salcie albă Belders (Salix alba 'Belders')",
+      "description": "Salcia albă 'Belders' este o salcie cu creștere rapidă, coroană erectă și frunze verzi-argintii. Pentru maluri, parcuri umede și perdele de protecție.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare frecventă",
+        "soil": "Sol umed, fertil",
+        "hardiness": "Rezistentă la ger până la -35°C"
+      }
+    },
+    "156": {
+      "name": "Salcie cu frunze de laur (Salix pentandra)",
+      "description": "Salcia cu frunze de laur (Salix pentandra) are frunze lucioase, verde închis, asemănătoare laurului, și amenți galbeni, parfumați, la sfârșitul primăverii. Pentru parcuri umede și maluri.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare frecventă",
+        "soil": "Sol umed, fertil",
+        "hardiness": "Rezistentă la ger până la -35°C"
+      }
+    },
+    "157": {
+      "name": "Salcie pletoasă (Salix × sepulcralis 'Chrysocoma')",
+      "description": "Salcia pletoasă 'Chrysocoma' are ramuri lungi, galben-aurii, care atârnă până la pământ. Arborele clasic pentru malurile lacurilor, râurilor și parcuri mari.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare frecventă",
+        "soil": "Sol umed, fertil",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "158": {
+      "name": "Salcâm japonez (Styphnolobium japonicum)",
+      "description": "Salcâmul japonez (Styphnolobium japonicum, sin. Sophora japonica) înflorește vara cu panicule alb-crem, foarte apreciate de albine. Foarte rezistent la secetă, căldură și condițiile urbane; soiul 'Regent' are o coroană regulată.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare redusă",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "159": {
+      "name": "Scoruș (Sorbus)",
+      "description": "Scorușul este un arbore mic, rezistent, cu flori albe în mai și fructe decorative roșii și portocalii toamna. Specii și soiuri: S. aucuparia, 'Edulis', 'Cardinal Royal', 'Autumn Spire', 'Dodong', S. aria 'Magnifica', S. intermedia și S. incana.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -35°C"
+      }
+    },
+    "160": {
+      "name": "Arborele albinelor (Tetradium daniellii)",
+      "description": "Arborele albinelor (Tetradium daniellii) înflorește în august cu inflorescențe albe, bogate în nectar, într-o perioadă în care puține plante înfloresc. Un arbore mic până la mijlociu pentru parcuri și grădini.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Sol bine drenat",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
+    },
+    "161": {
+      "name": "Tei olandez (Tilia × europaea)",
+      "description": "Teiul olandez este un arbore clasic pentru aliniamente și parcuri, cu înflorire parfumată în iunie. Soiurile 'Pallida' și 'Euchlora' (frunze lucioase, rareori atacate de afide) și Tilia × flavescens 'Glenleven'.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin până la semiumbră",
+        "watering": "Udare moderată",
+        "soil": "Sol fertil, bine drenat",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "162": {
+      "name": "Ulm (Ulmus)",
+      "description": "Ulmi rezistenți la grafioză: 'Lutèce', 'Vada', 'Columella', 'Clusius', 'Pioneer', speciile U. laevis și U. minor, și formele pletoase 'Camperdownii' și 'Pendula'. Pentru aliniamente și parcuri.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -30°C"
+      }
+    },
+    "163": {
+      "name": "Zelkova japoneză (Zelkova serrata)",
+      "description": "Zelkova japoneză (Zelkova serrata) are o coroană elegantă, în formă de vază, și colorit de toamnă portocaliu-roșu. Rezistentă la condițiile urbane; soiurile 'Green Vase' și columnarul 'Fastigiata'.",
+      "details": {
+        "height": "Disponibil în toate înălțimile",
+        "sunlight": "Soare deplin",
+        "watering": "Udare moderată",
+        "soil": "Diverse tipuri de sol",
+        "hardiness": "Rezistentă la ger până la -25°C"
+      }
     }
   }
 }

@@ -1200,6 +1200,765 @@
         "soil": "Feuchter, gut durchlässiger Boden",
         "hardiness": "Winterhart bis -20°C"
       }
+    },
+    "95": {
+      "name": "Dreizahn-Ahorn (Acer buergerianum)",
+      "description": "Der Dreizahn-Ahorn (Acer buergerianum) ist ein kleiner bis mittelgroßer Ahorn mit dreilappigen Blättern und orangeroter Herbstfärbung. Geeignet für Straßen, Plätze und kleinere Gärten.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -20°C"
+      }
+    },
+    "96": {
+      "name": "Feldahorn (Acer campestre)",
+      "description": "Der Feldahorn (Acer campestre) ist ein sehr robuster heimischer Ahorn für Alleen, Parks und Hecken. Er verträgt Trockenheit, kalkhaltige Böden und Stadtklima; Herbstfärbung gelb.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Wenig Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "97": {
+      "name": "Freeman-Ahorn (Acer × freemanii)",
+      "description": "Der Freeman-Ahorn (Acer × freemanii) ist eine Kreuzung aus Rot- und Silber-Ahorn: schnellwachsend, robust und mit spektakulärer orangeroter Herbstfärbung. Sorten 'Autumn Blaze', 'Armstrong' und 'Celebration'.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "98": {
+      "name": "Eschen-Ahorn Flamingo (Acer negundo 'Flamingo')",
+      "description": "Der Eschen-Ahorn 'Flamingo' hat weiß-grün panaschierte Blätter mit rosa Austrieb im Frühjahr. Ein kleiner Zierbaum für Gärten, Parks und Kontrastpflanzungen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "99": {
+      "name": "Ahorn Pacific Sunset und Norwegian Sunset (Acer truncatum × platanoides)",
+      "description": "Die Ahorn-Hybriden 'Pacific Sunset' ('Warrenred') und 'Norwegian Sunset' ('Keithsform') verbinden die Robustheit des Spitz-Ahorns mit orangeroter Herbstfärbung. Kompakte Krone, ideal für Alleen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "100": {
+      "name": "Berg-Ahorn (Acer pseudoplatanus)",
+      "description": "Der Berg-Ahorn (Acer pseudoplatanus) ist ein großer, langlebiger Baum mit breiter Krone, wind- und frostfest. Für Parks, Alleen und große Grünflächen; Sorten 'Atropurpureum' und 'Bruchem'.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "101": {
+      "name": "Feuer-Ahorn (Acer tataricum subsp. ginnala)",
+      "description": "Der Feuer-Ahorn ist ein kleiner, sehr robuster Ahorn mit glänzenden Blättern und leuchtend roter Herbstfärbung. Für kleine Gärten, Hecken und Gruppenpflanzungen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Wenig Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -35°C"
+      }
+    },
+    "102": {
+      "name": "Ahorn Annae (Acer × zoeschense 'Annae')",
+      "description": "Der Ahorn 'Annae' hat purpurne Triebe und rotviolette junge Blätter, die später dunkelgrün werden. Ein mittelgroßer Baum mit kompakter Krone für Parks und Alleen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "103": {
+      "name": "Italienische Erle (Alnus cordata)",
+      "description": "Die Italienische Erle (Alnus cordata) ist ein schnellwachsender Baum mit kegelförmiger Krone und glänzenden, herzförmigen Blättern. Sie verträgt trockene wie feuchte Böden – ideal für Alleen und Stadtklima.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -20°C"
+      }
+    },
+    "104": {
+      "name": "Schwarz-Erle (Alnus glutinosa)",
+      "description": "Die Schwarz-Erle (Alnus glutinosa) ist ein heimischer Baum feuchter Standorte, ideal für Fluss- und Seeufer sowie feuchte Parks. Die Sorten 'Imperialis' und 'Laciniata' haben dekorativ geschlitzte Blätter.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Häufiges Gießen",
+        "soil": "Feuchter, fruchtbarer Boden",
+        "hardiness": "Winterhart bis -35°C"
+      }
+    },
+    "105": {
+      "name": "Purpur-Erle (Alnus × spaethii)",
+      "description": "Die Purpur-Erle (Alnus × spaethii) ist eine schnellwachsende Hybride mit großen, glänzenden Blättern und purpurnem Austrieb. Sehr stadtklimafest – für Alleen und Parks.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "106": {
+      "name": "Felsenbirne als Hochstamm (Amelanchier)",
+      "description": "Die Felsenbirne ist ein kleiner Baum mit weißen Blüten im Frühjahr, essbaren dunklen Früchten im Sommer und orangeroter Herbstfärbung. Sorten 'Robin Hill', 'Snowflakes' und A. lamarckii als Hochstamm.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "107": {
+      "name": "Chinesische Birke Fascination (Betula albosinensis 'Fascination')",
+      "description": "Die Chinesische Birke 'Fascination' hat eine auffällige orange-kupferfarbene, abblätternde Rinde mit rosa und cremefarbenen Tönen. Ein ganzjährig dekorativer Solitär für Parks und Gärten.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Feuchter, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "108": {
+      "name": "Schwarz-Birke (Betula nigra)",
+      "description": "Die Schwarz-Birke (Betula nigra) hat eine dekorative zimtfarbene Rinde, die sich in Schichten ablöst. Sie verträgt nasse Böden und Hitze – für Parks, Ufer und feuchte Standorte.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Häufiges Gießen",
+        "soil": "Feuchter, fruchtbarer Boden",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "109": {
+      "name": "Moor-Birke (Betula pubescens)",
+      "description": "Die Moor-Birke (Betula pubescens) ist eine heimische weißrindige Birke, kältefest und für nasse Böden geeignet. Für Parks, Aufforstungen und naturnahe Grünflächen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Regelmäßiges Gießen",
+        "soil": "Feuchter, fruchtbarer Boden",
+        "hardiness": "Winterhart bis -35°C"
+      }
+    },
+    "110": {
+      "name": "Himalaya-Birke Doorenbos (Betula utilis 'Doorenbos')",
+      "description": "Die Himalaya-Birke 'Doorenbos' hat die weißeste Rinde aller Birken, ganzjährig auffallend. Einer der gefragtesten Zierbäume für moderne Gärten und öffentliche Räume.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Regelmäßiges Gießen",
+        "soil": "Feuchter, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "111": {
+      "name": "Hainbuche (Carpinus betulus)",
+      "description": "Die Hainbuche (Carpinus betulus) ist ein sehr robuster heimischer Baum mit dichter Krone und hervorragender Schnittverträglichkeit. Für Alleen, Parks, Sichtschutzwände und Formbäume; als Hochstamm und mehrfach verpflanzt erhältlich.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "112": {
+      "name": "Japanische Hainbuche (Carpinus japonica)",
+      "description": "Die Japanische Hainbuche (Carpinus japonica) ist ein kleiner, eleganter Baum mit stark geaderten Blättern und dekorativen, hopfenähnlichen Fruchtständen. Für Gärten, Parks und japanische Gärten.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Fruchtbarer, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "113": {
+      "name": "Edelkastanie (Castanea sativa)",
+      "description": "Die Edelkastanie (Castanea sativa) ist ein großer, langlebiger Baum mit glänzenden, gesägten Blättern und essbaren Früchten. Für Parks, große Gärten und Obstanlagen auf sauren Böden.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Saurer bis neutraler Boden",
+        "hardiness": "Winterhart bis -20°C"
+      }
+    },
+    "114": {
+      "name": "Zürgelbaum (Celtis australis, Celtis occidentalis)",
+      "description": "Der Zürgelbaum ist ein sehr robuster Baum für Alleen und Plätze: er verträgt Trockenheit, Hitze und verdichtete Böden. Erhältlich als Südlicher (C. australis) und Amerikanischer Zürgelbaum (C. occidentalis).",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "115": {
+      "name": "Lebkuchenbaum (Cercidiphyllum japonicum)",
+      "description": "Der Lebkuchenbaum (Cercidiphyllum japonicum) hat herzförmige Blätter und eine spektakuläre Herbstfärbung; das Falllaub duftet nach Karamell. Ein dekorativer Solitär für Parks und Gärten.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Regelmäßiges Gießen",
+        "soil": "Feuchter, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "116": {
+      "name": "Kanadischer Judasbaum (Cercis canadensis)",
+      "description": "Der Kanadische Judasbaum (Cercis canadensis) blüht im zeitigen Frühjahr rosaviolett direkt an den Zweigen, noch vor dem Laubaustrieb. Er hat herzförmige Blätter und gelbe Herbstfärbung.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "117": {
+      "name": "Baum-Hasel (Corylus colurna)",
+      "description": "Die Baum-Hasel (Corylus colurna) ist ein regelmäßig kegelförmig wachsender Baum, äußerst trockenheits- und stadtklimafest. Einer der besten Bäume für Alleen, Plätze und Parkplätze.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "118": {
+      "name": "Zier-Weißdorn / Rotdorn (Crataegus)",
+      "description": "Der Zier-Weißdorn ist ein kleiner, sehr robuster Baum mit üppiger Blüte im Mai und roten Früchten im Herbst. Sorten 'Paul's Scarlet' (gefüllt rot blühender Rotdorn), 'Carrierei', 'Splendens' und der heimische C. monogyna.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "119": {
+      "name": "Taschentuchbaum (Davidia involucrata)",
+      "description": "Der Taschentuchbaum (Davidia involucrata) bildet im Mai auffällige weiße Hochblätter, die wie Taschentücher von den Zweigen hängen. Ein seltener, sehr dekorativer Solitär für Parks und botanische Sammlungen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Regelmäßiges Gießen",
+        "soil": "Fruchtbarer, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -20°C"
+      }
+    },
+    "120": {
+      "name": "Rotbuche (Fagus sylvatica)",
+      "description": "Die Rotbuche (Fagus sylvatica) ist ein majestätischer Parkbaum mit glatter grauer Rinde. Neben der grünen Form gibt es die Blutbuche 'Atropunicea', die Säulenformen 'Dawyck' und 'Dawyck Purple' sowie die Hängeform 'Purpurea Pendula'.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Fruchtbarer, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "121": {
+      "name": "Weiß-Esche (Fraxinus americana)",
+      "description": "Die Weiß-Esche (Fraxinus americana) ist ein schnellwachsender Baum mit regelmäßiger Krone und purpurroter Herbstfärbung. Sorten 'Autumn Purple', 'Autumn Applause' und 'Skyline' für Alleen und Parks.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "122": {
+      "name": "Schmalblättrige Esche Raywood (Fraxinus angustifolia 'Raywood')",
+      "description": "Die Esche 'Raywood' hat feines, schmales Laub und eine weinrot-violette Herbstfärbung. Trockenheits- und hitzeverträglich – für Alleen und Parks in wärmeren Regionen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "123": {
+      "name": "Gewöhnliche Esche (Fraxinus excelsior)",
+      "description": "Die Gewöhnliche Esche (Fraxinus excelsior) ist ein großer heimischer Baum mit lichter Krone. Die Sorten 'Altena' und 'Atlas' haben regelmäßige Kronen für Alleen, 'Jaspidea' goldgelbe Triebe und gelbe Herbstfärbung.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Fruchtbarer, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "124": {
+      "name": "Rot-Esche Summit (Fraxinus pennsylvanica 'Summit')",
+      "description": "Die Esche 'Summit' hat eine regelmäßige, aufrechte Krone und goldgelbe Herbstfärbung. Sehr frost-, trockenheits- und stadtklimafest – für Alleen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -35°C"
+      }
+    },
+    "125": {
+      "name": "Ginkgo (Ginkgo biloba)",
+      "description": "Der Ginkgo (Ginkgo biloba) ist ein urzeitlicher Baum mit fächerförmigen Blättern und goldgelber Herbstfärbung. Äußerst abgas- und stadtklimafest – für Alleen, Plätze und Parks.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "126": {
+      "name": "Gleditschie (Gleditsia triacanthos)",
+      "description": "Die Gleditschie (Gleditsia triacanthos) hat feines, gefiedertes Laub mit lichtem Schatten. Dornenlose Formen: inermis, 'Rubylace' mit weinrotem Austrieb und 'Speczam'. Sehr trockenheits- und stadtklimafest.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "127": {
+      "name": "Schwarznuss (Juglans nigra)",
+      "description": "Die Schwarznuss (Juglans nigra) ist ein großer, schnellwachsender Baum mit langen Fiederblättern und wertvollem Holz. Für Parks, große Flächen und Wertholzplantagen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Fruchtbarer, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "128": {
+      "name": "Walnuss (Juglans regia)",
+      "description": "Die Walnuss (Juglans regia) ist ein großer, langlebiger Baum mit breiter Krone und essbaren Nüssen. Für Obstanlagen, Höfe, Parks und große Grünflächen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Fruchtbarer, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "129": {
+      "name": "Blasenbaum (Koelreuteria paniculata)",
+      "description": "Der Blasenbaum (Koelreuteria paniculata) blüht im Sommer mit großen gelben Rispen, gefolgt von dekorativen lampionartigen Fruchtkapseln. Trockenheits- und hitzeverträglich – für Plätze, Straßen und Gärten.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "130": {
+      "name": "Japanische Lärche (Larix kaempferi)",
+      "description": "Die Japanische Lärche (Larix kaempferi) ist ein sommergrüner Nadelbaum mit blaugrünen Nadeln, die sich im Herbst goldorange färben. Schnellwüchsig – für Parks, Aufforstungen und große Gärten.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Feuchter, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -35°C"
+      }
+    },
+    "131": {
+      "name": "Kobushi-Magnolie (Magnolia kobus)",
+      "description": "Die Kobushi-Magnolie (Magnolia kobus) blüht im April üppig mit duftenden weißen Blüten vor dem Laubaustrieb. Eine robuste, winterharte Magnolie für Parks und Gärten.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Fruchtbarer, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "132": {
+      "name": "Magnolie Susan (Magnolia 'Susan')",
+      "description": "Die Magnolie 'Susan' blüht später als andere Magnolien mit großen purpurrosa Blüten und entgeht so Spätfrösten. Kompakt, für kleinere Gärten und Höfe.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Fruchtbarer, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "133": {
+      "name": "Apfelbaum – Obsthochstamm (Malus domestica)",
+      "description": "Apfel-Hochstämme: Sorten 'Elstar', 'Glorie van Holland' und 'Gravensteiner'. Für Streuobstwiesen, Höfe, Schul- und öffentliche Gärten.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Fruchtbarer, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "134": {
+      "name": "Urweltmammutbaum (Metasequoia glyptostroboides)",
+      "description": "Der Urweltmammutbaum ist ein schnellwachsender, sommergrüner Nadelbaum mit weichen hellgrünen Nadeln, die sich im Herbst kupferorange färben. Verträgt nasse Böden – für Parks und Gewässerränder.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Regelmäßiges Gießen",
+        "soil": "Feuchter, fruchtbarer Boden",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "135": {
+      "name": "Weiße Maulbeere (Morus alba)",
+      "description": "Die Weiße Maulbeere (Morus alba) ist ein robuster Baum mit breiter Krone, der dichten Schatten spendet und Trockenheit und Hitze verträgt. Die Sorte 'Fruitless' trägt keine Früchte – ideal für Plätze und Parkplätze.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "136": {
+      "name": "Hopfenbuche (Ostrya carpinifolia)",
+      "description": "Die Hopfenbuche (Ostrya carpinifolia) ist ein robuster Baum mit hopfenähnlichen Früchten und gelber Herbstfärbung. Sie verträgt Trockenheit und Kalkböden – für Alleen und Parks.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Wenig Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "137": {
+      "name": "Persisches Eisenholz (Parrotia persica)",
+      "description": "Das Persische Eisenholz (Parrotia persica) hat eine der schönsten Herbstfärbungen – gelb, orange und rot – und eine dekorative, abblätternde Rinde. Die Sorte 'Vanessa' wächst aufrecht.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "138": {
+      "name": "Amur-Korkbaum (Phellodendron amurense)",
+      "description": "Der Amur-Korkbaum hat eine weiche, korkartige Rinde, gefiederte Blätter und gelbe Herbstfärbung. Sehr frost-, trockenheits- und stadtklimafest – für Parks und Alleen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -35°C"
+      }
+    },
+    "139": {
+      "name": "Kanadische Pappel Robusta (Populus × canadensis 'Robusta')",
+      "description": "Die Pappel 'Robusta' ist ein sehr schnellwachsender Baum mit aufrechter Krone und bronzefarbenem Austrieb. Für Windschutzstreifen, Straßenalleen und schnelle Begrünung.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -35°C"
+      }
+    },
+    "140": {
+      "name": "Zitter-Pappel / Espe (Populus tremula)",
+      "description": "Die Zitter-Pappel (Populus tremula) ist eine heimische Pappel, deren runde Blätter im Wind zittern, mit gelber Herbstfärbung. Die Sorte 'Erecta' wächst schmal säulenförmig.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -40°C"
+      }
+    },
+    "141": {
+      "name": "Süßkirsche (Prunus avium)",
+      "description": "Kirschen-Hochstämme: die Obstsorten 'Kordia', 'Lapins', 'Regina', 'Stella', 'Van', 'Hedelfinger' sowie die Ziersorte 'Plena' mit gefüllten weißen Blüten ohne Früchte.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Fruchtbarer, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "142": {
+      "name": "Pflaume / Zwetschge (Prunus domestica)",
+      "description": "Pflaumen-Hochstämme: Sorten 'Opal' (früh, süß) und 'Victoria' (große rote Früchte). Für Streuobstwiesen, Höfe und Gemeinschaftsgärten.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Fruchtbarer, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "143": {
+      "name": "Traubenkirsche (Prunus padus)",
+      "description": "Die Traubenkirsche (Prunus padus) blüht im Mai mit langen, duftenden weißen Trauben. Ein robuster heimischer Baum für Parks, feuchte Standorte und Alleen; Sorten 'Watereri' und 'Tiefurt'.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Feuchter, fruchtbarer Boden",
+        "hardiness": "Winterhart bis -35°C"
+      }
+    },
+    "144": {
+      "name": "Virginische Traubenkirsche Canada Red (Prunus virginiana 'Canada Red')",
+      "description": "Die Traubenkirsche 'Canada Red' treibt grün aus, ihr Laub wird im Sommer dunkel purpurrot; im Mai erscheinen weiße Blütentrauben. Ein kleiner, robuster Baum für Straßen und Gärten.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -35°C"
+      }
+    },
+    "145": {
+      "name": "Kaukasische Flügelnuss (Pterocarya fraxinifolia)",
+      "description": "Die Kaukasische Flügelnuss ist ein schnellwachsender Baum mit breiter Krone, langen Fiederblättern und langen, hängenden Fruchtständen. Für große Parks und Gewässerränder.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Häufiges Gießen",
+        "soil": "Feuchter, fruchtbarer Boden",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "146": {
+      "name": "Birne (Pyrus communis)",
+      "description": "Birnen-Hochstämme: Sorten 'Conference', 'Saint Rémy', 'Zoete Brederode' und die Art P. communis. Für Streuobstwiesen, Höfe und öffentliche Gärten.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Fruchtbarer, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "147": {
+      "name": "Stadtbirne Chanticleer (Pyrus calleryana 'Chanticleer')",
+      "description": "Die Stadtbirne 'Chanticleer' hat eine schmale, regelmäßige Krone, üppige weiße Blüte im April und rotorange Herbstfärbung. Einer der besten Bäume für schmale Straßen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "148": {
+      "name": "Hänge-Weidenbirne (Pyrus salicifolia 'Pendula')",
+      "description": "Die Hänge-Weidenbirne 'Pendula' hat schmale, silbrige Blätter und überhängende Zweige. Ein eleganter kleiner Hochstamm für Gärten, Höfe und mediterrane Pflanzungen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "149": {
+      "name": "Zerr-Eiche (Quercus cerris)",
+      "description": "Die Zerr-Eiche (Quercus cerris) ist eine schnellwachsende Eiche mit breiter Krone, sehr trockenheits- und hitzeverträglich. Für Parks, Alleen und große Grünflächen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "150": {
+      "name": "Klettenfrüchtige Eiche (Quercus macrocarpa)",
+      "description": "Die Klettenfrüchtige Eiche (Quercus macrocarpa) ist eine äußerst robuste Eiche mit großen Blättern und großen Eicheln mit gefranstem Becher. Verträgt Trockenheit, Frost und Stadtklima.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -35°C"
+      }
+    },
+    "151": {
+      "name": "Sumpf-Eiche (Quercus palustris)",
+      "description": "Die Sumpf-Eiche (Quercus palustris) hat eine regelmäßige Kegelkrone, tief gelappte Blätter und leuchtend rote Herbstfärbung. Für Alleen und Parks auf sauren bis neutralen Böden.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Saurer bis neutraler Boden",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "152": {
+      "name": "Trauben-Eiche (Quercus petraea)",
+      "description": "Die Trauben-Eiche (Quercus petraea) ist eine langlebige heimische Eiche, verträgt Trockenheit und flachgründigere Böden. Für Parks, Aufforstungen und große Grünflächen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Wenig Gießen",
+        "soil": "Gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "153": {
+      "name": "Stiel-Eiche (Quercus robur)",
+      "description": "Die Stiel-Eiche (Quercus robur) ist ein Symbol der Langlebigkeit – ein majestätischer Baum für Parks und große Flächen. Die Säulenform 'Fastigiata Koster' eignet sich für Straßen und enge Standorte.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -35°C"
+      }
+    },
+    "154": {
+      "name": "Robinie – Ziersorten (Robinia pseudoacacia)",
+      "description": "Ziersorten der Robinie: 'Frisia' mit goldgelbem Laub, die dornenlosen 'Bessoniana' und 'Unifoliola' sowie 'Nyírségi'. Sehr trockenheitsverträglich und für magere Böden geeignet.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "155": {
+      "name": "Silber-Weide Belders (Salix alba 'Belders')",
+      "description": "Die Silber-Weide 'Belders' ist eine schnellwachsende Weide mit aufrechter Krone und silbergrünem Laub. Für Ufer, feuchte Parks und Windschutzstreifen.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Häufiges Gießen",
+        "soil": "Feuchter, fruchtbarer Boden",
+        "hardiness": "Winterhart bis -35°C"
+      }
+    },
+    "156": {
+      "name": "Lorbeer-Weide (Salix pentandra)",
+      "description": "Die Lorbeer-Weide (Salix pentandra) hat glänzend dunkelgrüne, lorbeerähnliche Blätter und duftende gelbe Kätzchen im späten Frühjahr. Für feuchte Parks und Ufer.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Häufiges Gießen",
+        "soil": "Feuchter, fruchtbarer Boden",
+        "hardiness": "Winterhart bis -35°C"
+      }
+    },
+    "157": {
+      "name": "Trauerweide (Salix × sepulcralis 'Chrysocoma')",
+      "description": "Die Trauerweide 'Chrysocoma' hat lange, goldgelbe Zweige, die bis zum Boden hängen. Der klassische Baum für See- und Flussufer und große Parks.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Häufiges Gießen",
+        "soil": "Feuchter, fruchtbarer Boden",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "158": {
+      "name": "Japanischer Schnurbaum (Styphnolobium japonicum)",
+      "description": "Der Japanische Schnurbaum (Styphnolobium japonicum, syn. Sophora japonica) blüht im Sommer mit cremeweißen Rispen, die Bienen lieben. Sehr trockenheits-, hitze- und stadtklimafest; die Sorte 'Regent' hat eine regelmäßige Krone.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Wenig Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "159": {
+      "name": "Eberesche / Mehlbeere (Sorbus)",
+      "description": "Sorbus ist ein robuster Kleinbaum mit weißen Blüten im Mai und dekorativen roten und orangen Früchten im Herbst. Arten und Sorten: S. aucuparia, 'Edulis', 'Cardinal Royal', 'Autumn Spire', 'Dodong', S. aria 'Magnifica', S. intermedia und S. incana.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -35°C"
+      }
+    },
+    "160": {
+      "name": "Bienenbaum / Tausendblütenstrauch (Tetradium daniellii)",
+      "description": "Der Bienenbaum (Tetradium daniellii) blüht im August mit nektarreichen weißen Dolden, wenn kaum andere Pflanzen blühen. Ein kleiner bis mittelgroßer Baum für Parks und Gärten.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -25°C"
+      }
+    },
+    "161": {
+      "name": "Holländische Linde (Tilia × europaea)",
+      "description": "Die Holländische Linde ist ein klassischer Baum für Alleen und Parks mit duftender Blüte im Juni. Sorten 'Pallida' und 'Euchlora' (glänzende Blätter, kaum Blattläuse) sowie Tilia × flavescens 'Glenleven'.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne bis Halbschatten",
+        "watering": "Mäßiges Gießen",
+        "soil": "Fruchtbarer, gut durchlässiger Boden",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "162": {
+      "name": "Ulme (Ulmus)",
+      "description": "Gegen das Ulmensterben resistente Ulmen: 'Lutèce', 'Vada', 'Columella', 'Clusius', 'Pioneer', die Arten U. laevis und U. minor sowie die Hängeformen 'Camperdownii' und 'Pendula'. Für Alleen und Parks.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -30°C"
+      }
+    },
+    "163": {
+      "name": "Japanische Zelkove (Zelkova serrata)",
+      "description": "Die Japanische Zelkove (Zelkova serrata) hat eine elegante, vasenförmige Krone und orangerote Herbstfärbung. Stadtklimafest; Sorten 'Green Vase' und die Säulenform 'Fastigiata'.",
+      "details": {
+        "height": "Alle Größen verfügbar",
+        "sunlight": "Volle Sonne",
+        "watering": "Mäßiges Gießen",
+        "soil": "Verschiedene Bodentypen",
+        "hardiness": "Winterhart bis -25°C"
+      }
     }
   }
 }

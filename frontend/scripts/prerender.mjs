@@ -14,7 +14,7 @@ const dataDir = path.join(root, 'src', 'data');
 
 // Ucitaj ES module iz src/data (pisane za CRA, bez .mjs ekstenzije) preko privremene kopije
 const tmpDir = fs.mkdtempSync(path.join(os.tmpdir(), 'plantdgd-seo-'));
-for (const name of ['seoPages', 'productsData', 'guides']) {
+for (const name of ['seoPages', 'productsData', 'guides', 'stockData']) {
   const src = fs.readFileSync(path.join(dataDir, `${name}.js`), 'utf8')
     .replace(/from '\.\/(\w+)'/g, "from './$1.mjs'");
   fs.writeFileSync(path.join(tmpDir, `${name}.mjs`), src);
@@ -23,6 +23,7 @@ const load = (name) => import(pathToFileURL(path.join(tmpDir, `${name}.mjs`)).hr
 const seo = await load('seoPages');
 const { products, categories } = await load('productsData');
 const { guides, guidesIndexFor, guideMeta, guideLabelsFor, guidePath, guidesForProduct, guidesForCategory, parseInlineLinks, GUIDES_PATH } = await load('guides');
+const { productStock, stockLabels, formatSize } = await load('stockData');
 fs.rmSync(tmpDir, { recursive: true, force: true });
 
 const { SITE_URL, SUPPORTED_LANGS, buildLocalizedPath, categoryPages, exportPage, homeContent, labels, productInCategory,
@@ -150,12 +151,15 @@ for (const p of products) {
       if (!extra) throw new Error(`prerender: proizvod ${p.id} nema tekst u src/data/productContent/${L}.json`);
       const extraHtml = ['uses', 'planting', 'care'].map(k => `<h2>${esc(labels[L][k])}</h2><p>${esc(extra[k])}</p>`).join('') +
         `<h2>${esc(labels[L].faqTitle)}</h2>${extra.faq.map(f => `<h3>${esc(f.q)}</h3><p>${esc(f.a)}</p>`).join('')}`;
+      const stock = productStock[p.id];
+      const stockHtml = stock ? `<h2>${esc(stockLabels[L].title)}</h2><ul>${stock.map(([c, sizes]) =>
+        `<li>${esc(c)}: ${sizes.map(s => esc(formatSize(s, L))).join('; ')}</li>`).join('')}</ul><p>${esc(stockLabels[L].note)}</p>` : '';
       return {
         ...meta, jsonLd: [breadcrumbJsonLd(crumbs), faqJsonLd(extra.faq)],
         body: `<h1>${esc(name)}</h1><img src="${encodeURI(p.image)}" alt="${esc(name)}"><p>${esc(desc)}</p>
 <p>${esc(loc.products.priceOnRequest || '')} – <a href="${P('/contact')}">${esc(loc.productDetails.contactUs)}</a></p>
 ${specs ? `<h2>${esc(loc.productDetails.specifications)}</h2><ul>${specs}</ul>` : ''}
-${extraHtml}
+${stockHtml}${extraHtml}
 ${catPage ? `<p><a href="${P(`/${catPage.slug}`)}">${esc(catPage.content[L].name)}</a></p>` : ''}${productLinks(related, L, P)}${guideLinks(guidesForProduct(p.id), L, P)}`
       };
     }

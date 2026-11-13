@@ -1136,6 +1136,351 @@
       "permanent": true
     },
     {
+      "source": "/products/95",
+      "destination": "/products/artar-trilobat-acer-buergerianum",
+      "permanent": true
+    },
+    {
+      "source": "/products/96",
+      "destination": "/products/jugastru-acer-campestre",
+      "permanent": true
+    },
+    {
+      "source": "/products/97",
+      "destination": "/products/artar-freeman-acer-freemanii",
+      "permanent": true
+    },
+    {
+      "source": "/products/98",
+      "destination": "/products/artar-negundo-flamingo",
+      "permanent": true
+    },
+    {
+      "source": "/products/99",
+      "destination": "/products/artar-pacific-sunset-norwegian-sunset",
+      "permanent": true
+    },
+    {
+      "source": "/products/100",
+      "destination": "/products/paltin-de-munte-acer-pseudoplatanus",
+      "permanent": true
+    },
+    {
+      "source": "/products/101",
+      "destination": "/products/artar-ginnala-acer-tataricum",
+      "permanent": true
+    },
+    {
+      "source": "/products/102",
+      "destination": "/products/artar-acer-zoeschense-annae",
+      "permanent": true
+    },
+    {
+      "source": "/products/103",
+      "destination": "/products/arin-italian-alnus-cordata",
+      "permanent": true
+    },
+    {
+      "source": "/products/104",
+      "destination": "/products/arin-negru-alnus-glutinosa",
+      "permanent": true
+    },
+    {
+      "source": "/products/105",
+      "destination": "/products/arin-alnus-spaethii",
+      "permanent": true
+    },
+    {
+      "source": "/products/106",
+      "destination": "/products/amelanchier-arbore",
+      "permanent": true
+    },
+    {
+      "source": "/products/107",
+      "destination": "/products/mesteacan-chinezesc-betula-albosinensis-fascination",
+      "permanent": true
+    },
+    {
+      "source": "/products/108",
+      "destination": "/products/mesteacan-de-rau-betula-nigra",
+      "permanent": true
+    },
+    {
+      "source": "/products/109",
+      "destination": "/products/mesteacan-pufos-betula-pubescens",
+      "permanent": true
+    },
+    {
+      "source": "/products/110",
+      "destination": "/products/mesteacan-himalaya-betula-utilis-doorenbos",
+      "permanent": true
+    },
+    {
+      "source": "/products/111",
+      "destination": "/products/carpen-carpinus-betulus",
+      "permanent": true
+    },
+    {
+      "source": "/products/112",
+      "destination": "/products/carpen-japonez-carpinus-japonica",
+      "permanent": true
+    },
+    {
+      "source": "/products/113",
+      "destination": "/products/castan-comestibil-castanea-sativa",
+      "permanent": true
+    },
+    {
+      "source": "/products/114",
+      "destination": "/products/sambovina-celtis",
+      "permanent": true
+    },
+    {
+      "source": "/products/115",
+      "destination": "/products/cercidiphyllum-japonicum",
+      "permanent": true
+    },
+    {
+      "source": "/products/116",
+      "destination": "/products/cercis-canadensis",
+      "permanent": true
+    },
+    {
+      "source": "/products/117",
+      "destination": "/products/alun-turcesc-corylus-colurna",
+      "permanent": true
+    },
+    {
+      "source": "/products/118",
+      "destination": "/products/paducel-decorativ-crataegus",
+      "permanent": true
+    },
+    {
+      "source": "/products/119",
+      "destination": "/products/arborele-batista-davidia-involucrata",
+      "permanent": true
+    },
+    {
+      "source": "/products/120",
+      "destination": "/products/fag-fagus-sylvatica",
+      "permanent": true
+    },
+    {
+      "source": "/products/121",
+      "destination": "/products/frasin-american-fraxinus-americana",
+      "permanent": true
+    },
+    {
+      "source": "/products/122",
+      "destination": "/products/frasin-raywood-fraxinus-angustifolia",
+      "permanent": true
+    },
+    {
+      "source": "/products/123",
+      "destination": "/products/frasin-comun-fraxinus-excelsior",
+      "permanent": true
+    },
+    {
+      "source": "/products/124",
+      "destination": "/products/frasin-pennsylvanica-summit",
+      "permanent": true
+    },
+    {
+      "source": "/products/125",
+      "destination": "/products/ginkgo-biloba",
+      "permanent": true
+    },
+    {
+      "source": "/products/126",
+      "destination": "/products/gladita-gleditsia-triacanthos",
+      "permanent": true
+    },
+    {
+      "source": "/products/127",
+      "destination": "/products/nuc-negru-juglans-nigra",
+      "permanent": true
+    },
+    {
+      "source": "/products/128",
+      "destination": "/products/nuc-juglans-regia",
+      "permanent": true
+    },
+    {
+      "source": "/products/129",
+      "destination": "/products/koelreuteria-paniculata",
+      "permanent": true
+    },
+    {
+      "source": "/products/130",
+      "destination": "/products/larice-japonez-larix-kaempferi",
+      "permanent": true
+    },
+    {
+      "source": "/products/131",
+      "destination": "/products/magnolia-kobus",
+      "permanent": true
+    },
+    {
+      "source": "/products/132",
+      "destination": "/products/magnolia-susan",
+      "permanent": true
+    },
+    {
+      "source": "/products/133",
+      "destination": "/products/mar-pom-fructifer-malus-domestica",
+      "permanent": true
+    },
+    {
+      "source": "/products/134",
+      "destination": "/products/metasequoia-glyptostroboides",
+      "permanent": true
+    },
+    {
+      "source": "/products/135",
+      "destination": "/products/dud-alb-morus-alba",
+      "permanent": true
+    },
+    {
+      "source": "/products/136",
+      "destination": "/products/carpen-negru-ostrya-carpinifolia",
+      "permanent": true
+    },
+    {
+      "source": "/products/137",
+      "destination": "/products/parrotia-persica",
+      "permanent": true
+    },
+    {
+      "source": "/products/138",
+      "destination": "/products/phellodendron-amurense",
+      "permanent": true
+    },
+    {
+      "source": "/products/139",
+      "destination": "/products/plop-canadian-robusta",
+      "permanent": true
+    },
+    {
+      "source": "/products/140",
+      "destination": "/products/plop-tremurator-populus-tremula",
+      "permanent": true
+    },
+    {
+      "source": "/products/141",
+      "destination": "/products/cires-prunus-avium",
+      "permanent": true
+    },
+    {
+      "source": "/products/142",
+      "destination": "/products/prun-prunus-domestica",
+      "permanent": true
+    },
+    {
+      "source": "/products/143",
+      "destination": "/products/malin-prunus-padus",
+      "permanent": true
+    },
+    {
+      "source": "/products/144",
+      "destination": "/products/prunus-virginiana-canada-red",
+      "permanent": true
+    },
+    {
+      "source": "/products/145",
+      "destination": "/products/pterocarya-fraxinifolia",
+      "permanent": true
+    },
+    {
+      "source": "/products/146",
+      "destination": "/products/par-pyrus-communis",
+      "permanent": true
+    },
+    {
+      "source": "/products/147",
+      "destination": "/products/par-decorativ-pyrus-calleryana-chanticleer",
+      "permanent": true
+    },
+    {
+      "source": "/products/148",
+      "destination": "/products/par-pyrus-salicifolia-pendula",
+      "permanent": true
+    },
+    {
+      "source": "/products/149",
+      "destination": "/products/cer-quercus-cerris",
+      "permanent": true
+    },
+    {
+      "source": "/products/150",
+      "destination": "/products/stejar-quercus-macrocarpa",
+      "permanent": true
+    },
+    {
+      "source": "/products/151",
+      "destination": "/products/stejar-de-mlastina-quercus-palustris",
+      "permanent": true
+    },
+    {
+      "source": "/products/152",
+      "destination": "/products/gorun-quercus-petraea",
+      "permanent": true
+    },
+    {
+      "source": "/products/153",
+      "destination": "/products/stejar-quercus-robur",
+      "permanent": true
+    },
+    {
+      "source": "/products/154",
+      "destination": "/products/salcam-robinia-pseudoacacia",
+      "permanent": true
+    },
+    {
+      "source": "/products/155",
+      "destination": "/products/salcie-alba-salix-alba",
+      "permanent": true
+    },
+    {
+      "source": "/products/156",
+      "destination": "/products/salcie-salix-pentandra",
+      "permanent": true
+    },
+    {
+      "source": "/products/157",
+      "destination": "/products/salcie-pletoasa-salix-chrysocoma",
+      "permanent": true
+    },
+    {
+      "source": "/products/158",
+      "destination": "/products/salcam-japonez-styphnolobium-japonicum",
+      "permanent": true
+    },
+    {
+      "source": "/products/159",
+      "destination": "/products/scorus-sorbus",
+      "permanent": true
+    },
+    {
+      "source": "/products/160",
+      "destination": "/products/tetradium-daniellii",
+      "permanent": true
+    },
+    {
+      "source": "/products/161",
+      "destination": "/products/tei-olandez-tilia-europaea",
+      "permanent": true
+    },
+    {
+      "source": "/products/162",
+      "destination": "/products/ulm-ulmus",
+      "permanent": true
+    },
+    {
+      "source": "/products/163",
+      "destination": "/products/zelkova-serrata",
+      "permanent": true
+    },
+    {
       "source": "/en/products/prun-rosu-prunus-cerasifera-nigra",
       "destination": "/en/products/prun-rosu-prunus-cerasifera-pissardii",
       "permanent": true
@@ -1281,6 +1626,351 @@
       "permanent": true
     },
     {
+      "source": "/en/products/95",
+      "destination": "/en/products/artar-trilobat-acer-buergerianum",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/96",
+      "destination": "/en/products/jugastru-acer-campestre",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/97",
+      "destination": "/en/products/artar-freeman-acer-freemanii",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/98",
+      "destination": "/en/products/artar-negundo-flamingo",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/99",
+      "destination": "/en/products/artar-pacific-sunset-norwegian-sunset",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/100",
+      "destination": "/en/products/paltin-de-munte-acer-pseudoplatanus",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/101",
+      "destination": "/en/products/artar-ginnala-acer-tataricum",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/102",
+      "destination": "/en/products/artar-acer-zoeschense-annae",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/103",
+      "destination": "/en/products/arin-italian-alnus-cordata",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/104",
+      "destination": "/en/products/arin-negru-alnus-glutinosa",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/105",
+      "destination": "/en/products/arin-alnus-spaethii",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/106",
+      "destination": "/en/products/amelanchier-arbore",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/107",
+      "destination": "/en/products/mesteacan-chinezesc-betula-albosinensis-fascination",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/108",
+      "destination": "/en/products/mesteacan-de-rau-betula-nigra",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/109",
+      "destination": "/en/products/mesteacan-pufos-betula-pubescens",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/110",
+      "destination": "/en/products/mesteacan-himalaya-betula-utilis-doorenbos",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/111",
+      "destination": "/en/products/carpen-carpinus-betulus",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/112",
+      "destination": "/en/products/carpen-japonez-carpinus-japonica",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/113",
+      "destination": "/en/products/castan-comestibil-castanea-sativa",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/114",
+      "destination": "/en/products/sambovina-celtis",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/115",
+      "destination": "/en/products/cercidiphyllum-japonicum",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/116",
+      "destination": "/en/products/cercis-canadensis",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/117",
+      "destination": "/en/products/alun-turcesc-corylus-colurna",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/118",
+      "destination": "/en/products/paducel-decorativ-crataegus",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/119",
+      "destination": "/en/products/arborele-batista-davidia-involucrata",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/120",
+      "destination": "/en/products/fag-fagus-sylvatica",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/121",
+      "destination": "/en/products/frasin-american-fraxinus-americana",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/122",
+      "destination": "/en/products/frasin-raywood-fraxinus-angustifolia",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/123",
+      "destination": "/en/products/frasin-comun-fraxinus-excelsior",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/124",
+      "destination": "/en/products/frasin-pennsylvanica-summit",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/125",
+      "destination": "/en/products/ginkgo-biloba",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/126",
+      "destination": "/en/products/gladita-gleditsia-triacanthos",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/127",
+      "destination": "/en/products/nuc-negru-juglans-nigra",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/128",
+      "destination": "/en/products/nuc-juglans-regia",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/129",
+      "destination": "/en/products/koelreuteria-paniculata",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/130",
+      "destination": "/en/products/larice-japonez-larix-kaempferi",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/131",
+      "destination": "/en/products/magnolia-kobus",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/132",
+      "destination": "/en/products/magnolia-susan",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/133",
+      "destination": "/en/products/mar-pom-fructifer-malus-domestica",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/134",
+      "destination": "/en/products/metasequoia-glyptostroboides",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/135",
+      "destination": "/en/products/dud-alb-morus-alba",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/136",
+      "destination": "/en/products/carpen-negru-ostrya-carpinifolia",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/137",
+      "destination": "/en/products/parrotia-persica",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/138",
+      "destination": "/en/products/phellodendron-amurense",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/139",
+      "destination": "/en/products/plop-canadian-robusta",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/140",
+      "destination": "/en/products/plop-tremurator-populus-tremula",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/141",
+      "destination": "/en/products/cires-prunus-avium",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/142",
+      "destination": "/en/products/prun-prunus-domestica",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/143",
+      "destination": "/en/products/malin-prunus-padus",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/144",
+      "destination": "/en/products/prunus-virginiana-canada-red",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/145",
+      "destination": "/en/products/pterocarya-fraxinifolia",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/146",
+      "destination": "/en/products/par-pyrus-communis",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/147",
+      "destination": "/en/products/par-decorativ-pyrus-calleryana-chanticleer",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/148",
+      "destination": "/en/products/par-pyrus-salicifolia-pendula",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/149",
+      "destination": "/en/products/cer-quercus-cerris",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/150",
+      "destination": "/en/products/stejar-quercus-macrocarpa",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/151",
+      "destination": "/en/products/stejar-de-mlastina-quercus-palustris",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/152",
+      "destination": "/en/products/gorun-quercus-petraea",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/153",
+      "destination": "/en/products/stejar-quercus-robur",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/154",
+      "destination": "/en/products/salcam-robinia-pseudoacacia",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/155",
+      "destination": "/en/products/salcie-alba-salix-alba",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/156",
+      "destination": "/en/products/salcie-salix-pentandra",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/157",
+      "destination": "/en/products/salcie-pletoasa-salix-chrysocoma",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/158",
+      "destination": "/en/products/salcam-japonez-styphnolobium-japonicum",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/159",
+      "destination": "/en/products/scorus-sorbus",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/160",
+      "destination": "/en/products/tetradium-daniellii",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/161",
+      "destination": "/en/products/tei-olandez-tilia-europaea",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/162",
+      "destination": "/en/products/ulm-ulmus",
+      "permanent": true
+    },
+    {
+      "source": "/en/products/163",
+      "destination": "/en/products/zelkova-serrata",
+      "permanent": true
+    },
+    {
       "source": "/de/products/prun-rosu-prunus-cerasifera-nigra",
       "destination": "/de/products/prun-rosu-prunus-cerasifera-pissardii",
       "permanent": true
@@ -1423,6 +2113,351 @@
     {
       "source": "/de/products/94",
       "destination": "/de/products/imperata-cylindrica-red-baron",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/95",
+      "destination": "/de/products/artar-trilobat-acer-buergerianum",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/96",
+      "destination": "/de/products/jugastru-acer-campestre",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/97",
+      "destination": "/de/products/artar-freeman-acer-freemanii",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/98",
+      "destination": "/de/products/artar-negundo-flamingo",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/99",
+      "destination": "/de/products/artar-pacific-sunset-norwegian-sunset",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/100",
+      "destination": "/de/products/paltin-de-munte-acer-pseudoplatanus",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/101",
+      "destination": "/de/products/artar-ginnala-acer-tataricum",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/102",
+      "destination": "/de/products/artar-acer-zoeschense-annae",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/103",
+      "destination": "/de/products/arin-italian-alnus-cordata",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/104",
+      "destination": "/de/products/arin-negru-alnus-glutinosa",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/105",
+      "destination": "/de/products/arin-alnus-spaethii",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/106",
+      "destination": "/de/products/amelanchier-arbore",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/107",
+      "destination": "/de/products/mesteacan-chinezesc-betula-albosinensis-fascination",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/108",
+      "destination": "/de/products/mesteacan-de-rau-betula-nigra",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/109",
+      "destination": "/de/products/mesteacan-pufos-betula-pubescens",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/110",
+      "destination": "/de/products/mesteacan-himalaya-betula-utilis-doorenbos",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/111",
+      "destination": "/de/products/carpen-carpinus-betulus",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/112",
+      "destination": "/de/products/carpen-japonez-carpinus-japonica",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/113",
+      "destination": "/de/products/castan-comestibil-castanea-sativa",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/114",
+      "destination": "/de/products/sambovina-celtis",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/115",
+      "destination": "/de/products/cercidiphyllum-japonicum",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/116",
+      "destination": "/de/products/cercis-canadensis",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/117",
+      "destination": "/de/products/alun-turcesc-corylus-colurna",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/118",
+      "destination": "/de/products/paducel-decorativ-crataegus",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/119",
+      "destination": "/de/products/arborele-batista-davidia-involucrata",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/120",
+      "destination": "/de/products/fag-fagus-sylvatica",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/121",
+      "destination": "/de/products/frasin-american-fraxinus-americana",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/122",
+      "destination": "/de/products/frasin-raywood-fraxinus-angustifolia",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/123",
+      "destination": "/de/products/frasin-comun-fraxinus-excelsior",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/124",
+      "destination": "/de/products/frasin-pennsylvanica-summit",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/125",
+      "destination": "/de/products/ginkgo-biloba",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/126",
+      "destination": "/de/products/gladita-gleditsia-triacanthos",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/127",
+      "destination": "/de/products/nuc-negru-juglans-nigra",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/128",
+      "destination": "/de/products/nuc-juglans-regia",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/129",
+      "destination": "/de/products/koelreuteria-paniculata",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/130",
+      "destination": "/de/products/larice-japonez-larix-kaempferi",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/131",
+      "destination": "/de/products/magnolia-kobus",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/132",
+      "destination": "/de/products/magnolia-susan",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/133",
+      "destination": "/de/products/mar-pom-fructifer-malus-domestica",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/134",
+      "destination": "/de/products/metasequoia-glyptostroboides",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/135",
+      "destination": "/de/products/dud-alb-morus-alba",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/136",
+      "destination": "/de/products/carpen-negru-ostrya-carpinifolia",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/137",
+      "destination": "/de/products/parrotia-persica",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/138",
+      "destination": "/de/products/phellodendron-amurense",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/139",
+      "destination": "/de/products/plop-canadian-robusta",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/140",
+      "destination": "/de/products/plop-tremurator-populus-tremula",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/141",
+      "destination": "/de/products/cires-prunus-avium",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/142",
+      "destination": "/de/products/prun-prunus-domestica",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/143",
+      "destination": "/de/products/malin-prunus-padus",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/144",
+      "destination": "/de/products/prunus-virginiana-canada-red",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/145",
+      "destination": "/de/products/pterocarya-fraxinifolia",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/146",
+      "destination": "/de/products/par-pyrus-communis",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/147",
+      "destination": "/de/products/par-decorativ-pyrus-calleryana-chanticleer",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/148",
+      "destination": "/de/products/par-pyrus-salicifolia-pendula",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/149",
+      "destination": "/de/products/cer-quercus-cerris",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/150",
+      "destination": "/de/products/stejar-quercus-macrocarpa",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/151",
+      "destination": "/de/products/stejar-de-mlastina-quercus-palustris",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/152",
+      "destination": "/de/products/gorun-quercus-petraea",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/153",
+      "destination": "/de/products/stejar-quercus-robur",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/154",
+      "destination": "/de/products/salcam-robinia-pseudoacacia",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/155",
+      "destination": "/de/products/salcie-alba-salix-alba",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/156",
+      "destination": "/de/products/salcie-salix-pentandra",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/157",
+      "destination": "/de/products/salcie-pletoasa-salix-chrysocoma",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/158",
+      "destination": "/de/products/salcam-japonez-styphnolobium-japonicum",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/159",
+      "destination": "/de/products/scorus-sorbus",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/160",
+      "destination": "/de/products/tetradium-daniellii",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/161",
+      "destination": "/de/products/tei-olandez-tilia-europaea",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/162",
+      "destination": "/de/products/ulm-ulmus",
+      "permanent": true
+    },
+    {
+      "source": "/de/products/163",
+      "destination": "/de/products/zelkova-serrata",
       "permanent": true
     },
     {

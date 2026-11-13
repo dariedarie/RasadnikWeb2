@@ -553,6 +553,816 @@ const imageCredits = {
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Imperata_cylindrica_%27Red_Baron%27_Kruidtuin_Leuven.jpg"
+  },
+  "/images/artar-trilobat-acer-buergerianum.jpg": {
+    "author": "Hurricanefan24",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Morris_Arboretum_Acer_buergerianum.JPG"
+  },
+  "/images/artar-trilobat-acer-buergerianum-2.jpg": {
+    "author": "Gmihail at Serbian Wikipedia",
+    "license": "CC BY-SA 3.0 rs",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/rs/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Acer_buergerianum_leaves_and_fruits.jpg"
+  },
+  "/images/jugastru-acer-campestre.jpg": {
+    "author": "Galloramenu",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Acer_campestre_in_Appennino2.jpg"
+  },
+  "/images/jugastru-acer-campestre-2.jpg": {
+    "author": "Robert Flogaus-Faust",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Acer_campestre_RF.jpg"
+  },
+  "/images/artar-freeman-acer-freemanii.jpg": {
+    "author": "Deinocheirus",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Autumn_Blaze_Maple_in_Toronto.jpg"
+  },
+  "/images/artar-negundo-flamingo.jpg": {
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Acer_negundo_%27Flamingo%27_kz03.jpg"
+  },
+  "/images/artar-negundo-flamingo-2.jpg": {
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Acer_negundo_%27Flamingo%27_kz01.jpg"
+  },
+  "/images/artar-pacific-sunset-norwegian-sunset.jpg": {
+    "author": "Photo (c)2006 Derek Ramsey (Ram-Man)",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Purpleblow_Maple_Acer_truncatum_Tree_2448px.jpg"
+  },
+  "/images/artar-pacific-sunset-norwegian-sunset-2.jpg": {
+    "author": "Photo (c)2006 Derek Ramsey (Ram-Man)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Acer_truncatum_Leaf.jpg"
+  },
+  "/images/paltin-de-munte-acer-pseudoplatanus.jpg": {
+    "author": "The Brook",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Acer_pseudoplatanus_from_bernese_Jura.jpg"
+  },
+  "/images/paltin-de-munte-acer-pseudoplatanus-2.jpg": {
+    "author": "Willow",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Acer_pseudoplatanus_005.jpg"
+  },
+  "/images/artar-ginnala-acer-tataricum.jpg": {
+    "author": "Jebulon",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Acer_tataricum_ginnala_PfP.jpg"
+  },
+  "/images/artar-ginnala-acer-tataricum-2.jpg": {
+    "author": "AnRo0002",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:20141031Acer_ginnala_2.jpg"
+  },
+  "/images/artar-acer-zoeschense-annae.jpg": {
+    "author": "Hinrich7",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Acer_x_zoeschense.jpg"
+  },
+  "/images/artar-acer-zoeschense-annae-2.jpg": {
+    "author": "Me",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Acer_zoeschense_%27annae%27_R0019897.JPG"
+  },
+  "/images/arin-italian-alnus-cordata.jpg": {
+    "author": "Franz Xaver",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alnus_cordata.jpg"
+  },
+  "/images/arin-italian-alnus-cordata-2.jpg": {
+    "author": "AnemoneProjectors (talk)",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Italian_Alder_(Alnus_cordata),_cultivated,_Hertfordshire_(25621878754).jpg"
+  },
+  "/images/arin-negru-alnus-glutinosa.jpg": {
+    "author": "Crusier",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alnus_glutinosa_Z%C4%85bki.JPG"
+  },
+  "/images/arin-negru-alnus-glutinosa-2.jpg": {
+    "author": "Jean-Pol GRANDMONT",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alnus_glutinosa_%27Imperialis%27.jpg"
+  },
+  "/images/arin-alnus-spaethii.jpg": {
+    "author": "Andre Hosper",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alnus_%C3%97_spaethii_95886120.jpg"
+  },
+  "/images/arin-alnus-spaethii-2.jpg": {
+    "author": "Sten",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alnus-spaethii-habitus.jpg"
+  },
+  "/images/amelanchier-arbore.jpg": {
+    "author": "Agnieszka Kwiecień, Nova",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amelanchier_lamarckii_%C5%9Awido%C5%9Bliwa_Lamarcka_2017-04-09_01.jpg"
+  },
+  "/images/amelanchier-arbore-2.jpg": {
+    "author": "Agnieszka Kwiecień, Nova",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amelanchier_lamarckii_%C5%9Awido%C5%9Bliwa_Lamarcka_2019-05-05_01.jpg"
+  },
+  "/images/mesteacan-chinezesc-betula-albosinensis-fascination.jpg": {
+    "author": "Sten Porse",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Betula-albosinensis-habit.JPG"
+  },
+  "/images/mesteacan-chinezesc-betula-albosinensis-fascination-2.jpg": {
+    "author": "Sten Porse",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Betula-albosinensis-bark.jpg"
+  },
+  "/images/mesteacan-de-rau-betula-nigra.jpg": {
+    "author": "Greg Hume",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:RiverBirchBark01.JPG"
+  },
+  "/images/mesteacan-pufos-betula-pubescens.jpg": {
+    "author": "Willow",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Betula_pubescens_-_Burgwald_002.jpg"
+  },
+  "/images/mesteacan-pufos-betula-pubescens-2.jpg": {
+    "author": "Agnieszka Kwiecień, Nova",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Betula_pubescens_var._pubescens_2023-05-05_02.jpg"
+  },
+  "/images/mesteacan-himalaya-betula-utilis-doorenbos.jpg": {
+    "author": "Photo by David J. Stang",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Betula_utilis_var._jacquemontii_0zz.jpg"
+  },
+  "/images/mesteacan-himalaya-betula-utilis-doorenbos-2.jpg": {
+    "author": "Salicyna",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Betula_utilis_var._jacquemontii_2018-11-07_4330.jpg"
+  },
+  "/images/carpen-carpinus-betulus.jpg": {
+    "author": "Willow",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Carpinus_betulus_-_Hunsr%C3%BCck_001.jpg"
+  },
+  "/images/carpen-carpinus-betulus-2.jpg": {
+    "author": "A.Savin",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Botanischer_Garten_Berlin-Dahlem_10-2014_photo24_Carpinus_betulus.jpg"
+  },
+  "/images/carpen-japonez-carpinus-japonica.jpg": {
+    "author": "Σ64",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Carpinus_japonica_04.jpg"
+  },
+  "/images/carpen-japonez-carpinus-japonica-2.jpg": {
+    "author": "KATHERINE WAGNER-REISS",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Carpinus_japonica%E2%80%94tree.jpg"
+  },
+  "/images/castan-comestibil-castanea-sativa.jpg": {
+    "author": "Zeynel Cebeci",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castanea_sativa_-_Anatolian_sweet_chestnut_04.jpg"
+  },
+  "/images/castan-comestibil-castanea-sativa-2.jpg": {
+    "author": "Georg Slickers",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castanea_sativa_20050703_433.jpg"
+  },
+  "/images/sambovina-celtis.jpg": {
+    "author": "Chhe (talk)",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Celtis_occidentalis_20090606.jpg"
+  },
+  "/images/sambovina-celtis-2.jpg": {
+    "author": "Agnieszka Kwiecień, Nova",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Celtis_occidentalis_Wi%C4%85zowiec_zachodni_2021-10-02_13.jpg"
+  },
+  "/images/cercidiphyllum-japonicum.jpg": {
+    "author": "そらみみ",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cercidiphyllum_japonicum_in_autumn_20161014.jpg"
+  },
+  "/images/cercidiphyllum-japonicum-2.jpg": {
+    "author": "Nucatum amygdalarum",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cercidiphyllum_japonicum_2019_09_21_Kumpula_0310.jpg"
+  },
+  "/images/cercis-canadensis.jpg": {
+    "author": "Greg Hume",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:RedbudOhio02.jpg"
+  },
+  "/images/cercis-canadensis-2.jpg": {
+    "author": "Cbaile19",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Cercis_canadensis,_Bird_Park,_2026-04-07.jpg"
+  },
+  "/images/alun-turcesc-corylus-colurna.jpg": {
+    "author": "Orjen, Pavle Cikovac",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Corylus_colurna_subadriatic_dinaric_mountains_Orjen.JPG"
+  },
+  "/images/alun-turcesc-corylus-colurna-2.jpg": {
+    "author": "Martinus KE",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Corylus_colurna_WOR_-_2021-07-23_-_037a.jpg"
+  },
+  "/images/paducel-decorativ-crataegus.jpg": {
+    "author": "Hans-Martin Scheibner",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rotdorn_(Crataegus_laevigata_%27Paul%27s_Scarlet%27)-hms(1).jpg"
+  },
+  "/images/paducel-decorativ-crataegus-2.jpg": {
+    "author": "Rüdiger Stehn from Kiel, Deutschland",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rotdorn_(Crataegus_laevigata_%E2%80%9APaul%E2%80%99s_Scarlet)_(02)_(27204344212).jpg"
+  },
+  "/images/arborele-batista-davidia-involucrata.jpg": {
+    "author": "Myrabella",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Davidia_involucrata_flowering_branch.jpg"
+  },
+  "/images/arborele-batista-davidia-involucrata-2.jpg": {
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Davidia_involucrata_kz04.jpg"
+  },
+  "/images/fag-fagus-sylvatica.jpg": {
+    "author": "Jean-Pol GRANDMONT",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fagus_sylvatica_%27Atropunicea%27_-_Mariemont_1.jpg"
+  },
+  "/images/fag-fagus-sylvatica-2.jpg": {
+    "author": "Rémih",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fagus_sylvatica_%27Atropunicea%27_@_D%C3%A9sert_de_Retz_13.jpg"
+  },
+  "/images/frasin-american-fraxinus-americana.jpg": {
+    "author": "Richard Webb, Bugwood.org, USA",
+    "license": "CC BY 3.0 us",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Fraxinus_americana_fall.jpg"
+  },
+  "/images/frasin-american-fraxinus-americana-2.jpg": {
+    "author": "Willow",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Fraxinus_americana_002.jpg"
+  },
+  "/images/frasin-raywood-fraxinus-angustifolia.jpg": {
+    "author": "Chris.urs-o",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Villette.Park.4119.JPG"
+  },
+  "/images/frasin-raywood-fraxinus-angustifolia-2.jpg": {
+    "author": "No machine-readable author provided. MPF assumed (based on copyright claims).",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Fraxinus_angustifolia_foliage.jpg"
+  },
+  "/images/frasin-comun-fraxinus-excelsior.jpg": {
+    "author": "No machine-readable author provided. MPF assumed (based on copyright claims).",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Fraxinus_excelsior.jpg"
+  },
+  "/images/frasin-comun-fraxinus-excelsior-2.jpg": {
+    "author": "Dominicus Johannes Bergsma",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Groep_essen_(Fraxinus_excelsior)_aan_fietspad_om_Langweerderwielen_(Langwarder_Wielen)._Oostkant_03.jpg"
+  },
+  "/images/frasin-pennsylvanica-summit.jpg": {
+    "author": "Matt Lavin",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fraxinus_pennsylvanica_-_green_ash_-_52249776273.jpg"
+  },
+  "/images/frasin-pennsylvanica-summit-2.jpg": {
+    "author": "Jerzy Opioła",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Fraxinus_pensylvanica_a1.jpg"
+  },
+  "/images/ginkgo-biloba.jpg": {
+    "author": "Benjamin Ceci",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:A_golden_Ginkgo_biloba_in_autumn.jpg"
+  },
+  "/images/ginkgo-biloba-2.jpg": {
+    "author": "Flocci Nivis",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ginkgo_biloba_Staden_Autumn.jpg"
+  },
+  "/images/gladita-gleditsia-triacanthos.jpg": {
+    "author": "Kevmin",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gleditsia_triacanthos_Maryhill_Museum_01.jpg"
+  },
+  "/images/gladita-gleditsia-triacanthos-2.jpg": {
+    "author": "Plant Image Library from Boston, USA",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gleditsia_triacanthos_(Honeylocust)_(38246396371).jpg"
+  },
+  "/images/nuc-negru-juglans-nigra.jpg": {
+    "author": "Adrian S Pye",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Juglandaceae_Juglans_nigra_-_black_walnut_tree_-_geograph.org.uk_-_5551544.jpg"
+  },
+  "/images/nuc-negru-juglans-nigra-2.jpg": {
+    "author": "Berthold Werner",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Juglans_nigra_BW_2024-04-09_17-44-42_Stack.jpg"
+  },
+  "/images/nuc-juglans-regia.jpg": {
+    "author": "Thesupermat",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Noyer_centenaire_en_automne.JPG"
+  },
+  "/images/nuc-juglans-regia-2.jpg": {
+    "author": "Ввласенко",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Blooming_walnut_(Juglans_regia).jpg"
+  },
+  "/images/koelreuteria-paniculata.jpg": {
+    "author": "Beko",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Koelreuteria_paniculata_flowers_in_Yerevan_02.jpg"
+  },
+  "/images/koelreuteria-paniculata-2.jpg": {
+    "author": "Wouter Hagens",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Koelreuteria_paniculata_E.jpg"
+  },
+  "/images/larice-japonez-larix-kaempferi.jpg": {
+    "author": "Alpsdake",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Larix_kaempferi_(Mount_Toyoguchi).jpg"
+  },
+  "/images/larice-japonez-larix-kaempferi-2.jpg": {
+    "author": "Tanaka Juuyoh",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Larix_kaempferi_Oze_NP.jpg"
+  },
+  "/images/magnolia-kobus.jpg": {
+    "author": "Bruce Marlin",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Magnolia_kobus_borealis.jpg"
+  },
+  "/images/magnolia-kobus-2.jpg": {
+    "author": "Susanne Nilsson",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alnarp_(Sweden)_-_Magnolia_(26572825280).jpg"
+  },
+  "/images/magnolia-susan.jpg": {
+    "author": "Photo by and (c)2016 Derek Ramsey (Ram-Man)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hybrid_Magnolia_Magnolia_%27Susan%27_Flower.JPG"
+  },
+  "/images/magnolia-susan-2.jpg": {
+    "author": "--SB_Johnny",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Magnolia_Susan_001.JPG"
+  },
+  "/images/mar-pom-fructifer-malus-domestica.jpg": {
+    "author": "Helge Klaus Rieder",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Elstar_Freilichtmuseum_Roscheider_Hof_Ganzer_Baum_H2.jpg"
+  },
+  "/images/mar-pom-fructifer-malus-domestica-2.jpg": {
+    "author": "Helge Klaus Rieder",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Elstar_Freilichtmuseum_Roscheider_Hof_Bl%C3%BCte_H6.jpg"
+  },
+  "/images/metasequoia-glyptostroboides.jpg": {
+    "author": "Calistemon",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Metasequoia_glyptostroboides_in_Golden_Valley_Tree_Park,_May_2022_01.jpg"
+  },
+  "/images/metasequoia-glyptostroboides-2.jpg": {
+    "author": "Alpsdake",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Metasequoia_glyptostroboides_Autumn_leaf_color.jpg"
+  },
+  "/images/dud-alb-morus-alba.jpg": {
+    "author": "Sciencia58",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Morus_alba_%27Macrophylla%27_Tree_in_spring.jpg"
+  },
+  "/images/dud-alb-morus-alba-2.jpg": {
+    "author": "Emőke Dénes",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rosales_-_Morus_alba_-_3.jpg"
+  },
+  "/images/carpen-negru-ostrya-carpinifolia.jpg": {
+    "author": "Robert Flogaus-Faust",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ostrya_carpinifolia_RF.jpg"
+  },
+  "/images/carpen-negru-ostrya-carpinifolia-2.jpg": {
+    "author": "Robert Flogaus-Faust",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ostrya_carpinifolia_2_RF.jpg"
+  },
+  "/images/parrotia-persica.jpg": {
+    "author": "Jean-Pol GRANDMONT",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:0_Parrotia_persica_-_Parc_de_Mariemont_(1).JPG"
+  },
+  "/images/parrotia-persica-2.jpg": {
+    "author": "A.Savin",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Botanischer_Garten_Berlin-Dahlem_10-2014_photo13_Parrotia_persica.jpg"
+  },
+  "/images/phellodendron-amurense.jpg": {
+    "author": "Agnieszka Kwiecień, Nova",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Phellodendron_amurense_Korkowiec_amurski_2019-05-24_03.jpg"
+  },
+  "/images/phellodendron-amurense-2.jpg": {
+    "author": "Agnieszka Kwiecień, Nova",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Phellodendron_amurense_Korkowiec_amurski_2022-10-11_02.jpg"
+  },
+  "/images/plop-canadian-robusta.jpg": {
+    "author": "WeeJeeVee",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20170825Populus_x_canadensis_%27Robusta%27_Wageningen_14b.jpg"
+  },
+  "/images/plop-canadian-robusta-2.jpg": {
+    "author": "WeeJeeVee",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20170825Populus_x_canadensis_%27Robusta%27_Wageningen_32b.jpg"
+  },
+  "/images/plop-tremurator-populus-tremula.jpg": {
+    "author": "Šarūnas Šimkus",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:PopulusTremula001.JPG"
+  },
+  "/images/plop-tremurator-populus-tremula-2.jpg": {
+    "author": "W.carter",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Red_aspen_leaves_by_Myrstigen_1.jpg"
+  },
+  "/images/cires-prunus-avium.jpg": {
+    "author": "H. Zell",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prunus_avium_-_Hohenwettersbach_01.jpg"
+  },
+  "/images/cires-prunus-avium-2.jpg": {
+    "author": "MPF",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Prunus_avium_fruit.jpg"
+  },
+  "/images/prun-prunus-domestica.jpg": {
+    "author": "Rasbak",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prunus_domestica_Reine_Victoria.jpg"
+  },
+  "/images/prun-prunus-domestica-2.jpg": {
+    "author": "Rasbak",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Pruimenbloesem_Reine_Victoria_(Prunus_domestica).jpg"
+  },
+  "/images/malin-prunus-padus.jpg": {
+    "author": "Ввласенко",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prunus_padus_in_April.jpg"
+  },
+  "/images/malin-prunus-padus-2.jpg": {
+    "author": "Steinsplitter",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gew%C3%B6hnliche_Traubenkirsche_-_Prunus_padus_2.jpg"
+  },
+  "/images/prunus-virginiana-canada-red.jpg": {
+    "author": "Cossey25",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Canadian_Chokecherry_Prunus_virginiana_%27Canada_Red%27_habit_spring.jpg"
+  },
+  "/images/prunus-virginiana-canada-red-2.jpg": {
+    "author": "Cossey25",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Canadian_Chokecherry_Prunus_virginiana_%27Canada_Red%27_leaves_fall_03.jpg"
+  },
+  "/images/pterocarya-fraxinifolia.jpg": {
+    "author": "Jean-Pol GRANDMONT",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:0_Pterocarya_fraxinifolia_-_La_Hulpe_(1).JPG"
+  },
+  "/images/pterocarya-fraxinifolia-2.jpg": {
+    "author": "Dandarmkd",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pterocarya_fraxinifolia_-_%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%BA%D0%B0_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%BD%D0%B0_%D0%A1%D0%BA%D0%BE%D0%BF%D1%98%D0%B5_02.jpg"
+  },
+  "/images/par-pyrus-communis.jpg": {
+    "author": "Mleprince",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pyrus_communis_%27Conferences%27_from_Savoie.jpg"
+  },
+  "/images/par-decorativ-pyrus-calleryana-chanticleer.jpg": {
+    "author": "Magnus Manske",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pyrus_calleryana_%27Chanticleer%27_(Rosaceae)_tree.jpg"
+  },
+  "/images/par-decorativ-pyrus-calleryana-chanticleer-2.jpg": {
+    "author": "Lothar Spurzem",
+    "license": "CC BY-SA 2.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Zierbirne_%3D_Pyrus_calleryana_Chanticleer_(2020-03-22_Sp).JPG"
+  },
+  "/images/par-pyrus-salicifolia-pendula.jpg": {
+    "author": "Averater",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pyrus_salicifolia_%27Pendula%27_03.jpg"
+  },
+  "/images/par-pyrus-salicifolia-pendula-2.jpg": {
+    "author": "Wouter Hagens",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pyrus_salicifolia_pendula_B.jpg"
+  },
+  "/images/cer-quercus-cerris.jpg": {
+    "author": "Christo Tzontchev",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:-Quercus_cerris_in_Begle%C5%BE_(Q106632121)_4.jpg"
+  },
+  "/images/cer-quercus-cerris-2.jpg": {
+    "author": "Marija Gajić",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Quercus_cerris_(4).JPG"
+  },
+  "/images/stejar-quercus-macrocarpa.jpg": {
+    "author": "Heath Cajandig",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Big_Tree_with_spring_picnic.jpg"
+  },
+  "/images/stejar-quercus-macrocarpa-2.jpg": {
+    "author": "Chris Light",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Burr_Oak_(Quercus_macrocarpa)_P9190054.jpg"
+  },
+  "/images/stejar-de-mlastina-quercus-palustris.jpg": {
+    "author": "Gmihail at Serbian Wikipedia",
+    "license": "CC BY-SA 3.0 rs",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/rs/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Quercus_palustris_autumn_color,_Pionirski_park,_Belgrade.jpg"
+  },
+  "/images/stejar-de-mlastina-quercus-palustris-2.jpg": {
+    "author": "Krzysztof Golik",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Quercus_palustris_in_Aveyron_(14).jpg"
+  },
+  "/images/gorun-quercus-petraea.jpg": {
+    "author": "Poli Kasovska",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Quercus_petraea_in_Kosti_Q106523984_5.jpg"
+  },
+  "/images/gorun-quercus-petraea-2.jpg": {
+    "author": "E Wusk",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Quercus_petraea_twigs_with_immature_acorns.jpg"
+  },
+  "/images/stejar-quercus-robur.jpg": {
+    "author": "Cephas",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Quercus_robur_%E2%80%98Fastigiata%E2%80%99_JRVdH_02.jpg"
+  },
+  "/images/stejar-quercus-robur-2.jpg": {
+    "author": "Аимаина хикари",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Quercus_robur_%27Fastigiata%27_Syrets2.JPG"
+  },
+  "/images/salcam-robinia-pseudoacacia.jpg": {
+    "author": "Colin",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Robinia_pseudoacacia_%27Frisia%27.jpg"
+  },
+  "/images/salcam-robinia-pseudoacacia-2.jpg": {
+    "author": "Wouter Hagens",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Robinia_pseudoacacia_B.jpg"
+  },
+  "/images/salcie-alba-salix-alba.jpg": {
+    "author": "Hans-Jürgen Neubert",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Salix_alba_4_seasons_Summer_(001).jpg"
+  },
+  "/images/salcie-alba-salix-alba-2.jpg": {
+    "author": "MPF",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Salix_alba_leaves.jpg"
+  },
+  "/images/salcie-salix-pentandra.jpg": {
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Salix_pentandra_kz04.jpg"
+  },
+  "/images/salcie-salix-pentandra-2.jpg": {
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Salix_pentandra_kz05.jpg"
+  },
+  "/images/salcie-pletoasa-salix-chrysocoma.jpg": {
+    "author": "Sciencia58",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Salix_%C3%97_sepulcralis_%27Chrysocoma%27_1.jpg"
+  },
+  "/images/salcie-pletoasa-salix-chrysocoma-2.jpg": {
+    "author": "AgainErick",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Salix_x_sepulcralis_(Chrysocoma)_-_Treurwilg_uit_1949_-_Statensingel_-_Blijdorp_-_Noord_-_Rotterdam_-_bijzondere_bomencollectie_-_2024_-_pic1_-_spring.jpg"
+  },
+  "/images/salcam-japonez-styphnolobium-japonicum.jpg": {
+    "author": "Jean-Pol GRANDMONT",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sophora_japonica_JPG2Aa.jpg"
+  },
+  "/images/salcam-japonez-styphnolobium-japonicum-2.jpg": {
+    "author": "Agnieszka Kwiecień, Nova",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Styphnolobium_japonicum_Pere%C5%82kowiec_japo%C5%84ski_2018-09-02_01.jpg"
+  },
+  "/images/scorus-sorbus.jpg": {
+    "author": "George Chernilevsky",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sorbus_aucuparia_2022_G1.jpg"
+  },
+  "/images/scorus-sorbus-2.jpg": {
+    "author": "Rosser1954",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rowan_(Sorbus_aucuparia)_laden_with_berries,_Auchinleck,_Scotland.jpg"
+  },
+  "/images/tetradium-daniellii.jpg": {
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tetradium_daniellii_kz1.jpg"
+  },
+  "/images/tetradium-daniellii-2.jpg": {
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tetradium_daniellii_kz2.jpg"
+  },
+  "/images/tei-olandez-tilia-europaea.jpg": {
+    "author": "Ptelea",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Common_limes,_avenue.jpg"
+  },
+  "/images/tei-olandez-tilia-europaea-2.jpg": {
+    "author": "Hans Muller",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zwarte_linde_(Tilia_x_europaea_%27Pallida%27)_-_Ingenhouszstraat,_Majoor_Bosshardtplantsoen,_Utrecht_-_13_juni_2022.jpg"
+  },
+  "/images/ulm-ulmus.jpg": {
+    "author": "Christian Fischer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:UlmusLaevis1%2B2.jpg"
+  },
+  "/images/ulm-ulmus-2.jpg": {
+    "author": "Ronnie Nijboer",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:RN_Ulmus_Columella_(koninginneweg_amsterdam).jpg"
+  },
+  "/images/zelkova-serrata.jpg": {
+    "author": "Calistemon",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zelkova_serrata_in_Golden_Valley_Tree_Park,_May_2022_01.jpg"
+  },
+  "/images/zelkova-serrata-2.jpg": {
+    "author": "Luck097",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Zelkova_serrata_Autumn.jpg"
   }
 };
 

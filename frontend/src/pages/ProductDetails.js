@@ -8,6 +8,7 @@ import { getLangPrefix, buildHreflangUrls, getSeoLinks } from '../utils/i18nRout
 import { guidesForProduct, guidePath, guideMeta, guideLabelsFor } from '../data/guides';
 import ImageLightbox from '../components/ImageLightbox';
 import imageCredits from '../data/imageCredits';
+import { productStock, stockLabels, formatSize } from '../data/stockData';
 import { thumbSrc, mediumSrc, fallbackTo } from '../utils/images';
 import './ProductDetails.css';
 import './Products.css';
@@ -39,6 +40,8 @@ const ProductDetails = () => {
   const product = getProductById(productIdFromParam(id));
   const extra = product && contentByLang[lang] ? contentByLang[lang][product.id] : null;
   const L = pickLang(labels, lang);
+  const stock = product ? productStock[product.id] : null;
+  const SL = pickLang(stockLabels, lang);
 
   // Stari URL (/products/1) -> novi SEO URL (/products/tuia-smaragd)
   if (product && /^\d+$/.test(id)) {
@@ -290,6 +293,38 @@ const ProductDetails = () => {
           </button>
         </div>
       </div>
+
+      {/* Sorte i dimenzije na stanju (stockData.js) */}
+      {stock && (
+        <section className="product-guide" style={{maxWidth: 1200, margin: '48px auto 0', padding: '32px', background: '#fff', borderRadius: 18, boxShadow: '0 8px 32px rgba(44,62,80,0.08)'}}>
+          <h2 style={{color: '#2e7d32', fontWeight: 700, fontSize: '1.4rem', marginBottom: 14}}>{SL.title}</h2>
+          <div style={{overflowX: 'auto'}}>
+            <table style={{width: '100%', borderCollapse: 'collapse', color: '#234d20', fontSize: '0.98rem'}}>
+              <thead>
+                <tr style={{borderBottom: '2px solid #c8e6c9', textAlign: 'left'}}>
+                  <th style={{padding: '8px 12px 8px 0', minWidth: 180}}>{SL.cultivar}</th>
+                  <th style={{padding: '8px 0'}}>{SL.sizes}</th>
+                </tr>
+              </thead>
+              <tbody>
+                {stock.map(([cultivar, sizes]) => (
+                  <tr key={cultivar} style={{borderBottom: '1px solid #e8f5e9', verticalAlign: 'top'}}>
+                    <td style={{padding: '10px 12px 10px 0', fontWeight: 600, fontStyle: 'italic'}}>{cultivar}</td>
+                    <td style={{padding: '8px 0'}}>
+                      <div style={{display: 'flex', flexWrap: 'wrap', gap: 6}}>
+                        {sizes.map(code => (
+                          <span key={code} style={{background: '#f1f8e9', border: '1px solid #c5e1a5', borderRadius: 14, padding: '3px 10px', fontSize: '0.88rem', whiteSpace: 'nowrap'}}>{formatSize(code, lang)}</span>
+                        ))}
+                      </div>
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+          <p style={{color: '#546e7a', fontSize: '0.88rem', marginTop: 14, marginBottom: 0}}>{SL.note}</p>
+        </section>
+      )}
 
       {/* Prošireni sadržaj o biljci */}
       {extra && (

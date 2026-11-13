@@ -1408,5 +1408,1040 @@
         "a": "Foarte lent; soiul 'Red Baron' nu se extinde agresiv precum specia sălbatică."
       }
     ]
+  },
+  "95": {
+    "uses": "Datorită dimensiunilor moderate și a coroanei compacte, arțarul trilobat este ales pentru străzi înguste, piețe urbane, parcări și grădini rezidențiale. Tolerează bine căldura și condițiile urbane, iar toamna oferă un colorit cald, portocaliu și roșu.",
+    "planting": "Ajunge la 8–10 m înălțime, cu o coroană rotundă. În aliniamente se plantează la 6–8 m distanță. Preferă soarele și solurile bine drenate; tolerează perioadele scurte de secetă după înrădăcinare.",
+    "care": "Udați regulat în primii doi ani după plantare. Tăierile de formare se fac iarna sau la sfârșitul verii. Este rezistent la ger până la aproximativ -20°C.",
+    "faq": [
+      {
+        "q": "Cât de mare crește arțarul trilobat?",
+        "a": "De regulă 8–10 m, cu o coroană rotundă și compactă – potrivit pentru străzi și spații mici."
+      },
+      {
+        "q": "Este potrivit pentru oraș?",
+        "a": "Da, tolerează bine căldura, solurile compactate și condițiile urbane."
+      }
+    ]
+  },
+  "96": {
+    "uses": "Jugastrul este unul dintre cei mai robuști arbori pentru plantări urbane: aliniamente stradale, parcuri, parcări și perdele de protecție. Soiurile cu coroană îngustă sau ovală, precum 'Elsrijk', 'Lienco' sau 'Huibers Elegant', sunt alese pentru străzi, iar specia se folosește și pentru garduri vii tunse.",
+    "planting": "Ajunge la 10–15 m, în funcție de soi. În aliniamente se plantează la 6–10 m distanță. Crește pe aproape orice sol, inclusiv calcaros, uscat sau argilos, la soare sau semiumbră.",
+    "care": "Necesită puțină întreținere: udare în primii ani și tăieri de formare iarna. Suportă foarte bine tăierile, poluarea și seceta. Rezistent la ger până la aproximativ -30°C.",
+    "faq": [
+      {
+        "q": "Ce soiuri de jugastru sunt potrivite pentru străzi?",
+        "a": "Soiurile cu coroană compactă, ca 'Elsrijk', 'Lienco', 'Huibers Elegant' sau 'Green Column', sunt selectate special pentru aliniamente."
+      },
+      {
+        "q": "Tolerează jugastrul seceta?",
+        "a": "Da, este unul dintre cei mai rezistenți arbori la secetă și la solurile calcaroase."
+      }
+    ]
+  },
+  "97": {
+    "uses": "Combină creșterea rapidă a arțarului argintiu cu culoarea de toamnă a arțarului roșu, de aceea este foarte căutat pentru aliniamente, parcuri și ansambluri rezidențiale. 'Autumn Blaze' are o coroană ovală și culoare roșu-portocaliu intens, 'Armstrong' este columnar, potrivit pentru străzi înguste, iar 'Celebration' are o coroană regulată.",
+    "planting": "Ajunge la 12–15 m ('Armstrong' rămâne îngust, cca 4–5 m lățime). În aliniamente se plantează la 7–10 m distanță ('Armstrong' la 5–6 m). Tolerează diverse soluri, inclusiv umede, la soare sau semiumbră.",
+    "care": "Udați regulat în primii ani. Tăierile de formare se fac la sfârșitul verii sau iarna, pentru a evita scurgerea sevei primăvara. Foarte rezistent la ger.",
+    "faq": [
+      {
+        "q": "Ce diferență este între 'Autumn Blaze' și 'Armstrong'?",
+        "a": "'Autumn Blaze' are coroană ovală, largă și cel mai intens colorit de toamnă; 'Armstrong' are coroană columnară, îngustă, pentru străzi și spații înguste."
+      },
+      {
+        "q": "Cât de repede crește?",
+        "a": "Repede – unul dintre cei mai rapizi arțari pentru plantări urbane."
+      }
+    ]
+  },
+  "98": {
+    "uses": "'Flamingo' este ales pentru efectul de culoare: frunzișul tânăr roz, apoi alb-verde, luminează grădinile, intrările și grupurile de arbuști închiși la culoare. Se folosește ca arbore solitar pe tulpină în grădini rezidențiale, parcuri mici și curți interioare.",
+    "planting": "Ajunge la 5–7 m, cu o coroană rotundă. Se plantează ca exemplar solitar sau în grupuri mici, la 4–5 m distanță. Culoarea este cea mai frumoasă la soare sau semiumbră luminoasă.",
+    "care": "Tăierea ușoară la sfârșitul iernii stimulează lăstarii noi, cei mai colorați. Eliminați ramurile care revin la frunze complet verzi. Rezistent la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "De ce lăstarii sunt roz?",
+        "a": "La 'Flamingo' frunzele tinere apar roz primăvara și devin apoi alb-verzi; tăierile ușoare stimulează noi lăstari colorați."
+      },
+      {
+        "q": "Ce dimensiune atinge?",
+        "a": "Este un arbore mic, de 5–7 m, potrivit și pentru grădini mai mici."
+      }
+    ]
+  },
+  "99": {
+    "uses": "Sunt arbori de aliniament moderni, cu dimensiuni medii și coroană regulată, potriviți pentru străzi, parcări, piețe și ansambluri rezidențiale. 'Pacific Sunset' are o coroană rotund-ovală și colorit de toamnă timpuriu, galben-portocaliu-roșu; 'Norwegian Sunset' are o coroană ovală, mai îngustă.",
+    "planting": "Ajung la 9–11 m înălțime și 7–8 m lățime ('Norwegian Sunset' mai îngust). În aliniamente se plantează la 7–9 m distanță. Tolerează diverse soluri, căldura și seceta moderată.",
+    "care": "Udare regulată în primii doi ani. Tăieri de formare la sfârșitul verii sau iarna. Foarte rezistenți la ger și la condițiile urbane.",
+    "faq": [
+      {
+        "q": "Ce înseamnă 'Warrenred' și 'Keithsform'?",
+        "a": "Sunt denumirile oficiale ale soiurilor: 'Pacific Sunset' = 'Warrenred', 'Norwegian Sunset' = 'Keithsform'."
+      },
+      {
+        "q": "Sunt potriviți pentru străzi?",
+        "a": "Da, au dimensiuni moderate și o coroană regulată, fiind selectați special pentru aliniamente."
+      }
+    ]
+  },
+  "100": {
+    "uses": "Paltinul de munte oferă umbră densă și o siluetă impunătoare în parcuri, scuaruri și aliniamente largi. 'Atropurpureum' are frunze verzi deasupra și purpurii pe dos, cu efect decorativ în bătaia vântului, iar 'Bruchem' are o coroană mai îngustă, ovală, potrivită pentru străzi.",
+    "planting": "Ajunge la 20–30 m, cu coroană largă (soiul 'Bruchem' mai îngust). Se plantează la 10–12 m distanță în aliniamente. Crește bine pe soluri fertile, chiar calcaroase, și tolerează expunerea la vânt.",
+    "care": "Udare în primii ani după plantare și tăieri de formare iarna. Este foarte rezistent la ger și vânt. Nu se recomandă în spații foarte înguste, din cauza dimensiunilor mari.",
+    "faq": [
+      {
+        "q": "Cât de mare devine paltinul de munte?",
+        "a": "Este un arbore mare, de 20–30 m; pentru străzi se aleg soiuri cu coroană mai îngustă, ca 'Bruchem'."
+      },
+      {
+        "q": "Ce aspect are 'Atropurpureum'?",
+        "a": "Frunzele sunt verzi închis deasupra și purpurii pe dos, ceea ce dă un efect bicolor în vânt."
+      }
+    ]
+  },
+  "101": {
+    "uses": "Este un arbore mic sau arbust mare apreciat pentru culoarea de toamnă roșie intensă și pentru rezistența la frig și secetă. Se folosește în grădini mici, parcuri, perdele de protecție, garduri vii libere și ca arbore pe tulpină în spații restrânse.",
+    "planting": "Ajunge la 5–7 m înălțime. Se plantează ca solitar, în grupuri la 3–4 m sau în garduri vii la 1–1,5 m distanță. Crește pe majoritatea solurilor, preferabil la soare pentru cea mai bună culoare.",
+    "care": "Necesită foarte puțină întreținere și tolerează tăierile. Este extrem de rezistent la ger (până la aproximativ -35°C) și tolerează seceta după înrădăcinare.",
+    "faq": [
+      {
+        "q": "Când se colorează arțarul ginnala?",
+        "a": "Toamna, frunzele devin roșu aprins, uneori portocalii – una dintre cele mai intense culori de toamnă."
+      },
+      {
+        "q": "Poate fi folosit în gard viu?",
+        "a": "Da, suportă bine tăierile și formează garduri vii dense, libere sau tunse."
+      }
+    ]
+  },
+  "102": {
+    "uses": "Hibridul 'Annae' (înrudit cu jugastrul) este apreciat pentru frunzișul tânăr colorat și pentru robustețea sa. Se folosește în aliniamente, parcuri și spații publice, unde aduce un contrast discret de culoare primăvara.",
+    "planting": "Ajunge la 10–12 m, cu o coroană ovală, compactă. În aliniamente se plantează la 7–9 m distanță. Tolerează diverse soluri și condițiile urbane.",
+    "care": "Udare în primii ani și tăieri de formare iarna. Este rezistent la ger și la poluare, cu întreținere redusă.",
+    "faq": [
+      {
+        "q": "Cu ce arbore se aseamănă 'Annae'?",
+        "a": "Este un hibrid înrudit cu jugastrul, cu aceeași robustețe, dar cu frunziș tânăr roșu-violet."
+      },
+      {
+        "q": "Este potrivit pentru aliniamente?",
+        "a": "Da, are coroană compactă și tolerează bine condițiile urbane."
+      }
+    ]
+  },
+  "103": {
+    "uses": "Spre deosebire de alți arini, arinul italian tolerează și solurile uscate și calcaroase, de aceea se folosește în aliniamente, parcări, perdele de protecție și zone industriale. Frunzișul lucios rămâne verde până târziu toamna.",
+    "planting": "Ajunge la 15–20 m, cu o coroană conică regulată. În aliniamente se plantează la 7–10 m distanță. Fixează azotul din aer, ceea ce îl ajută pe solurile sărace.",
+    "care": "Necesită puțină întreținere; udare în primii ani. Crește repede și suportă bine tăierile de formare. Rezistent la ger până la aproximativ -20°C.",
+    "faq": [
+      {
+        "q": "Tolerează arinul italian seceta?",
+        "a": "Da, este unul dintre puținii arini care cresc bine și pe soluri mai uscate și calcaroase."
+      },
+      {
+        "q": "Cât de repede crește?",
+        "a": "Repede – este folosit când se dorește un efect rapid în aliniamente și perdele de protecție."
+      }
+    ]
+  },
+  "104": {
+    "uses": "Arinul negru este alegerea clasică pentru malurile apelor, zone umede, bazine de retenție și consolidarea taluzurilor. Soiurile cu frunze fin crestate 'Imperialis' și 'Laciniata' sunt arbori decorativi eleganți pentru parcuri și grădini mari.",
+    "planting": "Specia ajunge la 15–25 m; soiurile decorative rămân mai mici. Se plantează la 6–10 m distanță sau mai des în perdele. Preferă solurile umede, chiar inundabile temporar, și fixează azotul din aer.",
+    "care": "Pe solurile umede necesită foarte puțină întreținere. Tolerează tăierile și se regenerează bine. Foarte rezistent la ger.",
+    "faq": [
+      {
+        "q": "Unde se plantează arinul negru?",
+        "a": "Pe malurile apelor, în zone umede, lângă bazine de retenție și pe soluri care pot fi inundate temporar."
+      },
+      {
+        "q": "Ce soiuri decorative există?",
+        "a": "'Imperialis' și 'Laciniata' au frunze adânc crestate, cu aspect fin, potrivite pentru parcuri."
+      }
+    ]
+  },
+  "105": {
+    "uses": "Este unul dintre cei mai buni arini pentru oraș: tolerează solurile compactate, căldura și poluarea. Se folosește în aliniamente, parcări, zone industriale și parcuri, unde frunzișul rămâne verde și sănătos până toamna târziu.",
+    "planting": "Ajunge la 15–20 m, cu o coroană ovală, regulată. În aliniamente se plantează la 7–10 m distanță. Crește pe soluri umede, dar și pe cele mai uscate.",
+    "care": "Întreținere redusă; udare în primii ani. Crește repede și suportă bine tăierile. Rezistent la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "De ce este arinul Spaeth potrivit pentru oraș?",
+        "a": "Tolerează solurile compactate, căldura și poluarea mai bine decât arinul comun."
+      },
+      {
+        "q": "Ce aspect au frunzele?",
+        "a": "Sunt mari, alungite și lucioase, iar lăstarii tineri au nuanțe violacee."
+      }
+    ]
+  },
+  "106": {
+    "uses": "Oferă interes în toate anotimpurile: înflorire abundentă în aprilie, fructe apreciate de păsări, frunziș bronz la pornire și colorit de toamnă spectaculos. Formele pe tulpină sunt potrivite pentru străzi înguste, curți, grădini rezidențiale și spații mici.",
+    "planting": "Ajunge la 5–8 m, cu o coroană ovală ('Robin Hill' mai îngustă). Se plantează la 4–6 m distanță. Preferă solurile bine drenate, ușor acide până la neutre, la soare sau semiumbră.",
+    "care": "Necesită puțină întreținere și aproape nicio tăiere. Udați în primii ani după plantare. Foarte rezistent la ger (până la aproximativ -30°C).",
+    "faq": [
+      {
+        "q": "Când înflorește amelanchier?",
+        "a": "În aprilie, înainte sau odată cu apariția frunzelor, cu flori albe numeroase."
+      },
+      {
+        "q": "Sunt fructele comestibile?",
+        "a": "Da, fructele mici, închise la culoare, sunt comestibile și foarte apreciate de păsări."
+      }
+    ]
+  },
+  "107": {
+    "uses": "Este ales în principal pentru scoarța sa colorată, vizibilă mai ales iarna. Se plantează ca solitar sau în grupuri mici în parcuri, grădini rezidențiale, curți ale clădirilor de birouri și în compoziții peisagistice moderne.",
+    "planting": "Ajunge la 12–15 m, cu o coroană ovală. Se plantează la 5–8 m distanță sau în grupuri. Preferă solurile umede, dar bine drenate, și locurile însorite sau în semiumbră.",
+    "care": "Udați regulat în primii ani, mai ales vara. Tăierile se fac doar la sfârșitul verii, deoarece mestecenii pierd multă sevă primăvara. Rezistent la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "Ce face deosebit soiul 'Fascination'?",
+        "a": "Scoarța portocaliu-arămie care se exfoliază, cu tonuri de roz și crem – decorativă mai ales iarna."
+      },
+      {
+        "q": "Când se taie mesteacănul?",
+        "a": "La sfârșitul verii; primăvara mestecenii pierd multă sevă la tăiere."
+      }
+    ]
+  },
+  "108": {
+    "uses": "Este unul dintre puținii mesteceni care tolerează atât solurile umede, cât și căldura verii. Se folosește în parcuri, pe malurile apelor, în grădini pluviale și ca solitar, adesea în formă cu mai multe tulpini, pentru efectul scoarței.",
+    "planting": "Ajunge la 12–18 m, cu o coroană ovală. Se plantează la 6–8 m distanță. Preferă solurile umede, ușor acide; pe solurile foarte calcaroase frunzele pot îngălbeni.",
+    "care": "Udați regulat, mai ales în perioadele secetoase. Tăierile se fac la sfârșitul verii. Foarte rezistent la ger.",
+    "faq": [
+      {
+        "q": "Tolerează mesteacănul de râu solurile umede?",
+        "a": "Da, crește bine pe soluri umede și chiar inundate temporar, de exemplu pe malurile apelor."
+      },
+      {
+        "q": "De ce este apreciată scoarța?",
+        "a": "Se exfoliază în straturi subțiri, în nuanțe de scorțișoară și roz-maroniu, fiind decorativă tot anul."
+      }
+    ]
+  },
+  "109": {
+    "uses": "Spre deosebire de mesteacănul comun, mesteacănul pufos tolerează solurile umede și reci. Se folosește în parcuri naturaliste, împăduriri, zone umede și plantări de grup, unde scoarța albă și frunzișul ușor creează un aspect luminos.",
+    "planting": "Ajunge la 15–20 m, cu o coroană ovală, aerisită. Se plantează în grupuri sau la 5–8 m distanță. Preferă solurile umede, acide până la neutre.",
+    "care": "Necesită puțină întreținere. Tăierile se fac doar la sfârșitul verii. Extrem de rezistent la ger.",
+    "faq": [
+      {
+        "q": "Prin ce diferă de mesteacănul comun?",
+        "a": "Lăstarii tineri sunt pufoși, iar specia tolerează mai bine solurile umede și reci."
+      },
+      {
+        "q": "Unde se folosește?",
+        "a": "În parcuri naturaliste, împăduriri, zone umede și plantări de grup."
+      }
+    ]
+  },
+  "110": {
+    "uses": "'Doorenbos' (sin. jacquemontii) este ales pentru scoarța albă ca zăpada, care se exfoliază și rămâne curată și luminoasă. Se plantează ca solitar, în grupuri sau în formă cu mai multe tulpini în grădini rezidențiale, curți de birouri, hoteluri și piețe urbane.",
+    "planting": "Ajunge la 12–15 m, cu o coroană ovală, aerisită. Se plantează la 5–7 m distanță sau în grupuri de 3–5 exemplare. Preferă solurile umede, bine drenate, la soare sau semiumbră.",
+    "care": "Udați regulat în primii ani. Tăierile se fac la sfârșitul verii. Scoarța poate fi spălată ușor pentru un efect maxim. Rezistent la ger până la aproximativ -30°C.",
+    "faq": [
+      {
+        "q": "De ce este atât de albă scoarța?",
+        "a": "Soiul 'Doorenbos' a fost selectat pentru scoarța sa albă pură, care se exfoliază și rămâne luminoasă tot anul."
+      },
+      {
+        "q": "Se poate planta în grupuri?",
+        "a": "Da, grupurile de 3–5 exemplare sau formele cu mai multe tulpini sunt foarte decorative."
+      }
+    ]
+  },
+  "111": {
+    "uses": "Carpenul este unul dintre cei mai versatili arbori: se folosește în aliniamente, parcuri, perdele de protecție, arbori conduși în spalier sau formă de acoperiș și garduri vii înalte. Tolerează umbra, solurile argiloase și condițiile urbane.",
+    "planting": "Ca arbore liber ajunge la 15–20 m. În aliniamente se plantează la 6–8 m distanță; pentru garduri vii, la 30–50 cm. Crește pe aproape toate solurile, de la nisipoase la argiloase, la soare sau umbră.",
+    "care": "Suportă foarte bine tăierile, care se fac vara (iunie–august) pentru forme compacte. Udați în primii ani. Foarte rezistent la ger.",
+    "faq": [
+      {
+        "q": "Pentru ce se folosește carpenul pe tulpină?",
+        "a": "Pentru aliniamente, arbori formați (spalier, acoperiș) și perdele verzi înalte în spații urbane."
+      },
+      {
+        "q": "Tolerează carpenul umbra?",
+        "a": "Da, este unul dintre puținii arbori care cresc bine și în semiumbră sau umbră."
+      }
+    ]
+  },
+  "112": {
+    "uses": "Este un arbore decorativ de dimensiuni reduse, apreciat pentru frunzele fin plisate și fructele pendente, verzi apoi brune. Se folosește ca solitar în grădini rezidențiale, curți interioare, grădini japoneze și parcuri.",
+    "planting": "Ajunge la 8–10 m, cu o coroană largă, etajată. Se plantează ca solitar sau la 5–6 m distanță. Preferă solurile fertile, bine drenate, la soare sau semiumbră.",
+    "care": "Necesită puțină întreținere și tăieri minime. Udați în primii ani. Rezistent la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "Cât de mare crește carpenul japonez?",
+        "a": "De obicei 8–10 m, cu o coroană largă – potrivit pentru grădini mai mici."
+      },
+      {
+        "q": "Ce îl face decorativ?",
+        "a": "Frunzele cu nervuri dese, plisate, și fructele pendente asemănătoare hameiului."
+      }
+    ]
+  },
+  "113": {
+    "uses": "Castanul comestibil este un arbore de parc impunător, cu înflorire de vară parfumată și castane comestibile toamna. Se folosește în parcuri, domenii, aliniamente largi și livezi, mai ales în zonele cu soluri acide și climat blând.",
+    "planting": "Ajunge la 20–30 m, cu o coroană largă. Se plantează la 10–12 m distanță. Preferă solurile acide până la neutre, bine drenate; nu tolerează solurile foarte calcaroase.",
+    "care": "Udați în primii ani. Tăierile de formare se fac iarna. Pentru fructificare bună se recomandă cel puțin doi arbori pentru polenizare. Rezistent la ger până la aproximativ -20°C.",
+    "faq": [
+      {
+        "q": "Ce sol preferă castanul comestibil?",
+        "a": "Soluri acide până la neutre, bine drenate; pe solurile calcaroase crește slab."
+      },
+      {
+        "q": "Este nevoie de doi arbori pentru castane?",
+        "a": "Da, pentru o fructificare bună se recomandă plantarea a cel puțin doi arbori."
+      }
+    ]
+  },
+  "114": {
+    "uses": "Celtis este tot mai folosit în orașe ca alternativă la ulm și platan, datorită rezistenței la secetă, căldură și poluare. Se plantează în aliniamente, piețe, parcări și parcuri. C. australis este potrivită pentru zonele calde, C. occidentalis pentru climat mai rece.",
+    "planting": "Ajunge la 15–20 m, cu o coroană largă, rotundă. În aliniamente se plantează la 8–10 m distanță. Crește pe aproape toate solurile, inclusiv sărace, calcaroase și uscate.",
+    "care": "Întreținere redusă; udare în primii ani. Tăierile de formare se fac iarna. C. occidentalis este foarte rezistentă la ger, C. australis până la aproximativ -20°C.",
+    "faq": [
+      {
+        "q": "Ce diferență este între C. australis și C. occidentalis?",
+        "a": "C. australis (mediteraneeană) preferă zonele calde; C. occidentalis (americană) este mai rezistentă la ger."
+      },
+      {
+        "q": "De ce se folosește în orașe?",
+        "a": "Tolerează foarte bine seceta, căldura, solurile compactate și poluarea."
+      }
+    ]
+  },
+  "115": {
+    "uses": "Katsura este apreciat pentru frunzișul delicat, roșiatic la pornire, galben-portocaliu-roz toamna, și pentru parfumul de caramel al frunzelor căzute. Se plantează ca solitar în parcuri, grădini rezidențiale și grădini japoneze.",
+    "planting": "Ajunge la 10–15 m, cu o coroană piramidală, apoi largă. Se plantează ca solitar sau la 6–8 m distanță. Preferă solurile umede, bine drenate, și un loc ferit de vânturile uscate.",
+    "care": "Are nevoie de udare regulată, mai ales în verile secetoase, când frunzele pot suferi. Tăierile sunt rareori necesare. Rezistent la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "De ce miroase a caramel?",
+        "a": "Toamna, frunzele căzute eliberează un compus aromatic cu miros de caramel și turtă dulce."
+      },
+      {
+        "q": "Are nevoie de mult udat?",
+        "a": "Da, preferă solurile umede; în verile secetoase trebuie udat regulat."
+      }
+    ]
+  },
+  "116": {
+    "uses": "Este un arbore mic, foarte decorativ primăvara, potrivit pentru grădini rezidențiale, curți, parcuri și aliniamente pe străzi înguste. Frunzele mari, în formă de inimă, oferă un frunziș elegant vara, iar toamna se colorează în galben.",
+    "planting": "Ajunge la 6–9 m, cu o coroană largă, rotunjită. Se plantează la 5–6 m distanță. Preferă solurile bine drenate și locurile însorite sau în semiumbră.",
+    "care": "Nu tolerează bine transplantarea la vârste mari, de aceea plantarea corectă de la început este importantă. Udați în primii ani. Tăieri minime, după înflorire. Rezistent la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "Când înflorește arborele iudei canadian?",
+        "a": "În aprilie, înainte de apariția frunzelor, cu flori roz-violet direct pe ramuri și tulpină."
+      },
+      {
+        "q": "Prin ce diferă de Cercis siliquastrum?",
+        "a": "Are frunze mai subțiri, ascuțite, și este mai rezistent la ger decât specia mediteraneeană."
+      }
+    ]
+  },
+  "117": {
+    "uses": "Alunul turcesc este un arbore de aliniament excelent: coroană simetrică, rădăcini adânci care nu ridică pavajul și toleranță ridicată la secetă, căldură și sare. Se folosește pe străzi, bulevarde, în parcări și piețe urbane.",
+    "planting": "Ajunge la 15–20 m, cu o coroană conică, regulată. În aliniamente se plantează la 7–9 m distanță. Crește pe aproape orice sol, inclusiv calcaros și uscat.",
+    "care": "Necesită foarte puțină întreținere și aproape nicio tăiere de formare, datorită coroanei naturale regulate. Udați în primii ani. Foarte rezistent la ger.",
+    "faq": [
+      {
+        "q": "De ce este bun pentru aliniamente?",
+        "a": "Are o coroană naturală regulată, rădăcini adânci și tolerează seceta, căldura și sarea de pe drumuri."
+      },
+      {
+        "q": "Face alune?",
+        "a": "Da, produce alune mici, comestibile, în învelișuri dantelate, dar este cultivat în principal ca arbore ornamental."
+      }
+    ]
+  },
+  "118": {
+    "uses": "Păducelul pe tulpină este un arbore mic ideal pentru străzi înguste, piețe, parcări și grădini, datorită dimensiunilor reduse și rezistenței la secetă, vânt și poluare. 'Paul's Scarlet' are flori batute roșu-carmin, 'Carrierei' are frunziș lucios și fructe portocalii persistente, iar 'Splendens' este un soi robust cu coroană regulată.",
+    "planting": "Ajunge la 5–8 m, cu o coroană rotundă. În aliniamente se plantează la 5–7 m distanță. Crește pe aproape orice sol, inclusiv calcaros și uscat, de preferință la soare.",
+    "care": "Întreținere foarte redusă; suportă bine tăierile, care se fac după înflorire sau iarna. Udați în primii ani. Foarte rezistent la ger.",
+    "faq": [
+      {
+        "q": "Când înflorește păducelul 'Paul's Scarlet'?",
+        "a": "În mai, cu flori batute roșu-carmin foarte numeroase."
+      },
+      {
+        "q": "Este potrivit pentru străzi înguste?",
+        "a": "Da, rămâne mic (5–8 m) și tolerează bine condițiile urbane."
+      }
+    ]
+  },
+  "119": {
+    "uses": "Este unul dintre cei mai spectaculoși arbori de înflorire: bracteele mari, albe, acoperă coroana la sfârșitul primăverii. Se plantează ca solitar în parcuri, grădini mari, domenii, hoteluri și colecții dendrologice, unde atrage atenția.",
+    "planting": "Ajunge la 10–15 m, cu o coroană piramidală, apoi largă. Se plantează ca solitar, cu spațiu suficient. Preferă solurile fertile, umede, dar bine drenate, și un loc adăpostit de vânt.",
+    "care": "Udați regulat, mai ales vara. Înflorește de obicei după câțiva ani de la plantare. Tăierile sunt rareori necesare. Rezistent la ger până la aproximativ -20°C.",
+    "faq": [
+      {
+        "q": "Când apar 'batistele' albe?",
+        "a": "În mai, când bracteele mari, albe, atârnă de ramuri în jurul florilor."
+      },
+      {
+        "q": "Înflorește imediat după plantare?",
+        "a": "De obicei înflorește după câțiva ani, când arborele se maturizează."
+      }
+    ]
+  },
+  "120": {
+    "uses": "Fagul este unul dintre cei mai nobili arbori de parc: specia verde și fagul roșu ('Atropunicea') sunt arbori solitari impunători, soiurile columnare 'Dawyck' (verde) și 'Dawyck Purple' (purpuriu) se potrivesc în spații înguste, iar 'Purpurea Pendula' este un arbore pletos mic, pentru grădini. Fagul se folosește și pentru garduri vii înalte.",
+    "planting": "Specia ajunge la 25–30 m; soiurile columnare rămân înguste (2–3 m lățime). Se plantează în soluri fertile, bine drenate, fără exces de apă. Nu tolerează solurile compactate sau îmbibate cu apă.",
+    "care": "Udați regulat în primii ani; fagul are nevoie de timp pentru înrădăcinare. Scoarța subțire este sensibilă la arsuri solare – protejați tulpinile tinere. Foarte rezistent la ger.",
+    "faq": [
+      {
+        "q": "Ce soi de fag se potrivește în spații înguste?",
+        "a": "Soiurile columnare 'Dawyck' (verde) și 'Dawyck Purple' (purpuriu), care rămân înguste."
+      },
+      {
+        "q": "Tolerează fagul solurile umede?",
+        "a": "Nu, preferă soluri bine drenate; excesul de apă și solurile compactate îi dăunează."
+      }
+    ]
+  },
+  "121": {
+    "uses": "Soiurile selectate de frasin american sunt arbori de aliniament apreciați pentru coroana simetrică și culoarea de toamnă: 'Autumn Purple' și 'Autumn Applause' devin violet-burgund, iar 'Skyline' are o coroană ovală, compactă, potrivită pentru străzi.",
+    "planting": "Ajunge la 15–20 m. În aliniamente se plantează la 8–10 m distanță. Tolerează diverse soluri, de preferință fertile și bine drenate, la soare.",
+    "care": "Udați în primii ani. Tăierile de formare se fac iarna. Rezistent la ger până la aproximativ -30°C.",
+    "faq": [
+      {
+        "q": "Ce culoare are frasinul american toamna?",
+        "a": "Soiurile 'Autumn Purple' și 'Autumn Applause' devin violet-burgund, o culoare rară la arbori."
+      },
+      {
+        "q": "Ce soi este potrivit pentru străzi?",
+        "a": "'Skyline' are o coroană ovală, compactă și regulată, potrivită pentru aliniamente."
+      }
+    ]
+  },
+  "122": {
+    "uses": "'Raywood' este apreciat pentru frunzișul fin, care oferă o umbră ușoară, și pentru culoarea de toamnă vișinie. Tolerează bine seceta și căldura, fiind potrivit pentru aliniamente, parcări și parcuri în zonele cu veri calde.",
+    "planting": "Ajunge la 12–15 m, cu o coroană ovală, compactă. În aliniamente se plantează la 7–9 m distanță. Crește pe diverse soluri, inclusiv calcaroase și uscate.",
+    "care": "Întreținere redusă; udare în primii ani. Tăieri de formare iarna. Rezistent la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "Ce culoare are 'Raywood' toamna?",
+        "a": "Frunzele devin vișiniu-violet, de unde și numele popular de 'frasin claret'."
+      },
+      {
+        "q": "Tolerează seceta?",
+        "a": "Da, este unul dintre frasinii cei mai rezistenți la secetă și căldură."
+      }
+    ]
+  },
+  "123": {
+    "uses": "Frasinul comun oferă o umbră ușoară, filtrată, în parcuri, aliniamente largi și peisaje naturale. Soiurile 'Altena' și 'Atlas' au coroane regulate, potrivite pentru străzi, iar 'Jaspidea' este decorativ iarna prin lăstarii galben-aurii.",
+    "planting": "Ajunge la 20–30 m. În aliniamente se plantează la 10–12 m distanță. Preferă solurile fertile, profunde, umede dar bine drenate, inclusiv calcaroase.",
+    "care": "Udați în primii ani. Tăieri de formare iarna. Foarte rezistent la ger.",
+    "faq": [
+      {
+        "q": "Ce soi are ramuri galbene?",
+        "a": "'Jaspidea' are lăstari galben-aurii, decorativi iarna, și frunze galbene toamna."
+      },
+      {
+        "q": "Ce soiuri sunt potrivite pentru aliniamente?",
+        "a": "'Altena' și 'Atlas', care au coroane regulate și compacte."
+      }
+    ]
+  },
+  "124": {
+    "uses": "'Summit' este un soi de aliniament cu coroană ovală-piramidală, regulată, care necesită puține tăieri de formare. Se folosește pe străzi, bulevarde, în parcări și zone industriale, unde tolerează condiții dificile.",
+    "planting": "Ajunge la 12–15 m. În aliniamente se plantează la 7–9 m distanță. Tolerează solurile sărace, umede sau uscate și sarea de pe drumuri.",
+    "care": "Întreținere redusă; udare în primii ani. Tăieri minime de formare iarna. Extrem de rezistent la ger.",
+    "faq": [
+      {
+        "q": "Ce culoare are 'Summit' toamna?",
+        "a": "Frunzele devin galben-aurii."
+      },
+      {
+        "q": "De ce este folosit pe străzi?",
+        "a": "Are coroană naturală regulată și tolerează solurile dificile, seceta și sarea."
+      }
+    ]
+  },
+  "125": {
+    "uses": "Ginkgo este unul dintre cei mai rezistenți arbori urbani: tolerează poluarea, căldura, solurile compactate și este practic lipsit de boli și dăunători. Se plantează în aliniamente, piețe, curți, parcuri și ca solitar, pentru culoarea aurie spectaculoasă de toamnă.",
+    "planting": "Crește lent la început și ajunge la 15–25 m, cu o coroană inițial îngustă. În aliniamente se plantează la 8–10 m distanță. Tolerează aproape orice sol bine drenat.",
+    "care": "Necesită foarte puțină întreținere și aproape nicio tăiere. Udați în primii ani. Foarte rezistent la ger.",
+    "faq": [
+      {
+        "q": "De ce este ginkgo potrivit pentru oraș?",
+        "a": "Tolerează poluarea, căldura și solurile compactate și este practic lipsit de boli și dăunători."
+      },
+      {
+        "q": "Când se colorează frunzele?",
+        "a": "Toamna, frunzele devin galben-auriu intens și cad aproape simultan."
+      }
+    ]
+  },
+  "126": {
+    "uses": "Glădița fără spini este un arbore de aliniament apreciat pentru umbra ușoară, care permite gazonului să crească sub coroană, și pentru toleranța la secetă, căldură și sare. 'Rubylace' are frunze tinere roșu-vișiniu, iar forma inermis este verde, viguroasă.",
+    "planting": "Ajunge la 12–20 m, în funcție de soi, cu o coroană largă, aerisită. În aliniamente se plantează la 8–10 m distanță. Crește pe aproape orice sol, inclusiv sărac și uscat.",
+    "care": "Întreținere redusă; udare în primii ani. Tăieri de formare la sfârșitul verii. Rezistentă la ger până la aproximativ -30°C.",
+    "faq": [
+      {
+        "q": "Au spini aceste soiuri?",
+        "a": "Nu, toate formele oferite (inermis, 'Rubylace', 'Speczam') sunt fără spini."
+      },
+      {
+        "q": "De ce crește gazonul sub glădiță?",
+        "a": "Frunzișul fin, penat, lasă să treacă multă lumină, oferind o umbră ușoară."
+      }
+    ]
+  },
+  "127": {
+    "uses": "Nucul negru este un arbore de parc impunător, cu coroană largă și frunziș elegant, și o specie valoroasă pentru plantații de lemn de calitate. Se plantează în parcuri mari, domenii, perdele forestiere și plantații.",
+    "planting": "Ajunge la 20–30 m, cu o coroană largă. Se plantează la 10–12 m distanță. Preferă solurile profunde, fertile, bine drenate, la soare.",
+    "care": "Udați în primii ani. Tăierile se fac la sfârșitul verii, deoarece nucii pierd sevă primăvara. Rădăcinile eliberează substanțe care pot inhiba alte plante în apropiere. Foarte rezistent la ger.",
+    "faq": [
+      {
+        "q": "Sunt nucile negre comestibile?",
+        "a": "Da, au un gust intens, dar coaja este foarte tare; arborele este cultivat mai ales pentru lemn și ca arbore de parc."
+      },
+      {
+        "q": "Ce trebuie știut despre plantarea lângă alte plante?",
+        "a": "Nucul negru eliberează juglonă, o substanță care poate inhiba creșterea unor plante sensibile din apropiere."
+      }
+    ]
+  },
+  "128": {
+    "uses": "Nucul este arborele clasic pentru curți mari, ferme, livezi și parcuri, oferind umbră densă și nuci. Se folosește și în plantații pentru lemn și în aliniamente rurale largi.",
+    "planting": "Ajunge la 15–25 m, cu o coroană largă, rotundă. Se plantează la 10–12 m distanță. Preferă solurile profunde, fertile, bine drenate, și locurile însorite, ferite de înghețurile târzii.",
+    "care": "Udați în primii ani. Tăierile se fac vara sau la sfârșitul verii, nu primăvara, pentru a evita scurgerea sevei. Rezistent la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "Când se taie nucul?",
+        "a": "Vara sau la sfârșitul verii; primăvara nucul pierde multă sevă la tăiere."
+      },
+      {
+        "q": "Cât de mare devine nucul?",
+        "a": "Este un arbore mare, de 15–25 m, cu o coroană largă – are nevoie de spațiu."
+      }
+    ]
+  },
+  "129": {
+    "uses": "Este unul dintre puținii arbori care înfloresc în plină vară (iulie), cu flori galben-aurii, urmate de fructe-lampion roz-brune. Tolerează bine seceta, căldura și poluarea, fiind potrivită pentru piețe urbane, străzi, parcări, curți și grădini rezidențiale.",
+    "planting": "Ajunge la 8–12 m, cu o coroană largă, rotundă. Se plantează la 6–8 m distanță. Crește pe aproape orice sol bine drenat, inclusiv calcaros, la soare.",
+    "care": "Întreținere redusă; udare în primii ani. Tăieri de formare iarna. Rezistentă la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "Când înflorește?",
+        "a": "În iulie, cu panicule mari de flori galben-aurii – o perioadă în care puțini arbori înfloresc."
+      },
+      {
+        "q": "Este potrivită pentru zone calde și uscate?",
+        "a": "Da, tolerează foarte bine seceta, căldura și solurile calcaroase."
+      }
+    ]
+  },
+  "130": {
+    "uses": "Laricele japonez este apreciat pentru creșterea rapidă și pentru culoarea aurie de toamnă, rară la conifere. Se folosește în parcuri, împăduriri, perdele de protecție și grădini mari, ca solitar sau în grupuri.",
+    "planting": "Ajunge la 20–30 m, cu o coroană conică. Se plantează la 5–8 m distanță sau în grupuri. Preferă solurile umede, bine drenate, ușor acide, la soare plin.",
+    "care": "Udați în primii ani. Nu necesită tăieri. Extrem de rezistent la ger (până la aproximativ -35°C).",
+    "faq": [
+      {
+        "q": "Își pierde laricele acele iarna?",
+        "a": "Da, laricele este un conifer cu ace căzătoare: toamna acele devin aurii și cad, iar primăvara apar din nou."
+      },
+      {
+        "q": "Prin ce diferă de laricele european?",
+        "a": "Laricele japonez are ace mai albăstrui, lăstari roșiatici și crește mai repede."
+      }
+    ]
+  },
+  "131": {
+    "uses": "Este una dintre cele mai rezistente magnolii, potrivită și pentru zone mai reci. Se plantează ca solitar sau pe tulpină în parcuri, grădini rezidențiale, curți și aliniamente pietonale, unde înflorirea albă de primăvară este spectaculoasă.",
+    "planting": "Ajunge la 8–12 m, cu o coroană rotundă sau piramidală. Se plantează la 6–8 m distanță. Preferă solurile fertile, ușor acide până la neutre, bine drenate, la soare sau semiumbră.",
+    "care": "Udați regulat în primii ani. Tăierile se fac doar dacă este necesar, după înflorire. Exemplarele tinere înfloresc după câțiva ani. Rezistentă la ger până la aproximativ -30°C.",
+    "faq": [
+      {
+        "q": "Când înflorește Magnolia kobus?",
+        "a": "În aprilie, înainte de frunze, cu numeroase flori albe, parfumate."
+      },
+      {
+        "q": "Este rezistentă la ger?",
+        "a": "Da, este una dintre cele mai rezistente magnolii, până la aproximativ -30°C."
+      }
+    ]
+  },
+  "132": {
+    "uses": "'Susan' face parte din seria de hibrizi 'Little Girl', cu dimensiuni reduse și înflorire bogată, uneori și o a doua înflorire vara. Este ideală pentru grădini rezidențiale, curți, intrări și spații mici, ca solitar sau pe tulpină.",
+    "planting": "Ajunge la 3–5 m, cu o coroană compactă. Se plantează la 3–4 m distanță. Preferă solurile fertile, ușor acide, bine drenate, la soare sau semiumbră.",
+    "care": "Udați regulat, mai ales în primii ani și în verile secetoase. Tăieri minime, după înflorire. Rezistentă la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "De ce înflorește mai târziu?",
+        "a": "'Susan' înflorește în aprilie–mai, după majoritatea magnoliilor, astfel florile sunt rareori afectate de înghețurile târzii."
+      },
+      {
+        "q": "Este potrivită pentru grădini mici?",
+        "a": "Da, rămâne mică (3–5 m) și compactă."
+      }
+    ]
+  },
+  "133": {
+    "uses": "Merii pe tulpină înaltă combină funcția decorativă – înflorire albă-roz primăvara – cu producția de fructe. Se plantează în livezi tradiționale, grădini rezidențiale, grădini comunitare, școli și parcuri. 'Elstar' este un soi de desert aromat, 'Gravensteiner' un soi vechi, parfumat, iar 'Glorie van Holland' un soi olandez tradițional.",
+    "planting": "Pomii pe tulpină înaltă ajung la 5–8 m. Se plantează la 6–8 m distanță. Preferă solurile fertile, bine drenate, la soare. Pentru polenizare se recomandă plantarea mai multor soiuri.",
+    "care": "Tăieri de formare și de fructificare iarna, la sfârșitul iernii. Udați în primii ani și în perioadele secetoase. Rezistenți la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "Trebuie plantate mai multe soiuri?",
+        "a": "Da, majoritatea soiurilor de măr au nevoie de un alt soi în apropiere pentru o polenizare bună."
+      },
+      {
+        "q": "Ce înseamnă pom pe tulpină înaltă?",
+        "a": "Pom cu tulpină dreaptă, fără ramuri, de cca 1,8–2 m, cu coroana deasupra – potrivit pentru livezi tradiționale și spații publice."
+      }
+    ]
+  },
+  "134": {
+    "uses": "Supranumită 'fosila vie', metasequoia este un arbore spectaculos, cu silueta conică regulată și culoare de toamnă arămie. Se plantează ca solitar sau în grupuri în parcuri, lângă ape, în zone umede și în aliniamente largi.",
+    "planting": "Crește repede și ajunge la 25–35 m, cu o coroană conică îngustă. Se plantează la 6–8 m distanță. Preferă solurile umede, fertile; tolerează și solurile inundate temporar.",
+    "care": "Udați regulat, mai ales în verile secetoase. Nu necesită tăieri. Foarte rezistentă la ger.",
+    "faq": [
+      {
+        "q": "Își pierde acele iarna?",
+        "a": "Da, metasequoia este un conifer cu ace căzătoare; toamna acele devin arămii și cad."
+      },
+      {
+        "q": "Unde se plantează cel mai bine?",
+        "a": "În locuri însorite, cu sol umed – de exemplu în parcuri, lângă lacuri sau râuri."
+      }
+    ]
+  },
+  "135": {
+    "uses": "Dudul este un arbore tradițional de umbră pentru curți, piețe, terase și parcări. Soiul 'Fruitless' (fără fructe) este preferat în spațiile pavate, deoarece nu murdărește pavajul. Specia cu fructe se plantează în curți și livezi.",
+    "planting": "Ajunge la 8–15 m, cu o coroană largă, rotundă. Se plantează la 6–8 m distanță. Crește pe aproape orice sol, inclusiv sărac și uscat, la soare.",
+    "care": "Suportă foarte bine tăierile, inclusiv conducerea în formă de umbrelă sau acoperiș. Udați în primii ani. Rezistent la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "Ce înseamnă 'Fruitless'?",
+        "a": "Este un soi mascul, fără fructe, care nu murdărește pavajele – potrivit pentru piețe, terase și parcări."
+      },
+      {
+        "q": "Tolerează seceta?",
+        "a": "Da, dudul alb tolerează foarte bine seceta și căldura după înrădăcinare."
+      }
+    ]
+  },
+  "136": {
+    "uses": "Originar din sudul Europei, carpenul negru este tot mai folosit în orașe datorită rezistenței la secetă și căldură. Se plantează în aliniamente, parcări, parcuri și pe terenuri calcaroase, unde alte specii suferă.",
+    "planting": "Ajunge la 12–15 m, cu o coroană conică, apoi rotundă. În aliniamente se plantează la 7–9 m distanță. Crește bine pe solurile calcaroase, uscate și pietroase.",
+    "care": "Întreținere redusă; udare în primii ani. Tăieri de formare iarna. Rezistent la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "Este potrivit pentru zone secetoase?",
+        "a": "Da, este una dintre speciile cele mai rezistente la secetă, căldură și soluri calcaroase."
+      },
+      {
+        "q": "Ce aspect au fructele?",
+        "a": "Fructele sunt grupate în conuri pendente, asemănătoare hameiului."
+      }
+    ]
+  },
+  "137": {
+    "uses": "Este un arbore mic până la mijlociu, decorativ în toate anotimpurile: flori roșii mici iarna, frunziș sănătos vara, culoare spectaculoasă toamna și scoarță pestriță. Specia are coroană largă, iar 'Vanessa' coroană îngustă, potrivită pentru străzi și spații mici.",
+    "planting": "Ajunge la 6–10 m ('Vanessa' cu coroană mai îngustă). Se plantează la 5–7 m distanță. Tolerează diverse soluri bine drenate, inclusiv calcaroase, la soare sau semiumbră.",
+    "care": "Întreținere redusă și puține tăieri. Udați în primii ani. Rezistent la ger până la aproximativ -25°C și foarte sănătos.",
+    "faq": [
+      {
+        "q": "Ce soi se potrivește pe străzi?",
+        "a": "'Vanessa', care are o coroană erectă, mai îngustă."
+      },
+      {
+        "q": "Când este cel mai decorativ?",
+        "a": "Toamna, când frunzele devin galbene, portocalii și roșii, adesea pe același arbore."
+      }
+    ]
+  },
+  "138": {
+    "uses": "Este un arbore cu caracter, apreciat pentru scoarța groasă, brăzdată, și pentru coroana largă, aerisită. Se plantează ca solitar sau în grupuri în parcuri, piețe și aliniamente largi.",
+    "planting": "Ajunge la 10–15 m, cu o coroană largă. Se plantează la 8–10 m distanță. Tolerează aproape orice sol, inclusiv uscat și calcaros, la soare.",
+    "care": "Întreținere redusă; udare în primii ani. Tăieri de formare iarna. Extrem de rezistent la ger.",
+    "faq": [
+      {
+        "q": "De ce se numește arbore de plută?",
+        "a": "Scoarța sa este groasă, moale și brăzdată, asemănătoare plutei."
+      },
+      {
+        "q": "Este potrivit pentru oraș?",
+        "a": "Da, tolerează seceta, căldura și condițiile urbane."
+      }
+    ]
+  },
+  "139": {
+    "uses": "'Robusta' este un plop hibrid mascul (fără puf), folosit pentru efect rapid: perdele de protecție împotriva vântului, aliniamente de-a lungul drumurilor și canalelor, zone industriale și spații verzi mari.",
+    "planting": "Crește foarte repede și ajunge la 25–30 m. Se plantează la 6–10 m distanță. Tolerează diverse soluri, de preferință umede. Nu se plantează aproape de clădiri și conducte, din cauza rădăcinilor puternice.",
+    "care": "Întreținere redusă; udare în primii ani. Tăieri de formare iarna. Foarte rezistent la ger.",
+    "faq": [
+      {
+        "q": "Face 'Robusta' puf?",
+        "a": "Nu, este un clon mascul, deci nu produce puful specific plopilor femeli."
+      },
+      {
+        "q": "Unde nu se recomandă?",
+        "a": "Aproape de clădiri, conducte și pavaje, din cauza dimensiunilor mari și a rădăcinilor puternice."
+      }
+    ]
+  },
+  "140": {
+    "uses": "Specia se folosește în plantări naturaliste, împăduriri și perdele de protecție. Soiul 'Erecta' este un arbore columnar elegant, potrivit pentru străzi înguste, accente verticale în parcuri și grădini moderne.",
+    "planting": "Specia ajunge la 15–20 m; 'Erecta' rămâne îngust, cu 1,5–2 m lățime. 'Erecta' se plantează la 2–4 m distanță în rânduri. Tolerează aproape orice sol.",
+    "care": "Întreținere foarte redusă și creștere rapidă. Udați în primii ani. Extrem de rezistent la ger.",
+    "faq": [
+      {
+        "q": "De ce tremură frunzele?",
+        "a": "Pețiolii lungi și turtiți fac ca frunzele să se miște la cea mai mică adiere."
+      },
+      {
+        "q": "Cât de îngust rămâne 'Erecta'?",
+        "a": "Doar aproximativ 1,5–2 m lățime, fiind potrivit pentru spații înguste."
+      }
+    ]
+  },
+  "141": {
+    "uses": "Soiurile fructifere se plantează în livezi, curți, grădini comunitare și școli. 'Plena' este un arbore ornamental apreciat pentru aliniamente și parcuri: înflorire albă, batută și abundentă în aprilie, fără fructe care să murdărească pavajul.",
+    "planting": "Cireșii pe tulpină înaltă ajung la 8–15 m. Se plantează la 7–10 m distanță. Preferă solurile fertile, bine drenate, la soare. 'Lapins' și 'Stella' sunt autofertile; celelalte soiuri au nevoie de polenizatori.",
+    "care": "Tăierile se fac vara, după recoltare, pentru a reduce riscul de boli. Udați în primii ani. Rezistenți la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "Ce soiuri sunt autofertile?",
+        "a": "'Lapins' și 'Stella' sunt autofertile; 'Kordia', 'Regina', 'Van' și 'Hedelfinger' au nevoie de un alt soi pentru polenizare."
+      },
+      {
+        "q": "Face 'Plena' cireșe?",
+        "a": "Nu, 'Plena' are flori batute sterile și este un arbore pur decorativ."
+      }
+    ]
+  },
+  "142": {
+    "uses": "Prunii pe tulpină înaltă se plantează în livezi tradiționale, curți, grădini rezidențiale și grădini școlare sau comunitare. 'Opal' se coace devreme, la mijlocul verii, iar 'Victoria' este un soi popular, cu fructe mari, roșii.",
+    "planting": "Ajung la 5–7 m. Se plantează la 5–6 m distanță. Preferă solurile fertile, bine drenate, la soare. Ambele soiuri sunt autofertile.",
+    "care": "Tăierile se fac vara, pentru a reduce riscul de boli. Rărirea fructelor în anii bogați previne ruperea ramurilor. Rezistenți la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "Sunt 'Opal' și 'Victoria' autofertile?",
+        "a": "Da, ambele soiuri sunt autofertile și rodesc și fără alt soi în apropiere."
+      },
+      {
+        "q": "Când se taie prunul?",
+        "a": "Vara, după recoltare; tăierile de iarnă cresc riscul de boli."
+      }
+    ]
+  },
+  "143": {
+    "uses": "Mălinul este apreciat pentru înflorirea parfumată și pentru fructele care atrag păsările. Se folosește în parcuri, plantări naturaliste, pe malurile apelor și în aliniamente. 'Watereri' are ciorchini florali foarte lungi, iar 'Tiefurt' are o coroană regulată, potrivită pentru străzi.",
+    "planting": "Ajunge la 10–15 m. Se plantează la 6–8 m distanță. Preferă solurile umede, fertile, dar tolerează diverse soluri, la soare sau semiumbră.",
+    "care": "Întreținere redusă; udare în primii ani. Tăieri de formare după înflorire sau iarna. Extrem de rezistent la ger.",
+    "faq": [
+      {
+        "q": "Când înflorește mălinul?",
+        "a": "În mai, cu ciorchini lungi de flori albe, puternic parfumate."
+      },
+      {
+        "q": "Ce soi este potrivit pentru străzi?",
+        "a": "'Tiefurt', care are o coroană compactă și regulată."
+      }
+    ]
+  },
+  "144": {
+    "uses": "'Canada Red' aduce culoare purpurie în aliniamente, parcări, grădini rezidențiale și parcuri, contrastând frumos cu arborii verzi. Rămâne mic și este foarte rezistent la frig și secetă.",
+    "planting": "Ajunge la 6–8 m, cu o coroană ovală-rotundă. Se plantează la 5–6 m distanță. Tolerează aproape orice sol bine drenat; culoarea este cea mai intensă la soare.",
+    "care": "Întreținere redusă; udare în primii ani. Îndepărtați lăstarii de la bază. Extrem de rezistent la ger.",
+    "faq": [
+      {
+        "q": "Când devin frunzele purpurii?",
+        "a": "Frunzele apar verzi primăvara și devin purpuriu-roșu închis la începutul verii."
+      },
+      {
+        "q": "Ce dimensiune atinge?",
+        "a": "Este un arbore mic, de 6–8 m, potrivit pentru străzi și grădini."
+      }
+    ]
+  },
+  "145": {
+    "uses": "Este un arbore exotic impunător, cu efect decorativ vara datorită ciorchinilor verzi de fructe, lungi de până la 40–50 cm. Se plantează ca solitar în parcuri mari, domenii și pe malurile lacurilor și râurilor.",
+    "planting": "Ajunge la 20–25 m, cu o coroană foarte largă, adesea cu mai multe tulpini. Are nevoie de mult spațiu. Preferă solurile umede, fertile, chiar inundabile temporar.",
+    "care": "Udați regulat pe solurile mai uscate. Îndepărtați lăstarii de la bază dacă se dorește o singură tulpină. Rezistent la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "Unde se plantează cel mai bine?",
+        "a": "Lângă ape sau pe soluri umede, în parcuri mari, unde are spațiu să își dezvolte coroana largă."
+      },
+      {
+        "q": "Ce sunt ciorchinii lungi?",
+        "a": "Sunt fructe mici, înaripate, grupate în ciorchini pendenți lungi de 40–50 cm, decorativi vara."
+      }
+    ]
+  },
+  "146": {
+    "uses": "Perii pe tulpină înaltă sunt arbori longevivi, cu înflorire albă primăvara și fructe toamna, potriviți pentru livezi tradiționale, curți, grădini comunitare și parcuri. 'Conference' este unul dintre cele mai cultivate soiuri de desert din Europa, iar 'Saint Rémy' și 'Zoete Brederode' sunt soiuri tradiționale.",
+    "planting": "Ajung la 8–12 m. Se plantează la 7–9 m distanță. Preferă solurile fertile, profunde, bine drenate, la soare. Pentru o fructificare bună se recomandă mai multe soiuri.",
+    "care": "Tăieri de formare și fructificare la sfârșitul iernii. Udați în primii ani. Rezistenți la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "Este 'Conference' autofertil?",
+        "a": "Este parțial autofertil, dar rodește mai bine cu un alt soi de păr în apropiere."
+      },
+      {
+        "q": "Cât trăiește un păr pe tulpină înaltă?",
+        "a": "Perii pe tulpină înaltă sunt foarte longevivi și pot trăi și rodi multe decenii."
+      }
+    ]
+  },
+  "147": {
+    "uses": "'Chanticleer' este un arbore de aliniament foarte popular în Europa: coroană conică îngustă, înflorire spectaculoasă primăvara, frunziș lucios vara și culoare de toamnă târzie. Tolerează poluarea, seceta și solurile compactate.",
+    "planting": "Ajunge la 10–12 m înălțime și doar 4–5 m lățime. În aliniamente se plantează la 5–7 m distanță. Crește pe aproape orice sol, la soare.",
+    "care": "Întreținere redusă; aproape nicio tăiere datorită coroanei regulate. Udați în primii ani. Rezistent la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "Face fructe comestibile?",
+        "a": "Nu, fructele sunt foarte mici și fără valoare; arborele este pur decorativ."
+      },
+      {
+        "q": "Cât de lată este coroana?",
+        "a": "Doar 4–5 m, de aceea este ideal pentru străzi înguste."
+      }
+    ]
+  },
+  "148": {
+    "uses": "Este unul dintre cei mai eleganți arbori mici pentru grădini: coroana pletoasă argintie contrastează frumos cu plantele verzi sau purpurii. Se folosește ca solitar pe tulpină în grădini rezidențiale, curți, cimitire, grădini de stil mediteraneean și la intrări.",
+    "planting": "Ajunge la 4–6 m, cu o coroană rotundă, pletoasă. Se plantează ca solitar, la 3–5 m de alte plante. Preferă solurile bine drenate, la soare plin; tolerează seceta.",
+    "care": "Coroana se poate rări sau forma ușor iarna. Udați în primii ani. Rezistent la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "Ce înălțime au exemplarele?",
+        "a": "Arborele rămâne mic (4–5 m); înălțimea tulpinii este indicată la fiecare dimensiune (ex. 180–250 cm)."
+      },
+      {
+        "q": "Tolerează seceta?",
+        "a": "Da, frunzele argintii sunt adaptate la locuri însorite și uscate."
+      }
+    ]
+  },
+  "149": {
+    "uses": "Cerul este unul dintre cei mai rezistenți stejari la secetă și căldură, fiind o alegere bună pentru clima tot mai caldă. Se plantează în parcuri, aliniamente largi, perdele de protecție și împăduriri.",
+    "planting": "Ajunge la 20–30 m, cu o coroană largă. Se plantează la 10–12 m distanță. Crește pe aproape orice sol, inclusiv calcaros și uscat.",
+    "care": "Udați în primii ani. Tăieri de formare iarna. Rezistent la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "Crește cerul repede?",
+        "a": "Da, este unul dintre cei mai rapizi stejari."
+      },
+      {
+        "q": "De ce este recomandat pentru zone calde?",
+        "a": "Tolerează foarte bine seceta, căldura și solurile calcaroase."
+      }
+    ]
+  },
+  "150": {
+    "uses": "Este unul dintre cei mai rezistenți stejari: tolerează seceta, gerul extrem, solurile grele și condițiile urbane. Se plantează în parcuri, aliniamente largi și spații verzi mari, unde formează în timp o coroană largă, impunătoare.",
+    "planting": "Ajunge la 20–25 m, cu o coroană largă. Se plantează la 10–12 m distanță. Crește pe aproape orice sol, inclusiv argilos și calcaros.",
+    "care": "Udați în primii ani. Tăieri de formare iarna. Extrem de rezistent la ger (până la aproximativ -35°C).",
+    "faq": [
+      {
+        "q": "De ce este apreciat?",
+        "a": "Pentru rezistența excepțională la secetă, ger și condiții urbane și pentru frunzele și ghindele mari."
+      },
+      {
+        "q": "Cum arată ghindele?",
+        "a": "Sunt mari, cu o cupă franjurată care acoperă o mare parte din ghindă."
+      }
+    ]
+  },
+  "151": {
+    "uses": "Este un stejar de aliniament foarte apreciat, datorită coroanei piramidale regulate și culorii de toamnă roșii. Se plantează pe străzi largi, bulevarde, în parcuri și ca solitar, tolerând și solurile umede.",
+    "planting": "Ajunge la 15–20 m, cu o coroană conică. În aliniamente se plantează la 8–10 m distanță. Preferă solurile acide până la neutre; pe solurile calcaroase frunzele pot îngălbeni.",
+    "care": "Udați în primii ani. Ramurile inferioare pendente se îndepărtează treptat pentru aliniamente. Rezistent la ger până la aproximativ -30°C.",
+    "faq": [
+      {
+        "q": "Când se colorează stejarul de mlaștină?",
+        "a": "Toamna, frunzele devin roșu aprins până la vișiniu."
+      },
+      {
+        "q": "Ce sol preferă?",
+        "a": "Soluri acide până la neutre, inclusiv umede; evitați solurile foarte calcaroase."
+      }
+    ]
+  },
+  "152": {
+    "uses": "Gorunul este o specie valoroasă pentru parcuri, împăduriri, perdele de protecție și peisaje naturale. Comparativ cu stejarul pedunculat, tolerează mai bine solurile uscate, pietroase și pantele.",
+    "planting": "Ajunge la 20–30 m, cu o coroană largă, regulată. Se plantează la 10–12 m distanță sau mai des în împăduriri. Preferă solurile bine drenate, acide până la neutre.",
+    "care": "Udați în primii ani. Tăieri de formare iarna. Foarte rezistent la ger.",
+    "faq": [
+      {
+        "q": "Prin ce diferă gorunul de stejar?",
+        "a": "Ghindele gorunului stau aproape direct pe ramuri, iar specia tolerează mai bine solurile uscate și pietroase."
+      },
+      {
+        "q": "Unde se folosește?",
+        "a": "În parcuri, împăduriri, perdele de protecție și pe pante."
+      }
+    ]
+  },
+  "153": {
+    "uses": "Specia este arborele clasic pentru parcuri, domenii, aliniamente largi și împăduriri, cu o valoare ecologică foarte mare. Soiul 'Fastigiata Koster' are o coroană columnară îngustă și se folosește pe străzi, în parcări, la intrări și ca accent vertical.",
+    "planting": "Specia ajunge la 25–35 m, cu coroană largă; 'Fastigiata Koster' rămâne îngust (3–4 m). Specia se plantează la 12–15 m, soiul columnar la 4–6 m. Crește pe aproape orice sol fertil, inclusiv argilos și umed.",
+    "care": "Udați în primii ani; stejarul înrădăcinează profund. Tăieri de formare iarna. Foarte rezistent la ger.",
+    "faq": [
+      {
+        "q": "Ce înseamnă 'Fastigiata Koster'?",
+        "a": "Este o selecție columnară de stejar, cu o coroană îngustă și densă, potrivită pentru străzi și spații înguste."
+      },
+      {
+        "q": "Cât trăiește un stejar?",
+        "a": "Stejarul poate trăi sute de ani, fiind una dintre cele mai longevive specii europene."
+      }
+    ]
+  },
+  "154": {
+    "uses": "'Frisia' este unul dintre cei mai luminoși arbori decorativi, cu frunziș galben-auriu tot sezonul. 'Bessoniana' are o coroană ovală, compactă, fără spini, potrivită pentru străzi, iar 'Unifoliola' are frunze mai mari, cu puține foliole. 'Nyírségi' este o selecție maghiară cu tulpină dreaptă. Toate tolerează seceta, căldura și solurile sărace.",
+    "planting": "Ajung la 10–15 m, în funcție de soi. În aliniamente se plantează la 7–9 m distanță. Cresc pe aproape orice sol bine drenat, inclusiv nisipos și uscat.",
+    "care": "Întreținere redusă; udare în primii ani. Tăieri de formare la sfârșitul verii. Lemnul este casant, de aceea formarea corectă a coroanei este importantă. Foarte rezistente la ger.",
+    "faq": [
+      {
+        "q": "Ce soi are frunze galbene?",
+        "a": "'Frisia', cu frunziș galben-auriu din primăvară până toamna."
+      },
+      {
+        "q": "Există soiuri fără spini?",
+        "a": "Da, 'Bessoniana' și 'Unifoliola' sunt practic fără spini, potrivite pentru spații publice."
+      }
+    ]
+  },
+  "155": {
+    "uses": "'Belders' este o selecție olandeză de salcie albă cu coroană regulată, mai îngustă decât a speciei. Se plantează de-a lungul apelor, în parcuri umede, aliniamente rurale și perdele de protecție împotriva vântului.",
+    "planting": "Ajunge la 15–20 m. Se plantează la 6–10 m distanță. Preferă solurile umede, chiar inundabile temporar, la soare. Nu se plantează aproape de clădiri și conducte.",
+    "care": "Crește foarte repede și suportă bine tăierile, inclusiv conducerea în scaun. Extrem de rezistentă la ger.",
+    "faq": [
+      {
+        "q": "Unde se plantează salcia albă?",
+        "a": "Pe malurile apelor, pe soluri umede și în zone inundabile temporar."
+      },
+      {
+        "q": "Cât de repede crește?",
+        "a": "Foarte repede – una dintre speciile cu cea mai rapidă creștere."
+      }
+    ]
+  },
+  "156": {
+    "uses": "Este una dintre cele mai decorative salcii, datorită frunzișului lucios, aromat, și înfloririi târzii. Se plantează ca arbore mic în parcuri, pe malurile apelor, în grădini umede și în plantări naturaliste.",
+    "planting": "Ajunge la 6–10 m, cu o coroană rotundă. Se plantează la 5–6 m distanță. Preferă solurile umede, chiar mlăștinoase, la soare sau semiumbră.",
+    "care": "Udați regulat pe solurile mai uscate. Suportă bine tăierile. Extrem de rezistentă la ger.",
+    "faq": [
+      {
+        "q": "De ce se numește salcie cu frunze de laur?",
+        "a": "Frunzele sunt lucioase, verde închis și ușor aromate, asemănătoare laurului."
+      },
+      {
+        "q": "Ce dimensiune atinge?",
+        "a": "Este un arbore mic, de 6–10 m."
+      }
+    ]
+  },
+  "157": {
+    "uses": "Este cea mai cunoscută salcie pletoasă, cu ramuri aurii decorative și iarna. Se plantează ca solitar lângă lacuri, iazuri, râuri și în parcuri mari, unde silueta sa pletoasă se reflectă în apă.",
+    "planting": "Ajunge la 12–15 m înălțime și la fel de lată. Are nevoie de mult spațiu. Preferă solurile umede, la soare. Nu se plantează aproape de clădiri, conducte sau fântâni.",
+    "care": "Crește repede. Ramurile se pot scurta ușor pentru a păstra trecerea liberă. Extrem de rezistentă la ger.",
+    "faq": [
+      {
+        "q": "Unde se plantează salcia pletoasă?",
+        "a": "Lângă apă, în parcuri mari, unde are spațiu să își dezvolte coroana largă, pletoasă."
+      },
+      {
+        "q": "De ce are ramuri galbene?",
+        "a": "Soiul 'Chrysocoma' are lăstari galben-aurii, decorativi și iarna, fără frunze."
+      }
+    ]
+  },
+  "158": {
+    "uses": "Este un arbore de aliniament excelent pentru orașe calde: tolerează seceta, căldura reflectată de pavaje și poluarea. Înflorirea din august este o sursă importantă de nectar pentru albine. 'Regent' are o coroană ovală, regulată, și înflorește mai devreme.",
+    "planting": "Ajunge la 15–20 m, cu o coroană largă, rotundă. În aliniamente se plantează la 8–10 m distanță. Crește pe aproape orice sol bine drenat, inclusiv sărac și uscat.",
+    "care": "Întreținere redusă; udare în primii ani. Tăieri de formare la sfârșitul verii. Rezistent la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "Este același arbore cu Sophora japonica?",
+        "a": "Da, Sophora japonica este denumirea veche a speciei Styphnolobium japonicum."
+      },
+      {
+        "q": "Când înflorește?",
+        "a": "În iulie–august, cu panicule mari, alb-crem, foarte căutate de albine."
+      }
+    ]
+  },
+  "159": {
+    "uses": "Scorușii pe tulpină sunt arbori mici ideali pentru străzi, parcări, grădini și parcuri: înflorire albă primăvara, frunziș fin și fructe care atrag păsările. 'Autumn Spire' are o coroană îngustă, 'Dodong' frunze mari și culoare de toamnă roșie, 'Edulis' fructe mari, comestibile după prelucrare, iar S. aria și S. intermedia au frunze argintii pe dos și tolerează seceta.",
+    "planting": "Ajung la 6–12 m, în funcție de soi. În aliniamente se plantează la 5–7 m distanță. Cresc pe majoritatea solurilor; S. aucuparia preferă solurile ușor acide, S. aria și S. intermedia tolerează solurile calcaroase.",
+    "care": "Întreținere redusă; udare în primii ani. Tăieri de formare iarna. Foarte rezistenți la ger.",
+    "faq": [
+      {
+        "q": "Ce soi de scoruș este potrivit pentru străzi înguste?",
+        "a": "'Autumn Spire', care are o coroană îngustă, columnară, și culoare de toamnă portocalie."
+      },
+      {
+        "q": "Sunt fructele comestibile?",
+        "a": "Fructele soiului 'Edulis' sunt mai mari și mai puțin amare și se folosesc pentru gemuri, după prelucrare."
+      }
+    ]
+  },
+  "160": {
+    "uses": "Este una dintre cele mai bune plante melifere: florile din august atrag numeroase albine și alți polenizatori. Se plantează ca solitar sau în grupuri în parcuri, grădini, aliniamente pietonale și lângă stupine.",
+    "planting": "Ajunge la 8–12 m, cu o coroană largă, rotundă. Se plantează la 6–8 m distanță. Preferă solurile bine drenate, la soare.",
+    "care": "Întreținere redusă; udare în primii ani. Tăieri minime iarna. Rezistent la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "De ce se numește arborele albinelor?",
+        "a": "Înflorește în august, cu flori bogate în nectar, când albinele găsesc puține alte surse de hrană."
+      },
+      {
+        "q": "Ce dimensiune atinge?",
+        "a": "Este un arbore mic până la mijlociu, de 8–12 m."
+      }
+    ]
+  },
+  "161": {
+    "uses": "Teii hibrizi sunt arborii tradiționali ai bulevardelor și parcurilor europene. 'Pallida' are o coroană conică regulată, potrivită pentru aliniamente, 'Euchlora' are frunze lucioase și este rareori atacat de afide, deci nu lasă 'mierea' lipicioasă pe mașini și pavaje, iar 'Glenleven' crește repede, cu coroană regulată.",
+    "planting": "Ajung la 15–25 m. În aliniamente se plantează la 8–12 m distanță. Preferă solurile fertile, profunde, bine drenate.",
+    "care": "Suportă foarte bine tăierile, inclusiv conducerea în formă de acoperiș sau spalier. Udați în primii ani. Foarte rezistenți la ger.",
+    "faq": [
+      {
+        "q": "Ce tei nu lasă mierea lipicioasă pe mașini?",
+        "a": "'Euchlora' are frunze lucioase și este rareori atacat de afide, de aceea este recomandat lângă parcări."
+      },
+      {
+        "q": "Când înflorește teiul?",
+        "a": "În iunie–iulie, cu flori parfumate, foarte apreciate de albine."
+      }
+    ]
+  },
+  "162": {
+    "uses": "Soiurile moderne de ulm, ca 'Lutèce', 'Vada', 'Clusius' și 'Columella', au fost selectate pentru rezistența la grafioza ulmului și sunt arbori de aliniament robuști, toleranți la poluare, vânt și sare. 'Columella' are coroană columnară îngustă. Ulmul de câmp (U. laevis) este o specie valoroasă pentru zone umede, iar 'Camperdownii' și 'Pendula' sunt arbori pletoși pentru grădini și parcuri.",
+    "planting": "Soiurile de aliniament ajung la 15–25 m; 'Columella' rămâne îngust, iar formele pletoase mici. În aliniamente se plantează la 8–10 m distanță. Cresc pe aproape orice sol.",
+    "care": "Întreținere redusă; udare în primii ani. Tăieri de formare iarna. Foarte rezistenți la ger.",
+    "faq": [
+      {
+        "q": "Sunt acești ulmi rezistenți la boală?",
+        "a": "Soiurile 'Lutèce', 'Vada', 'Columella', 'Clusius' și 'Pioneer' au fost selectate pentru rezistență ridicată la grafioza ulmului."
+      },
+      {
+        "q": "Ce soi este potrivit pentru străzi înguste?",
+        "a": "'Columella', care are o coroană columnară, foarte îngustă."
+      }
+    ]
+  },
+  "163": {
+    "uses": "Zelkova este un arbore de aliniament excelent, înrudit cu ulmul, dar rezistent la grafioză. Coroana în formă de vază lasă spațiu liber sub ea pentru trotuare și parcări. 'Green Vase' crește repede, cu coroană regulată, iar 'Fastigiata' are coroană îngustă pentru străzi înguste.",
+    "planting": "Ajunge la 15–20 m ('Fastigiata' rămâne îngust). În aliniamente se plantează la 8–10 m distanță ('Fastigiata' la 4–6 m). Tolerează diverse soluri, seceta moderată și poluarea.",
+    "care": "Întreținere redusă; udare în primii ani. Tăieri de formare iarna. Rezistentă la ger până la aproximativ -25°C.",
+    "faq": [
+      {
+        "q": "Este zelkova rezistentă la boala ulmului?",
+        "a": "Da, deși este înrudită cu ulmul, zelkova are rezistență ridicată la grafioză."
+      },
+      {
+        "q": "Ce soi este potrivit pentru străzi înguste?",
+        "a": "'Fastigiata', care are o coroană îngustă, erectă."
+      }
+    ]
   }
 }

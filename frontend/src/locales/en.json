@@ -1196,6 +1196,765 @@
         "soil": "Moist, well-drained soil",
         "hardiness": "Hardy to -20°C"
       }
+    },
+    "95": {
+      "name": "Trident Maple (Acer buergerianum)",
+      "description": "Trident maple (Acer buergerianum) is a small to medium-sized maple with three-lobed leaves and orange-red autumn colour. Suitable for streets, squares and smaller gardens.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -20°C"
+      }
+    },
+    "96": {
+      "name": "Field Maple (Acer campestre)",
+      "description": "Field maple (Acer campestre) is a very tough European maple for avenues, parks and hedges. It tolerates drought, chalky soils and urban conditions, with yellow autumn colour.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Low watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "97": {
+      "name": "Freeman Maple (Acer × freemanii)",
+      "description": "Freeman maple (Acer × freemanii) is a hybrid of red and silver maple: fast-growing, tough and with spectacular orange-red autumn colour. Cultivars 'Autumn Blaze', 'Armstrong' and 'Celebration'.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "98": {
+      "name": "Box Elder Flamingo (Acer negundo 'Flamingo')",
+      "description": "Box elder 'Flamingo' has white-and-green variegated leaves with pink young shoots in spring. A small ornamental tree for gardens, parks and contrast planting.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "99": {
+      "name": "Pacific Sunset and Norwegian Sunset Maple (Acer truncatum × platanoides)",
+      "description": "The maple hybrids 'Pacific Sunset' ('Warrenred') and 'Norwegian Sunset' ('Keithsform') combine the toughness of Norway maple with orange-red autumn colour. Compact crowns, ideal for avenues.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "100": {
+      "name": "Sycamore Maple (Acer pseudoplatanus)",
+      "description": "Sycamore maple (Acer pseudoplatanus) is a large, long-lived tree with a broad crown, resistant to wind and frost. For parks, avenues and large green spaces; cultivars 'Atropurpureum' and 'Bruchem'.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "101": {
+      "name": "Amur Maple (Acer tataricum subsp. ginnala)",
+      "description": "Amur maple is a small, very hardy maple with glossy leaves and bright red autumn colour. For small gardens, hedges and group planting.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Low watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -35°C"
+      }
+    },
+    "102": {
+      "name": "Annae Maple (Acer × zoeschense 'Annae')",
+      "description": "Maple 'Annae' has purple shoots and red-violet young leaves that later turn dark green. A medium-sized tree with a compact crown for parks and avenues.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "103": {
+      "name": "Italian Alder (Alnus cordata)",
+      "description": "Italian alder (Alnus cordata) is a fast-growing tree with a conical crown and glossy heart-shaped leaves. It tolerates both dry and moist soils – excellent for avenues and urban conditions.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -20°C"
+      }
+    },
+    "104": {
+      "name": "Common Alder (Alnus glutinosa)",
+      "description": "Common alder (Alnus glutinosa) is a European tree of wet habitats, ideal for river and lake banks and moist parks. The cultivars 'Imperialis' and 'Laciniata' have decorative deeply cut leaves.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Frequent watering",
+        "soil": "Moist, fertile soil",
+        "hardiness": "Hardy to -35°C"
+      }
+    },
+    "105": {
+      "name": "Spaeth's Alder (Alnus × spaethii)",
+      "description": "Spaeth's alder (Alnus × spaethii) is a fast-growing hybrid with large glossy leaves and purplish young shoots. Very tolerant of urban conditions – for avenues and parks.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "106": {
+      "name": "Serviceberry Tree (Amelanchier)",
+      "description": "Amelanchier is a small tree with white flowers in spring, edible dark berries in summer and orange-red autumn colour. Cultivars 'Robin Hill', 'Snowflakes' and A. lamarckii, as standards.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "107": {
+      "name": "Chinese Red Birch Fascination (Betula albosinensis 'Fascination')",
+      "description": "Chinese red birch 'Fascination' has striking orange-copper peeling bark with pink and cream tones. A decorative specimen tree for parks and gardens all year round.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Moist, well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "108": {
+      "name": "River Birch (Betula nigra)",
+      "description": "River birch (Betula nigra) has decorative cinnamon-coloured bark that peels in layers. It tolerates wet soils and heat – for parks, banks and moist sites.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Frequent watering",
+        "soil": "Moist, fertile soil",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "109": {
+      "name": "Downy Birch (Betula pubescens)",
+      "description": "Downy birch (Betula pubescens) is a European white-barked birch, tolerant of cold and wet soils. For parks, afforestation and natural green spaces.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Regular watering",
+        "soil": "Moist, fertile soil",
+        "hardiness": "Hardy to -35°C"
+      }
+    },
+    "110": {
+      "name": "Himalayan Birch Doorenbos (Betula utilis 'Doorenbos')",
+      "description": "Himalayan birch 'Doorenbos' has the whitest bark of all birches, striking all year round. One of the most sought-after ornamental trees for modern gardens and public spaces.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Regular watering",
+        "soil": "Moist, well-drained soil",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "111": {
+      "name": "Hornbeam (Carpinus betulus)",
+      "description": "Hornbeam (Carpinus betulus) is a very tough European tree with a dense crown that responds excellently to pruning. For avenues, parks, green screens and trained trees; available as standards and multi-transplanted trees.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "112": {
+      "name": "Japanese Hornbeam (Carpinus japonica)",
+      "description": "Japanese hornbeam (Carpinus japonica) is a small, elegant tree with strongly veined leaves and decorative hop-like fruits. For gardens, parks and Japanese gardens.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Fertile, well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "113": {
+      "name": "Sweet Chestnut (Castanea sativa)",
+      "description": "Sweet chestnut (Castanea sativa) is a large, long-lived tree with glossy toothed leaves and edible nuts. For parks, large gardens and orchards on acidic soils.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Acidic to neutral soil",
+        "hardiness": "Hardy to -20°C"
+      }
+    },
+    "114": {
+      "name": "Hackberry (Celtis australis, Celtis occidentalis)",
+      "description": "Hackberry is a very tough tree for avenues and squares: it tolerates drought, heat and compacted soils. Available as European nettle tree (C. australis) and common hackberry (C. occidentalis).",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "115": {
+      "name": "Katsura Tree (Cercidiphyllum japonicum)",
+      "description": "Katsura tree (Cercidiphyllum japonicum) has heart-shaped leaves and spectacular autumn colour, and the fallen leaves smell of caramel. A decorative specimen tree for parks and gardens.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Regular watering",
+        "soil": "Moist, well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "116": {
+      "name": "Eastern Redbud (Cercis canadensis)",
+      "description": "Eastern redbud (Cercis canadensis) flowers in early spring with pink-purple blossoms directly on the branches, before the leaves. It has heart-shaped leaves and yellow autumn colour.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "117": {
+      "name": "Turkish Hazel (Corylus colurna)",
+      "description": "Turkish hazel (Corylus colurna) is a regular, conical tree that is extremely tolerant of drought and urban conditions. One of the best trees for avenues, squares and car parks.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "118": {
+      "name": "Ornamental Hawthorn (Crataegus)",
+      "description": "Ornamental hawthorn is a small, very tough tree with abundant flowering in May and red fruits in autumn. Cultivars 'Paul's Scarlet' (double red flowers), 'Carrierei', 'Splendens' and the native C. monogyna.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "119": {
+      "name": "Handkerchief Tree (Davidia involucrata)",
+      "description": "Handkerchief tree (Davidia involucrata) produces striking white bracts in May that hang from the branches like handkerchiefs. A rare and highly decorative specimen tree for parks and botanical collections.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Regular watering",
+        "soil": "Fertile, well-drained soil",
+        "hardiness": "Hardy to -20°C"
+      }
+    },
+    "120": {
+      "name": "European Beech (Fagus sylvatica)",
+      "description": "European beech (Fagus sylvatica) is a majestic park tree with smooth grey bark. Besides the green form, the copper beech 'Atropunicea', the columnar 'Dawyck' and 'Dawyck Purple' and the weeping 'Purpurea Pendula' are available.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Fertile, well-drained soil",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "121": {
+      "name": "White Ash (Fraxinus americana)",
+      "description": "White ash (Fraxinus americana) is a fast-growing tree with a regular crown and purple-red autumn colour. Cultivars 'Autumn Purple', 'Autumn Applause' and 'Skyline' for avenues and parks.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "122": {
+      "name": "Raywood Ash (Fraxinus angustifolia 'Raywood')",
+      "description": "Ash 'Raywood' has fine, narrow-leaved foliage and claret-purple autumn colour. Drought- and heat-tolerant – for avenues and parks in warmer regions.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "123": {
+      "name": "European Ash (Fraxinus excelsior)",
+      "description": "European ash (Fraxinus excelsior) is a large native tree with an airy crown. The cultivars 'Altena' and 'Atlas' have regular crowns for avenues, while 'Jaspidea' has golden twigs and yellow autumn colour.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Fertile, well-drained soil",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "124": {
+      "name": "Green Ash Summit (Fraxinus pennsylvanica 'Summit')",
+      "description": "Ash 'Summit' has a regular, upright crown and golden-yellow autumn colour. Very tolerant of frost, drought and urban conditions – for avenues.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -35°C"
+      }
+    },
+    "125": {
+      "name": "Ginkgo (Ginkgo biloba)",
+      "description": "Ginkgo (Ginkgo biloba) is an ancient tree with fan-shaped leaves and golden-yellow autumn colour. Extremely tolerant of pollution and urban conditions – for avenues, squares and parks.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "126": {
+      "name": "Honey Locust (Gleditsia triacanthos)",
+      "description": "Honey locust (Gleditsia triacanthos) has fine pinnate foliage that gives light shade. Thornless forms: inermis, 'Rubylace' with burgundy young leaves and 'Speczam'. Very tolerant of drought and urban conditions.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "127": {
+      "name": "Black Walnut (Juglans nigra)",
+      "description": "Black walnut (Juglans nigra) is a large, fast-growing tree with long pinnate leaves and valuable timber. For parks, large sites and timber plantations.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Fertile, well-drained soil",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "128": {
+      "name": "Common Walnut (Juglans regia)",
+      "description": "Common walnut (Juglans regia) is a large, long-lived tree with a broad crown and edible nuts. For orchards, yards, parks and large green spaces.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Fertile, well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "129": {
+      "name": "Golden Rain Tree (Koelreuteria paniculata)",
+      "description": "Golden rain tree (Koelreuteria paniculata) flowers in summer with large yellow panicles followed by decorative lantern-like seed pods. Drought- and heat-tolerant – for squares, streets and gardens.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "130": {
+      "name": "Japanese Larch (Larix kaempferi)",
+      "description": "Japanese larch (Larix kaempferi) is a deciduous conifer with blue-green needles that turn golden-orange in autumn. Fast-growing – for parks, afforestation and large gardens.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Moist, well-drained soil",
+        "hardiness": "Hardy to -35°C"
+      }
+    },
+    "131": {
+      "name": "Kobus Magnolia (Magnolia kobus)",
+      "description": "Magnolia kobus flowers profusely in April with fragrant white flowers before the leaves. A robust, hardy magnolia for parks and gardens.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Fertile, well-drained soil",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "132": {
+      "name": "Magnolia Susan (Magnolia 'Susan')",
+      "description": "Magnolia 'Susan' flowers later than other magnolias, with large purple-pink flowers, so it avoids late frosts. Compact, for smaller gardens and courtyards.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Fertile, well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "133": {
+      "name": "Apple Fruit Trees (Malus domestica)",
+      "description": "Standard apple fruit trees: cultivars 'Elstar', 'Glorie van Holland' and 'Gravensteiner'. For orchards, yards, school gardens and public gardens.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Fertile, well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "134": {
+      "name": "Dawn Redwood (Metasequoia glyptostroboides)",
+      "description": "Dawn redwood is a fast-growing deciduous conifer with soft, light green needles that turn copper-orange in autumn. It tolerates wet soils – for parks and waterside planting.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Regular watering",
+        "soil": "Moist, fertile soil",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "135": {
+      "name": "White Mulberry (Morus alba)",
+      "description": "White mulberry (Morus alba) is a tough tree with a broad crown giving dense shade, tolerant of drought and heat. The 'Fruitless' cultivar bears no fruit – ideal for squares and car parks.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "136": {
+      "name": "Hop Hornbeam (Ostrya carpinifolia)",
+      "description": "Hop hornbeam (Ostrya carpinifolia) is a tough tree with hop-like fruits and yellow autumn colour. It tolerates drought and chalky soils – for avenues and parks.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Low watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "137": {
+      "name": "Persian Ironwood (Parrotia persica)",
+      "description": "Parrotia persica has one of the finest autumn colours – yellow, orange and red – and decorative flaking bark. The cultivar 'Vanessa' has an upright crown.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "138": {
+      "name": "Amur Cork Tree (Phellodendron amurense)",
+      "description": "Amur cork tree has soft, cork-like bark, pinnate leaves and yellow autumn colour. Very tolerant of frost, drought and urban conditions – for parks and avenues.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -35°C"
+      }
+    },
+    "139": {
+      "name": "Canadian Poplar Robusta (Populus × canadensis 'Robusta')",
+      "description": "Poplar 'Robusta' is a very fast-growing tree with an upright crown and bronze young leaves. For windbreaks, roadside avenues and quick greening.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -35°C"
+      }
+    },
+    "140": {
+      "name": "Aspen (Populus tremula)",
+      "description": "Aspen (Populus tremula) is a European poplar whose round leaves tremble in the wind, with yellow autumn colour. The cultivar 'Erecta' has a narrow columnar crown.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -40°C"
+      }
+    },
+    "141": {
+      "name": "Cherry (Prunus avium)",
+      "description": "Standard cherry trees: fruiting cultivars 'Kordia', 'Lapins', 'Regina', 'Stella', 'Van', 'Hedelfinger' and the ornamental 'Plena' with double white flowers and no fruit.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Fertile, well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "142": {
+      "name": "Plum (Prunus domestica)",
+      "description": "Standard plum trees: cultivars 'Opal' (early, sweet) and 'Victoria' (large red fruit). For orchards, yards and community gardens.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Fertile, well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "143": {
+      "name": "Bird Cherry (Prunus padus)",
+      "description": "Bird cherry (Prunus padus) flowers in May with long, fragrant white racemes. A hardy European tree for parks, moist sites and avenues; cultivars 'Watereri' and 'Tiefurt'.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Moist, fertile soil",
+        "hardiness": "Hardy to -35°C"
+      }
+    },
+    "144": {
+      "name": "Chokecherry Canada Red (Prunus virginiana 'Canada Red')",
+      "description": "Chokecherry 'Canada Red' has green young leaves that turn dark purple-red in summer and white flower racemes in May. A small, tough tree for streets and gardens.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -35°C"
+      }
+    },
+    "145": {
+      "name": "Caucasian Wingnut (Pterocarya fraxinifolia)",
+      "description": "Caucasian wingnut is a fast-growing tree with a broad crown, long pinnate leaves and long hanging strings of winged fruit. For large parks and waterside planting.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Frequent watering",
+        "soil": "Moist, fertile soil",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "146": {
+      "name": "Pear (Pyrus communis)",
+      "description": "Standard pear trees: cultivars 'Conference', 'Saint Rémy', 'Zoete Brederode' and the species P. communis. For orchards, yards and public gardens.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Fertile, well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "147": {
+      "name": "Ornamental Pear Chanticleer (Pyrus calleryana 'Chanticleer')",
+      "description": "Ornamental pear 'Chanticleer' has a narrow, regular crown, abundant white blossom in April and red-orange autumn colour. One of the best trees for narrow streets.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "148": {
+      "name": "Weeping Willow-leaved Pear (Pyrus salicifolia 'Pendula')",
+      "description": "Willow-leaved pear 'Pendula' has narrow silver leaves and weeping branches. An elegant small standard tree for gardens, courtyards and Mediterranean-style planting.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "149": {
+      "name": "Turkey Oak (Quercus cerris)",
+      "description": "Turkey oak (Quercus cerris) is a fast-growing oak with a broad crown, very tolerant of drought and heat. For parks, avenues and large green spaces.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "150": {
+      "name": "Bur Oak (Quercus macrocarpa)",
+      "description": "Bur oak (Quercus macrocarpa) is an extremely tough oak with large leaves and big acorns with fringed cups. It tolerates drought, frost and urban conditions.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -35°C"
+      }
+    },
+    "151": {
+      "name": "Pin Oak (Quercus palustris)",
+      "description": "Pin oak (Quercus palustris) has a regular conical crown, deeply lobed leaves and bright red autumn colour. For avenues and parks on acidic to neutral soils.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Acidic to neutral soil",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "152": {
+      "name": "Sessile Oak (Quercus petraea)",
+      "description": "Sessile oak (Quercus petraea) is a long-lived European oak tolerant of drought and shallower soils. For parks, afforestation and large green spaces.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Low watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "153": {
+      "name": "English Oak (Quercus robur)",
+      "description": "English oak (Quercus robur) is a symbol of longevity – a majestic tree for parks and large spaces. The columnar cultivar 'Fastigiata Koster' suits streets and narrow spaces.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -35°C"
+      }
+    },
+    "154": {
+      "name": "Black Locust – Ornamental Cultivars (Robinia pseudoacacia)",
+      "description": "Ornamental black locust cultivars: 'Frisia' with golden-yellow leaves, the thornless 'Bessoniana' and 'Unifoliola', and 'Nyírségi'. Very tolerant of drought and poor soils.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "155": {
+      "name": "White Willow Belders (Salix alba 'Belders')",
+      "description": "White willow 'Belders' is a fast-growing willow with an upright crown and silvery green leaves. For riverbanks, moist parks and windbreaks.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Frequent watering",
+        "soil": "Moist, fertile soil",
+        "hardiness": "Hardy to -35°C"
+      }
+    },
+    "156": {
+      "name": "Bay Willow (Salix pentandra)",
+      "description": "Bay willow (Salix pentandra) has glossy dark green, bay-like leaves and fragrant yellow catkins in late spring. For moist parks and riverbanks.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Frequent watering",
+        "soil": "Moist, fertile soil",
+        "hardiness": "Hardy to -35°C"
+      }
+    },
+    "157": {
+      "name": "Golden Weeping Willow (Salix × sepulcralis 'Chrysocoma')",
+      "description": "Golden weeping willow 'Chrysocoma' has long golden-yellow branches hanging to the ground. The classic tree for lake and river banks and large parks.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Frequent watering",
+        "soil": "Moist, fertile soil",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "158": {
+      "name": "Japanese Pagoda Tree (Styphnolobium japonicum)",
+      "description": "Japanese pagoda tree (Styphnolobium japonicum, syn. Sophora japonica) flowers in summer with creamy-white panicles loved by bees. Very tolerant of drought, heat and urban conditions; the cultivar 'Regent' has a regular crown.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Low watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "159": {
+      "name": "Rowan / Whitebeam (Sorbus)",
+      "description": "Sorbus is a tough small tree with white flowers in May and decorative red and orange fruit in autumn. Species and cultivars: S. aucuparia, 'Edulis', 'Cardinal Royal', 'Autumn Spire', 'Dodong', S. aria 'Magnifica', S. intermedia and S. incana.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -35°C"
+      }
+    },
+    "160": {
+      "name": "Bee-bee Tree (Tetradium daniellii)",
+      "description": "Bee-bee tree (Tetradium daniellii) flowers in August with nectar-rich white flower heads, when few other plants are in bloom. A small to medium-sized tree for parks and gardens.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Well-drained soil",
+        "hardiness": "Hardy to -25°C"
+      }
+    },
+    "161": {
+      "name": "Common Lime (Tilia × europaea)",
+      "description": "Common lime is a classic tree for avenues and parks, with fragrant flowering in June. Cultivars 'Pallida' and 'Euchlora' (glossy leaves, rarely attacked by aphids) and Tilia × flavescens 'Glenleven'.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun to partial shade",
+        "watering": "Moderate watering",
+        "soil": "Fertile, well-drained soil",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "162": {
+      "name": "Elm (Ulmus)",
+      "description": "Elms resistant to Dutch elm disease: 'Lutèce', 'Vada', 'Columella', 'Clusius', 'Pioneer', the species U. laevis and U. minor, and the weeping 'Camperdownii' and 'Pendula'. For avenues and parks.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -30°C"
+      }
+    },
+    "163": {
+      "name": "Japanese Zelkova (Zelkova serrata)",
+      "description": "Japanese zelkova (Zelkova serrata) has an elegant vase-shaped crown and orange-red autumn colour. Tolerant of urban conditions; cultivars 'Green Vase' and the columnar 'Fastigiata'.",
+      "details": {
+        "height": "All sizes available",
+        "sunlight": "Full sun",
+        "watering": "Moderate watering",
+        "soil": "Various soil types",
+        "hardiness": "Hardy to -25°C"
+      }
     }
   }
 }

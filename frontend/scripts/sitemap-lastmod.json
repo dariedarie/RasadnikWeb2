@@ -8,16 +8,16 @@
   "date": "2026-10-21"
  },
  "/arbori-ornamentali-en-gros": {
-  "hash": "b751c88ce259119496f7916f2bbde8d7306c3ee9",
-  "date": "2026-10-21"
+  "hash": "0b0c96c04aef581053576ab786ac1ad2b6ec3249",
+  "date": "2026-11-13"
  },
  "/arbusti-ornamentali-en-gros": {
   "hash": "cabc729bc4040f2c522913b2b54b133c00da622a",
   "date": "2026-10-21"
  },
  "/conifere-en-gros": {
-  "hash": "7bc3b2d6640f40b373967e76c378dd7d3afc7501",
-  "date": "2026-10-21"
+  "hash": "f0e0431ddbf4eb187137311c07df5207f100a962",
+  "date": "2026-11-13"
  },
  "/contact": {
   "hash": "c929127790be0647aefe05a3b51a752632f5ffbf",
@@ -32,16 +32,16 @@
   "date": "2026-10-21"
  },
  "/de/arbori-ornamentali-en-gros": {
-  "hash": "0dd557b7c6e09310608d6d54b47a378a42d4020c",
-  "date": "2026-10-21"
+  "hash": "80bfae25990b17510c08dc1e66cb826df3b7ff81",
+  "date": "2026-11-13"
  },
  "/de/arbusti-ornamentali-en-gros": {
   "hash": "8985890b79ba842144da2e588f55130d9d18d28a",
   "date": "2026-10-15"
  },
  "/de/conifere-en-gros": {
-  "hash": "30ef604e1237c01524593fcfeca0f3ac5349caa9",
-  "date": "2026-10-21"
+  "hash": "9d42af6c64a4fde1d2da0eb339e9783a15036c9f",
+  "date": "2026-11-13"
  },
  "/de/contact": {
   "hash": "cfee71aecd6f004d562b6b6ea902178fc26c375f",
@@ -104,48 +104,96 @@
   "date": "2026-10-21"
  },
  "/de/products": {
-  "hash": "2bbd4d7bfbcdda1a63d7f82b95bc0a19e1647cf4",
-  "date": "2026-10-21"
+  "hash": "7ece3c9068da214f1829bd722a065fb391d1bf74",
+  "date": "2026-11-13"
  },
  "/de/products/ajuga-reptans": {
   "hash": "0ac6ac74f626a7e0dfc7a2d9466127af0614740b",
   "date": "2026-10-19"
  },
  "/de/products/albizia-julibrissin": {
-  "hash": "05ea20e17ebea17d7c20f03af94e5ff2849eb7f9",
-  "date": "2026-10-19"
+  "hash": "eb1a6f1ecb7254a1e44a9b95d8983fb697ae6fdd",
+  "date": "2026-11-13"
  },
  "/de/products/albizia-julibrissin-multitulpina": {
   "hash": "a37456de8f519d9ab07480e4f8e6c593b2b38a5a",
   "date": "2026-10-19"
  },
+ "/de/products/alun-turcesc-corylus-colurna": {
+  "hash": "24c88b5d0a6cc3f0cfe536fb2332bd270ee1ba3e",
+  "date": "2026-11-13"
+ },
+ "/de/products/amelanchier-arbore": {
+  "hash": "e45c75394d59aaefb303325b114027ba167a2fe5",
+  "date": "2026-11-13"
+ },
+ "/de/products/arborele-batista-davidia-involucrata": {
+  "hash": "ff7c7a1dd563438d5666a624b0ca5dae8ae09ada",
+  "date": "2026-11-13"
+ },
  "/de/products/arborele-iudei-cercis-siliquastrum": {
-  "hash": "b23c492608e0d35782044c54c1c2353814757b60",
-  "date": "2026-10-19"
+  "hash": "0d4ee172e2d0ab4aa0f6de070a8b181dea868e04",
+  "date": "2026-11-13"
  },
  "/de/products/arborele-lalea-liriodendron-tulipifera": {
-  "hash": "0f2ded82f93e1eab4eab21236082ed2f3d8b51aa",
-  "date": "2026-10-19"
+  "hash": "014bf95b17506e08b80f8f84b66ada26002d8857",
+  "date": "2026-11-13"
+ },
+ "/de/products/arin-alnus-spaethii": {
+  "hash": "69bdc4473ac551ddba909ee1b7e75a3a59230b02",
+  "date": "2026-11-13"
+ },
+ "/de/products/arin-italian-alnus-cordata": {
+  "hash": "f7a9ca4e381398e8375dc233f548035230c3bafe",
+  "date": "2026-11-13"
+ },
+ "/de/products/arin-negru-alnus-glutinosa": {
+  "hash": "29797ca2da36a22e8e5d820f0442a2cf1f5e803d",
+  "date": "2026-11-13"
  },
  "/de/products/artar-acer-platanoides": {
-  "hash": "d8e20b0c3c2661ab175c7944047072ae3137f757",
-  "date": "2026-10-19"
+  "hash": "ca272fa88b186854f841bcd0dabd651ea4da508f",
+  "date": "2026-11-13"
+ },
+ "/de/products/artar-acer-zoeschense-annae": {
+  "hash": "b7f69ccf07dc57f68e15d4263d79c0d12dea65c9",
+  "date": "2026-11-13"
  },
  "/de/products/artar-argintiu-acer-saccharinum": {
-  "hash": "2f468f30066c73fa60c289e492b8a24be3e25b06",
-  "date": "2026-10-19"
+  "hash": "3351997f46259391fe6ed52e55185d8d4b129c05",
+  "date": "2026-11-13"
  },
  "/de/products/artar-crimson-king-acer-platanoides": {
   "hash": "6055f46f7797e63f912807f26ec056874c6f7333",
   "date": "2026-10-19"
  },
+ "/de/products/artar-freeman-acer-freemanii": {
+  "hash": "3cf504beb97d1c52d4c01d27426784ec192fba69",
+  "date": "2026-11-13"
+ },
+ "/de/products/artar-ginnala-acer-tataricum": {
+  "hash": "a287d26999b5278e06ace967e44e4d3167927dda",
+  "date": "2026-11-13"
+ },
  "/de/products/artar-japonez-acer-palmatum": {
   "hash": "afb4a425a640aa9f4e3874d90bc0fdedc8ecd444",
   "date": "2026-10-19"
  },
+ "/de/products/artar-negundo-flamingo": {
+  "hash": "756a8d1e2275c1ca54264da2dffcfd0034b97163",
+  "date": "2026-11-13"
+ },
+ "/de/products/artar-pacific-sunset-norwegian-sunset": {
+  "hash": "6fc5010bb0b9aae4a837fc49366833d1a277957a",
+  "date": "2026-11-13"
+ },
  "/de/products/artar-rosu-acer-rubrum": {
-  "hash": "be034aadbb04debc3506633ed1d4ee73cd0be579",
-  "date": "2026-10-19"
+  "hash": "67ef7a89973639a2c3775667a56b32550cc1d47a",
+  "date": "2026-11-13"
+ },
+ "/de/products/artar-trilobat-acer-buergerianum": {
+  "hash": "20723375c62ce03cc6b12005af6b5c7d6720a5e5",
+  "date": "2026-11-13"
  },
  "/de/products/astilbe": {
   "hash": "27928d2000ca6288113acf86f0adc31b1f78aba7",
@@ -167,17 +215,45 @@
   "hash": "ad91aba37bec020410f6fd73f1b0edf28a72e11f",
   "date": "2026-10-19"
  },
+ "/de/products/carpen-carpinus-betulus": {
+  "hash": "331a3834edb7b482c3c0e6f076c57d91b2ddcb53",
+  "date": "2026-11-13"
+ },
  "/de/products/carpen-columnar-carpinus-betulus-fastigiata": {
-  "hash": "e34753609b1dab2354f2c46916eca643b66c5816",
-  "date": "2026-10-19"
+  "hash": "ae1315f359818921b297cab4211e96172c1085e8",
+  "date": "2026-11-13"
+ },
+ "/de/products/carpen-japonez-carpinus-japonica": {
+  "hash": "a4a60d32b02c65daf5c3cdd3659a6e0b5d30128e",
+  "date": "2026-11-13"
+ },
+ "/de/products/carpen-negru-ostrya-carpinifolia": {
+  "hash": "4331ab97a482677c19014bff5a2ae02c84af6cb6",
+  "date": "2026-11-13"
  },
  "/de/products/caryopteris-clandonensis": {
   "hash": "053b137f6ed46dec92f03d36da08c84e7c288b77",
   "date": "2026-10-19"
  },
+ "/de/products/castan-comestibil-castanea-sativa": {
+  "hash": "9400465c639d14696e6d289ec47cc69a338a800c",
+  "date": "2026-11-13"
+ },
  "/de/products/catalpa-bignonioides": {
-  "hash": "640440e420ff07bd424e86c412fb42e88af25226",
-  "date": "2026-10-19"
+  "hash": "8bcfb46be96014b6b2d298d49a1d1fb363d2ce2e",
+  "date": "2026-11-13"
+ },
+ "/de/products/cer-quercus-cerris": {
+  "hash": "888e78b7688d8cfc1271f00cf2437632972e2340",
+  "date": "2026-11-13"
+ },
+ "/de/products/cercidiphyllum-japonicum": {
+  "hash": "a741a52c7044a6de64670ac88ad3160bdc3d8897",
+  "date": "2026-11-13"
+ },
+ "/de/products/cercis-canadensis": {
+  "hash": "f0d7891c5c791d7469dec86e4b8d2b7621bdd970",
+  "date": "2026-11-13"
  },
  "/de/products/chiparos-italian-cupressus-sempervirens": {
   "hash": "12f95dcb4b55596bf889686a8b532141811d06ef",
@@ -192,12 +268,16 @@
   "date": "2026-10-19"
  },
  "/de/products/cires-japonez-prunus-serrulata": {
-  "hash": "5a8a91756146f26215be6347330e9b49b8e78b7d",
-  "date": "2026-10-19"
+  "hash": "72e17278a2fbed844f664347f3b8478b491c16f0",
+  "date": "2026-11-13"
  },
  "/de/products/cires-japonez-royal-burgundy-prunus-serrulata": {
   "hash": "2e77d1162db4a4a8d159dafa4861c7c26134c060",
   "date": "2026-10-19"
+ },
+ "/de/products/cires-prunus-avium": {
+  "hash": "24f92eb60418f00e148658431ef50da94d753751",
+  "date": "2026-11-13"
  },
  "/de/products/crin-de-zi-hemerocallis": {
   "hash": "97ac885d1546ed291d00c394db9233e9d93dc8bd",
@@ -207,6 +287,14 @@
   "hash": "d9363998d19355b81be99ead19a61b8a3d2273ca",
   "date": "2026-10-19"
  },
+ "/de/products/dud-alb-morus-alba": {
+  "hash": "f500fe7359304e3bc544795097d2702b2067a797",
+  "date": "2026-11-13"
+ },
+ "/de/products/fag-fagus-sylvatica": {
+  "hash": "d86a364ed4aee4353e51984b33edcce544398091",
+  "date": "2026-11-13"
+ },
  "/de/products/festuca-glauca": {
   "hash": "6769bb818c37f467532a45276a4452c0eb6912d1",
   "date": "2026-10-19"
@@ -215,9 +303,25 @@
   "hash": "14f8f4fa1403eedd424ab884548e3880fab7b2c4",
   "date": "2026-10-19"
  },
+ "/de/products/frasin-american-fraxinus-americana": {
+  "hash": "70a877530db40a60326233d647dc41063b525e5f",
+  "date": "2026-11-13"
+ },
+ "/de/products/frasin-comun-fraxinus-excelsior": {
+  "hash": "7fb22682077291e3bd97f4d64a83d81da8bae37f",
+  "date": "2026-11-13"
+ },
  "/de/products/frasin-cu-flori-fraxinus-ornus": {
-  "hash": "e3d233dcc77affb82f5b8b9f98f622f613396ec9",
-  "date": "2026-10-19"
+  "hash": "342abbfdf4d69a97abda7390818acfbc5ac04e2a",
+  "date": "2026-11-13"
+ },
+ "/de/products/frasin-pennsylvanica-summit": {
+  "hash": "486bdaa3eb45e8c28000f0b7f65a560120b339ef",
+  "date": "2026-11-13"
+ },
+ "/de/products/frasin-raywood-fraxinus-angustifolia": {
+  "hash": "eccc8d589a5a4cfdc65128098d9b5268376b05f6",
+  "date": "2026-11-13"
  },
  "/de/products/gaura-lindheimeri": {
   "hash": "f7cdfcf054898a0065b940f18d58062eab3e41e0",
@@ -226,6 +330,18 @@
  "/de/products/geranium-pelinarita": {
   "hash": "fbd887dd0d35871402755fe49afff03dcb224ea2",
   "date": "2026-10-19"
+ },
+ "/de/products/ginkgo-biloba": {
+  "hash": "40eb1740a1dda59324605ab1ab7571148d6cc9f9",
+  "date": "2026-11-13"
+ },
+ "/de/products/gladita-gleditsia-triacanthos": {
+  "hash": "72402e1fa894691c56dad782df3d12e6326d43a9",
+  "date": "2026-11-13"
+ },
+ "/de/products/gorun-quercus-petraea": {
+  "hash": "188f4739a7985b558e5b8b9cb8e470b893ecbc9e",
+  "date": "2026-11-13"
  },
  "/de/products/heuchera": {
   "hash": "c208f9cb3d41ee32879b88f304e6a2124282baef",
@@ -263,6 +379,10 @@
   "hash": "20a1e0f82c4a0ca46980347b9078e757819af163",
   "date": "2026-10-19"
  },
+ "/de/products/jugastru-acer-campestre": {
+  "hash": "486e1772a2ec433a5abdc55b8a961af38aed1808",
+  "date": "2026-11-13"
+ },
  "/de/products/kerria-japonica": {
   "hash": "88295834aae7e234461b3b07a5a603d3b2ff27b1",
   "date": "2026-10-19"
@@ -271,9 +391,17 @@
   "hash": "3e408e7b185e4952fb16ea6ea2791fcca3c2c678",
   "date": "2026-10-19"
  },
+ "/de/products/koelreuteria-paniculata": {
+  "hash": "f061781df3cb0d1f394d039019906042c0224408",
+  "date": "2026-11-13"
+ },
  "/de/products/lagerstroemia-indica": {
   "hash": "f799a2814904c9745458a18fdf0b09e5383d5ea0",
   "date": "2026-10-19"
+ },
+ "/de/products/larice-japonez-larix-kaempferi": {
+  "hash": "ceafdc5202c5803959447120fb083db44691eb3d",
+  "date": "2026-11-13"
  },
  "/de/products/larice-larix-decidua": {
   "hash": "efadd4e5f77fccb98c7d8e1b6f12813edfc1ac74",
@@ -292,8 +420,8 @@
   "date": "2026-10-19"
  },
  "/de/products/liquidambar-styraciflua": {
-  "hash": "e9a9d07ef598c370a6076bcb78f26d72f89ff798",
-  "date": "2026-10-19"
+  "hash": "217b6e3f5320cc3b2783532d8ca6d39e84862abb",
+  "date": "2026-11-13"
  },
  "/de/products/lonicera-nitida": {
   "hash": "d6ffc66cc0d2b4f6e0c46d59670e2030f053cb8f",
@@ -303,21 +431,57 @@
   "hash": "927be759e68e9363f2bca5baed06a0106960a1ef",
   "date": "2026-10-19"
  },
+ "/de/products/magnolia-kobus": {
+  "hash": "0b039059d9c0d77787bcd9e0c9798f8f32a13b38",
+  "date": "2026-11-13"
+ },
  "/de/products/magnolia-soulangeana": {
-  "hash": "70c81ddf2e7c0124fbaf87e06ab7d80876b0186d",
-  "date": "2026-10-19"
+  "hash": "d31ff73abd4a654dee28ab672590ffb387b8935c",
+  "date": "2026-11-13"
+ },
+ "/de/products/magnolia-susan": {
+  "hash": "e3baf700c6b875ac8530eeccd15f260642edc9d3",
+  "date": "2026-11-13"
+ },
+ "/de/products/malin-prunus-padus": {
+  "hash": "de46e375ba03611f6cef4962455f9777aee48d59",
+  "date": "2026-11-13"
  },
  "/de/products/mar-decorativ-malus-floribunda": {
-  "hash": "368cd1f0c24996901bda7f5897ebb485a91eb8f4",
-  "date": "2026-10-19"
+  "hash": "6577091a1671514fe3040bb7dcbf56cb64dd8b9f",
+  "date": "2026-11-13"
+ },
+ "/de/products/mar-pom-fructifer-malus-domestica": {
+  "hash": "c1f7f70a5aa29097085e745853ebde291d5eafd9",
+  "date": "2026-11-13"
  },
  "/de/products/maslin-olea-europaea": {
   "hash": "1643bba7e8b74506ac5c2488f8a3466e50f1bf4d",
   "date": "2026-10-19"
  },
  "/de/products/mesteacan-betula-pendula": {
-  "hash": "85f3b7e36f11c31110d181b9a3a902fc47bd050c",
-  "date": "2026-10-19"
+  "hash": "a0c88559886e5debb2021cf87b202c4a4f15a701",
+  "date": "2026-11-13"
+ },
+ "/de/products/mesteacan-chinezesc-betula-albosinensis-fascination": {
+  "hash": "e56d78575061728e504a3cac4b0b7b24e2bee82b",
+  "date": "2026-11-13"
+ },
+ "/de/products/mesteacan-de-rau-betula-nigra": {
+  "hash": "ff15c04f8a82c0ecaf808af46118d9d345e535bd",
+  "date": "2026-11-13"
+ },
+ "/de/products/mesteacan-himalaya-betula-utilis-doorenbos": {
+  "hash": "b6ec2c1eba097912f00cff8a2c74eac30b078ddf",
+  "date": "2026-11-13"
+ },
+ "/de/products/mesteacan-pufos-betula-pubescens": {
+  "hash": "539b6437069f1d2995f5bcdb2631da89eb252f8d",
+  "date": "2026-11-13"
+ },
+ "/de/products/metasequoia-glyptostroboides": {
+  "hash": "d89998fdc093f6c77e1bf64684e0975513818e56",
+  "date": "2026-11-13"
  },
  "/de/products/molid-albastru-picea-pungens-glauca": {
   "hash": "a2d3b7be7ddcc1c06c1baef5b3e397cb859399a5",
@@ -331,6 +495,14 @@
   "hash": "ce8b8bbe0fd70e5b040bb00c437f21174d339208",
   "date": "2026-10-19"
  },
+ "/de/products/nuc-juglans-regia": {
+  "hash": "a0f607e2b197dcfffc794b217d3af70f07dc37ba",
+  "date": "2026-11-13"
+ },
+ "/de/products/nuc-negru-juglans-nigra": {
+  "hash": "bed3105d4f36de665e74da1dfd4089d4afd9194e",
+  "date": "2026-11-13"
+ },
  "/de/products/ophiopogon-japonicus": {
   "hash": "32561064fca2f6c7d1539d40a7c495a34b6dee9a",
   "date": "2026-10-19"
@@ -339,13 +511,41 @@
   "hash": "26e19bd1002c19c3014a620d7c051cd9c160b909",
   "date": "2026-10-19"
  },
+ "/de/products/paducel-decorativ-crataegus": {
+  "hash": "60e65cc05065bd08a0ef2db9fdd814fe8dc19c4c",
+  "date": "2026-11-13"
+ },
  "/de/products/palmier-trachycarpus-fortunei": {
   "hash": "283d1a0725f7d3111fb98b6d828484160fc1e324",
   "date": "2026-10-19"
  },
+ "/de/products/paltin-de-munte-acer-pseudoplatanus": {
+  "hash": "a9ab022c261370607191fb12506a0993611b2a88",
+  "date": "2026-11-13"
+ },
+ "/de/products/par-decorativ-pyrus-calleryana-chanticleer": {
+  "hash": "6e6589079364ecc1d4296f5ae6f4de1017b246b9",
+  "date": "2026-11-13"
+ },
+ "/de/products/par-pyrus-communis": {
+  "hash": "a495976ca903995482307be33d11cb9dac3656ef",
+  "date": "2026-11-13"
+ },
+ "/de/products/par-pyrus-salicifolia-pendula": {
+  "hash": "a45ff0620f324a9557964f2ad8ec3c6bf0c4c813",
+  "date": "2026-11-13"
+ },
+ "/de/products/parrotia-persica": {
+  "hash": "face9bc17560622261eef133da2e5f2903ceec96",
+  "date": "2026-11-13"
+ },
  "/de/products/pennisetum-alopecuroides": {
   "hash": "0ec256011d94abe5c86d2de3b0d7f36530ebf8c7",
   "date": "2026-10-19"
+ },
+ "/de/products/phellodendron-amurense": {
+  "hash": "0d5438acef618a37537c4d39d9a1747d6aff807d",
+  "date": "2026-11-13"
  },
  "/de/products/photinia-red-robin": {
   "hash": "c7af715dcd539db5d61f67450c61aa1f3f40e729",
@@ -380,32 +580,80 @@
   "date": "2026-10-19"
  },
  "/de/products/platan-platanus-acerifolia": {
-  "hash": "55915e2bf4b8614e94db97fb15df7cbad917d0a5",
-  "date": "2026-10-19"
+  "hash": "9ea3c776534a63e86dffdeba786aad03cb8837eb",
+  "date": "2026-11-13"
+ },
+ "/de/products/plop-canadian-robusta": {
+  "hash": "cb68f32a3b27ef2aa5b613b1cd60d7acae50f364",
+  "date": "2026-11-13"
  },
  "/de/products/plop-piramidal-populus-nigra-italica": {
   "hash": "9dc3d5368a67f0e801f9f16784ee05923db6413f",
   "date": "2026-10-19"
  },
+ "/de/products/plop-tremurator-populus-tremula": {
+  "hash": "937cd23178a18ac7ed3911a918588768a2d936c2",
+  "date": "2026-11-13"
+ },
  "/de/products/potentilla-fruticosa": {
   "hash": "1837b69c0646a5f5d2c045e0df1dd3eaeafb418a",
   "date": "2026-10-19"
  },
+ "/de/products/prun-prunus-domestica": {
+  "hash": "5be16ea9ac5624ec0507d434f8a8763c68f210bf",
+  "date": "2026-11-13"
+ },
  "/de/products/prun-rosu-prunus-cerasifera-pissardii": {
-  "hash": "ac89069f5920ca14584d64bf365da86c5aff9b09",
-  "date": "2026-10-19"
+  "hash": "6c0c582b5cbf7b87da6458d3ef78a22684c1bd4b",
+  "date": "2026-11-13"
+ },
+ "/de/products/prunus-virginiana-canada-red": {
+  "hash": "299b3c8167ac54c056e6028ef7429339816de07c",
+  "date": "2026-11-13"
+ },
+ "/de/products/pterocarya-fraxinifolia": {
+  "hash": "cfe2eee24e221919b3b65a61a9506f04bc5821e0",
+  "date": "2026-11-13"
  },
  "/de/products/pyracantha-red-column": {
   "hash": "0b67480a6d3728bd3676cd0a55ebc4938442f527",
   "date": "2026-10-19"
  },
  "/de/products/salcam-globular-robinia-umbraculifera": {
-  "hash": "662761dfdc84b7b7d4d502820facdd16668175cc",
-  "date": "2026-10-19"
+  "hash": "2172adcb8b397f45d98447485008f9c3f64b6691",
+  "date": "2026-11-13"
+ },
+ "/de/products/salcam-japonez-styphnolobium-japonicum": {
+  "hash": "3fd0b767687b0b3da4059cd14a6240a0916b73a4",
+  "date": "2026-11-13"
+ },
+ "/de/products/salcam-robinia-pseudoacacia": {
+  "hash": "522c92ef1722f881bcb7a66eb9d9b5a9fc7a8811",
+  "date": "2026-11-13"
+ },
+ "/de/products/salcie-alba-salix-alba": {
+  "hash": "412990fece34afa5abaf6b0df457b3ffb2052363",
+  "date": "2026-11-13"
+ },
+ "/de/products/salcie-pletoasa-salix-chrysocoma": {
+  "hash": "9757328c0819b87717e1e8bcc8aa8080ee5f262a",
+  "date": "2026-11-13"
+ },
+ "/de/products/salcie-salix-pentandra": {
+  "hash": "a9064e0ddaf71fa584623d91bf7bef43ebe3f3a3",
+  "date": "2026-11-13"
+ },
+ "/de/products/sambovina-celtis": {
+  "hash": "c1efca26c59911f7af5ddaf5bcc88b3d5e324234",
+  "date": "2026-11-13"
  },
  "/de/products/santolina-chamaecyparissus": {
   "hash": "cd325383573db8c41f22ef50d47adb6ae325422c",
   "date": "2026-10-19"
+ },
+ "/de/products/scorus-sorbus": {
+  "hash": "725296bcd7a40aa32bedfc41815dd54552a1b25b",
+  "date": "2026-11-13"
  },
  "/de/products/sedum-angelina": {
   "hash": "fd44888b42116b9bdbc2faa15650ec4b47c359ea",
@@ -439,25 +687,45 @@
   "hash": "9cff0b64feed8943d565569dbc6bec57cc38710d",
   "date": "2026-10-19"
  },
+ "/de/products/stejar-de-mlastina-quercus-palustris": {
+  "hash": "c57a95024a10d2c85dfb2bf453c0218776635a47",
+  "date": "2026-11-13"
+ },
+ "/de/products/stejar-quercus-macrocarpa": {
+  "hash": "9080f3f15d0d3d7fdac17915de32a276c55d4af9",
+  "date": "2026-11-13"
+ },
+ "/de/products/stejar-quercus-robur": {
+  "hash": "ce7d9f8dceb292592c34e75e1b8d17c31572e301",
+  "date": "2026-11-13"
+ },
  "/de/products/stejar-rosu-quercus-rubra": {
-  "hash": "c1c27a878de58655be2a61c0bef58dd3d94e6de4",
-  "date": "2026-10-19"
+  "hash": "7e48ec583caa73520c95f39cb4ea791acc8f89d3",
+  "date": "2026-11-13"
  },
  "/de/products/symphoricarpos-albus": {
   "hash": "607a68b0bb3bb9aa65480336522269e1be423d75",
   "date": "2026-10-19"
  },
  "/de/products/tei-argintiu-tilia-tomentosa": {
-  "hash": "87cf8849f311e4530b77a5df2928b7bc64752eba",
-  "date": "2026-10-19"
+  "hash": "7bfc0f5600c3362ea4ae094e4fd143b02af02fab",
+  "date": "2026-11-13"
  },
  "/de/products/tei-cu-frunza-mare-tilia-platyphyllos": {
-  "hash": "5c261743e1fc1e9c618351b5659080427149dc58",
-  "date": "2026-10-19"
+  "hash": "ab5ccc0cd1fce88ed1cdd77ffb279abb808fd4f7",
+  "date": "2026-11-13"
+ },
+ "/de/products/tei-olandez-tilia-europaea": {
+  "hash": "b7143c70e2aa2b672cdb2256d4b53909f442fe04",
+  "date": "2026-11-13"
  },
  "/de/products/tei-pucios-tilia-cordata": {
-  "hash": "8990cefb8ee286cf711f01a9c8153b44918c86e3",
-  "date": "2026-10-19"
+  "hash": "ae41bcea5f28e9776c1ac03c4444d65c47edf5c5",
+  "date": "2026-11-13"
+ },
+ "/de/products/tetradium-daniellii": {
+  "hash": "591b71c15e4d87efc959e67de4ab2b0355490d69",
+  "date": "2026-11-13"
  },
  "/de/products/tisa-taxus-baccata": {
   "hash": "318f73ec43631be1c89ccdc7252381ff1fbbfc2f",
@@ -479,9 +747,17 @@
   "hash": "0f4295ad9f963484c0e4e1454e5d52727783216c",
   "date": "2026-10-19"
  },
+ "/de/products/ulm-ulmus": {
+  "hash": "cb0c44396d1dcf314b393a35b7a5311d36bf59e4",
+  "date": "2026-11-13"
+ },
  "/de/products/viola-panseluta": {
   "hash": "37f7887a18c248a0196273dbe5173a20f15f4349",
   "date": "2026-10-19"
+ },
+ "/de/products/zelkova-serrata": {
+  "hash": "7592fc06f6d3af73a9105a212c1d71923dddb50a",
+  "date": "2026-11-13"
  },
  "/en": {
   "hash": "57cb28b571a87174431745e509711a55845e64a6",
@@ -492,16 +768,16 @@
   "date": "2026-10-21"
  },
  "/en/arbori-ornamentali-en-gros": {
-  "hash": "6bc39409577a93af00484c3bda06a8f1c6c7e694",
-  "date": "2026-10-21"
+  "hash": "aae05376b4d4c83666f661e8653dfcc7cdb1fc00",
+  "date": "2026-11-13"
  },
  "/en/arbusti-ornamentali-en-gros": {
   "hash": "b7a0f9272cc4370b6e2ad08d7824b61979dbf709",
   "date": "2026-10-15"
  },
  "/en/conifere-en-gros": {
-  "hash": "09cf77c6400d7c85be774ef87b382d91098dd716",
-  "date": "2026-10-21"
+  "hash": "5174e6723995e05ee62aaae0a8140e2d7ab37060",
+  "date": "2026-11-13"
  },
  "/en/contact": {
   "hash": "8c04dd9b9b6755a01b554e28b60ebaf50677e237",
@@ -564,48 +840,96 @@
   "date": "2026-10-21"
  },
  "/en/products": {
-  "hash": "71fd7d375f208b44f430d0be9186a16b84098345",
-  "date": "2026-10-21"
+  "hash": "195bb75ce9d760e1d90db7b638c80f0f1ee6d319",
+  "date": "2026-11-13"
  },
  "/en/products/ajuga-reptans": {
   "hash": "d652f0a336757173a6a98c996ace1fe413957200",
   "date": "2026-10-19"
  },
  "/en/products/albizia-julibrissin": {
-  "hash": "4412bcbd08ee3b3fb9d8816570f68aa990ef4c2d",
-  "date": "2026-10-19"
+  "hash": "fa5a77196fd38897a453a401f87834266ca574f4",
+  "date": "2026-11-13"
  },
  "/en/products/albizia-julibrissin-multitulpina": {
   "hash": "6d0850070d18366ebf8c5462bd3ea6cf3b26d6b6",
   "date": "2026-10-19"
  },
+ "/en/products/alun-turcesc-corylus-colurna": {
+  "hash": "cb04dcdc46b7ea6791f80a252c0b90deadf58127",
+  "date": "2026-11-13"
+ },
+ "/en/products/amelanchier-arbore": {
+  "hash": "6adb01f5d1ef9b284ba884033ab1d92f32e80756",
+  "date": "2026-11-13"
+ },
+ "/en/products/arborele-batista-davidia-involucrata": {
+  "hash": "47060202430caa8ca291551fe6c5d613084506fb",
+  "date": "2026-11-13"
+ },
  "/en/products/arborele-iudei-cercis-siliquastrum": {
-  "hash": "a132d0d32b0a44b7f0f62b022bb90357a4a76a83",
-  "date": "2026-10-19"
+  "hash": "de5df5653275f282df2f0034243b4b0d316eaa86",
+  "date": "2026-11-13"
  },
  "/en/products/arborele-lalea-liriodendron-tulipifera": {
-  "hash": "cbb33846c4b50a2a55cb574b5dc2e61be601e82b",
-  "date": "2026-10-19"
+  "hash": "9a5fcd04b620c28383a8826838fee330d8577a32",
+  "date": "2026-11-13"
+ },
+ "/en/products/arin-alnus-spaethii": {
+  "hash": "96f2654e4fc315489092c9a119cc1652950f68f8",
+  "date": "2026-11-13"
+ },
+ "/en/products/arin-italian-alnus-cordata": {
+  "hash": "e2000e38f9dafc5e10611ce6a9c788fa589c6989",
+  "date": "2026-11-13"
+ },
+ "/en/products/arin-negru-alnus-glutinosa": {
+  "hash": "28c6814dc7ac7688da084359f546f858058fc68b",
+  "date": "2026-11-13"
  },
  "/en/products/artar-acer-platanoides": {
-  "hash": "ba272285b2e6a85ad830e33e246bd57d1b3c4c2b",
-  "date": "2026-10-19"
+  "hash": "1621a4f42e15047d8e08f1377fe065a32b36f88b",
+  "date": "2026-11-13"
+ },
+ "/en/products/artar-acer-zoeschense-annae": {
+  "hash": "00ff418787a4c220431d676b3805ead79c2e3b94",
+  "date": "2026-11-13"
  },
  "/en/products/artar-argintiu-acer-saccharinum": {
-  "hash": "cebfa715cbea7ba855841a3680d8dc2a722dfce4",
-  "date": "2026-10-19"
+  "hash": "9d6ea35969922f93ebc655e2639112e3fce1fc68",
+  "date": "2026-11-13"
  },
  "/en/products/artar-crimson-king-acer-platanoides": {
   "hash": "50719013ff7f62aa6325f6b61e0f34b9b3e81600",
   "date": "2026-10-19"
  },
+ "/en/products/artar-freeman-acer-freemanii": {
+  "hash": "1be556e507f843e416a11ab474e00f88d2516b70",
+  "date": "2026-11-13"
+ },
+ "/en/products/artar-ginnala-acer-tataricum": {
+  "hash": "b005ba45bf05ae3fda2efeae7bd40efc5b635f4c",
+  "date": "2026-11-13"
+ },
  "/en/products/artar-japonez-acer-palmatum": {
   "hash": "7ba73743e7f62f6276b571e0688d5c27e59edfe4",
   "date": "2026-10-19"
  },
+ "/en/products/artar-negundo-flamingo": {
+  "hash": "6f85766f4f58246c68daaf022e450d0f0bdd05a1",
+  "date": "2026-11-13"
+ },
+ "/en/products/artar-pacific-sunset-norwegian-sunset": {
+  "hash": "37d5a496717bfbb3c15dac839f59192e44f7181e",
+  "date": "2026-11-13"
+ },
  "/en/products/artar-rosu-acer-rubrum": {
-  "hash": "20748de4944a2877750ba13641fea487241e95f8",
-  "date": "2026-10-19"
+  "hash": "e2d4b930cd58ce51a4d9b07d05edf9687b002c54",
+  "date": "2026-11-13"
+ },
+ "/en/products/artar-trilobat-acer-buergerianum": {
+  "hash": "2a008869180826cc9759abe5e8616013634b1689",
+  "date": "2026-11-13"
  },
  "/en/products/astilbe": {
   "hash": "3194f012c5291f458dc10fbd779c19e1f11f3abb",
@@ -627,17 +951,45 @@
   "hash": "db20415ae63fd9870209267e5a6c3c2d360d4128",
   "date": "2026-10-19"
  },
+ "/en/products/carpen-carpinus-betulus": {
+  "hash": "0478da31c2600e9488c093514ff14dfce2e0da94",
+  "date": "2026-11-13"
+ },
  "/en/products/carpen-columnar-carpinus-betulus-fastigiata": {
-  "hash": "da7b07f11dcf2b16e6d31aaf22cfbe9b472cf2c6",
-  "date": "2026-10-19"
+  "hash": "eb8e607cd92d90a7032d0860de660d864f03e9de",
+  "date": "2026-11-13"
+ },
+ "/en/products/carpen-japonez-carpinus-japonica": {
+  "hash": "c29e13d5b754de0925fce75cee5d33629c028229",
+  "date": "2026-11-13"
+ },
+ "/en/products/carpen-negru-ostrya-carpinifolia": {
+  "hash": "7f2ed7cbbb6c3fa53e62ac1e13a8413c1aeaf493",
+  "date": "2026-11-13"
  },
  "/en/products/caryopteris-clandonensis": {
   "hash": "8ad679b0ed4d0c7af69499f2819e1c0af859e444",
   "date": "2026-10-19"
  },
+ "/en/products/castan-comestibil-castanea-sativa": {
+  "hash": "f6c8489f9b08416e80c897ad27ecb7d02e7bd6ff",
+  "date": "2026-11-13"
+ },
  "/en/products/catalpa-bignonioides": {
-  "hash": "744f95d56fe30928c6f83f6f70496d2aa092495e",
-  "date": "2026-10-19"
+  "hash": "cda74764deb63087b74491bf5594fb45b6ac84ad",
+  "date": "2026-11-13"
+ },
+ "/en/products/cer-quercus-cerris": {
+  "hash": "808550c96f94a26916275911871d43b8e21ccf3f",
+  "date": "2026-11-13"
+ },
+ "/en/products/cercidiphyllum-japonicum": {
+  "hash": "6918229581f0f1ea39c253af72406475e0a2882d",
+  "date": "2026-11-13"
+ },
+ "/en/products/cercis-canadensis": {
+  "hash": "6495048184d002994dd6185ab639d49b10fc92f8",
+  "date": "2026-11-13"
  },
  "/en/products/chiparos-italian-cupressus-sempervirens": {
   "hash": "da1b62bb048b639f409e5bd51497e4c3eed8e776",
@@ -652,12 +1004,16 @@
   "date": "2026-10-19"
  },
  "/en/products/cires-japonez-prunus-serrulata": {
-  "hash": "c1057ecfc53aaffae2722519454fd684019ef139",
-  "date": "2026-10-19"
+  "hash": "74009c04783ebfcf0c71815f316a2b4c37707f07",
+  "date": "2026-11-13"
  },
  "/en/products/cires-japonez-royal-burgundy-prunus-serrulata": {
   "hash": "ebb23b519ad85353f84da773001c35a02aacc4ea",
   "date": "2026-10-19"
+ },
+ "/en/products/cires-prunus-avium": {
+  "hash": "0deeb59049478e32e83759b9e331e10f902f4549",
+  "date": "2026-11-13"
  },
  "/en/products/crin-de-zi-hemerocallis": {
   "hash": "e3dd91bd3a04305b55f73ea5bc15806d74c66924",
@@ -667,6 +1023,14 @@
   "hash": "8f8faad34883e2f30eca602a1f259b8187f388e0",
   "date": "2026-10-19"
  },
+ "/en/products/dud-alb-morus-alba": {
+  "hash": "497012e9066e46d29d7a2e77707a772afce4343e",
+  "date": "2026-11-13"
+ },
+ "/en/products/fag-fagus-sylvatica": {
+  "hash": "2126204fc5a4d8dc81bec42f5f9e28aa5a5fe13c",
+  "date": "2026-11-13"
+ },
  "/en/products/festuca-glauca": {
   "hash": "e68f469899859cbbfedf299a628b0298b167ab2d",
   "date": "2026-10-19"
@@ -675,9 +1039,25 @@
   "hash": "9329295f7bb0c9d8fb44984f483074be0b6469d2",
   "date": "2026-10-19"
  },
+ "/en/products/frasin-american-fraxinus-americana": {
+  "hash": "df1b99bd229cb3eef55180d4a23b36e9dd3e6efb",
+  "date": "2026-11-13"
+ },
+ "/en/products/frasin-comun-fraxinus-excelsior": {
+  "hash": "376a8e7bad33146675e73d6677ba458aad8da054",
+  "date": "2026-11-13"
+ },
  "/en/products/frasin-cu-flori-fraxinus-ornus": {
-  "hash": "1fff574cedf403d30aaf709c5959750335663d27",
-  "date": "2026-10-19"
+  "hash": "5de2ef4b054f95f17c949fe60984d90a11494eaf",
+  "date": "2026-11-13"
+ },
+ "/en/products/frasin-pennsylvanica-summit": {
+  "hash": "ed21868a4cec762ddfc081a3705ef6fa8fa7c51f",
+  "date": "2026-11-13"
+ },
+ "/en/products/frasin-raywood-fraxinus-angustifolia": {
+  "hash": "3777d2c9b16b1d911353e123bfa26de23aa55664",
+  "date": "2026-11-13"
  },
  "/en/products/gaura-lindheimeri": {
   "hash": "9a9b86334e54804d39a472c2ad824af17c1fc77d",
@@ -686,6 +1066,18 @@
  "/en/products/geranium-pelinarita": {
   "hash": "8de2a70a03242e35481758ec0029908e0b8b1385",
   "date": "2026-10-19"
+ },
+ "/en/products/ginkgo-biloba": {
+  "hash": "efbe4470f6dd773dc2e8b860c623aeddcf22b6da",
+  "date": "2026-11-13"
+ },
+ "/en/products/gladita-gleditsia-triacanthos": {
+  "hash": "b4a952e0316e7e9bca7c5bb68b1fe2a67a9747b3",
+  "date": "2026-11-13"
+ },
+ "/en/products/gorun-quercus-petraea": {
+  "hash": "9e90005b3e06f706866cfb1d12da7e2eca8d22b2",
+  "date": "2026-11-13"
  },
  "/en/products/heuchera": {
   "hash": "bdaea5784b48e3ac43bf347a17624311140b9482",
@@ -723,6 +1115,10 @@
   "hash": "c789ff88d155b21798316d1051b586dc39476b55",
   "date": "2026-10-19"
  },
+ "/en/products/jugastru-acer-campestre": {
+  "hash": "39a5196c5c879ef12fd7eec4338a537544086b54",
+  "date": "2026-11-13"
+ },
  "/en/products/kerria-japonica": {
   "hash": "1065e4b5ccd59e160e4c2c09f87f44566b9adc7c",
   "date": "2026-10-19"
@@ -731,9 +1127,17 @@
   "hash": "55402739093fa8e963e7529beee381ac497342f5",
   "date": "2026-10-19"
  },
+ "/en/products/koelreuteria-paniculata": {
+  "hash": "7f30dfdfe98fb2f4e29dd2d90c78305cba2c0776",
+  "date": "2026-11-13"
+ },
  "/en/products/lagerstroemia-indica": {
   "hash": "c43dd7819430ea4ca5a97437af9862d3682e397e",
   "date": "2026-10-19"
+ },
+ "/en/products/larice-japonez-larix-kaempferi": {
+  "hash": "f1d0c39806388f8bb315f13b7ad83f1e3f09f2da",
+  "date": "2026-11-13"
  },
  "/en/products/larice-larix-decidua": {
   "hash": "a0ba7cc6526f1a7a3633d91737fd9a931c698b2a",
@@ -752,8 +1156,8 @@
   "date": "2026-10-19"
  },
  "/en/products/liquidambar-styraciflua": {
-  "hash": "45bef6b23c3be3172f7181dbb79b4ff85ab0b8c1",
-  "date": "2026-10-19"
+  "hash": "b0f37017392dad48c78cf462b95a135831724a7c",
+  "date": "2026-11-13"
  },
  "/en/products/lonicera-nitida": {
   "hash": "b4b0e032a04b367ba4599c3298adcf2e0f2c8015",
@@ -763,21 +1167,57 @@
   "hash": "e32ccffeaeb1a4f793d80d82ea7c6693ddde0171",
   "date": "2026-10-19"
  },
+ "/en/products/magnolia-kobus": {
+  "hash": "9cdab1e5693251756accacf5d4d60ed83717b975",
+  "date": "2026-11-13"
+ },
  "/en/products/magnolia-soulangeana": {
-  "hash": "7bca362c4f09c1dcf0acc461074a5f8c7d4dcf54",
-  "date": "2026-10-19"
+  "hash": "e96ee8fec91dd99a3e5f7a7fae743c3b41523875",
+  "date": "2026-11-13"
+ },
+ "/en/products/magnolia-susan": {
+  "hash": "0fe7fca3a33d122abfad7698fc229ef8f8f93765",
+  "date": "2026-11-13"
+ },
+ "/en/products/malin-prunus-padus": {
+  "hash": "f6c73e3263f8f5e226c07247279d6e2839998629",
+  "date": "2026-11-13"
  },
  "/en/products/mar-decorativ-malus-floribunda": {
-  "hash": "6052987b2cf0486710eb281861e793398854d0f1",
-  "date": "2026-10-19"
+  "hash": "c9361fcfac2df39b5d264f10098cfd98cbf748cf",
+  "date": "2026-11-13"
+ },
+ "/en/products/mar-pom-fructifer-malus-domestica": {
+  "hash": "43d32134145e068f567f173319a8bede35115d9c",
+  "date": "2026-11-13"
  },
  "/en/products/maslin-olea-europaea": {
   "hash": "98e7b96642debf4671598c85e7439464f5e4c63b",
   "date": "2026-10-19"
  },
  "/en/products/mesteacan-betula-pendula": {
-  "hash": "ca8b5450536a2e34f7aaa6fab7ef1f0a98798761",
-  "date": "2026-10-19"
+  "hash": "eb7f2895f7ede9c42dedd24ebfcbf7e250d19df6",
+  "date": "2026-11-13"
+ },
+ "/en/products/mesteacan-chinezesc-betula-albosinensis-fascination": {
+  "hash": "9267302af0cde757c9d71f285c68a9e262488e97",
+  "date": "2026-11-13"
+ },
+ "/en/products/mesteacan-de-rau-betula-nigra": {
+  "hash": "6fe2d374fa6b88f3248b8a2e2dd523ee9da4b5ce",
+  "date": "2026-11-13"
+ },
+ "/en/products/mesteacan-himalaya-betula-utilis-doorenbos": {
+  "hash": "ddaa3410c039bb0564c34ec6a5dcf07cd1d7c198",
+  "date": "2026-11-13"
+ },
+ "/en/products/mesteacan-pufos-betula-pubescens": {
+  "hash": "395a340e690bfd72623430bdf8e244982bcd7f83",
+  "date": "2026-11-13"
+ },
+ "/en/products/metasequoia-glyptostroboides": {
+  "hash": "7381ad4133af2e41bdc8f5996545a55d991e372c",
+  "date": "2026-11-13"
  },
  "/en/products/molid-albastru-picea-pungens-glauca": {
   "hash": "172a36b291c6d203a2147aedea6327039de30617",
@@ -791,6 +1231,14 @@
   "hash": "599b8c1de10a9da888184e3ee406242c651afc88",
   "date": "2026-10-19"
  },
+ "/en/products/nuc-juglans-regia": {
+  "hash": "397e871833c8a1057202b406afc992add26b788f",
+  "date": "2026-11-13"
+ },
+ "/en/products/nuc-negru-juglans-nigra": {
+  "hash": "9c92d25be5debd7351ee3838034b9af88a722b78",
+  "date": "2026-11-13"
+ },
  "/en/products/ophiopogon-japonicus": {
   "hash": "fb04a5405e2ec15a4132d559ba5886a0ed88eb6a",
   "date": "2026-10-19"
@@ -799,13 +1247,41 @@
   "hash": "f6e57c2cade81db54daecf20c100f1eecf0e3979",
   "date": "2026-10-19"
  },
+ "/en/products/paducel-decorativ-crataegus": {
+  "hash": "93310a6ca68421006a4a77f4b772eca34202c4db",
+  "date": "2026-11-13"
+ },
  "/en/products/palmier-trachycarpus-fortunei": {
   "hash": "b46f66511244aae991baf55524bcb10dce64f152",
   "date": "2026-10-19"
  },
+ "/en/products/paltin-de-munte-acer-pseudoplatanus": {
+  "hash": "aadff60dcd56ca562d945e5bf3f613966957c49a",
+  "date": "2026-11-13"
+ },
+ "/en/products/par-decorativ-pyrus-calleryana-chanticleer": {
+  "hash": "0d2fac15e13807a3421c9f3991aa474abbb8327c",
+  "date": "2026-11-13"
+ },
+ "/en/products/par-pyrus-communis": {
+  "hash": "c07b9f724113ee27f58f7f859097e14a024e50bd",
+  "date": "2026-11-13"
+ },
+ "/en/products/par-pyrus-salicifolia-pendula": {
+  "hash": "d29c68fbe6cefe25b048e905bccc2ad42935803a",
+  "date": "2026-11-13"
+ },
+ "/en/products/parrotia-persica": {
+  "hash": "2bf1b0db26e7a0714ca243f1208103e6451c343f",
+  "date": "2026-11-13"
+ },
  "/en/products/pennisetum-alopecuroides": {
   "hash": "3900f3c5f9dd114c4d5c83669e9902ec79094e07",
   "date": "2026-10-19"
+ },
+ "/en/products/phellodendron-amurense": {
+  "hash": "46e063b2a316a528127b6bff6f8c7ff0ff2bba6d",
+  "date": "2026-11-13"
  },
  "/en/products/photinia-red-robin": {
   "hash": "03726520bbd8ae54fd04f02b551ff48583585b56",
@@ -840,32 +1316,80 @@
   "date": "2026-10-19"
  },
  "/en/products/platan-platanus-acerifolia": {
-  "hash": "cebef419f22a59b5bb1479eabdd5f0bf1769ded5",
-  "date": "2026-10-19"
+  "hash": "bb5c87470f3ab900ce84be1170a75f1b6e21e1ca",
+  "date": "2026-11-13"
+ },
+ "/en/products/plop-canadian-robusta": {
+  "hash": "2fdb68934c4562139d33fc57a4983ef18ce27ccf",
+  "date": "2026-11-13"
  },
  "/en/products/plop-piramidal-populus-nigra-italica": {
   "hash": "c3789189cb481c1a34ba8031af733578ad041770",
   "date": "2026-10-19"
  },
+ "/en/products/plop-tremurator-populus-tremula": {
+  "hash": "1f4589c9276f51e47ce439e672baadd497e1bed8",
+  "date": "2026-11-13"
+ },
  "/en/products/potentilla-fruticosa": {
   "hash": "57b30afc8653247be64dde8da5eae0065e4b260b",
   "date": "2026-10-19"
  },
+ "/en/products/prun-prunus-domestica": {
+  "hash": "3b863415c62aec520087d5e5ad79269a30f13899",
+  "date": "2026-11-13"
+ },
  "/en/products/prun-rosu-prunus-cerasifera-pissardii": {
-  "hash": "fcfd603d242a67ff9fe9dffbb44043ff7ab83887",
-  "date": "2026-10-19"
+  "hash": "0d3cb298122cebf54f23c496a93dbf8903555322",
+  "date": "2026-11-13"
+ },
+ "/en/products/prunus-virginiana-canada-red": {
+  "hash": "2d10999712a2d2526c70a35ae833181493aabbba",
+  "date": "2026-11-13"
+ },
+ "/en/products/pterocarya-fraxinifolia": {
+  "hash": "713f0b5799ebb1e9a91d44c9b2429dd34662a262",
+  "date": "2026-11-13"
  },
  "/en/products/pyracantha-red-column": {
   "hash": "e77e73ce472ccf46ac521ab248d4b20dab8f9e33",
   "date": "2026-10-19"
  },
  "/en/products/salcam-globular-robinia-umbraculifera": {
-  "hash": "a8c29d1dd7edf9fcc0af099d0dfb0aaadd736a1c",
-  "date": "2026-10-19"
+  "hash": "bf73840396087687d5d3d8ab60382a7cbae2de67",
+  "date": "2026-11-13"
+ },
+ "/en/products/salcam-japonez-styphnolobium-japonicum": {
+  "hash": "0130c3ed16fb1118b300894f872665bd61bd5cb4",
+  "date": "2026-11-13"
+ },
+ "/en/products/salcam-robinia-pseudoacacia": {
+  "hash": "6f3d5ce2d8ef1746bdbc360be4960d3680840ded",
+  "date": "2026-11-13"
+ },
+ "/en/products/salcie-alba-salix-alba": {
+  "hash": "d3a2fed4e84fee32e7bc2161de8ccff09eb74a15",
+  "date": "2026-11-13"
+ },
+ "/en/products/salcie-pletoasa-salix-chrysocoma": {
+  "hash": "1b44a2c6e987816ccd78375f71b8586c05f49d64",
+  "date": "2026-11-13"
+ },
+ "/en/products/salcie-salix-pentandra": {
+  "hash": "bfa8a8594cc235ade7b069dad9f7e3571384c1df",
+  "date": "2026-11-13"
+ },
+ "/en/products/sambovina-celtis": {
+  "hash": "e07bd56d5fa9aa66f614c2508bf4eb760d17a823",
+  "date": "2026-11-13"
  },
  "/en/products/santolina-chamaecyparissus": {
   "hash": "0fd3df9b43bcb05c3a7ad1492bc6196392348c99",
   "date": "2026-10-19"
+ },
+ "/en/products/scorus-sorbus": {
+  "hash": "2d611cc0d169715f9adda08f7192a70b6367cbd8",
+  "date": "2026-11-13"
  },
  "/en/products/sedum-angelina": {
   "hash": "e44d0b9260725f35c99e42c255694b634dc425c1",
@@ -899,25 +1423,45 @@
   "hash": "7551e91ff0b09949f38da7f8b59a69e720cdaf9e",
   "date": "2026-10-19"
  },
+ "/en/products/stejar-de-mlastina-quercus-palustris": {
+  "hash": "359decdfc1a820ca61374a0985d8f948c1c09e5c",
+  "date": "2026-11-13"
+ },
+ "/en/products/stejar-quercus-macrocarpa": {
+  "hash": "3d347ca3e418f551f97516dab60fef8e92bf6409",
+  "date": "2026-11-13"
+ },
+ "/en/products/stejar-quercus-robur": {
+  "hash": "e873d8a802039f85e469a6616511ad2ee842b8c5",
+  "date": "2026-11-13"
+ },
  "/en/products/stejar-rosu-quercus-rubra": {
-  "hash": "4e1a74efb6d4f65edec374bc3a4c4e473cf3f45a",
-  "date": "2026-10-19"
+  "hash": "c49241b9f2dc9e8831410860d5e49997b05e81de",
+  "date": "2026-11-13"
  },
  "/en/products/symphoricarpos-albus": {
   "hash": "9ca174383508931d0abcc888c2fe2a38f0082803",
   "date": "2026-10-19"
  },
  "/en/products/tei-argintiu-tilia-tomentosa": {
-  "hash": "ea3ff1ece673e947dcabee500bdae1bce555dccb",
-  "date": "2026-10-19"
+  "hash": "1cecc2d7366333b441121fdba45edd1116263b40",
+  "date": "2026-11-13"
  },
  "/en/products/tei-cu-frunza-mare-tilia-platyphyllos": {
-  "hash": "0e99a11069ca20ab61b3784dedd3a6fa7d762eea",
-  "date": "2026-10-19"
+  "hash": "e80bdc0ad8bf94328a0620212e32cea3dc7940af",
+  "date": "2026-11-13"
+ },
+ "/en/products/tei-olandez-tilia-europaea": {
+  "hash": "e668c5aafb1d3771bb8743b7837acf7d03e2a6f8",
+  "date": "2026-11-13"
  },
  "/en/products/tei-pucios-tilia-cordata": {
-  "hash": "84c7d11a10e36c63a51b2a1f12f5200e3a35d644",
-  "date": "2026-10-19"
+  "hash": "fb8ec1905dae70212d496cf2e6e711220b74869e",
+  "date": "2026-11-13"
+ },
+ "/en/products/tetradium-daniellii": {
+  "hash": "217c1de97d19bbeed86accdbb7dfd1ee035c2810",
+  "date": "2026-11-13"
  },
  "/en/products/tisa-taxus-baccata": {
   "hash": "c84626768beb1ab8977efce6ea76b70d552d5e39",
@@ -939,9 +1483,17 @@
   "hash": "d75bb685ef8fda8a595a82de52173b508ababa30",
   "date": "2026-10-19"
  },
+ "/en/products/ulm-ulmus": {
+  "hash": "10d43873b53fa8ada78a217f98ee22261ce41929",
+  "date": "2026-11-13"
+ },
  "/en/products/viola-panseluta": {
   "hash": "1954c1176e699e154a00b3ee0eece2d6004d3750",
   "date": "2026-10-19"
+ },
+ "/en/products/zelkova-serrata": {
+  "hash": "82152b655a3e032f32be3b876d5ab7e31d013374",
+  "date": "2026-11-13"
  },
  "/export-plante-europa": {
   "hash": "58f43e17b2e1183dae384d0bd9f1db6b5f6e6e43",
@@ -1000,48 +1552,96 @@
   "date": "2026-10-21"
  },
  "/products": {
-  "hash": "c3191ea2c3e97a085794601acb76edde17375410",
-  "date": "2026-10-21"
+  "hash": "3a437f969428e3cfa756965b6850e2b6237cfebe",
+  "date": "2026-11-13"
  },
  "/products/ajuga-reptans": {
   "hash": "51de4d1db279d2b5e84c8160203a230a5acacee5",
   "date": "2026-10-19"
  },
  "/products/albizia-julibrissin": {
-  "hash": "0f8092cbcf629e79629dfacf5dfbda7e9e5bbcbb",
-  "date": "2026-10-19"
+  "hash": "c54efeb552c5f6308a2cabd7f538becbaa2d25e3",
+  "date": "2026-11-13"
  },
  "/products/albizia-julibrissin-multitulpina": {
   "hash": "308c3ed9b801498b0e7b709b86b35a0c792bebef",
   "date": "2026-10-19"
  },
+ "/products/alun-turcesc-corylus-colurna": {
+  "hash": "a3e28722150621a22c9e453225685fa6594d1758",
+  "date": "2026-11-13"
+ },
+ "/products/amelanchier-arbore": {
+  "hash": "06d617227aab86eab3f63ba62db2eaaae976e324",
+  "date": "2026-11-13"
+ },
+ "/products/arborele-batista-davidia-involucrata": {
+  "hash": "c2c94987285fee5c8edb36f6dff32ff5b81d9624",
+  "date": "2026-11-13"
+ },
  "/products/arborele-iudei-cercis-siliquastrum": {
-  "hash": "77174705c5b49baad8c35267eb7d61c6ebeacc3b",
-  "date": "2026-10-19"
+  "hash": "7cca3b042a70a01083e05730fd324f5937eb3b46",
+  "date": "2026-11-13"
  },
  "/products/arborele-lalea-liriodendron-tulipifera": {
-  "hash": "3885d315be00cdb93976d38bc726bf7fc36c8e4f",
-  "date": "2026-10-19"
+  "hash": "c3c44a7e3124d8999a2c2a66f9f544c2603ff97d",
+  "date": "2026-11-13"
+ },
+ "/products/arin-alnus-spaethii": {
+  "hash": "5854f79ac015a1a81f231691e08ac737e554eb6b",
+  "date": "2026-11-13"
+ },
+ "/products/arin-italian-alnus-cordata": {
+  "hash": "e955d90d5a86e8089f6bd21f3ec7d1dbee784018",
+  "date": "2026-11-13"
+ },
+ "/products/arin-negru-alnus-glutinosa": {
+  "hash": "f6f03f86bffe7f1bd4c83793c532512e42ff0945",
+  "date": "2026-11-13"
  },
  "/products/artar-acer-platanoides": {
-  "hash": "026440fce8205e12afee70f4804c2da689e3e00d",
-  "date": "2026-10-19"
+  "hash": "79994c9e9af5dfe8a387baede9846efe26815c1b",
+  "date": "2026-11-13"
+ },
+ "/products/artar-acer-zoeschense-annae": {
+  "hash": "6da701c75cb9e37fe383079e158c4556833a6dab",
+  "date": "2026-11-13"
  },
  "/products/artar-argintiu-acer-saccharinum": {
-  "hash": "100d6020a6f2a26e7957b1f761bfb0eecd9c1593",
-  "date": "2026-10-19"
+  "hash": "c43f106b8aa25cd2b131f7c942d98c5681a65e43",
+  "date": "2026-11-13"
  },
  "/products/artar-crimson-king-acer-platanoides": {
   "hash": "353369a17c3a06d8aa0eceb3683e4cc48cd7d5c5",
   "date": "2026-10-19"
  },
+ "/products/artar-freeman-acer-freemanii": {
+  "hash": "29dd921bfa5c59e7f728f572644c65341c2dd728",
+  "date": "2026-11-13"
+ },
+ "/products/artar-ginnala-acer-tataricum": {
+  "hash": "f34903c0cc5330c18effbe4ea9415b4be60a4a0e",
+  "date": "2026-11-13"
+ },
  "/products/artar-japonez-acer-palmatum": {
   "hash": "833783557e2d29ece14f9ab66b20b8fd85559d00",
   "date": "2026-10-19"
  },
+ "/products/artar-negundo-flamingo": {
+  "hash": "1b6c2ebf3f253541d43fccfd37f581d5d091fb49",
+  "date": "2026-11-13"
+ },
+ "/products/artar-pacific-sunset-norwegian-sunset": {
+  "hash": "38c42b7549c166258e2e8ff1511b4abee6dc9258",
+  "date": "2026-11-13"
+ },
  "/products/artar-rosu-acer-rubrum": {
-  "hash": "08cf05236b1b2402f07eeecf0a0a923337676a0a",
-  "date": "2026-10-19"
+  "hash": "04f6a06a370fd2a347461a0cfad5f2affac47aa5",
+  "date": "2026-11-13"
+ },
+ "/products/artar-trilobat-acer-buergerianum": {
+  "hash": "975dc5df8e4ba5c05dd188752a07c18811b50dbc",
+  "date": "2026-11-13"
  },
  "/products/astilbe": {
   "hash": "c30f95d63106c7220460f934a92e3b4719911c26",
@@ -1063,17 +1663,45 @@
   "hash": "e6091967a378017eb5a75b423746b1a85b4a671e",
   "date": "2026-10-19"
  },
+ "/products/carpen-carpinus-betulus": {
+  "hash": "4f30e1e4db8c361a8c36f361a46dfeca32e677c5",
+  "date": "2026-11-13"
+ },
  "/products/carpen-columnar-carpinus-betulus-fastigiata": {
-  "hash": "7c769c2529eb85aac726b8ef04744aa0cf055032",
-  "date": "2026-10-19"
+  "hash": "3f3d75992495512d70d6e6971371fa5594b50d94",
+  "date": "2026-11-13"
+ },
+ "/products/carpen-japonez-carpinus-japonica": {
+  "hash": "ae9e2f06722a05580af890743aee6f8fb732db78",
+  "date": "2026-11-13"
+ },
+ "/products/carpen-negru-ostrya-carpinifolia": {
+  "hash": "f4a2023612247ed0b676f1e5f4f3743fdd4b6c93",
+  "date": "2026-11-13"
  },
  "/products/caryopteris-clandonensis": {
   "hash": "bf11baf382604fde5d6dbc5c91e6f219091c91ca",
   "date": "2026-10-19"
  },
+ "/products/castan-comestibil-castanea-sativa": {
+  "hash": "0bc3760a6ddd6ea1c4c7708d201ee99513733fde",
+  "date": "2026-11-13"
+ },
  "/products/catalpa-bignonioides": {
-  "hash": "93595ebcc42d0b40f3180bad7702a102c22c5b03",
-  "date": "2026-10-19"
+  "hash": "504a2b133280486731e71c081809bce375542609",
+  "date": "2026-11-13"
+ },
+ "/products/cer-quercus-cerris": {
+  "hash": "06be81b51eec11716d6a60a8374a4bd877c2e265",
+  "date": "2026-11-13"
+ },
+ "/products/cercidiphyllum-japonicum": {
+  "hash": "7347e7df32d028ad2180d1c46a9d306baeec8639",
+  "date": "2026-11-13"
+ },
+ "/products/cercis-canadensis": {
+  "hash": "ba7c211317d82aa2e9d52434dbf8f76cc38b004e",
+  "date": "2026-11-13"
  },
  "/products/chiparos-italian-cupressus-sempervirens": {
   "hash": "4ab6e318703bf9646ef0637ea946bf00d782800a",
@@ -1088,12 +1716,16 @@
   "date": "2026-10-19"
  },
  "/products/cires-japonez-prunus-serrulata": {
-  "hash": "d506f6f1d787609a58fc380e337482628b932777",
-  "date": "2026-10-19"
+  "hash": "d4f708f06f8778be4fb0874b487fb28848f076ab",
+  "date": "2026-11-13"
  },
  "/products/cires-japonez-royal-burgundy-prunus-serrulata": {
   "hash": "ba04ded077b2405d12477922ef8ab9ecd77ae36f",
   "date": "2026-10-19"
+ },
+ "/products/cires-prunus-avium": {
+  "hash": "db6d6229d09c106473a42fb63ae058744c93e981",
+  "date": "2026-11-13"
  },
  "/products/crin-de-zi-hemerocallis": {
   "hash": "48bd78e79871d65ef17f1e612f0fc40110f5ca62",
@@ -1103,6 +1735,14 @@
   "hash": "6b7adc6d57b24140d572b187ab2642dfff9b83fb",
   "date": "2026-10-19"
  },
+ "/products/dud-alb-morus-alba": {
+  "hash": "2ca4a27c2f0aae6567300dd1dc3290bdf909736e",
+  "date": "2026-11-13"
+ },
+ "/products/fag-fagus-sylvatica": {
+  "hash": "e1477d9b228a3617d6820a033b6acf036c0304b3",
+  "date": "2026-11-13"
+ },
  "/products/festuca-glauca": {
   "hash": "427a05a13ea40aa7ecd58e5e182f7ccb40e02f68",
   "date": "2026-10-19"
@@ -1111,9 +1751,25 @@
   "hash": "1f1a2e6da38918422499f4b7ec5825e168b97d3a",
   "date": "2026-10-19"
  },
+ "/products/frasin-american-fraxinus-americana": {
+  "hash": "8726222fc69f304650223e76a0fb444968f0fb11",
+  "date": "2026-11-13"
+ },
+ "/products/frasin-comun-fraxinus-excelsior": {
+  "hash": "9444574b52ad2e32131d62257bc1b4138b663606",
+  "date": "2026-11-13"
+ },
  "/products/frasin-cu-flori-fraxinus-ornus": {
-  "hash": "d4db7e4350d9c57aa4f9ae61816616864ee08d23",
-  "date": "2026-10-19"
+  "hash": "b5867097d1ea8bf2f8eaa7d91fcc38486c219f89",
+  "date": "2026-11-13"
+ },
+ "/products/frasin-pennsylvanica-summit": {
+  "hash": "a022c008c29d0ef97c748f9f2630e43a7bba9a75",
+  "date": "2026-11-13"
+ },
+ "/products/frasin-raywood-fraxinus-angustifolia": {
+  "hash": "9df2caa4451cce1ed2e0ab6a7ec7264438272f5d",
+  "date": "2026-11-13"
  },
  "/products/gaura-lindheimeri": {
   "hash": "ad1e8926d3cd93b9f8607a0f4a02b2093abd2338",
@@ -1122,6 +1778,18 @@
  "/products/geranium-pelinarita": {
   "hash": "9beb8b51e49dad818e43e187d8fff7542cc979e1",
   "date": "2026-10-19"
+ },
+ "/products/ginkgo-biloba": {
+  "hash": "2c34c8a34ee312467935a1d08203e1677d487ec6",
+  "date": "2026-11-13"
+ },
+ "/products/gladita-gleditsia-triacanthos": {
+  "hash": "45de1fc578aa03a26ab72a1be0adaa1899c1d790",
+  "date": "2026-11-13"
+ },
+ "/products/gorun-quercus-petraea": {
+  "hash": "9a1ff5b439b7f99bde5dbcfcf2a4e9c4b195bd29",
+  "date": "2026-11-13"
  },
  "/products/heuchera": {
   "hash": "05f743ddb6a97e2982cbbf29928b381c5771b40c",
@@ -1159,6 +1827,10 @@
   "hash": "1c365a5d7ec9187fa690200678f0d8bb4c416ad4",
   "date": "2026-10-19"
  },
+ "/products/jugastru-acer-campestre": {
+  "hash": "357790a2f12c184cba328c46a53ace19b03c7ef9",
+  "date": "2026-11-13"
+ },
  "/products/kerria-japonica": {
   "hash": "b1bee968fd28160e210cf234469e4c08c1a2e7f8",
   "date": "2026-10-19"
@@ -1167,9 +1839,17 @@
   "hash": "dbef5befa3e1ae3c2a6c1cd7b74b90cdd9707b70",
   "date": "2026-10-19"
  },
+ "/products/koelreuteria-paniculata": {
+  "hash": "925044e7f5d5d4aee8b27949a4b85f142c9f7f53",
+  "date": "2026-11-13"
+ },
  "/products/lagerstroemia-indica": {
   "hash": "3082b808bc43a653a1228b251b788df07542c387",
   "date": "2026-10-19"
+ },
+ "/products/larice-japonez-larix-kaempferi": {
+  "hash": "e5b8a43f911dcb8170a49d1a8f92848ac2e5bf82",
+  "date": "2026-11-13"
  },
  "/products/larice-larix-decidua": {
   "hash": "939a35a4257f6d835fc6abd95f953bd6c6b9470c",
@@ -1188,8 +1868,8 @@
   "date": "2026-10-19"
  },
  "/products/liquidambar-styraciflua": {
-  "hash": "e143717339b7c673b1714be990b367c0653990f9",
-  "date": "2026-10-19"
+  "hash": "6c4150335d559acedf10dc3b1dfb4ff8aa98f032",
+  "date": "2026-11-13"
  },
  "/products/lonicera-nitida": {
   "hash": "670947c9a421762744e98ecb0f01f0a2b4662ab0",
@@ -1199,21 +1879,57 @@
   "hash": "81bb0e63fcb4e9953d5adde91d970fd4c34a698a",
   "date": "2026-10-19"
  },
+ "/products/magnolia-kobus": {
+  "hash": "d9ea557e2a1ebdccad36354cfe0094c046495699",
+  "date": "2026-11-13"
+ },
  "/products/magnolia-soulangeana": {
-  "hash": "14746f6c0710e3637521c328436c60cab2430c4b",
-  "date": "2026-10-19"
+  "hash": "d532b58551e598e6afc3e148a44ed4b2bf70a5d5",
+  "date": "2026-11-13"
+ },
+ "/products/magnolia-susan": {
+  "hash": "735d3828ec0e14f2a593fab5e565d19d20cad0ab",
+  "date": "2026-11-13"
+ },
+ "/products/malin-prunus-padus": {
+  "hash": "0d1a97ae7e3563e2f4ffb14e064b12ef368b1cb2",
+  "date": "2026-11-13"
  },
  "/products/mar-decorativ-malus-floribunda": {
-  "hash": "83d88416276021737e0a7651f16e7585077e3b40",
-  "date": "2026-10-19"
+  "hash": "60fd05a1bf3bdee5813073ad6858ea53b87a119c",
+  "date": "2026-11-13"
+ },
+ "/products/mar-pom-fructifer-malus-domestica": {
+  "hash": "5836802f19d68af95bc0920f0634f804e7a1ea9e",
+  "date": "2026-11-13"
  },
  "/products/maslin-olea-europaea": {
   "hash": "f2ba6d2d588011f3666f3210405738e2b513e7fc",
   "date": "2026-10-19"
  },
  "/products/mesteacan-betula-pendula": {
-  "hash": "f236cf4f0e5d685481a9d34dfb387c3f86c895df",
-  "date": "2026-10-19"
+  "hash": "9b4ecf8346e30a8caa3887022722a043c9d441d7",
+  "date": "2026-11-13"
+ },
+ "/products/mesteacan-chinezesc-betula-albosinensis-fascination": {
+  "hash": "16293914b871358f31695a0e072d66c12c43541e",
+  "date": "2026-11-13"
+ },
+ "/products/mesteacan-de-rau-betula-nigra": {
+  "hash": "e25641beed836698937b497554d8c5ca86318de8",
+  "date": "2026-11-13"
+ },
+ "/products/mesteacan-himalaya-betula-utilis-doorenbos": {
+  "hash": "dba465a265ba776398e5449aac546950bc57e0d7",
+  "date": "2026-11-13"
+ },
+ "/products/mesteacan-pufos-betula-pubescens": {
+  "hash": "513933a001ea260c11d57abf4d90e25d798af109",
+  "date": "2026-11-13"
+ },
+ "/products/metasequoia-glyptostroboides": {
+  "hash": "2628aaf5a4630dcf8881722ec02e2a557d31c2dd",
+  "date": "2026-11-13"
  },
  "/products/molid-albastru-picea-pungens-glauca": {
   "hash": "54eac39268501935846724357afe7141f101d18b",
@@ -1227,6 +1943,14 @@
   "hash": "7171ee2238514e19a714349655963b536652b961",
   "date": "2026-10-19"
  },
+ "/products/nuc-juglans-regia": {
+  "hash": "fea73c2ab9809b887b047cf3a7155dbe92e378b5",
+  "date": "2026-11-13"
+ },
+ "/products/nuc-negru-juglans-nigra": {
+  "hash": "fbe974c24bf8b7781c1b5f880b4934ddc0e015ce",
+  "date": "2026-11-13"
+ },
  "/products/ophiopogon-japonicus": {
   "hash": "b43ee26dadb1ae4d650a94ff2fdb51b1ecb7d9b0",
   "date": "2026-10-19"
@@ -1235,13 +1959,41 @@
   "hash": "e3ad8d6aa336346ef61e91adcdbb6ec24f818ef6",
   "date": "2026-10-19"
  },
+ "/products/paducel-decorativ-crataegus": {
+  "hash": "db1a4a8a1fd2269ccf156d06c4ee6a6562c3d40a",
+  "date": "2026-11-13"
+ },
  "/products/palmier-trachycarpus-fortunei": {
   "hash": "ecc4f6171840e16821e9e9515ed55a0cf45a655c",
   "date": "2026-10-19"
  },
+ "/products/paltin-de-munte-acer-pseudoplatanus": {
+  "hash": "100cad3b9e02923350f133fe55316ed052177035",
+  "date": "2026-11-13"
+ },
+ "/products/par-decorativ-pyrus-calleryana-chanticleer": {
+  "hash": "afa693533ddb93b7bef0fdd45c9e3df7993363d8",
+  "date": "2026-11-13"
+ },
+ "/products/par-pyrus-communis": {
+  "hash": "0a309b80e33844f524ab0381497909b010f46d6c",
+  "date": "2026-11-13"
+ },
+ "/products/par-pyrus-salicifolia-pendula": {
+  "hash": "bcb4b82ca2edca51e9cb8407714c4a7cf6274737",
+  "date": "2026-11-13"
+ },
+ "/products/parrotia-persica": {
+  "hash": "8955d345d8707e0927942d96753965536df691f3",
+  "date": "2026-11-13"
+ },
  "/products/pennisetum-alopecuroides": {
   "hash": "3b4e5df288cc9304b395f112707904ef108cbf9b",
   "date": "2026-10-19"
+ },
+ "/products/phellodendron-amurense": {
+  "hash": "2fab0f0cb8d98ca7bd08ac3fb7bea6e16d6f16d8",
+  "date": "2026-11-13"
  },
  "/products/photinia-red-robin": {
   "hash": "3b19dd98603ed8981f49fde554b1ca639fda960e",
@@ -1276,32 +2028,80 @@
   "date": "2026-10-19"
  },
  "/products/platan-platanus-acerifolia": {
-  "hash": "ae2ad64b680795a0279b5091494306f1bd7c7493",
-  "date": "2026-10-19"
+  "hash": "95d7f58ee732da19936413961561268b9c5ec5e6",
+  "date": "2026-11-13"
+ },
+ "/products/plop-canadian-robusta": {
+  "hash": "1df5dfc70ce041ec3b427a0716bf01e7a1a67f40",
+  "date": "2026-11-13"
  },
  "/products/plop-piramidal-populus-nigra-italica": {
   "hash": "57915019cc7b876490d99676fba72b52b03c6cba",
   "date": "2026-10-19"
  },
+ "/products/plop-tremurator-populus-tremula": {
+  "hash": "7994e2209de75cfbf2cd7064f0ba6d57b9065302",
+  "date": "2026-11-13"
+ },
  "/products/potentilla-fruticosa": {
   "hash": "f16acaf9087fe6c272187bfb7c7a7980801c0886",
   "date": "2026-10-19"
  },
+ "/products/prun-prunus-domestica": {
+  "hash": "f2a270a4e09ae0c6c16d751c8aeaf709db6b3e7d",
+  "date": "2026-11-13"
+ },
  "/products/prun-rosu-prunus-cerasifera-pissardii": {
-  "hash": "a03f5a798cfcb9ef029cb106a5d2c7f89b3f2003",
-  "date": "2026-10-19"
+  "hash": "f903b6b50b9f0b77a3aba365b7f0115409152fb9",
+  "date": "2026-11-13"
+ },
+ "/products/prunus-virginiana-canada-red": {
+  "hash": "e9ea74b105566444bb12a51223dafeee25660a17",
+  "date": "2026-11-13"
+ },
+ "/products/pterocarya-fraxinifolia": {
+  "hash": "56bf0d693a8f9465444deb5e224c1952a329f2b8",
+  "date": "2026-11-13"
  },
  "/products/pyracantha-red-column": {
   "hash": "07f9b675b0efe4530221f21ffc366503c8d0ddc1",
   "date": "2026-10-19"
  },
  "/products/salcam-globular-robinia-umbraculifera": {
-  "hash": "23bbd4d1f9b13df308e5f9c7a3ecb7df92f6db53",
-  "date": "2026-10-19"
+  "hash": "72fe2874038ec215936dc0654b77e12ad58b9806",
+  "date": "2026-11-13"
+ },
+ "/products/salcam-japonez-styphnolobium-japonicum": {
+  "hash": "44d18249e42d1095bd38b606b5fc58d31a4547a5",
+  "date": "2026-11-13"
+ },
+ "/products/salcam-robinia-pseudoacacia": {
+  "hash": "ccd778111d88bfb3ef4f72bf32fbd1d13a0fe610",
+  "date": "2026-11-13"
+ },
+ "/products/salcie-alba-salix-alba": {
+  "hash": "a98c20102ea0f8bb536fcea546f16c8568f42f2e",
+  "date": "2026-11-13"
+ },
+ "/products/salcie-pletoasa-salix-chrysocoma": {
+  "hash": "29ae7008cfd3da9c4bb4c4cd296cc6826b11ca2e",
+  "date": "2026-11-13"
+ },
+ "/products/salcie-salix-pentandra": {
+  "hash": "91e13f7244c4fe21ca25aa344d4d3400ad6aaf98",
+  "date": "2026-11-13"
+ },
+ "/products/sambovina-celtis": {
+  "hash": "8172b7330669b849253ca550a0bbcb08bd67f6b6",
+  "date": "2026-11-13"
  },
  "/products/santolina-chamaecyparissus": {
   "hash": "9e79937d2f71afaf37fd2ae3c2fc1e7ec1a760af",
   "date": "2026-10-19"
+ },
+ "/products/scorus-sorbus": {
+  "hash": "a18754b5ac0178aa8f6d5d5dd8b7fa452c4fa8a0",
+  "date": "2026-11-13"
  },
  "/products/sedum-angelina": {
   "hash": "2278b4774545b75b835999f6ea50397811953b21",
@@ -1335,25 +2135,45 @@
   "hash": "7a1215a6f2ee838ee6b5bcb00b47ecb29952f9bb",
   "date": "2026-10-19"
  },
+ "/products/stejar-de-mlastina-quercus-palustris": {
+  "hash": "0fbe999ec5af63896ea0b7da193b3f05b93df776",
+  "date": "2026-11-13"
+ },
+ "/products/stejar-quercus-macrocarpa": {
+  "hash": "61ffffad892453b03f5634cd0c4e40bfe7b8b3f7",
+  "date": "2026-11-13"
+ },
+ "/products/stejar-quercus-robur": {
+  "hash": "ee90e1760d28659f56ded7a09df183a8b4a9f7fc",
+  "date": "2026-11-13"
+ },
  "/products/stejar-rosu-quercus-rubra": {
-  "hash": "3f0067b2fced94e343393d4ae313d0c3a2a86e10",
-  "date": "2026-10-19"
+  "hash": "041712398ff9115ac2f91278d6ec4589768c502f",
+  "date": "2026-11-13"
  },
  "/products/symphoricarpos-albus": {
   "hash": "be14e18bc80d1c37f706a49404304cf76922c476",
   "date": "2026-10-19"
  },
  "/products/tei-argintiu-tilia-tomentosa": {
-  "hash": "4d6630af200fabf3d2a972e297b0737f50ea4cda",
-  "date": "2026-10-19"
+  "hash": "912509a2bcd37df586eab1d5a79516b033ad391f",
+  "date": "2026-11-13"
  },
  "/products/tei-cu-frunza-mare-tilia-platyphyllos": {
-  "hash": "88dafa7ee97dd438337ee152145f3f7465a3be2e",
-  "date": "2026-10-19"
+  "hash": "a7f57db4ee6bd4fa2bc139d8996419123fc70aaa",
+  "date": "2026-11-13"
+ },
+ "/products/tei-olandez-tilia-europaea": {
+  "hash": "b49718e54cfd8ad0a15a0e284566fdf4f2f65c8a",
+  "date": "2026-11-13"
  },
  "/products/tei-pucios-tilia-cordata": {
-  "hash": "0ebad04b5cdbfdb5d10d062de3b6096b8305c7d5",
-  "date": "2026-10-19"
+  "hash": "37f98f6ded60956d0fe25bb8f010fcc530abecb8",
+  "date": "2026-11-13"
+ },
+ "/products/tetradium-daniellii": {
+  "hash": "8495e15841bdff41f98ce0c68b39f23c5ebdaef5",
+  "date": "2026-11-13"
  },
  "/products/tisa-taxus-baccata": {
   "hash": "052d52414348509867f4997806d54d1c00b2419e",
@@ -1375,8 +2195,16 @@
   "hash": "01c1872ec8f52c430a1180b42488722b287914b5",
   "date": "2026-10-19"
  },
+ "/products/ulm-ulmus": {
+  "hash": "dd1c2557fb89ee6f5c9afbf3f8eb07a77ba5a72e",
+  "date": "2026-11-13"
+ },
  "/products/viola-panseluta": {
   "hash": "7642ea99ebd6749e6552c4a5cf0bae45986a112a",
   "date": "2026-10-19"
+ },
+ "/products/zelkova-serrata": {
+  "hash": "f641c9bd3450dbee8230b9e33082dada0e35aa80",
+  "date": "2026-11-13"
  }
 }

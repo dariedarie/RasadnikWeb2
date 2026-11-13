@@ -8,23 +8,23 @@ export const STOCK_DATE = '2026-11-13';
 
 export const stockLabels = {
   ro: { title: 'Soiuri și dimensiuni disponibile', cultivar: 'Soi', sizes: 'Dimensiuni',
-    note: 'Circumferința tulpinii (circ.) se măsoară la 1 m de la sol; înălțimea este în cm. Cantitățile și prețurile se confirmă în oferta personalizată.' },
+    note: 'Ex. „circumferința tulpinii 6–8 cm” (cod pepinieră 6-8 HO) = circumferința trunchiului, măsurată la 1 m de la sol, nu diametrul; înălțimea este în cm. Cantitățile și prețurile se confirmă în oferta personalizată.' },
   en: { title: 'Available cultivars and sizes', cultivar: 'Cultivar', sizes: 'Sizes',
-    note: 'Girth is the trunk circumference measured 1 m above the ground; heights are in cm. Quantities and prices are confirmed in your personalised quote.' },
+    note: 'E.g. "trunk girth 6–8 cm" (nursery code 6-8 HO) = trunk circumference measured 1 m above the ground, not the diameter; heights are in cm. Quantities and prices are confirmed in your personalised quote.' },
   de: { title: 'Verfügbare Sorten und Größen', cultivar: 'Sorte', sizes: 'Größen',
-    note: 'StU = Stammumfang in 1 m Höhe; Höhenangaben in cm. Mengen und Preise bestätigen wir in Ihrem individuellen Angebot.' }
+    note: 'Z. B. „Stammumfang 6–8 cm“ (Baumschulcode 6-8 HO, StU) = Umfang des Stammes in 1 m Höhe, nicht der Durchmesser; Höhenangaben in cm. Mengen und Preise bestätigen wir in Ihrem individuellen Angebot.' }
 };
 
 const sizeWords = {
-  ro: { girth: 'circ.', height: 'înălțime', HO: 'tulpină înaltă', GEV: 'ramificat de la bază', ST: n => `tulpină ${n} cm`,
+  ro: { girth: 'circumferința tulpinii', height: 'înălțime', HO: 'tulpină înaltă', GEV: 'ramificat de la bază', ST: n => `tulpină ${n} cm`,
     J: n => (n === '1' ? '1 an' : `${n} ani`), xv: n => `transplantat de ${n} ori`, KR: n => `coroană de ${n} ani`, H: n => `înălțime ${n} cm` },
-  en: { girth: 'girth', height: 'height', HO: 'standard', GEV: 'feathered', ST: n => `clear stem ${n} cm`,
+  en: { girth: 'trunk girth', height: 'height', HO: 'standard', GEV: 'feathered', ST: n => `clear stem ${n} cm`,
     J: n => (n === '1' ? '1 yr' : `${n} yrs`), xv: n => `${n}× transplanted`, KR: n => `${n}-yr crown`, H: n => `height ${n} cm` },
-  de: { girth: 'StU', height: 'Höhe', HO: 'Hochstamm', GEV: 'Heister', ST: n => `Stammhöhe ${n} cm`,
+  de: { girth: 'Stammumfang', height: 'Höhe', HO: 'Hochstamm', GEV: 'Heister', ST: n => `Stammhöhe ${n} cm`,
     J: n => `${n}-jährig`, xv: n => `${n}× verpflanzt`, KR: n => `Krone ${n}-jährig`, H: n => `Höhe ${n} cm` }
 };
 
-// '8-10 ST225 3xv' -> 'circ. 8–10 cm, tulpină 225 cm, transplantat de 3 ori'
+// '8-10 ST225 3xv' -> 'circumferința tulpinii 8–10 cm, tulpină 225 cm, transplantat de 3 ori'
 export const formatSize = (code, lang) => {
   const w = sizeWords[lang] || sizeWords.ro;
   const [main, ...tokens] = code.split(' ');

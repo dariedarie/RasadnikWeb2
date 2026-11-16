@@ -494,7 +494,8 @@ export const guides = [
       }
     }
   }
-];
+// Najnoviji vodiči prvi (isti datum zadržava redosled iz niza)
+].sort((a, b) => b.date.localeCompare(a.date));
 
 export const getGuideBySlug = (slug) => guides.find(g => g.slug === slug);
 export const guidePath = (slug) => `${GUIDES_PATH}/${slug}`;

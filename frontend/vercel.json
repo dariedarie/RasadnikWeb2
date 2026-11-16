@@ -2609,6 +2609,21 @@
       "source": "/de/plante-ornamentale-en-gros-constanta",
       "destination": "/de/products",
       "permanent": true
+    },
+    {
+      "source": "/ghiduri/dimensiuni-arbori-circumferinta-tulpinii",
+      "destination": "/ghiduri",
+      "permanent": true
+    },
+    {
+      "source": "/en/ghiduri/dimensiuni-arbori-circumferinta-tulpinii",
+      "destination": "/en/ghiduri",
+      "permanent": true
+    },
+    {
+      "source": "/de/ghiduri/dimensiuni-arbori-circumferinta-tulpinii",
+      "destination": "/de/ghiduri",
+      "permanent": true
     }
   ]
 }

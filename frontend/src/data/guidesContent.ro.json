@@ -1129,121 +1129,6 @@
       ]
     ]
   ],
-  "dimensiuni-arbori-circumferinta-tulpinii": [
-    [
-      "p",
-      "În ofertele pepinierelor europene, arborii nu se vând după înălțime, ci după circumferința tulpinii. Coduri ca „8-10 HO”, „175/200 GEV” sau „16-18 3xv” apar în toate listele de stoc, dar nu sunt întotdeauna explicate. Mai jos găsiți ce înseamnă fiecare cod și cum alegeți dimensiunea potrivită pentru proiect."
-    ],
-    [
-      "h2",
-      "Circumferința tulpinii: cum se măsoară"
-    ],
-    [
-      "p",
-      "Prima cifră dintr-un cod de tipul „8-10” este circumferința trunchiului în centimetri, măsurată la 1 m de la sol. Nu este diametrul: un arbore „8-10” are un trunchi cu diametrul de aproximativ 2,5–3 cm. Fiecare clasă de mărime are 2 cm (6-8, 8-10, 10-12, 12-14 etc.), iar după clasa 20-25 se trece la pași de 5 cm."
-    ],
-    [
-      "h2",
-      "Codurile din listele de stoc"
-    ],
-    [
-      "table",
-      {
-        "head": [
-          "Cod",
-          "Semnificație",
-          "Exemplu"
-        ],
-        "rows": [
-          [
-            "8-10 HO",
-            "Arbore cu tulpină înaltă (Hochstamm), circumferința tulpinii 8–10 cm",
-            "Aliniamente, parcări, curți"
-          ],
-          [
-            "175/200",
-            "Arbore tânăr măsurat după înălțime, 175–200 cm",
-            "Perdele de protecție, împăduriri, garduri vii înalte"
-          ],
-          [
-            "GEV",
-            "Ramificat de la bază (heister), fără tulpină liberă",
-            "Grupuri, parcuri, arbori multi-tulpină"
-          ],
-          [
-            "ST225 / 225 cm stam",
-            "Înălțimea tulpinii libere: 225 cm",
-            "Arbori globulari și pletoși (ex. salcâm globular)"
-          ],
-          [
-            "2xv / 3xv",
-            "Transplantat de 2 sau 3 ori în pepinieră",
-            "Exemplare mari, cu balot compact"
-          ],
-          [
-            "2JR",
-            "Arbore de 2 ani în pepinieră",
-            "Material tânăr, preț redus"
-          ],
-          [
-            "2JKR",
-            "Coroană formată de 2 ani",
-            "Arbori globulari pe tulpină"
-          ]
-        ]
-      }
-    ],
-    [
-      "h2",
-      "Tulpină înaltă (HO) sau ramificat de la bază (GEV)?"
-    ],
-    [
-      "p",
-      "Arborii cu tulpină înaltă au trunchiul liber de ramuri până la aproximativ 1,8–2,2 m, astfel încât sub coroană rămâne loc pentru pietoni și mașini. Sunt standardul pentru străzi, parcări și piețe. Arborii ramificați de la bază (GEV, în germană Heister) au ramuri pe toată înălțimea și se folosesc în parcuri, grupuri naturaliste și perdele verzi, unde nu este nevoie de spațiu liber sub coroană."
-    ],
-    [
-      "h2",
-      "Ce dimensiune să alegeți"
-    ],
-    [
-      "ul",
-      [
-        "6-8 și 8-10 cm: cost redus, înrădăcinare rapidă, potrivite pentru proiecte mari, ansambluri rezidențiale și plantări în cantități mari.",
-        "10-12 și 12-14 cm: dimensiunea cea mai folosită pentru aliniamente urbane; arborele arată „matur” încă din primul an.",
-        "14-16 cm și peste (adesea 3xv): pentru efect imediat în piețe, spații reprezentative sau înlocuirea arborilor lipsă din aliniamente existente.",
-        "175/200 și 200/250 cm: arbori tineri pentru împăduriri, perdele de protecție și plantări naturaliste, la cel mai bun preț pe bucată."
-      ]
-    ],
-    [
-      "p",
-      "Regula generală: cu cât arborele este mai mic la plantare, cu atât se adaptează mai repede la noul loc. Exemplarele foarte mari au nevoie de udare atentă 2–3 ani. Pentru aliniamente stradale, citiți și [ghidul arborilor pentru aliniamente](/ghiduri/arbori-pentru-aliniamente-stradale), iar despre forma de livrare, [plante cu balot sau în container](/ghiduri/plante-cu-balot-sau-in-container)."
-    ],
-    [
-      "h2",
-      "Unde vedeți dimensiunile disponibile"
-    ],
-    [
-      "p",
-      "Pe fiecare pagină de arbore din catalogul nostru, de exemplu [arțar](/products/artar-acer-platanoides), [carpen](/products/carpen-carpinus-betulus) sau [tei pucios](/products/tei-pucios-tilia-cordata), găsiți tabelul „Soiuri și dimensiuni disponibile”, cu fiecare soi și toate dimensiunile pe stoc. Pentru o ofertă, trimiteți-ne lista prin pagina de [contact](/contact)."
-    ],
-    [
-      "faq",
-      [
-        {
-          "q": "Ce înseamnă 8-10 la un arbore?",
-          "a": "Circumferința tulpinii este de 8–10 cm, măsurată la 1 m de la sol. Nu este diametrul și nici înălțimea arborelui."
-        },
-        {
-          "q": "Ce înseamnă HO?",
-          "a": "HO (Hochstamm) înseamnă arbore cu tulpină înaltă, cu trunchiul liber de ramuri până la aproximativ 1,8–2,2 m."
-        },
-        {
-          "q": "Ce înseamnă 3xv?",
-          "a": "Arborele a fost transplantat de 3 ori în pepinieră, ceea ce îi formează un sistem de rădăcini compact și îl face potrivit pentru dimensiuni mari."
-        }
-      ]
-    ]
-  ],
   "cum-comandati-plante-en-gros-europa": [
     [
       "p",
@@ -1257,7 +1142,7 @@
       "ul",
       [
         "Denumirea botanică (latină), inclusiv soiul – de exemplu Acer platanoides 'Columnare', nu doar „arțar”.",
-        "Dimensiunea: circumferința tulpinii pentru arbori (ex. 10-12 HO), înălțimea pentru conifere și arbuști (ex. 125–150 cm). Vedeți [ghidul codurilor de dimensiuni](/ghiduri/dimensiuni-arbori-circumferinta-tulpinii).",
+        "Dimensiunea: circumferința tulpinii pentru arbori (ex. 10-12 HO), înălțimea pentru conifere și arbuști (ex. 125–150 cm).",
         "Forma de livrare dorită: cu balot, în container sau cu rădăcină nudă, dacă proiectul o impune.",
         "Cantitatea pentru fiecare poziție.",
         "Țara și localitatea de livrare și perioada dorită."

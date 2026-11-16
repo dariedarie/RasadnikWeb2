@@ -345,36 +345,6 @@ export const guides = [
     }
   },
   {
-    slug: 'dimensiuni-arbori-circumferinta-tulpinii',
-    image: '/images/carpen-carpinus-betulus.jpg',
-    date: '2026-11-16',
-    products: [79, 111, 63, 53, 147, 120, 65, 75],
-    categories: ['liscari'],
-    meta: {
-      ro: {
-        title: 'Dimensiuni Arbori: Circumferința Tulpinii, HO, GEV, 3xv Explicate | PlantDGD',
-        description: 'Ce înseamnă 8-10 HO, 175/200 GEV sau 16-18 3xv în ofertele pepinierelor: circumferința tulpinii, tulpină înaltă, heister și cum alegeți dimensiunea arborilor.',
-        h1: 'Dimensiunile arborilor explicate: circumferința tulpinii, HO, GEV și 3xv',
-        excerpt: 'Ce înseamnă codurile din listele de stoc ale pepinierelor și cum alegeți dimensiunea potrivită pentru aliniamente, parcuri și proiecte mari.',
-        imageAlt: 'Carpen (Carpinus betulus) – arbore matur'
-      },
-      en: {
-        title: 'Tree Sizes Explained: Trunk Girth, HO, Feathered, 3xv | PlantDGD',
-        description: 'What 8-10 HO, 175/200 GEV or 16-18 3xv mean on nursery stock lists: trunk girth, standard trees, feathered trees and how to choose the right tree size.',
-        h1: 'Tree sizes explained: trunk girth, standard (HO), feathered (GEV) and 3xv',
-        excerpt: 'What the codes on nursery stock lists mean and how to choose the right size for avenues, parks and large projects.',
-        imageAlt: 'Hornbeam (Carpinus betulus) – mature tree'
-      },
-      de: {
-        title: 'Baumgrößen erklärt: Stammumfang, Hochstamm, Heister, 3xv | PlantDGD',
-        description: 'Was StU 8-10 HO, 175/200 GEV oder 16-18 3xv in Baumschullisten bedeuten: Stammumfang, Hochstamm, Heister und wie Sie die passende Baumgröße wählen.',
-        h1: 'Baumgrößen erklärt: Stammumfang, Hochstamm (HO), Heister (GEV) und 3xv',
-        excerpt: 'Was die Kürzel auf Baumschul-Lagerlisten bedeuten und wie Sie die richtige Größe für Alleen, Parks und Großprojekte wählen.',
-        imageAlt: 'Hainbuche (Carpinus betulus) – ausgewachsener Baum'
-      }
-    }
-  },
-  {
     slug: 'cum-comandati-plante-en-gros-europa',
     image: '/images/plantdgd-arbori-ornamentali-cu-balot-transport.jpg',
     date: '2026-11-16',

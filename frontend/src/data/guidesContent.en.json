@@ -360,121 +360,6 @@
       { "q": "Which is better in shade?", "a": "Cherry laurel tolerates shade much better; Thuja Smaragd prefers sunny or partly shaded sites." }
     ]]
   ],
-  "dimensiuni-arbori-circumferinta-tulpinii": [
-    [
-      "p",
-      "In European nursery offers, trees are not sold by height but by trunk girth. Codes such as \"8-10 HO\", \"175/200 GEV\" or \"16-18 3xv\" appear on every stock list, yet they are rarely explained. Below you will find what each code means and how to choose the right size for your project."
-    ],
-    [
-      "h2",
-      "Trunk girth: how it is measured"
-    ],
-    [
-      "p",
-      "The first figure in a code like \"8-10\" is the circumference of the trunk in centimetres, measured 1 m above the ground. It is not the diameter: an \"8-10\" tree has a trunk diameter of roughly 2.5–3 cm. Each size class spans 2 cm (6-8, 8-10, 10-12, 12-14 and so on); above 20-25 the classes increase in 5 cm steps."
-    ],
-    [
-      "h2",
-      "The codes on stock lists"
-    ],
-    [
-      "table",
-      {
-        "head": [
-          "Code",
-          "Meaning",
-          "Typical use"
-        ],
-        "rows": [
-          [
-            "8-10 HO",
-            "Standard tree (Hochstamm), trunk girth 8–10 cm",
-            "Avenues, car parks, courtyards"
-          ],
-          [
-            "175/200",
-            "Young tree sized by height, 175–200 cm",
-            "Shelter belts, afforestation, tall hedges"
-          ],
-          [
-            "GEV",
-            "Feathered (branched from the base), no clear stem",
-            "Groups, parks, multi-stem effect"
-          ],
-          [
-            "ST225 / 225 cm stam",
-            "Clear stem height: 225 cm",
-            "Globe-headed and weeping trees (e.g. globe locust)"
-          ],
-          [
-            "2xv / 3xv",
-            "Transplanted 2 or 3 times in the nursery",
-            "Large specimens with a compact root ball"
-          ],
-          [
-            "2JR",
-            "Tree grown 2 years in the nursery",
-            "Young stock, lower price"
-          ],
-          [
-            "2JKR",
-            "Crown trained for 2 years",
-            "Globe-headed standards"
-          ]
-        ]
-      }
-    ],
-    [
-      "h2",
-      "Standard (HO) or feathered (GEV)?"
-    ],
-    [
-      "p",
-      "Standard trees have a trunk clear of branches up to about 1.8–2.2 m, leaving room under the crown for pedestrians and vehicles. They are the norm for streets, car parks and squares. Feathered trees (GEV, Heister in German) carry branches along their full height and are used in parks, naturalistic groups and green screens where no clearance is needed under the crown."
-    ],
-    [
-      "h2",
-      "Which size to choose"
-    ],
-    [
-      "ul",
-      [
-        "6-8 and 8-10 cm: low cost and fast establishment, suited to large projects, residential developments and high-volume planting.",
-        "10-12 and 12-14 cm: the most common size for urban avenues; the tree looks established from the first year.",
-        "14-16 cm and above (often 3xv): for an instant effect in squares, prestige spaces or for replacing missing trees in existing avenues.",
-        "175/200 and 200/250 cm: young trees for afforestation, shelter belts and naturalistic planting at the best price per unit."
-      ]
-    ],
-    [
-      "p",
-      "As a rule, the smaller the tree at planting, the faster it adapts to its new site. Very large specimens need careful watering for 2–3 years. For street planting see also our [guide to street trees](/ghiduri/arbori-pentru-aliniamente-stradale), and for delivery forms see [balled or container plants](/ghiduri/plante-cu-balot-sau-in-container)."
-    ],
-    [
-      "h2",
-      "Where to see the available sizes"
-    ],
-    [
-      "p",
-      "Every tree page in our catalogue – for example [Norway maple](/products/artar-acer-platanoides), [hornbeam](/products/carpen-carpinus-betulus) or [small-leaved lime](/products/tei-pucios-tilia-cordata) – has an \"Available cultivars and sizes\" table listing each cultivar and every size in stock. For a quote, send us your list via the [contact](/contact) page."
-    ],
-    [
-      "faq",
-      [
-        {
-          "q": "What does 8-10 mean for a tree?",
-          "a": "The trunk girth is 8–10 cm, measured 1 m above the ground. It is neither the diameter nor the height of the tree."
-        },
-        {
-          "q": "What does HO mean?",
-          "a": "HO (Hochstamm) means a standard tree with a trunk clear of branches up to about 1.8–2.2 m."
-        },
-        {
-          "q": "What does 3xv mean?",
-          "a": "The tree has been transplanted 3 times in the nursery, which produces a compact root system and makes it suitable for large sizes."
-        }
-      ]
-    ]
-  ],
   "cum-comandati-plante-en-gros-europa": [
     [
       "p",
@@ -488,7 +373,7 @@
       "ul",
       [
         "Botanical (Latin) name including the cultivar – for example Acer platanoides 'Columnare', not just \"maple\".",
-        "Size: trunk girth for trees (e.g. 10-12 HO), height for conifers and shrubs (e.g. 125–150 cm). See our [guide to nursery size codes](/ghiduri/dimensiuni-arbori-circumferinta-tulpinii).",
+        "Size: trunk girth for trees (e.g. 10-12 HO), height for conifers and shrubs (e.g. 125–150 cm).",
         "Preferred delivery form: root-balled, container or bare-root, if the project specifies it.",
         "Quantity for each item.",
         "Delivery country and town, and the desired delivery period."

@@ -360,121 +360,6 @@
       { "q": "Was ist besser im Schatten?", "a": "Kirschlorbeer verträgt Schatten deutlich besser; Thuja Smaragd bevorzugt sonnige oder halbschattige Standorte." }
     ]]
   ],
-  "dimensiuni-arbori-circumferinta-tulpinii": [
-    [
-      "p",
-      "In Angeboten europäischer Baumschulen werden Bäume nicht nach Höhe, sondern nach Stammumfang verkauft. Angaben wie „8-10 HO“, „175/200 GEV“ oder „16-18 3xv“ stehen auf jeder Lagerliste, werden aber selten erklärt. Hier erfahren Sie, was die Kürzel bedeuten und wie Sie die passende Größe für Ihr Projekt wählen."
-    ],
-    [
-      "h2",
-      "Stammumfang: so wird gemessen"
-    ],
-    [
-      "p",
-      "Die erste Zahl in einer Angabe wie „8-10“ ist der Stammumfang (StU) in Zentimetern, gemessen in 1 m Höhe über dem Boden. Es ist nicht der Durchmesser: ein Baum mit StU 8-10 hat einen Stammdurchmesser von etwa 2,5–3 cm. Die Größenklassen steigen in 2-cm-Schritten (6-8, 8-10, 10-12, 12-14 usw.), ab 20-25 in 5-cm-Schritten."
-    ],
-    [
-      "h2",
-      "Die Kürzel auf Lagerlisten"
-    ],
-    [
-      "table",
-      {
-        "head": [
-          "Kürzel",
-          "Bedeutung",
-          "Typische Verwendung"
-        ],
-        "rows": [
-          [
-            "8-10 HO",
-            "Hochstamm, Stammumfang 8–10 cm",
-            "Alleen, Parkplätze, Innenhöfe"
-          ],
-          [
-            "175/200",
-            "Junger Baum nach Höhe sortiert, 175–200 cm",
-            "Windschutz, Aufforstung, hohe Hecken"
-          ],
-          [
-            "GEV",
-            "Heister (von unten verzweigt, ohne astfreien Stamm)",
-            "Gruppen, Parks, mehrstämmige Wirkung"
-          ],
-          [
-            "ST225 / 225 cm stam",
-            "Stammhöhe 225 cm",
-            "Kugel- und Hängeformen (z. B. Kugelrobinie)"
-          ],
-          [
-            "2xv / 3xv",
-            "2- bzw. 3-mal verpflanzt",
-            "Große Solitäre mit kompaktem Ballen"
-          ],
-          [
-            "2JR",
-            "2 Jahre in der Baumschule",
-            "Jungware, günstiger Preis"
-          ],
-          [
-            "2JKR",
-            "Krone 2-jährig",
-            "Kugelbäume auf Stamm"
-          ]
-        ]
-      }
-    ],
-    [
-      "h2",
-      "Hochstamm (HO) oder Heister (GEV)?"
-    ],
-    [
-      "p",
-      "Hochstämme haben einen astfreien Stamm bis etwa 1,8–2,2 m, sodass unter der Krone Platz für Fußgänger und Fahrzeuge bleibt. Sie sind Standard für Straßen, Parkplätze und Plätze. Heister (GEV) sind über die ganze Höhe verzweigt und werden in Parks, naturnahen Gruppen und Sichtschutzpflanzungen verwendet, wo kein Lichtraum unter der Krone nötig ist."
-    ],
-    [
-      "h2",
-      "Welche Größe wählen"
-    ],
-    [
-      "ul",
-      [
-        "StU 6-8 und 8-10 cm: geringe Kosten, schnelles Anwachsen – für Großprojekte, Wohnanlagen und Pflanzungen in großen Stückzahlen.",
-        "StU 10-12 und 12-14 cm: die gängigste Größe für Stadtalleen; der Baum wirkt schon im ersten Jahr etabliert.",
-        "StU 14-16 cm und mehr (oft 3xv): für Sofortwirkung auf Plätzen, an repräsentativen Orten oder zum Nachpflanzen in bestehenden Alleen.",
-        "175/200 und 200/250 cm: Jungbäume für Aufforstung, Windschutz und naturnahe Pflanzungen zum besten Stückpreis."
-      ]
-    ],
-    [
-      "p",
-      "Faustregel: Je kleiner der Baum bei der Pflanzung, desto schneller wächst er am neuen Standort an. Sehr große Solitäre brauchen 2–3 Jahre sorgfältige Bewässerung. Für Straßenpflanzungen lesen Sie auch unseren [Ratgeber Straßenbäume](/ghiduri/arbori-pentru-aliniamente-stradale), zu den Lieferformen [Ballenware oder Containerware](/ghiduri/plante-cu-balot-sau-in-container)."
-    ],
-    [
-      "h2",
-      "Wo Sie die verfügbaren Größen sehen"
-    ],
-    [
-      "p",
-      "Auf jeder Baumseite unseres Katalogs – etwa [Spitz-Ahorn](/products/artar-acer-platanoides), [Hainbuche](/products/carpen-carpinus-betulus) oder [Winter-Linde](/products/tei-pucios-tilia-cordata) – finden Sie die Tabelle „Verfügbare Sorten und Größen“ mit allen Sorten und Größen auf Lager. Für ein Angebot senden Sie uns Ihre Liste über die [Kontaktseite](/contact)."
-    ],
-    [
-      "faq",
-      [
-        {
-          "q": "Was bedeutet 8-10 bei einem Baum?",
-          "a": "Der Stammumfang beträgt 8–10 cm, gemessen in 1 m Höhe. Es ist weder der Durchmesser noch die Höhe des Baumes."
-        },
-        {
-          "q": "Was bedeutet HO?",
-          "a": "HO steht für Hochstamm – ein Baum mit astfreiem Stamm bis etwa 1,8–2,2 m."
-        },
-        {
-          "q": "Was bedeutet 3xv?",
-          "a": "Der Baum wurde in der Baumschule dreimal verpflanzt. Das fördert einen kompakten Wurzelballen und ist bei großen Größen üblich."
-        }
-      ]
-    ]
-  ],
   "cum-comandati-plante-en-gros-europa": [
     [
       "p",
@@ -488,7 +373,7 @@
       "ul",
       [
         "Botanischer Name einschließlich Sorte – z. B. Acer platanoides 'Columnare', nicht nur „Ahorn“.",
-        "Größe: Stammumfang bei Bäumen (z. B. StU 10-12, HO), Höhe bei Koniferen und Sträuchern (z. B. 125–150 cm). Siehe unseren [Ratgeber zu Baumschul-Größenangaben](/ghiduri/dimensiuni-arbori-circumferinta-tulpinii).",
+        "Größe: Stammumfang bei Bäumen (z. B. StU 10-12, HO), Höhe bei Koniferen und Sträuchern (z. B. 125–150 cm).",
         "Gewünschte Lieferform: mit Ballen, im Container oder wurzelnackt, falls das Projekt es vorgibt.",
         "Stückzahl je Position.",
         "Lieferland und -ort sowie gewünschter Lieferzeitraum."

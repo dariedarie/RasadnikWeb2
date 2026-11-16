@@ -359,5 +359,708 @@
       { "q": "Was wächst schneller, Kirschlorbeer oder Thuja?", "a": "Kirschlorbeer wächst schneller, etwa 30–50 cm pro Jahr, gegenüber 20–30 cm pro Jahr bei Thuja Smaragd." },
       { "q": "Was ist besser im Schatten?", "a": "Kirschlorbeer verträgt Schatten deutlich besser; Thuja Smaragd bevorzugt sonnige oder halbschattige Standorte." }
     ]]
+  ],
+  "dimensiuni-arbori-circumferinta-tulpinii": [
+    [
+      "p",
+      "In Angeboten europäischer Baumschulen werden Bäume nicht nach Höhe, sondern nach Stammumfang verkauft. Angaben wie „8-10 HO“, „175/200 GEV“ oder „16-18 3xv“ stehen auf jeder Lagerliste, werden aber selten erklärt. Hier erfahren Sie, was die Kürzel bedeuten und wie Sie die passende Größe für Ihr Projekt wählen."
+    ],
+    [
+      "h2",
+      "Stammumfang: so wird gemessen"
+    ],
+    [
+      "p",
+      "Die erste Zahl in einer Angabe wie „8-10“ ist der Stammumfang (StU) in Zentimetern, gemessen in 1 m Höhe über dem Boden. Es ist nicht der Durchmesser: ein Baum mit StU 8-10 hat einen Stammdurchmesser von etwa 2,5–3 cm. Die Größenklassen steigen in 2-cm-Schritten (6-8, 8-10, 10-12, 12-14 usw.), ab 20-25 in 5-cm-Schritten."
+    ],
+    [
+      "h2",
+      "Die Kürzel auf Lagerlisten"
+    ],
+    [
+      "table",
+      {
+        "head": [
+          "Kürzel",
+          "Bedeutung",
+          "Typische Verwendung"
+        ],
+        "rows": [
+          [
+            "8-10 HO",
+            "Hochstamm, Stammumfang 8–10 cm",
+            "Alleen, Parkplätze, Innenhöfe"
+          ],
+          [
+            "175/200",
+            "Junger Baum nach Höhe sortiert, 175–200 cm",
+            "Windschutz, Aufforstung, hohe Hecken"
+          ],
+          [
+            "GEV",
+            "Heister (von unten verzweigt, ohne astfreien Stamm)",
+            "Gruppen, Parks, mehrstämmige Wirkung"
+          ],
+          [
+            "ST225 / 225 cm stam",
+            "Stammhöhe 225 cm",
+            "Kugel- und Hängeformen (z. B. Kugelrobinie)"
+          ],
+          [
+            "2xv / 3xv",
+            "2- bzw. 3-mal verpflanzt",
+            "Große Solitäre mit kompaktem Ballen"
+          ],
+          [
+            "2JR",
+            "2 Jahre in der Baumschule",
+            "Jungware, günstiger Preis"
+          ],
+          [
+            "2JKR",
+            "Krone 2-jährig",
+            "Kugelbäume auf Stamm"
+          ]
+        ]
+      }
+    ],
+    [
+      "h2",
+      "Hochstamm (HO) oder Heister (GEV)?"
+    ],
+    [
+      "p",
+      "Hochstämme haben einen astfreien Stamm bis etwa 1,8–2,2 m, sodass unter der Krone Platz für Fußgänger und Fahrzeuge bleibt. Sie sind Standard für Straßen, Parkplätze und Plätze. Heister (GEV) sind über die ganze Höhe verzweigt und werden in Parks, naturnahen Gruppen und Sichtschutzpflanzungen verwendet, wo kein Lichtraum unter der Krone nötig ist."
+    ],
+    [
+      "h2",
+      "Welche Größe wählen"
+    ],
+    [
+      "ul",
+      [
+        "StU 6-8 und 8-10 cm: geringe Kosten, schnelles Anwachsen – für Großprojekte, Wohnanlagen und Pflanzungen in großen Stückzahlen.",
+        "StU 10-12 und 12-14 cm: die gängigste Größe für Stadtalleen; der Baum wirkt schon im ersten Jahr etabliert.",
+        "StU 14-16 cm und mehr (oft 3xv): für Sofortwirkung auf Plätzen, an repräsentativen Orten oder zum Nachpflanzen in bestehenden Alleen.",
+        "175/200 und 200/250 cm: Jungbäume für Aufforstung, Windschutz und naturnahe Pflanzungen zum besten Stückpreis."
+      ]
+    ],
+    [
+      "p",
+      "Faustregel: Je kleiner der Baum bei der Pflanzung, desto schneller wächst er am neuen Standort an. Sehr große Solitäre brauchen 2–3 Jahre sorgfältige Bewässerung. Für Straßenpflanzungen lesen Sie auch unseren [Ratgeber Straßenbäume](/ghiduri/arbori-pentru-aliniamente-stradale), zu den Lieferformen [Ballenware oder Containerware](/ghiduri/plante-cu-balot-sau-in-container)."
+    ],
+    [
+      "h2",
+      "Wo Sie die verfügbaren Größen sehen"
+    ],
+    [
+      "p",
+      "Auf jeder Baumseite unseres Katalogs – etwa [Spitz-Ahorn](/products/artar-acer-platanoides), [Hainbuche](/products/carpen-carpinus-betulus) oder [Winter-Linde](/products/tei-pucios-tilia-cordata) – finden Sie die Tabelle „Verfügbare Sorten und Größen“ mit allen Sorten und Größen auf Lager. Für ein Angebot senden Sie uns Ihre Liste über die [Kontaktseite](/contact)."
+    ],
+    [
+      "faq",
+      [
+        {
+          "q": "Was bedeutet 8-10 bei einem Baum?",
+          "a": "Der Stammumfang beträgt 8–10 cm, gemessen in 1 m Höhe. Es ist weder der Durchmesser noch die Höhe des Baumes."
+        },
+        {
+          "q": "Was bedeutet HO?",
+          "a": "HO steht für Hochstamm – ein Baum mit astfreiem Stamm bis etwa 1,8–2,2 m."
+        },
+        {
+          "q": "Was bedeutet 3xv?",
+          "a": "Der Baum wurde in der Baumschule dreimal verpflanzt. Das fördert einen kompakten Wurzelballen und ist bei großen Größen üblich."
+        }
+      ]
+    ]
+  ],
+  "cum-comandati-plante-en-gros-europa": [
+    [
+      "p",
+      "Sie bestellen Pflanzen für ein Projekt in Deutschland, Österreich, Ungarn, Italien oder anderswo in Europa? Mit den richtigen Angaben von Anfang an ist der Ablauf einfach. So funktioniert eine Großhandelsbestellung bei PlantDGD – von der Liste bis zur Lieferung."
+    ],
+    [
+      "h2",
+      "1. Pflanzenliste vorbereiten"
+    ],
+    [
+      "ul",
+      [
+        "Botanischer Name einschließlich Sorte – z. B. Acer platanoides 'Columnare', nicht nur „Ahorn“.",
+        "Größe: Stammumfang bei Bäumen (z. B. StU 10-12, HO), Höhe bei Koniferen und Sträuchern (z. B. 125–150 cm). Siehe unseren [Ratgeber zu Baumschul-Größenangaben](/ghiduri/dimensiuni-arbori-circumferinta-tulpinii).",
+        "Gewünschte Lieferform: mit Ballen, im Container oder wurzelnackt, falls das Projekt es vorgibt.",
+        "Stückzahl je Position.",
+        "Lieferland und -ort sowie gewünschter Lieferzeitraum."
+      ]
+    ],
+    [
+      "h2",
+      "2. Angebot anfordern"
+    ],
+    [
+      "p",
+      "Senden Sie Ihre Liste über die [Kontaktseite](/contact) oder per E-Mail – auf Deutsch, Englisch oder Rumänisch. Sie erhalten ein individuelles Angebot mit der Verfügbarkeit jeder Position, Alternativen für fehlende Pflanzen und den Transportkosten bis zum Lieferort."
+    ],
+    [
+      "h2",
+      "3. Bestätigung und Reservierung"
+    ],
+    [
+      "p",
+      "Nach Ihrer Bestätigung werden die Pflanzen für Ihren Auftrag reserviert. Den Ladetermin stimmen wir gemeinsam ab, damit die Pflanzen ankommen, wenn Ihr Pflanzteam bereit ist – Pflanzen sollten nicht tagelang auf der Baustelle warten."
+    ],
+    [
+      "h2",
+      "4. Dokumente: der Pflanzenpass"
+    ],
+    [
+      "p",
+      "Innerhalb der Europäischen Union müssen Pflanzen zum Anpflanzen, die zwischen Unternehmen gehandelt werden, von einem Pflanzenpass begleitet sein (Verordnung (EU) 2016/2031). Für Länder außerhalb der EU können ein Pflanzengesundheitszeugnis und Zolldokumente nötig sein – wir prüfen die Anforderungen für jedes Zielland vor dem Angebot."
+    ],
+    [
+      "h2",
+      "5. Transport und Warenannahme"
+    ],
+    [
+      "p",
+      "Die Pflanzen werden in geeigneten Lkw transportiert, geschützt vor Wind und Austrocknung. Die Transportkosten pro Pflanze sinken mit steigendem Volumen – es lohnt sich, die Positionen eines Projekts in einer Lieferung zu bündeln. Prüfen Sie bei Anlieferung Stückzahl und Zustand und wässern Sie die Pflanzen möglichst bald, besonders Containerware."
+    ],
+    [
+      "h2",
+      "Wann ist der beste Bestellzeitpunkt?"
+    ],
+    [
+      "table",
+      {
+        "head": [
+          "Pflanzenart",
+          "Lieferzeitraum",
+          "Empfehlung"
+        ],
+        "rows": [
+          [
+            "Bäume und Sträucher mit Ballen",
+            "Oktober–April",
+            "Für Herbstpflanzungen schon im Sommer bestellen"
+          ],
+          [
+            "Wurzelnackte Bäume",
+            "November–März (Vegetationsruhe)",
+            "Sofort nach Lieferung pflanzen"
+          ],
+          [
+            "Containerpflanzen",
+            "Ganzjährig",
+            "Nach Sommerpflanzung häufig wässern"
+          ]
+        ]
+      }
+    ],
+    [
+      "p",
+      "Für Großprojekte – Alleen, Parks, Wohnanlagen – empfehlen wir, uns einige Monate im Voraus zu kontaktieren, damit wir die gewünschten Sorten und Größen reservieren können. Mehr zu internationalen Lieferungen auf der Seite [Pflanzenexport nach Europa](/export-plante-europa); den gesamten Katalog finden Sie unter [Produkte](/products)."
+    ],
+    [
+      "faq",
+      [
+        {
+          "q": "Liefern Sie Pflanzen im Großhandel auch außerhalb Rumäniens?",
+          "a": "Ja, wir liefern in ganz Europa. Die Transportkosten hängen von Volumen und Entfernung ab und sind im individuellen Angebot enthalten."
+        },
+        {
+          "q": "Welche Angaben brauche ich für ein Angebot?",
+          "a": "Botanischer Name und Sorte, Größe, Stückzahl, Lieferland und -ort sowie den gewünschten Lieferzeitraum."
+        },
+        {
+          "q": "Ist ein Pflanzenpass nötig?",
+          "a": "Ja, innerhalb der EU brauchen Pflanzen zum Anpflanzen im Handel zwischen Unternehmen einen Pflanzenpass. Für Nicht-EU-Länder können weitere Dokumente erforderlich sein."
+        }
+      ]
+    ]
+  ],
+  "arbori-rezistenti-la-seceta-si-caldura": [
+    [
+      "p",
+      "Immer heißere und trockenere Sommer setzen Stadtbäumen zu. Klassiker wie Birke oder Spitz-Ahorn leiden auf aufgeheizten Straßen, während andere Arten die Rückstrahlung von Asphalt und lange Trockenperioden gut verkraften. Diese sogenannten Klimabäume oder Zukunftsbäume sind die richtige Wahl für die Stadt von morgen. Hier die besten Arten für urbane Projekte."
+    ],
+    [
+      "h2",
+      "Empfohlene Klimabäume für heiße, trockene Standorte"
+    ],
+    [
+      "table",
+      {
+        "head": [
+          "Art",
+          "Höhe",
+          "Warum geeignet"
+        ],
+        "rows": [
+          [
+            "Zürgelbaum (Celtis)",
+            "15–20 m",
+            "Sehr trockenheits- und hitzeverträglich, Alternative zu Ulme und Platane"
+          ],
+          [
+            "Hopfenbuche (Ostrya carpinifolia)",
+            "12–15 m",
+            "Aus Südeuropa, verträgt trockene Kalkböden"
+          ],
+          [
+            "Baum-Hasel (Corylus colurna)",
+            "15–20 m",
+            "Regelmäßige Krone, tiefe Wurzeln, salzverträglich"
+          ],
+          [
+            "Gleditschie (Gleditsia triacanthos)",
+            "12–20 m",
+            "Lichter Schatten, sehr trockenheitsverträglich"
+          ],
+          [
+            "Japanischer Schnurbaum (Styphnolobium japonicum)",
+            "15–20 m",
+            "Sommerblüte, verträgt Hitze von Belägen"
+          ],
+          [
+            "Ginkgo (Ginkgo biloba)",
+            "15–25 m",
+            "Praktisch frei von Krankheiten und Schädlingen, abgasfest"
+          ],
+          [
+            "Zerr-Eiche (Quercus cerris)",
+            "20–30 m",
+            "Eine der trockenheitsverträglichsten Eichen"
+          ],
+          [
+            "Blasenbaum (Koelreuteria paniculata)",
+            "8–12 m",
+            "Kleiner Baum, gelbe Blüte im Juli"
+          ],
+          [
+            "Japanische Zelkove (Zelkova serrata)",
+            "15–20 m",
+            "Vasenförmige Krone, resistent gegen Ulmensterben"
+          ],
+          [
+            "Feldahorn (Acer campestre)",
+            "10–15 m",
+            "Sehr robuster heimischer Ahorn, Straßensorten"
+          ],
+          [
+            "Silber-Linde (Tilia tomentosa)",
+            "20–25 m",
+            "Die trockenheitsverträglichste Linde"
+          ],
+          [
+            "Blumen-Esche (Fraxinus ornus)",
+            "8–12 m",
+            "Mediterrane Art, duftende weiße Blüte"
+          ]
+        ]
+      }
+    ],
+    [
+      "h2",
+      "So wählen Sie die passende Art"
+    ],
+    [
+      "ul",
+      [
+        "Schmale Straßen: kleine oder kompakte Bäume – [Blasenbaum](/products/koelreuteria-paniculata), [Blumen-Esche](/products/frasin-cu-flori-fraxinus-ornus) oder die [Feldahorn](/products/jugastru-acer-campestre)-Sorten 'Elsrijk' und 'Lienco'.",
+        "Boulevards und Plätze: große Schattenbäume – [Zürgelbaum](/products/sambovina-celtis), [Japanischer Schnurbaum](/products/salcam-japonez-styphnolobium-japonicum), [Zelkove](/products/zelkova-serrata).",
+        "Parkplätze und versiegelte Flächen: Arten, die Beläge, Hitze und Salz vertragen – dornenlose [Gleditschie](/products/gladita-gleditsia-triacanthos), [Baum-Hasel](/products/alun-turcesc-corylus-colurna), [Ginkgo](/products/ginkgo-biloba).",
+        "Trockene Kalkböden: [Hopfenbuche](/products/carpen-negru-ostrya-carpinifolia), [Zerr-Eiche](/products/cer-quercus-cerris), Feldahorn."
+      ]
+    ],
+    [
+      "h2",
+      "Die Pflanzung ist so wichtig wie die Art"
+    ],
+    [
+      "p",
+      "Auch der robusteste Baum braucht einen guten Start. Die Pflanzgrube sollte so groß wie möglich sein (ideal 8–12 m³ Wurzelraum für einen Straßenbaum), mit verdichtungsfestem Baumsubstrat unter Belägen. In den ersten 2–3 Jahren regelmäßig wässern – Bewässerungssäcke am Stammfuß geben das Wasser langsam ab und sparen Arbeit. Wählen Sie mittlere Größen (StU 10-12 oder 12-14), die schneller anwachsen als sehr große Solitäre."
+    ],
+    [
+      "p",
+      "Alle Arten aus diesem Ratgeber sind im Großhandel in mehreren Sorten und Größen erhältlich, in der Kategorie [Zierbäume im Großhandel](/arbori-ornamentali-en-gros). Wir liefern in ganz Europa – senden Sie uns Ihre Liste über die [Kontaktseite](/contact)."
+    ],
+    [
+      "faq",
+      [
+        {
+          "q": "Welcher Baum ist am trockenheitsverträglichsten für die Stadt?",
+          "a": "Zu den robustesten gehören Zürgelbaum (Celtis), Hopfenbuche, Gleditschie, Japanischer Schnurbaum, Ginkgo und Zerr-Eiche."
+        },
+        {
+          "q": "Was sind Klimabäume?",
+          "a": "So werden Baumarten bezeichnet, die Hitze und Trockenheit vertragen und für das wärmer werdende Stadtklima geeignet sind."
+        },
+        {
+          "q": "Wie lange muss ein neu gepflanzter Baum gewässert werden?",
+          "a": "Regelmäßig in den ersten 2–3 Jahren, besonders im Sommer. Nach dem Anwachsen brauchen trockenheitsverträgliche Arten wenig Wasser."
+        }
+      ]
+    ]
+  ],
+  "arbori-columnari-pentru-strazi-inguste": [
+    [
+      "p",
+      "In schmalen Straßen, engen Baulücken oder an Parkplatzstreifen ist kein Platz für einen Baum mit 10 m breiter Krone. Die Lösung sind Säulenbäume: Sie wachsen hoch, bleiben aber schmal, berühren keine Fassaden und behindern den Verkehr nicht. Hier die besten Sorten mit ihrer ungefähren Breite im Alter."
+    ],
+    [
+      "h2",
+      "Vergleich: säulenförmige Sorten"
+    ],
+    [
+      "table",
+      {
+        "head": [
+          "Sorte",
+          "Höhe",
+          "Ca. Breite",
+          "Besonderheiten"
+        ],
+        "rows": [
+          [
+            "Säulen-Zitterpappel 'Erecta'",
+            "15–20 m",
+            "1,5–2 m",
+            "Am schmalsten, gelbe Herbstfärbung"
+          ],
+          [
+            "Ulme 'Columella'",
+            "12–15 m",
+            "2–3 m",
+            "Resistent gegen Ulmensterben, sehr schmal"
+          ],
+          [
+            "Eberesche 'Autumn Spire'",
+            "6–8 m",
+            "2 m",
+            "Kleinbaum, orange Herbstfärbung"
+          ],
+          [
+            "Säulenbuche 'Dawyck' / 'Dawyck Purple'",
+            "15–20 m",
+            "2–4 m",
+            "Grün oder purpur"
+          ],
+          [
+            "Säuleneiche 'Fastigiata Koster'",
+            "15 m",
+            "3–4 m",
+            "Sehr langlebig, dichte Krone"
+          ],
+          [
+            "Hainbuche 'Frans Fontaine' / 'Lucas'",
+            "10–15 m",
+            "3–4 m",
+            "Schattenverträglich, schnittverträglich"
+          ],
+          [
+            "Säulen-Hainbuche 'Fastigiata'",
+            "12–15 m",
+            "4–6 m (im Alter breiter)",
+            "Klassischer Alleebaum"
+          ],
+          [
+            "Stadtbirne 'Chanticleer'",
+            "10–12 m",
+            "4–5 m",
+            "Weiße Blüte, Herbstfärbung"
+          ],
+          [
+            "Freeman-Ahorn 'Armstrong'",
+            "12–15 m",
+            "4–5 m",
+            "Schnellwüchsig, rote Herbstfarbe"
+          ],
+          [
+            "Spitz-Ahorn 'Columnare'",
+            "10–15 m",
+            "4–5 m",
+            "Robust, stadtklimafest"
+          ],
+          [
+            "Säulenkirsche 'Amanogawa'",
+            "5–7 m",
+            "1,5–2 m",
+            "Zartrosa Blüte, für kleine Flächen"
+          ]
+        ]
+      }
+    ],
+    [
+      "h2",
+      "So wählen Sie"
+    ],
+    [
+      "ul",
+      [
+        "Weniger als 3 m Breite verfügbar: [Zitterpappel 'Erecta'](/products/plop-tremurator-populus-tremula), [Ulme 'Columella'](/products/ulm-ulmus), [Eberesche 'Autumn Spire'](/products/scorus-sorbus), [Kirsche 'Amanogawa'](/products/cires-japonez-prunus-serrulata).",
+        "3–5 m Breite: [Säulen-Hainbuche](/products/carpen-columnar-carpinus-betulus-fastigiata) 'Frans Fontaine' oder 'Lucas', [Säuleneiche 'Fastigiata Koster'](/products/stejar-quercus-robur), [Säulenbuche 'Dawyck'](/products/fag-fagus-sylvatica).",
+        "Wenn Blüte und Farbe zählen: [Stadtbirne 'Chanticleer'](/products/par-decorativ-pyrus-calleryana-chanticleer) oder [Freeman-Ahorn 'Armstrong'](/products/artar-freeman-acer-freemanii).",
+        "Halbschattige Straßen: Hainbuche, die Schatten besser verträgt als die meisten Säulenbäume."
+      ]
+    ],
+    [
+      "h2",
+      "Pflanzabstand"
+    ],
+    [
+      "p",
+      "Säulenbäume werden enger gepflanzt als breitkronige Bäume: in Alleen meist mit 4–6 m Abstand, in kompakten Reihen oder als grüne Wand sogar mit 2–3 m. Halten Sie mindestens 2–3 m Abstand zu Fassaden und prüfen Sie vor der Pflanzung die Leitungen im Boden. Für Alleen sind StU 10-12 und 12-14 cm die gängigsten Größen."
+    ],
+    [
+      "p",
+      "Der [Spitz-Ahorn 'Columnare'](/products/artar-acer-platanoides) und die übrigen Sorten der Tabelle sind im Großhandel in mehreren Größen erhältlich – Details auf jeder Produktseite. Für ein Angebot senden Sie uns Ihre Liste über die [Kontaktseite](/contact)."
+    ],
+    [
+      "faq",
+      [
+        {
+          "q": "Welcher Straßenbaum ist am schmalsten?",
+          "a": "Zitterpappel 'Erecta' und Ulme 'Columella' bleiben sehr schmal, etwa 1,5–3 m breit."
+        },
+        {
+          "q": "Bleibt die Hainbuche 'Fastigiata' schmal?",
+          "a": "In der Jugend ist sie schmal, im Alter wird sie 4–6 m breit. Für engere Standorte 'Frans Fontaine' oder 'Lucas' wählen."
+        },
+        {
+          "q": "In welchem Abstand pflanzt man Säulenbäume?",
+          "a": "In Alleen meist mit 4–6 m, in kompakten Reihen mit 2–3 m Abstand."
+        }
+      ]
+    ]
+  ],
+  "arbori-cu-colorit-de-toamna": [
+    [
+      "p",
+      "Herbstfärbung macht aus einer gewöhnlichen Allee einen Blickfang. Für Parks, Wohnanlagen, Hotels oder Firmengelände bringen Bäume mit intensiver Herbstfarbe sichtbaren Mehrwert – genau dann, wenn der Rest des Gartens verblasst. Hier die Arten mit den spektakulärsten Farben."
+    ],
+    [
+      "h2",
+      "Bäume mit der schönsten Herbstfärbung"
+    ],
+    [
+      "table",
+      {
+        "head": [
+          "Art / Sorte",
+          "Herbstfarbe",
+          "Höhe"
+        ],
+        "rows": [
+          [
+            "Rot-Ahorn 'October Glory', 'Red Sunset'",
+            "Leuchtend rot",
+            "15–20 m"
+          ],
+          [
+            "Freeman-Ahorn 'Autumn Blaze'",
+            "Intensiv rotorange",
+            "12–15 m"
+          ],
+          [
+            "Amberbaum 'Worplesdon'",
+            "Violett, rot, orange",
+            "15–20 m"
+          ],
+          [
+            "Persisches Eisenholz (Parrotia)",
+            "Gelb, orange und rot am selben Baum",
+            "6–10 m"
+          ],
+          [
+            "Sumpf-Eiche",
+            "Rot bis weinrot",
+            "15–20 m"
+          ],
+          [
+            "Rot-Eiche",
+            "Rostrot",
+            "20–25 m"
+          ],
+          [
+            "Ginkgo",
+            "Goldgelb",
+            "15–25 m"
+          ],
+          [
+            "Lebkuchenbaum (Cercidiphyllum)",
+            "Gelb, orange, rosa; Karamellduft",
+            "10–15 m"
+          ],
+          [
+            "Weiß-Esche 'Autumn Purple'",
+            "Purpur-burgund",
+            "15–20 m"
+          ],
+          [
+            "Feuer-Ahorn",
+            "Leuchtend rot",
+            "5–7 m"
+          ],
+          [
+            "Felsenbirne (Amelanchier)",
+            "Orangerot",
+            "5–8 m"
+          ]
+        ]
+      }
+    ],
+    [
+      "h2",
+      "Kombinationen, die wirken"
+    ],
+    [
+      "ul",
+      [
+        "Rot + Gold: [Rot-Ahorn](/products/artar-rosu-acer-rubrum) neben [Ginkgo](/products/ginkgo-biloba) erzeugt einen starken Kontrast in Parks und auf Plätzen.",
+        "Alleen mit Wirkung: [Freeman-Ahorn 'Autumn Blaze'](/products/artar-freeman-acer-freemanii) oder [Sumpf-Eiche](/products/stejar-de-mlastina-quercus-palustris), einheitlich über die ganze Straße gepflanzt.",
+        "Kleine Gärten und Innenhöfe: [Parrotia](/products/parrotia-persica), [Felsenbirne](/products/amelanchier-arbore) und [Feuer-Ahorn](/products/artar-ginnala-acer-tataricum) bleiben klein, färben aber intensiv.",
+        "Solitäre: [Amberbaum](/products/liquidambar-styraciflua) und [Lebkuchenbaum](/products/cercidiphyllum-japonicum) frei auf dem Rasen, von allen Seiten sichtbar."
+      ]
+    ],
+    [
+      "h2",
+      "Was die Farbintensität beeinflusst"
+    ],
+    [
+      "p",
+      "Die leuchtendsten Farben entstehen in voller Sonne, in Herbsten mit sonnigen Tagen und kalten Nächten. Auch der Boden spielt eine Rolle: Rot-Ahorn, Amberbaum und Sumpf-Eiche bevorzugen saure bis neutrale Böden – auf stark kalkhaltigen Böden können die Blätter im Sommer vergilben und die Herbstfarbe fällt schwächer aus. Auf Kalkböden wählen Sie Parrotia, Ginkgo oder die Pacific-Sunset-Ahorne."
+    ],
+    [
+      "p",
+      "Alle Arten sind im Großhandel in der Kategorie [Zierbäume im Großhandel](/arbori-ornamentali-en-gros) erhältlich; die lieferbaren Sorten und Größen stehen auf jeder Produktseite. Wir liefern in ganz Europa – Angebot über die [Kontaktseite](/contact) anfordern."
+    ],
+    [
+      "faq",
+      [
+        {
+          "q": "Welcher Baum hat die schönste Herbstfärbung?",
+          "a": "Zu den spektakulärsten gehören Rot-Ahorn, Freeman-Ahorn 'Autumn Blaze', Amberbaum und Parrotia persica."
+        },
+        {
+          "q": "Warum färben manche Bäume im Herbst schlecht?",
+          "a": "Schatten, stark kalkhaltiger Boden oder warme, trübe Herbste verringern die Farbintensität."
+        },
+        {
+          "q": "Welcher kleine Baum hat eine schöne Herbstfarbe?",
+          "a": "Parrotia persica, Felsenbirne und Feuer-Ahorn bleiben klein und färben intensiv."
+        }
+      ]
+    ]
+  ],
+  "arbori-meliferi-pentru-albine": [
+    [
+      "p",
+      "Bienenbäume sind eine doppelte Investition: Sie werten Grünflächen auf und ernähren Honigbienen und andere Bestäuber. Eine einzige ausgewachsene Linde liefert während der Blüte mehr Nektar als ein ganzes Blumenbeet. Wer Arten mit aufeinanderfolgender Blüte plant, bietet Bienen von April bis September Nahrung."
+    ],
+    [
+      "h2",
+      "Blühkalender"
+    ],
+    [
+      "table",
+      {
+        "head": [
+          "Monat",
+          "Bäume",
+          "Hinweise"
+        ],
+        "rows": [
+          [
+            "April",
+            "Süßkirsche, Zierkirsche, Ahorne",
+            "Erste wichtige Nektar- und Pollenquelle des Jahres"
+          ],
+          [
+            "April–Mai",
+            "Zierapfel, Birne, Traubenkirsche",
+            "Üppige weiße oder rosa Blüte"
+          ],
+          [
+            "Mai",
+            "Weißdorn, Eberesche, Rosskastanie",
+            "Stark von Wildbienen besucht"
+          ],
+          [
+            "Mai–Juni",
+            "Robinie",
+            "Eine der wichtigsten Honigquellen"
+          ],
+          [
+            "Juni",
+            "Edelkastanie, Sommer-Linde",
+            "Reichlich Nektar"
+          ],
+          [
+            "Juni–Juli",
+            "Winter-Linde, Holländische Linde",
+            "Lindenhonig, starker Duft"
+          ],
+          [
+            "Juli",
+            "Silber-Linde, Blasenbaum",
+            "Nahrung im Hochsommer"
+          ],
+          [
+            "Juli–August",
+            "Japanischer Schnurbaum",
+            "Späte Blüte, sehr bienenfreundlich"
+          ],
+          [
+            "August–September",
+            "Bienenbaum (Tetradium)",
+            "Wenn kaum noch etwas blüht"
+          ]
+        ]
+      }
+    ],
+    [
+      "h2",
+      "Die wertvollsten Bäume für Bienen"
+    ],
+    [
+      "ul",
+      [
+        "[Linden](/products/tei-pucios-tilia-cordata) – Winter-, [Sommer-](/products/tei-cu-frunza-mare-tilia-platyphyllos), [Silber-](/products/tei-argintiu-tilia-tomentosa) und [Holländische Linde](/products/tei-olandez-tilia-europaea): gemeinsam gepflanzt verlängern sie die Blüte auf fast zwei Monate.",
+        "[Robinie](/products/salcam-robinia-pseudoacacia) – klassische Quelle des Akazienhonigs; die Ziersorten 'Frisia' und 'Bessoniana' eignen sich auch für die Stadt.",
+        "[Japanischer Schnurbaum](/products/salcam-japonez-styphnolobium-japonicum) – blüht im Juli–August, wenn viele andere Pflanzen verblüht sind.",
+        "[Bienenbaum](/products/tetradium-daniellii) – Blüte im August–September, bei Imkern sehr gefragt.",
+        "[Traubenkirsche](/products/malin-prunus-padus), [Weißdorn](/products/paducel-decorativ-crataegus), [Eberesche](/products/scorus-sorbus) und [Zierapfel](/products/mar-decorativ-malus-floribunda) – Kleinbäume für Straßen und Gärten, mit Früchten für Vögel."
+      ]
+    ],
+    [
+      "h2",
+      "Für wen geeignet"
+    ],
+    [
+      "p",
+      "Bienenbäume werden in öffentlichen Projekten und Biodiversitätsprogrammen immer häufiger nachgefragt: Stadtalleen, Parks, Erholungsflächen, Firmengelände, Gemeinschaftsobstgärten und Schutzpflanzungen bei Bienenständen. Eine Kombination aus 4–5 Arten mit unterschiedlicher Blütezeit sichert Bestäubern durchgehend Nahrung."
+    ],
+    [
+      "p",
+      "Alle Arten aus dem Kalender sind im Großhandel in der Kategorie [Zierbäume im Großhandel](/arbori-ornamentali-en-gros) erhältlich. Senden Sie uns Ihre Liste über die [Kontaktseite](/contact) – wir liefern in ganz Europa."
+    ],
+    [
+      "faq",
+      [
+        {
+          "q": "Welcher Baum ist am besten für Bienen?",
+          "a": "Linde und Robinie sind die wichtigsten Nektarquellen. Für den Spätsommer sind Japanischer Schnurbaum und Bienenbaum (Tetradium) sehr wertvoll."
+        },
+        {
+          "q": "Wie biete ich Bienen die ganze Saison Nahrung?",
+          "a": "Kombinieren Sie Arten mit aufeinanderfolgender Blüte: Kirsche und Apfel im April, Robinie im Mai, Linde im Juni–Juli, Schnurbaum und Tetradium im August."
+        },
+        {
+          "q": "Eignen sich Bienenbäume für Straßen?",
+          "a": "Ja – Linden, Japanischer Schnurbaum, Weißdorn, Eberesche und Zierapfel werden häufig in Alleen gepflanzt."
+        }
+      ]
+    ]
   ]
 }

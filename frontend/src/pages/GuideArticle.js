@@ -8,6 +8,7 @@ import { productPath, buildLocalizedPath, breadcrumbJsonLd, faqJsonLd, articleJs
 import { getSeoLinks } from '../utils/i18nRoutes';
 import { thumbSrc, mediumSrc, fallbackTo } from '../utils/images';
 import HedgeCalculator from '../components/HedgeCalculator';
+import imageCredits from '../data/imageCredits';
 import './Products.css';
 
 const textColor = '#234d20';
@@ -137,7 +138,14 @@ const GuideArticle = () => {
           PlantDGD · <time dateTime={guide.date}>{new Date(guide.date).toLocaleDateString(labels.locale, { day: 'numeric', month: 'long', year: 'numeric' })}</time>
         </p>
         <img src={mediumSrc(guide.image)} alt={guide.imageAlt} fetchpriority="high" onError={fallbackTo(guide.image)}
-          style={{ width: '100%', maxHeight: 460, objectFit: 'cover', borderRadius: 14, marginBottom: 20 }} />
+          style={{ width: '100%', maxHeight: 460, objectFit: 'cover', borderRadius: 14, marginBottom: imageCredits[guide.image] ? 6 : 20 }} />
+        {/* Autor slike sa Wikimedia Commons (zahtev licence CC BY / CC BY-SA) */}
+        {imageCredits[guide.image] && (
+          <p style={{ fontSize: '0.75rem', color: '#78909c', marginBottom: 20 }}>
+            Foto: <a href={imageCredits[guide.image].source} target="_blank" rel="noopener noreferrer nofollow" style={{ color: 'inherit' }}>{imageCredits[guide.image].author}</a>
+            {' '}({imageCredits[guide.image].license}) / Wikimedia Commons
+          </p>
+        )}
 
         {blocks ? blocks.map((b, i) => <Block key={i} block={b} lang={lang} labels={labels} />) : <p style={{ color: textColor }}>{guide.excerpt}</p>}
 

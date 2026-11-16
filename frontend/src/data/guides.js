@@ -343,6 +343,186 @@ export const guides = [
         imageAlt: 'Hecke aus Kirschlorbeer (Prunus laurocerasus)'
       }
     }
+  },
+  {
+    slug: 'dimensiuni-arbori-circumferinta-tulpinii',
+    image: '/images/carpen-carpinus-betulus.jpg',
+    date: '2026-11-16',
+    products: [79, 111, 63, 53, 147, 120, 65, 75],
+    categories: ['liscari'],
+    meta: {
+      ro: {
+        title: 'Dimensiuni Arbori: Circumferința Tulpinii, HO, GEV, 3xv Explicate | PlantDGD',
+        description: 'Ce înseamnă 8-10 HO, 175/200 GEV sau 16-18 3xv în ofertele pepinierelor: circumferința tulpinii, tulpină înaltă, heister și cum alegeți dimensiunea arborilor.',
+        h1: 'Dimensiunile arborilor explicate: circumferința tulpinii, HO, GEV și 3xv',
+        excerpt: 'Ce înseamnă codurile din listele de stoc ale pepinierelor și cum alegeți dimensiunea potrivită pentru aliniamente, parcuri și proiecte mari.',
+        imageAlt: 'Carpen (Carpinus betulus) – arbore matur'
+      },
+      en: {
+        title: 'Tree Sizes Explained: Trunk Girth, HO, Feathered, 3xv | PlantDGD',
+        description: 'What 8-10 HO, 175/200 GEV or 16-18 3xv mean on nursery stock lists: trunk girth, standard trees, feathered trees and how to choose the right tree size.',
+        h1: 'Tree sizes explained: trunk girth, standard (HO), feathered (GEV) and 3xv',
+        excerpt: 'What the codes on nursery stock lists mean and how to choose the right size for avenues, parks and large projects.',
+        imageAlt: 'Hornbeam (Carpinus betulus) – mature tree'
+      },
+      de: {
+        title: 'Baumgrößen erklärt: Stammumfang, Hochstamm, Heister, 3xv | PlantDGD',
+        description: 'Was StU 8-10 HO, 175/200 GEV oder 16-18 3xv in Baumschullisten bedeuten: Stammumfang, Hochstamm, Heister und wie Sie die passende Baumgröße wählen.',
+        h1: 'Baumgrößen erklärt: Stammumfang, Hochstamm (HO), Heister (GEV) und 3xv',
+        excerpt: 'Was die Kürzel auf Baumschul-Lagerlisten bedeuten und wie Sie die richtige Größe für Alleen, Parks und Großprojekte wählen.',
+        imageAlt: 'Hainbuche (Carpinus betulus) – ausgewachsener Baum'
+      }
+    }
+  },
+  {
+    slug: 'cum-comandati-plante-en-gros-europa',
+    image: '/images/plantdgd-arbori-ornamentali-cu-balot-transport.jpg',
+    date: '2026-11-16',
+    products: [1, 39, 79, 53, 147, 9],
+    categories: ['liscari', 'cetinari', 'ziva-ograda'],
+    meta: {
+      ro: {
+        title: 'Cum Comandați Plante en Gros cu Livrare în Europa | PlantDGD',
+        description: 'Pașii unei comenzi de plante en gros cu livrare în toată Europa: lista de plante, oferta, pașaportul fitosanitar, transportul și perioada optimă de comandă.',
+        h1: 'Cum comandați plante en gros cu livrare în Europa',
+        excerpt: 'De la lista de plante la livrare: ce informații trimiteți, ce documente sunt necesare și când este cel mai bun moment pentru comandă.',
+        imageAlt: 'Arbori ornamentali cu balot pregătiți pentru transport'
+      },
+      en: {
+        title: 'How to Order Wholesale Plants with Delivery Across Europe | PlantDGD',
+        description: 'The steps of a wholesale plant order with delivery throughout Europe: plant list, quote, EU plant passport, transport and the best time to order.',
+        h1: 'How to order wholesale plants with delivery across Europe',
+        excerpt: 'From your plant list to delivery: what information to send, which documents are needed and when to order.',
+        imageAlt: 'Root-balled ornamental trees ready for transport'
+      },
+      de: {
+        title: 'Pflanzen im Großhandel bestellen – Lieferung in ganz Europa | PlantDGD',
+        description: 'So bestellen Sie Pflanzen im Großhandel mit Lieferung in ganz Europa: Pflanzenliste, Angebot, Pflanzenpass, Transport und der beste Bestellzeitpunkt.',
+        h1: 'Pflanzen im Großhandel bestellen – mit Lieferung in ganz Europa',
+        excerpt: 'Von der Pflanzenliste bis zur Lieferung: welche Angaben Sie senden, welche Dokumente nötig sind und wann Sie bestellen sollten.',
+        imageAlt: 'Zierbäume mit Ballen, bereit für den Transport'
+      }
+    }
+  },
+  {
+    slug: 'arbori-rezistenti-la-seceta-si-caldura',
+    image: '/images/gladita-gleditsia-triacanthos.jpg',
+    date: '2026-11-16',
+    products: [114, 136, 117, 126, 158, 125, 149, 129, 163, 96, 54, 74],
+    categories: ['liscari'],
+    meta: {
+      ro: {
+        title: 'Arbori Rezistenți la Secetă și Căldură pentru Orașe | PlantDGD',
+        description: 'Cei mai buni arbori pentru clima caldă și secetoasă din orașe: Celtis, carpen negru, alun turcesc, glădiță, ginkgo, zelkova și alte specii disponibile en gros.',
+        h1: 'Arbori rezistenți la secetă și căldură pentru orașe',
+        excerpt: 'Speciile de arbori care tolerează verile fierbinți, asfaltul încins și perioadele lungi fără ploaie – pentru aliniamente, piețe și parcări.',
+        imageAlt: 'Glădiță (Gleditsia triacanthos) cu coroană aurie'
+      },
+      en: {
+        title: 'Drought and Heat Tolerant Trees for Towns (Climate Trees) | PlantDGD',
+        description: 'The best climate-resilient trees for hot, dry urban sites: hackberry, hop hornbeam, Turkish hazel, honey locust, ginkgo, zelkova and more, available wholesale.',
+        h1: 'Drought- and heat-tolerant trees for towns',
+        excerpt: 'Tree species that cope with hot summers, scorching asphalt and long dry spells – for avenues, squares and car parks.',
+        imageAlt: 'Honey locust (Gleditsia triacanthos) with golden crown'
+      },
+      de: {
+        title: 'Klimabäume: Trockenheits- und Hitzeresistente Stadtbäume | PlantDGD',
+        description: 'Die besten Klimabäume für heiße, trockene Stadtstandorte: Zürgelbaum, Hopfenbuche, Baum-Hasel, Gleditschie, Ginkgo, Zelkove u. a. – im Großhandel erhältlich.',
+        h1: 'Klimabäume: trockenheits- und hitzeverträgliche Bäume für die Stadt',
+        excerpt: 'Baumarten, die heiße Sommer, aufgeheizten Asphalt und lange Trockenperioden verkraften – für Alleen, Plätze und Parkplätze.',
+        imageAlt: 'Gleditschie (Gleditsia triacanthos) mit goldener Krone'
+      }
+    }
+  },
+  {
+    slug: 'arbori-columnari-pentru-strazi-inguste',
+    image: '/images/par-decorativ-pyrus-calleryana-chanticleer.jpg',
+    date: '2026-11-16',
+    products: [75, 79, 97, 153, 147, 162, 140, 120, 159, 45],
+    categories: ['liscari'],
+    meta: {
+      ro: {
+        title: 'Arbori Columnari pentru Străzi Înguste – Comparație Lățimi | PlantDGD',
+        description: 'Cei mai buni arbori columnari și fastigiați pentru străzi înguste: carpen \'Frans Fontaine\', stejar \'Koster\', păr \'Chanticleer\', ulm \'Columella\', cu lățimi orientative.',
+        h1: 'Arbori columnari pentru străzi înguste',
+        excerpt: 'Soiuri care cresc înalt dar rămân înguste – comparație de înălțimi și lățimi, plus distanțe de plantare pentru aliniamente.',
+        imageAlt: 'Păr decorativ \'Chanticleer\' cu coroană îngustă'
+      },
+      en: {
+        title: 'Columnar Trees for Narrow Streets – Width Comparison | PlantDGD',
+        description: 'The best columnar and fastigiate trees for narrow streets: hornbeam \'Frans Fontaine\', oak \'Koster\', pear \'Chanticleer\', elm \'Columella\', with approximate widths.',
+        h1: 'Columnar trees for narrow streets',
+        excerpt: 'Cultivars that grow tall but stay narrow – a comparison of heights and widths, plus planting distances for avenues.',
+        imageAlt: 'Ornamental pear \'Chanticleer\' with narrow crown'
+      },
+      de: {
+        title: 'Säulenbäume für schmale Straßen – Breiten im Vergleich | PlantDGD',
+        description: 'Die besten Säulenbäume für schmale Straßen: Hainbuche \'Frans Fontaine\', Säuleneiche \'Koster\', Stadtbirne \'Chanticleer\', Ulme \'Columella\' – mit ungefähren Breiten.',
+        h1: 'Säulenbäume für schmale Straßen',
+        excerpt: 'Sorten, die hoch wachsen und schmal bleiben – Höhen und Breiten im Vergleich, dazu Pflanzabstände für Alleen.',
+        imageAlt: 'Stadtbirne \'Chanticleer\' mit schmaler Krone'
+      }
+    }
+  },
+  {
+    slug: 'arbori-cu-colorit-de-toamna',
+    image: '/images/parrotia-persica.jpg',
+    date: '2026-11-16',
+    products: [63, 97, 57, 137, 151, 56, 125, 115, 121, 101, 106, 99],
+    categories: ['liscari'],
+    meta: {
+      ro: {
+        title: 'Arbori cu Cele Mai Frumoase Culori de Toamnă | PlantDGD',
+        description: 'Arbori ornamentali cu colorit de toamnă spectaculos: arțar roșu, Autumn Blaze, arbore de ambră, Parrotia, stejar de mlaștină, ginkgo – disponibili en gros.',
+        h1: 'Arbori cu cele mai frumoase culori de toamnă',
+        excerpt: 'Speciile cu cele mai intense culori de toamnă, combinații pentru parcuri și aliniamente și ce influențează intensitatea culorii.',
+        imageAlt: 'Parrotia persica în culori de toamnă'
+      },
+      en: {
+        title: 'Trees with the Best Autumn Colour for Landscaping | PlantDGD',
+        description: 'Ornamental trees with spectacular autumn colour: red maple, Autumn Blaze, sweetgum, Parrotia, pin oak, ginkgo – available wholesale across Europe.',
+        h1: 'Trees with the finest autumn colour',
+        excerpt: 'The species with the most intense autumn colour, combinations for parks and avenues, and what affects colour intensity.',
+        imageAlt: 'Parrotia persica in autumn colour'
+      },
+      de: {
+        title: 'Bäume mit der Schönsten Herbstfärbung | PlantDGD',
+        description: 'Zierbäume mit spektakulärer Herbstfärbung: Rot-Ahorn, Autumn Blaze, Amberbaum, Parrotia, Sumpf-Eiche, Ginkgo – im Großhandel mit Lieferung in ganz Europa.',
+        h1: 'Bäume mit der schönsten Herbstfärbung',
+        excerpt: 'Die Arten mit der intensivsten Herbstfarbe, Kombinationen für Parks und Alleen und was die Farbintensität beeinflusst.',
+        imageAlt: 'Parrotia persica in Herbstfärbung'
+      }
+    }
+  },
+  {
+    slug: 'arbori-meliferi-pentru-albine',
+    image: '/images/tei-pucios-tilia-cordata.jpg',
+    date: '2026-11-16',
+    products: [53, 52, 54, 161, 154, 158, 160, 143, 118, 159, 80, 141],
+    categories: ['liscari'],
+    meta: {
+      ro: {
+        title: 'Arbori Meliferi pentru Albine – Calendar de Înflorire | PlantDGD',
+        description: 'Cei mai buni arbori meliferi pentru albine și biodiversitate: tei, salcâm, salcâm japonez, Tetradium, mălin – cu calendar de înflorire din aprilie până în septembrie.',
+        h1: 'Arbori meliferi pentru albine: calendar de înflorire',
+        excerpt: 'Ce arbori să plantați pentru a asigura hrană albinelor din aprilie până în septembrie, cu calendarul înfloririi.',
+        imageAlt: 'Tei pucios (Tilia cordata)'
+      },
+      en: {
+        title: 'Bee-Friendly Trees – Flowering Calendar for Pollinators | PlantDGD',
+        description: 'The best trees for bees and biodiversity: lime, black locust, Japanese pagoda tree, Tetradium, bird cherry – with a flowering calendar from April to September.',
+        h1: 'Bee-friendly trees: a flowering calendar',
+        excerpt: 'Which trees to plant to feed bees from April to September, with a flowering calendar.',
+        imageAlt: 'Small-leaved lime (Tilia cordata)'
+      },
+      de: {
+        title: 'Bienenbäume – Blühkalender für Bestäuber | PlantDGD',
+        description: 'Die besten Bienenbäume für Bestäuber und Biodiversität: Linde, Robinie, Schnurbaum, Bienenbaum (Tetradium), Traubenkirsche – mit Blühkalender April bis September.',
+        h1: 'Bienenbäume: ein Blühkalender für Bestäuber',
+        excerpt: 'Welche Bäume Bienen von April bis September Nahrung bieten – mit Blühkalender.',
+        imageAlt: 'Winter-Linde (Tilia cordata)'
+      }
+    }
   }
 ];
 
